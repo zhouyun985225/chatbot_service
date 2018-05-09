@@ -3,3 +3,4 @@ jieba
 polling
 scipy
 sklearn
+django
