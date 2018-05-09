@@ -1,0 +1,5938 @@
+乳腺癌 化疗 完 要 些	__label__tumor
+氯霉素搽剂 失效 进入 眼睛 吗	__label__other
+宝贝 感冒 的 不多后 鼻腔 里 一直有 黄 鼻涕	__label__other
+稍微 一弄 掉头发 什么 办法 缓解	__label__other
+哺乳期 月 孩子 吃 两次 奶 在	__label__other
+晚期 肝癌 一定 死	__label__tumor
+肝癌 癌栓 几期 癌栓 怎么回事	__label__tumor
+一直 恶心呕吐 吃 药	__label__other
+子宫内膜癌 阴道 正常 排液 有 表现	__label__tumor
+一直 抑郁 心情 低落 与 交流 压力 容易 想不开 总 感觉 自卑 低落 因为 一点 小事 郁郁寡欢 想 我 有没有 抑郁症	__label__other
+擦 有点 红 是 时候 病 症状	__label__other
+知道 轻微 抽搐 两个 眼皮 这样	__label__other
+急性白血病 治疗	__label__tumor
+大腿 根部 撞 过 一个 手头 大小 包块 能 看好	__label__other
+洗衣服 小心 八四 消毒液 弄 嘴里 大概	__label__other
+小孩 发烧 怎么办	__label__other
+胃癌 术后 怎样 护理	__label__tumor
+岁 孩子 手术 麻醉 发狂 原因	__label__other
+胃癌 术后 怎样 护理	__label__tumor
+舌头 肥大 说话 吐字 不清 影响 齿 咬合 牙	__label__other
+术 前 化疗 术后 化疗 各有 作用	__label__tumor
+乳腺癌 乳房 切掉 就 没事 吗	__label__tumor
+请问 肝癌 晚期 患者 发烧	__label__tumor
+胸闷 晕倒 怎么回事 女	__label__other
+眼底动脉硬化 异物感	__label__other
+腔内 放疗 注意事项 哪些	__label__tumor
+冬天 脸颊 发红 发烫	__label__other
+像不像 乳腺癌	__label__tumor
+卵巢癌 治愈	__label__tumor
+从 大姨妈 结束 内裤 就 一直有 的 东	__label__other
+淋巴结 旁边 长 右腿 肿	__label__tumor
+乳腺癌 传染 我 奶奶 了 乳腺癌	__label__tumor
+孕妇 胀气 快速 排气 感觉 胀 肚子疼	__label__other
+长高 长胖 小 矮子 岁 高一	__label__other
+七八个 月 口干舌燥 嘴干 口渴 耳鸣 精液 少有	__label__other
+吃 含有 西布曲明 减肥药 吃 天	__label__other
+胃癌 哪些 靶向 药物	__label__tumor
+脚踝 扭伤 治疗 月 现在 走路 痛 脚踝 微肿 什么 原因	__label__other
+宫颈癌 患者 术后 饮食 吃 好	__label__tumor
+是 放射性肺炎 有 症状	__label__tumor
+腹泻 可能 结肠癌	__label__tumor
+放疗 缺点	__label__tumor
+做 膀胱癌 全切 还 复发 转移	__label__tumor
+气管 嗓子 发炎	__label__other
+白血病 才 维持 生命	__label__tumor
+前列腺炎 一个多月 反复 主要症状 尿频 下腹 坠	__label__other
+胃癌 中期 有 咨询 我 父亲 胃癌 中期 检查	__label__tumor
+肠镜 厘米 处有 厘米 息肉 菜 花样 大便 出血 不会 癌症	__label__tumor
+下巴 底下 按 疼 怎么回事	__label__other
+放射 关键 点	__label__tumor
+晚期 鼻咽癌 最终 会 死	__label__tumor
+几天 流鼻涕 这 两天 的 鼻子 就	__label__other
+肠癌 治疗	__label__tumor
+放疗 哪些 不良反应	__label__tumor
+保健品 中 含有 乙二胺四乙酸 铁钠 服用 后会 大便 发黑	__label__other
+近视 度 闪光 怎么回事	__label__other
+脊背 酸疼 怎么回事	__label__other
+肚脐 上方 痉挛 痛个 小时 不 是 问题	__label__other
+食道癌 早期 症状 什么	__label__tumor
+岁 老人 月 前 腰椎 摔了一跤 医院 体检 查出 毛病	__label__other
+腔内 放疗 操作步骤 哪些	__label__tumor
+感觉 心情 不好 心 难受 怎么回事	__label__other
+请问 血管瘤 如何 治疗	__label__tumor
+． 有时 放疗 要加 楔形板	__label__tumor
+肺癌 术后 一月 复查 转移 吗	__label__tumor
+怎么回事 精神	__label__other
+放疗 的 并发症 哪些	__label__tumor
+过 乳腺癌 人	__label__tumor
+发脾气 喊 要 自杀 小孩子 有 精神 的 病	__label__other
+放射治疗 哪里	__label__tumor
+我哥 肝癌 晚期 请 诊治 孙 医生 吗	__label__tumor
+包皮 原因 孩子 一个 睾丸	__label__other
+哪些 因素 影响 放射治疗 疗效	__label__tumor
+年底 感冒 时间 久 好 后来	__label__other
+八个 月 的宝宝 脖子 长 是 东西	__label__other
+结肠 肝曲癌 结肠癌	__label__tumor
+有名 胃癌 专家	__label__tumor
+耳朵 里 有 东西 响	__label__other
+预防 直肠癌	__label__tumor
+时候 胃疼 非常 疼 怎么回事	__label__other
+乙肝 会 肝癌 怎么 防	__label__tumor
+先前 吃 排骨 好像 骨头 茬 扎 了 熬夜 了 一宿	__label__other
+十个月 宝宝 抽搐	__label__other
+胃部 隐隐作痛 食道 向上 顶 喉咙 吃 食物 堵塞	__label__other
+性格 应该 能 会 个 样子	__label__other
+慢性 粒细胞 白血病 吃格尼 不能 治	__label__tumor
+了 肠癌 什么 表现	__label__tumor
+长期 心理 自我 折磨 处理 人际关系	__label__other
+检查 大便 成瘾性 直肠癌 上 查 做 胃镜 说 有 十二指肠息肉	__label__tumor
+醋 龟板 入 脏腑 蝉鸣 性 耳鸣	__label__other
+四天 前 做 胃 切除 胃肠减压 插管 喉咙痛	__label__other
+耳朵 贴 里面 怎么回事	__label__other
+两只 药膏 只是 擦 血管瘤	__label__tumor
+慢性 咽喉炎 一年 了 怎么回事	__label__other
+新生儿 十天 醒 时候 嗓子 痰 音 总 打嗝 这是 情况	__label__other
+别人 背后 说 偷东西 怎么办	__label__other
+孩子 叛逆 和 家长 唱反调 我妈 吵吵 就	__label__other
+胃癌 治愈	__label__tumor
+舌头 碰 就是 疼 吃 点 药见 效果	__label__other
+卵巢癌 复发	__label__tumor
+报告单 确诊 直肠癌	__label__tumor
+婴儿支气管炎 用	__label__other
+预防 肿瘤 预防 白血病	__label__tumor
+结肠癌 做 B超	__label__tumor
+瘦大腿 小腿 是 练 体育 是 肌肉 腿	__label__other
+后背 横向 一条 弯腰 特别 疼 怎么 治疗	__label__other
+结肠癌 肝 转移 治疗方案	__label__tumor
+了 胃癌 注意 什么	__label__tumor
+退 放疗 费	__label__tumor
+嘴唇 发干 发脓 伤口 疼	__label__other
+是 肺癌 如图 描述 大夫	__label__tumor
+眼睛 追问 怎么回事	__label__other
+牙龈 有 突出 豆 形状 的 东西	__label__other
+预防 恶性黑色素瘤	__label__tumor
+高龄 白血病 六年 下肢 一个	__label__tumor
+复方薄荷脑滴鼻液 小心 点入 眼睛 怎么办	__label__other
+白血病 治 欲方	__label__tumor
+下颚 淋巴结肿大 不痛不痒 医师 这是 病	__label__other
+新生儿 天 脐带 有血 上图 您	__label__other
+骨癌 病人 吃 水果	__label__tumor
+排卵日 同房 女方 次日 高烧 度 孩子 能要	__label__other
+老是 颈椎 酸痛 压迫 神经 吧	__label__other
+晚期 肝癌 可以 灵芝 汤 喝	__label__tumor
+莫名其妙 头晕 些许 咳嗽 症状 情况 什么 病症	__label__other
+食道癌 晚期 吃 好	__label__tumor
+高中 压力 太 导致 多梦常 做 噩梦 午夜 会	__label__other
+肿瘤 患者 适宜 化疗	__label__tumor
+经颅 磁 刺激 某 部位 的 兴奋 抑制作用	__label__other
+宝宝 消化 不好 是 奶粉 金领 冠 盒装 跟	__label__other
+血管瘤 不会 自行 消退	__label__tumor
+额头 有 凸起 包 痘痘 硬 骨头	__label__other
+有 鼻炎 刚才 吃 虾 人 很 难	__label__other
+皮肤癌 护理 诊断	__label__tumor
+肺癌 放疗 期间 吃	__label__tumor
+白血病 临床表现 怎样	__label__tumor
+特需 门诊 几楼	__label__tumor
+孩子 发烧 百服 怎样 服用 月 千	__label__other
+有时候 莫名其妙 伤感 无缘无故 哭	__label__other
+食管癌 情况 需要 接受 内镜 黏膜 切除术	__label__tumor
+乳腺癌 术后 转移 肺 还 活多久	__label__tumor
+抑郁症 药 吃 了	__label__other
+舌尖 白色 颗粒 好几个 月 不疼不痒 什么 原因	__label__other
+不会 怀孕 没带 套 平常 月经 规律	__label__other
+胃癌 症状	__label__tumor
+有没有 肠胃病 医生 肠胃 难受 帮忙 解决问题 女	__label__other
+腹泻 结肠癌 关系 什么	__label__tumor
+算 早期 晚期 这能 是 肝癌	__label__tumor
+放疗 血象 有何 影响	__label__tumor
+这 几天 了 急性乳腺炎 这是 怎么回事	__label__other
+眼睛 异物感 红红的	__label__other
+放疗 导致 头晕头痛 加重 恶心 喷射性呕吐 视物模糊 颅 高压 症状 处理	__label__tumor
+孩子 老哭 吃 完奶 睡 一会 醒 半个 小时	__label__other
+afp 筛查 检测 早期 肝癌	__label__tumor
+小孩 男 高一 考试 下阵 家里人 不爱 说话	__label__other
+直肠癌 有 症状	__label__tumor
+症 支持 治疗 直肠癌 什么	__label__tumor
+放疗 健康 细胞 影响	__label__tumor
+牙 左 半边 疼痛 牙齿 疼 该 做	__label__other
+甲状腺 乳头状癌 术后 要 孩子	__label__tumor
+小脚 经常会 痛是 因为 老人 腿 疼痛 哪种 药	__label__other
+鼻塞 头晕 咳嗽 嗓子 哑	__label__other
+放疗 与 靶向 治疗 联合 吗	__label__tumor
+造口 痛 昰 什么 因起 岁 直肠癌	__label__tumor
+红花 茴香 蒸蛋 肺癌 人 吃	__label__tumor
+老师 右 颈部 淋巴结 无痛 网上 说 的 很 恐	__label__other
+眼白 U 形 V 形 血丝 严重 疾病	__label__other
+肝癌 射频 消融 什么	__label__tumor
+胃癌 中晚期 能 活多久	__label__tumor
+直肠癌 转移 屁股 尾椎	__label__tumor
+会得 食道癌	__label__tumor
+MTN 神经 介入 修复 体系 真的 管用	__label__other
+手脚 特别 爱 出汗 这是 了	__label__other
+宝宝 咳嗽 化验 血 淋巴 高	__label__other
+乳腺癌 骨转移 危害 哪些	__label__tumor
+肝癌 晚期 吐	__label__tumor
+老年人 白血病 怎么 治疗	__label__tumor
+． 放射治疗 生育 有 影响	__label__tumor
+嘴唇 发干 发脓 伤口 疼	__label__other
+眼白 出血 情况 我要 吃 药	__label__other
+乳腺癌 有 表现	__label__tumor
+放射治疗 时 保持 患者 体位 固定	__label__tumor
+过期 油烟 净 后 身体 有害	__label__tumor
+非小细胞肺癌 的 治疗 方法	__label__tumor
+看电视 看久 眼睛 干涩 晚上 流泪	__label__other
+嘴巴 里 疱疹 一直有 正常	__label__other
+耳科 检查 看不懂 检查单 是 只 耳朵 压力 超	__label__other
+近视 啊 恢复 视力	__label__other
+母亲 患 乳腺癌 女儿 遗传	__label__tumor
+耳朵 浮肿 耳屎 粘 呈 黄色 什么 原因	__label__other
+右 锁骨 处 剪刀 扎 流血 有事吗	__label__other
+月经 之前 天 乳房 胀痛 都 碰月	__label__other
+胃癌 如何 诊断 呢	__label__tumor
+妈妈 结肠癌 术后 天 便秘	__label__tumor
+放疗 便秘	__label__tumor
+眼睛 怕光 胀痛 太阳穴痛	__label__other
+眼睛 头痛 鼻音 重 额头 冰凉 什么 症状	__label__other
+长期 食量 突然 减肥 减少 食量 肚子 受得	__label__other
+一个月 擦 鼻涕 鼻	__label__other
+刚出生 天 宝宝 肚子 硬大 有时候 打隔 肚脐	__label__other
+肝癌 术后 想 现在 情况 多	__label__tumor
+之前 咨询 你 爸 确诊 腺癌 做 胃 全切 手	__label__tumor
+颌骨 右侧 卡住 怎么办 右边 耳朵 疼	__label__other
+小 便是 容易 厕所 前提 喝水	__label__other
+鼻咽癌 治愈 大概 要花 钱	__label__tumor
+有名 胃癌 专家	__label__tumor
+乳腺癌 可以 运动	__label__tumor
+天 排便 直肠癌 怎么办	__label__tumor
+眼睛 肿痛 怎么回事	__label__other
+宝宝 两周 今天 拉肚子 前 几天 回 老家 不知	__label__other
+脑 胶质瘤 放疗 有 不良反应	__label__tumor
+小腿 也 会 酸疼 感觉 会 这样	__label__other
+宝宝 打颤 打颤 秒 打颤 时 伴随 使劲	__label__other
+哺乳期 乳房 硬块 里 发痒	__label__other
+岁 男孩 睡不着 觉看 科	__label__other
+肺癌 早期 完全 治愈	__label__tumor
+社交 恐惧症 个 表现	__label__other
+岁 与 家人 争吵 脾气 暴躁 易怒 咋办	__label__other
+脑出血 发证 泌尿 感染 好治	__label__other
+畸变 耳声 发射 个 月 该 男	__label__other
+医生 帮 这是 乳腺癌 怎么办	__label__tumor
+心跳 快 吃 精神药物 关系	__label__other
+宫颈癌 初期 症状 什么	__label__tumor
+鼻咽癌 请 医生 帮着 是否 改观 好转 女	__label__tumor
+肺癌 晚期 能治好	__label__tumor
+全瓷 门牙 感觉 门牙 碰到 上 门牙 医院 咬	__label__other
+两个 月 三个 月 钱 前 一次 高危 接连 做 四	__label__other
+口腔内 长 黄豆 大小 黑色 物质 不痛不痒	__label__other
+宝宝 着凉 感冒咳嗽 两次 肺炎 史该 办好	__label__other
+肺癌 头颅 晚期 吗	__label__tumor
+眼睛 里长 颗 东西 怎么回事	__label__other
+放疗 化疗 综合 时 次序 先后 疗效 有无 影响	__label__tumor
+王 怀疑 得 癌症 心理 害怕 好 忧虑	__label__tumor
+乳腺癌 晚期 化疗 还是 中医 治疗	__label__tumor
+有血 会 肚子疼 正常	__label__other
+直肠癌 放射治疗 什么 副作用	__label__tumor
+减肥药 哪种 有效 卡瘦 减肥药 吗	__label__other
+强行 拔掉 气管切开 口有 红肿 吗	__label__other
+眼睛 撞 出血了 我 眼球 打 出血	__label__other
+早期 肝癌 不能治愈	__label__tumor
+下巴 脖子 交汇处 隐隐作痛 喉结 右边 四五	__label__other
+谷氨酰转移酶 偏高 肝功能异常	__label__other
+有 肝癌 做手术	__label__tumor
+妈妈 肋骨骨折 怎么 治疗	__label__other
+矫正 牙齿 戴牙套 前 需 锻炼 肌肉	__label__other
+分子 肤对脑 胶质瘤 治疗 帮助	__label__tumor
+白血病 抽烟	__label__tumor
+放射治疗 治疗 肿瘤	__label__tumor
+两天 右 肋骨 下方 有点 隐痛 不知 胆囊炎	__label__other
+这 愈合 吗 碰 疼 第天 用 是	__label__other
+腔内 放疗 什么	__label__tumor
+哺乳 期间 吃 酮替芬 想 哺乳 几天 药物	__label__other
+直肠癌 手术 看看 治疗	__label__tumor
+夜宁颗粒 天王补心丹 同时 服用	__label__other
+化疗 前 化疗 期间 注意	__label__tumor
+右眼 度 近视 配眼镜	__label__other
+腰椎间盘突出 做手术 治 腰椎间盘突出 疗能 吗	__label__other
+张开嘴 嘴型 对称 张嘴 时候 没事儿 是 什	__label__other
+肺癌 早胸 结水 疼期 症状	__label__tumor
+宝宝 吃 头孢克肟 拉肚子 吃 阿奇霉素 女	__label__other
+好大 感觉 这个 公司 找 不到 男朋友 感觉	__label__other
+胸腺 占位 恶性 会 什么 症状	__label__tumor
+有 发烧 流口水 不 是否 看 口腔科	__label__other
+刚刚 摔 右 胳膊 上臂 不疼 伸直 能 活动	__label__other
+脑瘤 传染	__label__tumor
+真的 生气 不 开心 事情 分享 他	__label__other
+放射治疗 前 需 做 准备 工作	__label__tumor
+血常规 检查 一切正常 是不是 得白	__label__tumor
+孕妇 遗传性 聋 基因突变	__label__other
+昆明 附二 院 看 肺癌	__label__tumor
+直肠癌 化疗 几天 大便 怎么办	__label__tumor
+做 开颅 手术 台 起头	__label__other
+一个 肿瘤 专家 想 报考	__label__tumor
+不能 舌苔 辩证 体质	__label__other
+想 问 肝硬化 肝癌	__label__tumor
+痛 淋巴结 咬 肌 有 小 疙瘩 同事 母亲	__label__tumor
+耳垂 根 部长 个 疙瘩 有 几天	__label__other
+最近 咳嗽 咳嗽 怎么回事	__label__other
+治疗 宫颈癌 什么 药	__label__tumor
+父亲 大便 干得 怀疑 是 结肠癌	__label__tumor
+烤瓷牙 牙龈 是 萎缩 吗	__label__other
+床上 突然 眼前 天旋地转 不停 冷汗 恶心	__label__other
+乳腺癌 年 右侧 另 腋下 皮内 小米	__label__tumor
+早期 肝癌 治愈 还 活多久	__label__tumor
+早搏 症状 早晨 起床 八点 心跳加快 十一点	__label__other
+做 完 斜视 手术 会 红	__label__other
+头颈部 肿瘤 患者 接受 放疗 时需 哪些 工作	__label__tumor
+直肠癌 扩散 肝 治疗	__label__tumor
+治疗 鼻咽癌	__label__tumor
+青少年 性欲 多时 二十余次 脾气 暴躁 咋办	__label__other
+叫 介入治疗	__label__tumor
+放射治疗 治疗 肿瘤	__label__tumor
+癌症病人 吃 保健品	__label__other
+胃癌 晚期 术 前 化疗 有用吗	__label__tumor
+莫名 难过 莫名 烦	__label__other
+非 肿瘤 性病变 进行 放射治疗	__label__tumor
+了 血管瘤 治疗 困难	__label__tumor
+食管癌 传染	__label__tumor
+开始 吃 葡萄籽 维生素 延缓 衰老	__label__other
+现在 感觉 有 挺 的 湿热 应有 怎么 自己 身体 脾胃湿热 脾胃虚寒	__label__other
+新辅助化疗 什么	__label__tumor
+乳腺癌 转移 是 肝癌 晚期	__label__tumor
+站 屋檐下 不会 麻雀 眼 什么 麻雀 眼	__label__other
+男婴 先天性 肾上腺 症状 宝宝 出世 天吃 睡	__label__other
+牙齿 乱 想 矫正 拔 不	__label__other
+宫颈癌 化疗 副作用	__label__tumor
+高 分化 腺 结肠癌 llB 吗	__label__tumor
+确保 放射治疗 实施 精确性	__label__tumor
+白血病 什么 病 的	__label__tumor
+肺癌 早期 患者 做 胸透 查出	__label__tumor
+卵巢癌 常见 症状 有 呢	__label__tumor
+备孕 期间 减肥 需要 减 斤	__label__other
+减轻 放疗 副反应	__label__tumor
+是 混合 痔 肛裂 不是 感染	__label__other
+吃 飯 感到 別人 心理 發虛 怎麼 辦	__label__other
+卵巢癌 吃 水果	__label__tumor
+体温 棒 看 知道 看 多少度	__label__other
+托百士 妥布霉素滴眼液 红血丝 吗	__label__other
+发现 老婆 同性恋 女人 发生 性关系	__label__other
+肺癌 病人 吃 甲鱼	__label__tumor
+觉得 有 胃癌 是 胃病	__label__tumor
+胰腺癌 检查 项目 哪些	__label__tumor
+瘦大腿 内侧 走路 不好 走	__label__other
+我家 宝宝 连续 两个 星期 流鼻涕 感冒 不 发烧 怎么办 男	__label__other
+早幼 粒细胞 白血病 患者 和 纯奶	__label__tumor
+卵巢癌 化疗 副作用	__label__tumor
+直肠癌术后 造口 知道 糜烂 感染 怎么办	__label__tumor
+这 图片 指标 显示 是 狼疮	__label__other
+手首 背长 了 一颗 肿瘤 不痛不痒 的严重	__label__tumor
+肺癌 咨询 提供 报告 什么 治疗 建议	__label__tumor
+求 治疗 急性白血病 M 型 中 药方子	__label__tumor
+女性 双侧 脑动脉痉挛 椎 动脉供血不足	__label__other
+卵巢 上皮性 癌用 化疗方案	__label__tumor
+全身 无力 色苔白 是 病	__label__other
+九个 月 的宝宝 喝 打 粉	__label__other
+女儿 岁 偶尔 感觉 头重脚轻 出汗	__label__other
+直肠癌 什么 情况 需要 接受 术 前 放疗	__label__tumor
+宝宝 外伤 失血过多 处理 眉毛 封 六针	__label__other
+帮 看看 两个 月 孩子 的 验血 报告	__label__other
+请 肺癌 专家 回复	__label__tumor
+急性 b 型 淋巴细胞白血病	__label__tumor
+一年 前去 医院 诊断 抑郁 焦虑 有 两年 时	__label__other
+请问 直肠癌 那些 症状	__label__tumor
+熬夜 一宿网 早上 睡 了 会 醒来 发现 舌头 根有	__label__other
+智齿 完全 想 能拔	__label__other
+降 结肠癌 多发 肝 转移	__label__tumor
+疼 吃不了 饭	__label__other
+周边 黏膜 肿胀 胃窦 黏膜 见散 糜烂 癌症	__label__other
+胃癌 术后 病理 什么 期	__label__tumor
+腹部 中 偏右 肋骨 有 不适感 经常有 发生	__label__other
+喉癌 早期 表现 症状	__label__tumor
+乳腺癌 有 表现	__label__tumor
+你好 白血病 能过 性生活	__label__tumor
+请问 预防 白血病	__label__tumor
+后背 刺痛 针刺痛 癌症	__label__tumor
+胰腺癌 胃部 疾病 的 疼痛 什么 区别	__label__tumor
+月经不调 什么 原因	__label__other
+肾癌 治疗 方式 哪几种 类型	__label__tumor
+半枝莲 白花蛇草 抗癌 抗瘤 效果	__label__tumor
+持续 咳嗽 二十天 要 去 医院 检查	__label__other
+郁郁 证 治疗 一点 我 老公 中度 郁郁 愿意 别人 交谈 情绪低落 咨询 好多 的 说 做 物理 治疗 好点	__label__other
+卵巢癌 治疗 怎么 复查	__label__tumor
+宝宝 吃 吐 老是 放屁 精神不振	__label__other
+软组织肿瘤 传染	__label__tumor
+开放性颅脑损伤 失明 治愈	__label__other
+卧床 病人 屁股 上长 一个 水汜 褥疮	__label__other
+昨天 肚子疼 拉肚子 开始 黑便 胃疼 拉肚	__label__other
+早上 睡 起来 鼻子 不通 就 流鼻血	__label__other
+早产儿 个 月 天 会会头 歪	__label__other
+韧带 撕裂 会 愈合	__label__other
+患者 做 完 放疗 后会 其他人 辐射	__label__tumor
+白血病 Ma 患儿 第一年 化疗 期间 上	__label__tumor
+医生 您好 直肠癌 怎么办	__label__tumor
+． 做 X 刀 治疗 经过 步骤	__label__tumor
+鼻塞 嗓子疼 哺乳期 吃 药	__label__other
+后半夜 出汗 范 胃病 胃病 关系	__label__other
+肝癌 晚期 什么 表现	__label__tumor
+保养 皮肤 感觉 二年 了 经常 熬夜 长	__label__other
+甲胎蛋白 AFP 什么	__label__tumor
+乳腺癌 放疗 多少 钱	__label__tumor
+食道癌 晚期 有 黑 便是 回	__label__tumor
+牙齿 出现 舒服 感染 艾滋病	__label__other
+我 老爸 肝癌 晚期 做 介入 怎么办	__label__tumor
+宝宝 戴 远视 眼镜 发现 看不清 是 怎么回事	__label__other
+有 腹部 确定 位置 有时候 疼痛 有没有 肠癌 可能	__label__tumor
+发烧 一个 咳嗽 吃 药	__label__other
+食道癌 中期 治療 法有 什 麽 方法	__label__tumor
+化疗 期间 饮食 注意	__label__tumor
+情况 需要 接受 肾脏 肿块 穿刺 活检	__label__tumor
+岁 女生 右 又 长 牙疼	__label__other
+膀胱癌 电切 化脓 入院 消炎 脓 细胞	__label__tumor
+易瑞加量 严重 腹泻 腹胀	__label__tumor
+耳鸣 头 整天 昏昏沉沉	__label__other
+左右 胸 按着 疼 是 肿瘤	__label__tumor
+想 咨询 直肠癌 相关	__label__tumor
+腊月 十五 今天 腊月 二十三 期间 一次	__label__other
+身高 是不是 长 有点 慢	__label__other
+才能 长高 长胖 才 偏瘦 才能 长	__label__other
+这个 什么 病是 淋巴结肿大 吃 消炎药	__label__tumor
+是 同步 放化疗	__label__tumor
+详细 一下 白血病 早期 症状	__label__tumor
+您 咨询 有关 乳腺癌 术后 治疗方案 事宜	__label__tumor
+身高体重 公斤 骨 勾线 愈合 后能长	__label__other
+现在 头上 两个 太阳穴 痛 是 怎么回事	__label__other
+特别 痛 止血 海绵 吞	__label__other
+叫 斗篷野 照射	__label__tumor
+两年 前 检查 小便 隐血 加 又 检查 一次 会 什么 原因	__label__other
+乳腺癌 化疗 脱发	__label__tumor
+检查 说 远视 什么 的 治疗 方法	__label__other
+结肠炎 结肠癌	__label__tumor
+常见 头颈部 肿瘤 放疗 不良 皮 应有	__label__tumor
+卵巢癌 可用 介入治疗	__label__tumor
+你好 糖类抗原 CA : 什么 指标	__label__tumor
+闻 几个 小时 油漆味 会得 癌症 白血病	__label__tumor
+继续 服用 阿司匹林肠溶片 因为 服用药 胃 急 舒服	__label__other
+骨癌 什么 症状	__label__tumor
+十九个 多月 的宝宝 体重 十 八九斤 脾胃 不好	__label__other
+肝癌 靶向 药 有 卖	__label__tumor
+． 是 计算机 治疗 计划 系统 对 放疗 什么 重要性	__label__tumor
+肺部 结结 灶 cm 肺癌	__label__tumor
+我爸 早期 鼻腔 淋巴瘤 NKT 能 什么	__label__tumor
+直肠癌 放疗 什么 副作用	__label__tumor
+直肠癌 痔疮 区别	__label__tumor
+后背 了 荨麻疹 做些 辅助 治疗	__label__other
+麦粒肿 肉芽 手术 第天 戴 隐形眼镜	__label__other
+多 机率 遗传 后代 肝癌	__label__tumor
+便秘 年 了 是 便秘 今年冬天 便秘 严	__label__other
+肝癌 能治 这边 医生 说 介入 不行	__label__tumor
+因为 感冒 上呼吸道感染 发烧 ° 挂 完 青霉素 多久 喂奶	__label__other
+直肠癌 治疗	__label__tumor
+食道癌 晚期 进食 吐血 能 活多久	__label__tumor
+做 乳腺癌 切除 手术 一般 多久 好	__label__tumor
+海口 确诊 直肠癌	__label__tumor
+老人 年 月 发现 胃癌 晚期 扩散 几个	__label__tumor
+胃癌 术后 一年 还会 粘连	__label__tumor
+不痛 什么 东西	__label__other
+蛇胆川贝液 和 羧甲斯坦 口服液 服用 女	__label__other
+腔内 放疗 什么	__label__tumor
+我于 前天 咳嗽 头 有点痛 好 担心 是不是 狂犬病 发作	__label__other
+胃 恶心 是 胃癌	__label__tumor
+膀胱癌 手术 化疗 每 需要 钱	__label__tumor
+几天 前 眼球 小心 细 钢丝 戳 出血了 知道 不要紧	__label__other
+宫颈癌 能 怀孕	__label__tumor
+情况 进行 肝癌 手术 治疗	__label__tumor
+婴儿 四个 月 体重 半个 月 增长 睡觉 最	__label__other
+结肠癌 化疗 白细胞减少 吃 能补	__label__tumor
+． 是 放射性肺炎 有 症状	__label__tumor
+这是 了 不会 食道癌 症状	__label__tumor
+思维 清晰 常忘事	__label__other
+小女孩 不洗 有尿味	__label__other
+严重 吗 了 玻璃体混浊	__label__other
+腓骨骨折 三个 月 脚 脖 僵硬	__label__other
+一个 鼻咽 科 有 问题 想 咨询 男岁	__label__other
+放射治疗 期 过程 中 患者 注意	__label__tumor
+小细胞肺癌 骨转移 男岁	__label__tumor
+距骨 异物 不取 我 后遗症 创伤 多 和 后果	__label__other
+结肠癌 手术 后能 吃 水果 蔬菜	__label__tumor
+骨肉瘤 发病 有	__label__tumor
+眼睛 揉 肿了 才能 消肿	__label__other
+是 模拟定位 机它 什么 作用	__label__tumor
+肝癌 病因 哪些	__label__tumor
+排便 不 费力 到底 怎么回事	__label__other
+想 牙齿 矫正 不会 越来越	__label__other
+腺样体肥大	__label__other
+你好 想 请问 胃癌 注意 什么	__label__tumor
+小时候 岁 发烧 烧断 筋 嘴 张不开 年龄 越大 越	__label__other
+头痛 得 脑瘤	__label__tumor
+十二指肠降部 低 级别 上皮 内瘤 变是 良性 恶性	__label__tumor
+预防 乳腺癌	__label__tumor
+我 春雨 app 买 切诺 到货 小孩子	__label__other
+胃癌 姑息性 手术 方式 哪几种 类型	__label__tumor
+鼻咽癌 放疗 有 副作用	__label__tumor
+宫颈癌 女性 身体 危害 哪些	__label__tumor
+嗯 感谢您 回复	__label__tumor
+已经 昏迷 三次 我 妈妈 这 现在 什么 情况	__label__tumor
+个 星期六 结膜炎 滴 几天 眼药水 又 复发	__label__other
+甲状腺 乳头状癌 术后 要 孩子	__label__tumor
+淋巴癌 放射治疗 利与弊	__label__tumor
+睡觉 嘴里 咸 感觉 点 回甜 嘴巴 里 腻	__label__other
+早期 结肠癌 腹泻 中成药 能治 止住	__label__tumor
+情况 下用 术中放疗	__label__tumor
+脊椎 侧 弯度 不 做手术	__label__other
+子宫内膜癌 怎么 预防	__label__tumor
+缝线 双眼皮 伤口 愈合 做 双眼皮 天 这 一只	__label__other
+脚痛 怎么办 脚 会 痛	__label__other
+头晕 眼前发黑 有 影响	__label__other
+肺癌 病人 疼得 厉害 一个月 吃饭	__label__tumor
+吸收 了 会 很困 疲劳 感觉 怎么 呢	__label__other
+女儿 体检 肺部 发现 厘米 血管瘤 要紧	__label__other
+咳嗽 快 一周 吐痰 黄色 成坨 状 说话 声音 哑 说不出来 被 痰 堵住 喝 一天 枇杷膏 了 点 晚上 发低烧 知道 怎么办 的 病	__label__other
+年龄 肺 腺癌 细胞 骨转移 晚期 腰疼 C	__label__tumor
+用 左氧氟沙星 支 ➕ 地塞米松 支 混合 后滴 耳泡 耳	__label__other
+左眼 眼白 红 一块 情况	__label__other
+几年 大姨妈 提前 老 上火 嘴巴 苦 指甲	__label__other
+胃癌 什么 方法 治好	__label__tumor
+乳腺癌 手术 一定 化疗	__label__tumor
+是从 膝盖 腿 根 都 疼 原因	__label__other
+医生 胃癌 手术 治疗	__label__tumor
+小腹 坠胀 小便 疼痛 尿道口 红疼	__label__other
+胸 没有 特别 平能 胸大	__label__other
+宫颈癌 患者 术后 饮食 吃 好	__label__tumor
+三 阴性 乳腺癌 复发 转移	__label__tumor
+有时候 吃点 东西 疼 大 补 牙齿	__label__other
+立体 定向 放射治疗 什么	__label__tumor
+恶性黑色素瘤 治愈	__label__tumor
+每天晚上 要 起夜 尿急 问 医生 这是 原因	__label__other
+焦虑症 脱离 熟悉 环境 容易 想到 自己	__label__other
+大腿 肌肉 瘦 一圈 什么 原因	__label__other
+导致 老是 怀疑 有没有 干净 事 会 怀孕	__label__other
+前列腺癌 传染	__label__tumor
+拉屎 先 出血 血液 呈 鲜红色	__label__other
+四岁 孩子 晚上 发烧 做 噩梦 怎么回事	__label__other
+阻生 智齿 多久 把 临牙顶 坏 的 阻生齿 已知 两	__label__other
+感冒了 呼吸 鼻塞 头晕	__label__other
+大便 一点 拉 出来 昨天 去 医院 抽血 检查 痛风	__label__other
+咽喉 一侧 白色 东西 什么 病	__label__other
+呼吸 舒服 闹	__label__other
+照射 胸部 病人 进食 时 会 下咽 疼痛	__label__tumor
+放射治疗 副作用 哪些	__label__tumor
+宝宝 一岁 多青支 骨折 打 石膏 天 了	__label__other
+是 腔内 放疗 能 治疗 肿瘤	__label__tumor
+鼻腔 黏膜 出血 鼻梁 胀痛	__label__other
+有人 说 化疗 玉石俱焚 敌我不分 说 恰当	__label__tumor
+宫颈癌 晚期症状 什么	__label__tumor
+喊 头痛 什么 影响	__label__other
+烫伤 白色 皮肤 恢复 女岁 月	__label__other
+肺癌 晚期 腿痛 医治	__label__tumor
+少许 缺血性 脑 白质 脱髓鞘 改变	__label__other
+请问 直肠癌 晚期 活多久	__label__tumor
+腿 发软 无力 原因 导致 需要 治疗 站 久 就 腿软	__label__other
+也 尴尬 觉得 要 控制 我 除了 工作	__label__other
+是 癌症	__label__tumor
+子宫内膜增生 导致 癌变	__label__tumor
+的 嗓子 增场 用 手术 我 不想 手术 什么 危害性	__label__other
+怀疑 有 边缘性 人格障碍 在线 诊断	__label__other
+反复 口腔溃疡 怎么办	__label__other
+骨癌 病人 吃 水果	__label__tumor
+肿瘤 放射治疗 禁忌证	__label__tumor
+直肠癌 底位 公分 保留 肛门	__label__tumor
+肩袖 韧带 断裂 手臂 红肿 孩子 肩部 拉伤 情况	__label__other
+是 口腔溃疡 嘴唇 里头 疼	__label__other
+胃癌 手术 切除 术后 化疗	__label__tumor
+乳腺癌 术 前 检查 腋下 淋巴结 肿大 补 清扫	__label__tumor
+肺癌 做手术 术后 办	__label__tumor
+宝宝 贴着 腹泻 贴带 肚脐 疝气 带有 冲突	__label__other
+宝宝 一岁 昨天早上 呕吐 就是 拉 吐	__label__other
+刚换 恒牙 牙齿 稀疏 原因	__label__other
+一次 扩肛 导致 大出血 什么 办法 不让 肛门 变小	__label__other
+老公 做 有 半小时 没 高潮 刺激 没用	__label__other
+眼睛 发红 特别 痒 医生 说 角膜炎	__label__other
+还 知道 是 肝癌 输 葡萄糖 进食	__label__tumor
+肚脐 红肿 疼痛	__label__other
+做 完 双眼皮 眼睛 炎症 起泡 怎么回事	__label__other
+胃部 舒服 查出 胃癌	__label__tumor
+左眼 也 长 一个 知道 什么	__label__other
+放疗 健康 细胞 影响	__label__tumor
+右腿 突出 一小块 平常 不疼 用力 碰会	__label__other
+出现 头癣 没有 关连	__label__other
+乳腺癌 骨转移 危害 哪些	__label__tumor
+医生 转 诊断 是 血管瘤 要紧	__label__tumor
+脑积水 · mm	__label__other
+医生 说 玻璃体混浊 咋 回事	__label__other
+纤维结肠镜检查 确诊 直肠癌	__label__tumor
+两只 眼睛 近视 各度 怎么回事	__label__other
+预防 宝宝 白血病	__label__tumor
+两只 眼睛 红 又 干	__label__other
+肥胖 斤 做 运动 配合 的 饮食	__label__other
+肿瘤 饮食 注意	__label__tumor
+了 卵巢癌 怎么办	__label__tumor
+食道 疼痛 犯过 返流性 食道炎 胸口 疼痛	__label__other
+营养 肿瘤 什么	__label__tumor
+前胸 后背 肩膀 脖子 抽 抽 跳动 连续 三天	__label__other
+父亲 肺癌 晚期	__label__tumor
+几天 尿 太 频繁 这是 怎么回事	__label__other
+乳腺癌 化疗 消化道 副反应	__label__tumor
+胳膊 肌肉疼 凹陷 用不上 力一 干活 疼	__label__other
+腰椎 键盘 平常 运动 什么 做 运动	__label__other
+膀胱癌 手术 化疗 每 需要 钱	__label__tumor
+散瞳 验光 散 光度 近视 度 有 问题	__label__other
+看不清 晕倒 我 了	__label__other
+腰椎 增生 手术 治疗 情况 手术	__label__other
+新疆 维药斯亚旦 吗 在 医院 医生 说 脂溢性 脱发	__label__other
+鼻咽癌 早期 治愈	__label__tumor
+右侧 感觉 撕扯 疼 有没有	__label__other
+咳嗽 嗓子 黄痰 看 鼻炎	__label__other
+． 治疗 放射性肺炎	__label__tumor
+卵巢癌 患者 饮食 注意 点	__label__tumor
+喉咙 咽 唾沫 异物感 吃 药	__label__other
+说 我 情绪 调动 起来 麻木	__label__other
+骨肉瘤 什么 临床表现	__label__tumor
+精神病 吃 药能 镇定	__label__other
+疾病 结肠癌	__label__tumor
+鼻咽癌 治愈 大概 要花 钱	__label__tumor
+医生 你好 乳腺癌 治好 花 钱	__label__tumor
+右耳 通过 有 问题	__label__other
+抑郁 焦虑 会 严重的 胸闷 发抖 上不来 气	__label__other
+近视 度能治	__label__other
+孕早期 拉 三次 肚子 吃 蒙脱石散 女	__label__other
+发炎 挺 严重的 脓包 发炎 中拔 牙 有事吗	__label__other
+喉咙 异物感 打嗝	__label__other
+岁 老人 脑出血 重症监护 室 身体 高温 怎么办	__label__other
+舌头 尖上 红 可以 西瓜霜	__label__other
+肺癌 晚期 应 护理	__label__tumor
+八岁 男孩 尿出 白色 奶色 尿液 掉头发 什么 原因	__label__other
+三岁 完 预防针 发烧 回事	__label__other
+直肠癌 症状 什么 怎么办	__label__tumor
+白细胞 下降 有 好 治疗 方法	__label__tumor
+子宫内膜增生 导致 癌变	__label__tumor
+宝宝 皮疹 脚踝 肿疼 怎么回事 后来 手指 中指 肿胀 疼痛	__label__other
+请问 皮肤痒 肺癌 关系	__label__tumor
+两处 褥疮 未好 两个 疮 处理	__label__other
+做 乳腺癌 切除 手术 一般 多久 好	__label__tumor
+肿瘤 患者 需要 营养	__label__tumor
+胃癌 早期 症状 哪些	__label__tumor
+结肠癌 摸 腹部肿块	__label__tumor
+结肠癌 早 早期 症状 化疗	__label__tumor
+怀孕 初期 甲 减会 影响 胚胎 发育	__label__other
+坐月子 想 哭 特别 讨厌 我家 刚出生 孩子 闷	__label__other
+胃癌 转移 肝要 如何治	__label__tumor
+四个 半月 宝宝 拉希	__label__other
+喝上 减肥 咖啡 迷糊 想 睡觉 口 干	__label__other
+十岁 孩子 喝 玉屏风 舌苔 喝牛奶	__label__other
+女岁 早上 觉醒 来后 胸口 正中间 向上 五公	__label__other
+直肠癌 肝 转移 如何 治疗	__label__tumor
+肝癌 术后 未 排气 拔掉 胃管 什么 影响	__label__tumor
+眼睛 长 个 疙瘩 有点痛 闭眼 难受 磨 眼睛	__label__other
+口臭 喝 矿泉水 口 干 会 口臭 很严重	__label__other
+吃 多久 鸡蛋羹 蛋黄 蛋清 确认 过敏	__label__other
+请问 结肠癌 术后 吃 华蟾素 药	__label__tumor
+咬破 舌头 止不住 血 咋办	__label__other
+男 四十岁 持续一年 脚麻 只是 脚指头 麻	__label__other
+直肠癌 早期 好 治疗	__label__tumor
+调经 中药 乳房 变大 好事 不好	__label__other
+医生 有钱 能 治愈 白血病	__label__tumor
+肾虚 腰疼	__label__other
+老人 头上 撞 一个 大包	__label__other
+月 宝宝 吃 奶粉 便秘	__label__other
+又 肿了 睁不开 眼睛 一直 流眼泪 氧氟沙星眼膏 不怎么 用	__label__other
+肝癌 病人 吃饭	__label__tumor
+我家 女儿 十岁 最近 发现 无缘无故 发笑 原因 问 为什么 笑	__label__other
+疼 坐板凳 疼 知道	__label__other
+脑瘤 治疗	__label__tumor
+肝血管瘤 症状 危害	__label__tumor
+姥姥 患有 乳腺癌 遗传 我 妈	__label__tumor
+胃癌 哪些 靶向 药物	__label__tumor
+结肠癌 肝 转移 治疗	__label__tumor
+可乐必妥 滴眼液 我家 孩子 岁	__label__other
+时候 胃疼 非常 疼 怎么回事	__label__other
+失恋 一直 忘不掉 前任 影响 生活 学习	__label__other
+肝癌 有 表现	__label__tumor
+李晓光 医师 问 近期 有没有 淋巴结肿大	__label__tumor
+乳腺癌 症状	__label__tumor
+想 确认 心理 是不是 了	__label__other
+直肠 造瘘口 病人 饮食 注意	__label__tumor
+身体 长不高 缺什么 营养	__label__other
+方子 干嘛 呢 柴胡 白术 茯苓	__label__other
+青少年 通宵 通宵 都 睡 约 小时 睡 完	__label__other
+很困 没精神 都 不想 做 感觉 脑子 用	__label__other
+胃出血 不会 胃癌	__label__tumor
+了 卵巢癌 怎么办	__label__tumor
+后来 腿 胀痛 长胖 也 只长 腿 吧	__label__other
+结肠癌 TNbM 什么	__label__tumor
+了 肠癌 什么 表现	__label__tumor
+舒 母亲 常年 受 胃肠病 困扰 治疗 效果 不	__label__other
+乳腺癌 早期 化疗 化疗 几次 好	__label__tumor
+现在 嗓子疼 和 喉癌 患者 接过 吻 请问 有没有 关系 谢谢 大夫	__label__tumor
+鼻子 里 总 感觉 鼻塞 情况 咋办	__label__other
+肺癌 放疗 肺癌 放疗 期间 饮食	__label__tumor
+按住 右侧 鼻孔 嘴巴 里 流出 脓血 每次 一挤 感	__label__other
+岁 腿 膝盖 脚环疼	__label__other
+嘴唇 流血 怎么回事 就是 嘴唇 干燥	__label__tumor
+七个 月 的宝宝 脖子 脊椎 腰 无力 我 怀孕 吃 鸡 脖有 关系	__label__other
+腹泻 结肠癌 关系 什么	__label__tumor
+岁 高烧 退 宝宝 高烧 两天	__label__other
+卵巢癌 可用 介入治疗	__label__tumor
+宝宝 一岁 胳膊 骨折 了 有 天 了	__label__other
+前壁 内测 有个 结节 按压 疼 什么 东西	__label__other
+高考 前 查出 甲亢 影响 高考 脖子 不会 越	__label__other
+我爸 患有 会厌 癌于 年月日	__label__tumor
+直肠癌 有 表现	__label__tumor
+胃癌 术后 化疗 科 帮忙 一下 方案	__label__tumor
+耳鸣 余年 听力 高频 下降 什么 药 办法 缓解 耳鸣	__label__other
+每天晚上 腰疼 胀气 咋办	__label__other
+医生 我 晚上 睡觉 时候 脚后跟 发烧 睡觉	__label__other
+耳朵 嗡嗡响 什么	__label__other
+大便 有 白色 白带 原因	__label__other
+我爸 岁 去年 颈椎病 肩周炎 月份 痰	__label__other
+直肠癌 检查	__label__tumor
+患者 男岁 年月日 做 右	__label__tumor
+肠癌 早期 症状	__label__tumor
+双 手臂 用力 不会 肌 张力 高	__label__other
+孕早期 牙痛 缓解 什么 办法 止痛	__label__other
+结肠癌 并肠腔 狭窄 手术	__label__tumor
+两个 月 早上 咳嗽 嗓子疼 不会 喉咙 事情	__label__other
+椎 基底动脉 血管 紧张度 高	__label__other
+左边 乳房 胀痛 是 药	__label__other
+医生 肝癌 晚期 腹水 怎么办	__label__tumor
+汤水 烫伤 啊	__label__other
+乳腺癌 早期 术后 存活 多久 根治	__label__tumor
+混合型 血管瘤 治疗	__label__tumor
+吃 葵花 健儿消食口服液 妈咪爱	__label__other
+． 放疗 期间 每周 至少 要查 白细胞 血小板	__label__tumor
+说话 微量元素 稍微 低里 肠胃 吸收 问题 怎么 改男	__label__other
+肝癌 患者 拍肠镜 注意	__label__tumor
+乳腺癌 化疗 进口药 国产 药 区别	__label__tumor
+病理 的 腺体 再生性 改变 什么	__label__other
+皮肤癌 治 好	__label__tumor
+鼻窦炎 手术	__label__other
+胃癌 术后 化疗 科 帮忙 一下 方案	__label__tumor
+七个 月 宝宝 嘴巴 关节 响	__label__other
+高龄 患者 放疗 肺癌 晚期 放射治疗	__label__tumor
+结肠癌 什么 症状 医生 说说看	__label__tumor
+肺癌 晚期 会 什么 症状	__label__tumor
+南京 妇幼 儿童 保健 口腔科	__label__other
+肿瘤 患者 接受 放射治疗	__label__tumor
+胃癌 治愈	__label__tumor
+宝宝 三岁 吃 打虫药	__label__other
+右边 最里 第二个 牙齿 流血 现在 那颗 牙齿 掉 流血 流血 怎么回事	__label__other
+胡思乱想 患 抑郁症	__label__other
+乳腺癌 术后 三年 咳嗽 两个 多月	__label__tumor
+左乳 肿块 不会 乳腺癌	__label__tumor
+吃 粒 布洛芬缓释胶囊 个粒 阿莫西林	__label__other
+便血 肝癌 一直 呕吐	__label__tumor
+乳腺癌 什么 症状	__label__tumor
+碰到 狗 粘液 打针	__label__other
+乳房 痒 怎么回事 好 几天	__label__other
+做 放疗 又 做 化疗 病人 产生 放射性肺炎	__label__tumor
+． 放疗 化疗 综合 时 次序 先后 疗效 有无 影响	__label__tumor
+眼 浮肿 流眼泪 什么 病症	__label__other
+耳朵 和 耳蜗 有时候 痛 可以 吗	__label__other
+医生 说 牙龈乳头 发炎 会 吗	__label__other
+今年 岁 骨肉瘤 在 恢复 时候	__label__tumor
+男性 乳腺 发育 症 发现 肿瘤 问 手术	__label__tumor
+哺乳期 支气管炎 发烧 吃 退烧药 影响	__label__other
+直肠癌术后 化疗	__label__tumor
+快乐 OK 旅途 咯 哦 呕吐 宝宝 岁 能 吃奶 片	__label__other
+可以 这 一个月 瘦下来 吃 零食 胖到 样子	__label__other
+乳腺 肿瘤 乳腺癌 什么 区别	__label__tumor
+喊 饿 因为 吃 没有 一点 油水 能 她 吃 排骨汤 熬 粥	__label__other
+导致 骨折 比 两天 疼 严重 吗	__label__other
+体重 公斤 身高 增高 男岁	__label__other
+前 几个 星期 右眼 下眼皮 跳动 了 两 星期	__label__other
+右边 脸上 咬合 肌 位置 有点肿 怎么回事	__label__other
+洗完 澡后 乳头 痒 难受 	__label__other
+基底节出血 肺部感染 该 治疗	__label__other
+医生 帮 这 直肠癌 女岁	__label__tumor
+血管瘤 好治	__label__tumor
+今天 发现 口腔 有个 米粒 疙瘩 知道 不会 问题	__label__other
+牙齿 边有 泡 直径 mm	__label__other
+鼻咽癌 里 什么 是非 角性化 分癌	__label__tumor
+五岁 男孩 晚上 哭喊 腿疼 他 吃 阿法 骨化	__label__other
+鼻孔 长 白毛 什么 原因 越来越 了 白毛	__label__other
+眼睛 很红 时间 很长 是 原因	__label__other
+宝宝 排便 费劲 放屁 时候 爱蹦屎	__label__other
+直肠癌术后 多久 性生活	__label__tumor
+直肠癌术后 转移	__label__tumor
+耳朵 里长 白色 小 痘痘	__label__other
+鼻腔 总 有异味 做 鼻 喉镜 诊断 鼻子 问	__label__other
+天前 跑步机 跑步 跑 跑 膝盖 疼 休息 两	__label__other
+医生 白血病 怎么 的	__label__tumor
+一岁 宝宝 脚弯 处长 点点 女岁 月	__label__other
+恶性黑色素瘤 什么 临床表现	__label__tumor
+人易 患 恶性黑色素瘤	__label__tumor
+耳朵 结块 外面 看到	__label__other
+躺 时间长 头晕目眩	__label__other
+生完 孩子 脾气 暴躁 晚上 时常 不 自主 流	__label__other
+肝硬化 腹水 结节 肝癌	__label__tumor
+高血压 糖尿病 吃 乌鸡白凤丸	__label__other
+晚上 睡觉 流汗 什么 症状	__label__other
+皮肤癌 早期 是 症状	__label__tumor
+这是 痔疮 直肠癌	__label__tumor
+七十多岁 老人 牙掉 怎么办 镶牙 好 买 假	__label__other
+直肠癌 前面 病状 什么 样子 怎么办	__label__tumor
+耳洞 旁边 刺疼 拉扯 疼 张大嘴 疼 面部	__label__other
+左手 食指 夹 骨折 肉 翻起 缝合 现在 了	__label__other
+骨癌 晚期 胡言乱语 能 活多久	__label__tumor
+左侧 肚子疼 胀气 结肠癌 症状	__label__tumor
+中医科 整天 疑神疑鬼 不 什么 原因 感觉	__label__other
+乳腺癌 手术 月 腋窝 肿 膀子 酸 怎么回事	__label__tumor
+直肠癌 患者 哪些 症状	__label__tumor
+肺癌 扩散 脑部 做手术	__label__tumor
+七个 月 的宝宝 脖子 脊椎 腰 无力 我 怀孕 吃 鸡 脖有 关系	__label__other
+小细胞肺癌 转移 脑部	__label__tumor
+是 立体 定向 放射治疗	__label__tumor
+烫伤 感染 已 正常 皮肤 一个 坑	__label__other
+甲胎蛋白 值 癌胚抗原 如何 治疗	__label__other
+耳屎 需要 掏出 没有 不适	__label__other
+乳腺癌 术后 转移 肺 还 活多久	__label__tumor
+胸口 疼痛 伴有 呼吸困难	__label__other
+腔内 放疗 放疗 多久	__label__tumor
+宫颈癌 饮食 注意	__label__tumor
+子宫内膜癌 激素 治疗 于 人群	__label__tumor
+是 调强 放疗	__label__tumor
+肥胖 导致 子宫内膜癌	__label__tumor
+左右 胸 按着 疼 是 肿瘤	__label__tumor
+身体 前额 不 发热 这是 怎么回事	__label__other
+的 乳房 左 变小 右边 然后 乳头 没长 是 原因	__label__other
+天上 厕所 鼻血 频繁 特别 天热 脸上	__label__other
+舌头 心 发黑 什么 原因 的	__label__other
+婴儿 舌苔 发红 吐奶 带有 红色 粘稠	__label__other
+乳腺癌 放疗 哪些	__label__tumor
+眼睛 咋 回事 好多 血管	__label__other
+女 宝宝 个 月 刚出生 时候 发现 左眼 左	__label__other
+北京 哪家 医院 治 肺癌	__label__tumor
+淋巴 节 肿大 智齿 出血 牙龈 好痛	__label__other
+皮肤癌 早期 是 症状	__label__tumor
+结肠癌 转移 寒战 胳 发热	__label__tumor
+右边 眼睛 抬 起来 恢复 吗	__label__other
+． 叫 全淋巴结 照射	__label__tumor
+精神疾病 来回 踱步 神经 痒痒	__label__other
+身高体重 多斤 外表 看着 不胖 体重 太沉 回事	__label__other
+副 腮腺 肿瘤 手术	__label__other
+脊椎 空洞 影响 胸腔 坐骨神经 需要 做手术	__label__other
+便秘 三天 上 厕所 平时 便秘 这么	__label__other
+了 乳腺癌 切除 乳房 以后 还会 复发	__label__tumor
+早期 宫颈癌 患者 能 活多久	__label__tumor
+易胖 体质 减肥 一米 六斤	__label__other
+就是 膝盖 很凉 这是 怎么回事	__label__other
+感觉 左侧 乳房 肿块 是 乳腺癌	__label__tumor
+想 咨询 大夫 肺癌 相关 问题	__label__tumor
+晚期 肺癌 转 骨癌 能 活多久	__label__tumor
+您好 想 问问 胃癌 症状 什么	__label__tumor
+宝宝 急性 肠胃炎 吃 几次 拉 几次 喝水 拉拉 水现	__label__other
+． 放疗 期间 病人 有 全身反应 处理	__label__tumor
+得 乳腺癌 怎么办	__label__tumor
+胃癌 怎么 得来	__label__tumor
+全身 不固定 位置 晚上 频繁 针刺 感肉 跳动 月	__label__other
+乳腺癌 饮食 注意	__label__tumor
+患 急性 淋巴 白血病	__label__tumor
+担心 肝癌 我 焦虑症	__label__tumor
+大便出血 小腹 不适感 之前 有过 痔疮 原因	__label__other
+食道癌 中期	__label__tumor
+晚期 皮肤癌 传染 家人	__label__tumor
+第一次 化疗 直肠癌 化疗 中 吃 好	__label__tumor
+宫颈癌 初期 症状 什么	__label__tumor
+情况 什么 办法 让 情况 变 一点	__label__tumor
+左边 肠子 胀气 肚脐 正上方 腹部 发烫	__label__other
+女朋友 眼睛 几天 突然出现 红点 要 去 医院 检查一下	__label__other
+浑身 无力 疼痛 心脏 舒服 胸闷 喘气 费力 头脑 晕	__label__other
+是 朋友 爸爸 报告 想要 帮 这里 结	__label__other
+食道癌 中国 什么 地方 治疗	__label__tumor
+了 乳腺癌 切除 乳房 以后 还会 复发	__label__tumor
+胃 食管 反流病 吗 担心 放屁	__label__other
+一个月 小孩 咳嗽	__label__other
+爸爸 查 结肠癌 想 问 分期	__label__tumor
+两三天 很少 痛 阵痛 做 肾脏 彩超 什么	__label__other
+付费 我 爸爸 说 都 的 事儿 你 时候	__label__other
+饮食 注意 直肠癌 吃 水果	__label__tumor
+牙疼 现在 疼	__label__other
+眉毛 处 撞伤 眼皮 肿 吗	__label__other
+胸骨 痛 催吐 是 食管癌	__label__tumor
+肺癌 转移 脑部 可以 什么 药	__label__tumor
+喉咙痛 发炎 怎么回事	__label__other
+四岁 孩子 呕吐 发烧 喝水 不吃 东西 不 吐了	__label__other
+喝酒 发烧 喝药 喝 药	__label__other
+宝宝 吃奶 乳房 痛	__label__other
+老公 不好 孩子 岁 和 耍 朋友 骗 婚前 了 钱 又 喜欢 喝酒 发酒疯 我 应该	__label__other
+鼻咽癌 如何治	__label__tumor
+我 不会 长高	__label__other
+血小板 低 急性白血病	__label__tumor
+头昏 沉没 精神 疲劳感 重想 睡觉 感觉 低烧	__label__other
+嗓子 卡 鱼刺 怎么办 咽 口水 时候 感觉	__label__other
+肿瘤 化疗 注意	__label__tumor
+一 女生 交往 一年 感情 好且 结婚 打算 这	__label__other
+淋巴结 现在 女	__label__other
+配合 腹腔 化疗 治疗 卵巢癌 效果 更好	__label__tumor
+是 放射治疗	__label__tumor
+甲胎蛋白 高是 肝癌	__label__tumor
+有没有 好 办法 高钙片 使用	__label__other
+一直在 吃药 整天 有 幻听 有人	__label__other
+直肠癌 全国 医院	__label__tumor
+一天 总 轻微 舒服	__label__other
+放射治疗 需要 什么	__label__tumor
+直肠癌 腺癌 粘膜组织 慢性 炎	__label__tumor
+是 术中放疗	__label__tumor
+中期 食道癌 治愈	__label__tumor
+总 害怕 上 肺癌	__label__tumor
+虹膜睫状体炎 多久 好	__label__other
+长 个 水平阻生 智齿 智齿 难拔	__label__other
+前两天 宝宝 眼睛 撞 凳角 情况 影响 宝宝 视力	__label__other
+骨癌 并发症 有 呢	__label__tumor
+想 检查 有 肺癌 做 检查	__label__tumor
+食道癌 做 检查 确诊 最快	__label__tumor
+乳腺癌 患者 吃 冬虫夏草	__label__tumor
+直肠癌 治疗 全部 费用	__label__tumor
+知道 怎么回事 不适	__label__other
+感觉 恶心 全身 舒服 这是 了	__label__other
+家里 老人 懂 隐形眼镜 药水 雾化 孩子 做	__label__other
+干燥 性 萎缩性鼻炎 通过 手术 治愈	__label__other
+乳腺癌 不会 转移	__label__tumor
+鼻咽 部 软组织 增生 肿胀 这要 治疗	__label__other
+有时候 使劲 用手 捏 没 无意间 碰 那么 疼	__label__other
+肛门指检 检查 直肠癌 怎么办	__label__tumor
+胃癌 请问 大夫 一步 处理	__label__tumor
+几天 的 右脚 膝盖 背弯处 发酸 这是 病症	__label__other
+子宫内膜癌 激素 治疗 效果 吗	__label__tumor
+老人 耳朵 流血 疼痛感	__label__other
+卵巢癌 饮食 注意事项	__label__tumor
+肝癌 饮食 什么 的 书籍	__label__tumor
+断指 术后 手指 温度 其他 手指 高	__label__other
+图片 中 知道 牙齿 是否 问题 就医	__label__other
+知道 他 想 我 分手 我 也 做不了	__label__other
+感觉 头晕 发抖 打嗝 发抖 好像 怕 的 感觉	__label__other
+口腔内 肿瘤 用 放疗	__label__tumor
+这是 了 不会 食道癌 症状	__label__tumor
+主动脉夹层 总便 黑色 东西	__label__other
+乳腺癌 患者 吃 蒜 葱 姜蒜 可以 吃 对象	__label__tumor
+感觉 无力 牙齿 黑 三角 怎么回事	__label__other
+往下 越 靠近 脚 位置 重影 越 怎么回事	__label__other
+孩子 六个 半月 四个 半月 加 辅食 每个 加	__label__other
+子宫内膜癌 情况 需要 放疗 化疗	__label__tumor
+小孩 前 两个 星期 发烧 发现 牙龈 肿了 吃 头孢	__label__other
+眼窝 处 蛋白 线 填充 后鼓 一根 筋 能 恢复	__label__other
+胸部 硬块 一定 乳腺癌	__label__tumor
+每月 月经 量大 眼睛 发肿 情况	__label__other
+孩子 手 背上 手指 连接 骨头 发红 前 几天	__label__other
+做 B超 显示 腮腺 处有 肿物 点 多厘米 动手术	__label__tumor
+肿瘤 化疗 注意	__label__tumor
+拔阻 生齿 脸部 发热	__label__other
+开始 有点儿 咳嗽 发烧 吃 药	__label__other
+年龄 岁 女右 腹部 侧边 疼痛 左 肩膀 前方 下方	__label__other
+每次 厕所 有 东西 不痛不痒 什么 症状	__label__other
+母亲 是 口腔溃疡 怎么回事	__label__other
+眼睑 里 眼睑 边缘 透明 圆形 硬物	__label__other
+哺乳期 乳晕 类似 疤瘌 的 一块 凸起	__label__other
+直肠癌 彻底 治愈	__label__tumor
+脖子 肩膀 酸疼 小脑 左脑 不 舒服 麻木 感觉	__label__other
+舌头 口腔溃疡 六天 会 是 了	__label__other
+肺癌 症状 什么 感冒咳嗽	__label__tumor
+镶 牙 头顶 右 下边 疼疼 地方 肿了	__label__other
+小孩 高烧 度 流 鼻子 咳嗽	__label__other
+胃癌 晚期 吃 东西	__label__tumor
+切除 要 化疗 请问 乳腺癌	__label__tumor
+吃成 甲亢 症状 是不是 很严重	__label__other
+左眼 眼角 肿了 有些 痛感 右眼 眼袋 那个	__label__other
+总胆红素 间接 胆红素 偏高 原因 怎么回事 是不是 很严重	__label__other
+最近 眼睛 东西 模糊 早上 醒 睁眼 干 噻	__label__other
+中 低 分化 胃癌 控制	__label__tumor
+咨询性 心理 的	__label__other
+小脚趾头 粉碎性骨折 一年 了 肿	__label__other
+女儿 五个 月 一直 体重 达标	__label__other
+请 帮忙 看下 可能 肺癌	__label__tumor
+医生 来 咨询 了 几天 鼻涕 带血 比较严重 鼻	__label__other
+食管癌 晚期 注意 写 补充 营养	__label__other
+烫伤 这 几天 咋个 就 涂 碘 伏 感觉	__label__other
+X 刀 γ 刀 什么 区别	__label__tumor
+腰 老 酸疼 憋 尿 没尿 感觉 尿酸 疼	__label__other
+太胖 不 该 调理	__label__other
+想 自己 抑郁症 最近 失眠 严重	__label__other
+医生 我长 高 能 通过 安高乐长 高	__label__other
+治疗 血管瘤 采用 种 技术	__label__tumor
+昨天 晚上 手指 脚趾 骨头疼 手上 脚上 长	__label__other
+六个月 的宝宝 宝宝 不 翻身	__label__other
+鼻 综合 十天 鼻子 旁边 脸部 有点肿 冰敷	__label__other
+原发性 肺癌 什么	__label__tumor
+双胞胎 妈妈 是 怎么回事	__label__other
+反复 发烧 度 看 原因	__label__other
+右肺 Ca 肺内 多发 转移 胸膜 胸椎 椎体 转移	__label__tumor
+脑瘤 传染	__label__tumor
+胃癌 什么 病	__label__tumor
+体内 体外 放射治疗 区别	__label__tumor
+鼻咽癌 活检 要 几次	__label__tumor
+时不时 有 的 晕眩 感觉 气血 虚	__label__other
+胃 难受 感觉 东西 堵住 一样 烧 热感	__label__other
+． 有些 病人 一天 照射 次 或次 治疗 什么 好处	__label__tumor
+急性 单该 a 型 白血病 做 化疗 多少 钱	__label__tumor
+胃癌 晚期 请问 中医 还是 化疗	__label__tumor
+这是 直肠癌	__label__tumor
+金 父亲 结肠癌 C 期 月份 结束 期化	__label__tumor
+饮食 不 规律 胃口 不 舒服 咋办	__label__other
+恶性 乳腺癌 哪家 医院 治 好	__label__tumor
+左手 无名指 手背 肌腱 断裂 是 肌腱 断裂 吗	__label__other
+维尊 赖氨葡锌颗粒 长高	__label__other
+幽门螺杆菌 形成 胃癌	__label__tumor
+眼睛 视野 报告 吗 怎么	__label__other
+右腰 酸痛 腰 不 酸痛 是 情况 的	__label__other
+导致 骨折 比 两天 疼 严重 吗	__label__other
+了 皮肤癌 什么 症状	__label__tumor
+两个 月 的 婴儿 后脑勺 红色 一块 要紧	__label__other
+流鼻涕 身上 红疹 这是	__label__other
+腰间 长 骨刺 什么 的 治疗 方法	__label__other
+去 医院 检查 医生 说 结膜炎 传染	__label__other
+预防 乳腺癌 饮食 注意	__label__tumor
+眼睛 睫毛 倒 进 眼里 动手术	__label__other
+你好 想 一下 放疗 是 多长时间	__label__tumor
+头部 淤血 排完 是 情况	__label__other
+是 恶性黑色素瘤	__label__tumor
+头部 受伤 没 发现 多久 体现 呢	__label__other
+乳腺癌 转移 胸骨 治疗	__label__tumor
+右脚 大脚 指痛 脚姑 增生 以个 多月 想 回 怎么 治疗	__label__other
+熬夜 疲劳 眼部 眼袋 有 不用 手术 的 办法	__label__other
+脑 胶质瘤 放疗 进行	__label__tumor
+是 一条 腿 支撑 做 完 做 一只 腿 做 有伤	__label__other
+非小细胞肺癌 的 治疗 方法	__label__tumor
+检查 白血病 初步 血常规 哪 几项	__label__tumor
+第一次 痛风 查 尿酸 两个 月查 尿酸 怎么回事 尿酸 正常	__label__other
+胰腺癌 怎么办	__label__tumor
+到来 例假 日子 阴道 点点 出血 有 一点	__label__other
+大便 里 透明 胶状物 怎么回事	__label__other
+智齿 导致 肉裂 智齿 了 导致 智齿 旁边	__label__other
+o 型 血 可不可以 输用 AB型 血小板	__label__other
+宫颈癌 中 晚期症状	__label__tumor
+膝盖 背面 发酸 什么 症状	__label__other
+膀胱癌 患者 适合 吃 食物	__label__tumor
+放射线 致癌	__label__tumor
+在 做梦 时候 对梦里 人 事 怀疑 男	__label__other
+肝硬化 转化成 肝癌 多久	__label__tumor
+胃 淋巴瘤 胃癌 可怕	__label__tumor
+肝功能 正常 DNA 高 吃 药 不 知道	__label__other
+肺癌 咳嗽 一个月 有血	__label__tumor
+结肠癌 选择 检查 方法	__label__tumor
+对 胖瘦 意识 偏差 总是 感觉 自卑 开心	__label__other
+是 一个一岁 宝宝 妈妈 从生 宝宝 感觉	__label__other
+患者 岁 患 肝癌 下肢水肿 腹水	__label__tumor
+立体 定向 放射治疗 什么	__label__tumor
+宝宝 吃 中药 吃 蒸 苹果 泥 肠炎 便血	__label__other
+隔 眼皮 摸 眼球 疙瘩 摸 疼 看不出来	__label__other
+结肠癌 中晚期 预后	__label__tumor
+诊断 结肠癌 辅助 检查 包括	__label__tumor
+脚一 走 抽 痛 扭 碰 怎么回事	__label__other
+痛 拔出来 这种 情况 怀孕的 吗	__label__other
+颗牙 不齐 不能 磨小换 美容 牙	__label__other
+头晕 头疼 怎么回事 一 吵架 生气 这样	__label__other
+分子 靶向 治疗 什么	__label__tumor
+我家 孩子 大牙 发黑 是 正常 蛀牙 以后	__label__other
+胃癌 中期 有 咨询 我 父亲 胃癌 中期 检查	__label__tumor
+嗓子疼 吃 药 嗓子疼 鼻子 通气	__label__other
+激光 耳洞 疼 发炎 几率 减小	__label__other
+下巴 骨头 按压 很 疼 啊	__label__tumor
+畸胎瘤 术后 第二天 癫痫 以后 了	__label__tumor
+胰腺癌 传染	__label__tumor
+是 下午 喝 两盒 旺仔 牛奶 到 晚上 十一	__label__other
+直肠癌 治疗 预后	__label__tumor
+左边 舌根 有点像 疙瘩 东西 总 不自在	__label__other
+宫颈癌 能 怀孕	__label__tumor
+安非 酮 药好	__label__other
+是 说话 时候 是 睡觉 时候 是 发	__label__other
+术 前 放疗 哪些 成功 经验	__label__tumor
+是 骨肉瘤	__label__tumor
+运动 有利于 长高 我 一位 同学 说 放假 一动	__label__other
+自卑 自信 感觉 被 所有人 鄙视 交流 自信	__label__other
+肺癌 基因突变 细胞 服用 志苓 胶襄 管用	__label__tumor
+华蟾素 急性 骨髓 性 白血病 治疗 效果	__label__tumor
+尿血 膀胱癌	__label__tumor
+脚面 凸起 一块 骨头 怎么回事	__label__other
+牙缝 矫正 钱 牙缝 四五个 宽 越来越 宽	__label__other
+的 眼睛 油污 溅 了 用 冷水 洗 眼睛	__label__other
+白血病 化疗 几次 痊愈 怎么办	__label__tumor
+白天 干咳 晚上 不咳 小时候 满月 咳嗽 落	__label__other
+放疗 哪些 流程	__label__tumor
+多月 宝宝 吃 完奶 身体 往后仰 怎么回事	__label__other
+早期 卵巢癌 检查 出来	__label__tumor
+乳腺癌 her 阳性 靶向 治疗 治愈	__label__tumor
+这个 人心 特别 软 害羞 别人 小心翼翼	__label__other
+是 骨骼 关闭 情况 打 激素 针才 有用 是	__label__other
+是 坐 炕 太 烫 脚踝 骨 烫伤 该	__label__other
+癌症 首选 手术 治疗	__label__tumor
+炎性 乳腺癌 一处 处	__label__tumor
+三个 月 的宝宝 比 大个 前 几个 月 湿疹 湿疹 影响 宝宝 发育 么	__label__other
+瘦 肚子	__label__other
+前男友 微信 我 说 句 前任 啥意思 是	__label__other
+吃 增强 免疫力 药 多长时间 要 孩子	__label__other
+病人 岁 迟发性 脾 破裂 做 脾 全切 术 失血	__label__other
+胃炎康胶囊 炎立消胶囊 掺 一起 吃 十粒 什么 副作用	__label__other
+放疗 时用 中药 解决 问题	__label__tumor
+中医 抗癌 治疗 中 发挥 作用	__label__tumor
+纽斯葆维 d 钙 软胶囊 开封 过期 变 颜色 能 吃	__label__other
+胃癌 化疗 白细胞低	__label__tumor
+l 左侧 横突 骨折 眼前发黑 这 关系 吗	__label__other
+洗面奶 进 眼睛 里 红血丝 怎办	__label__other
+期间 出血 出血 块 掉 肉球 是	__label__other
+鼻癌症 必要 做 靶向 治疗	__label__tumor
+尼古丁 中毒 脖子 抽筋 怎么回事 脖子 几分钟 几秒 抽筋	__label__other
+怀孕 有 乳汁 没 怀孕 怎么回事	__label__other
+胃部 舒服 查出 胃癌	__label__tumor
+声带息肉	__label__other
+痔疮 手术 肛门 下坠 情况 小便 困难 才 缓	__label__other
+肺癌 扩散 淋巴 是不是 只能 化疗	__label__tumor
+了 几天 细看 一条 浅杠 怀孕	__label__other
+颈椎病 引起 喉咙痛 喉咙 卡 鱼刺 吞口水 触痛	__label__other
+治疗 放射性肺炎	__label__tumor
+胸口 堵 嗓子 舒服 腭 泡 感觉 憋气	__label__other
+放疗 副作用 哪些	__label__tumor
+营养 肿瘤 什么	__label__tumor
+帮 看看 有 干槽症 症状	__label__other
+化疗 了 可以 见好就收 停止 治疗	__label__tumor
+结肠癌 造口肠 表面 发黑	__label__tumor
+去 根 肺部 结节 不	__label__other
+卡介苗 化脓 结痂 宝宝 影响	__label__other
+子宫内膜癌 怎么 预防	__label__tumor
+放疗 副作用	__label__tumor
+感觉 肛门 瘙痒 感觉 排便 拍 干净 痒 女	__label__other
+肝癌 分子 靶向 治疗 哪些	__label__tumor
+一直 鼻腔 有 鼻涕 带 血痂 的 颈部 淋巴 肿大 这是 怎么回事	__label__other
+lgm 巨细胞病毒抗体 偏高	__label__other
+求 复发 办法 了 肝癌	__label__tumor
+体重 增长 缓慢 类似 打嗝 这是 了	__label__other
+近距离 后装治疗 哪些 类型 的 优缺点 什么	__label__tumor
+近视 度 该不该 戴眼镜	__label__other
+贫血 感觉 乏力 查出 结肠癌	__label__tumor
+早上 体重 少 一两	__label__other
+眼睛 不适 干涩 发胀 充血 人有 疲劳感 年龄 岁	__label__other
+扁桃体发炎 吃 罗红霉素 阿莫西林 扁桃体发炎 吃 两天 罗红霉素 软胶囊 不要 换成 阿莫西林	__label__other
+骨癌 晚期 能 活多久 骨癌 能活	__label__tumor
+我脚 崴 是 老伤 已经 正常 走路 后天	__label__other
+肺 腺癌 骨转 伴脑 转是 放疗 副作用 影响	__label__tumor
+头上 什么 不痒 长 越来越	__label__other
+腹泻 结肠癌 关系 什么	__label__tumor
+肺癌 做手术 还是 做好	__label__tumor
+肺癌 咳嗽 出血 怎么办	__label__tumor
+体 检查 的 是不是 乳腺癌	__label__tumor
+左 肾 极小 囊肿 这是 意思	__label__tumor
+长年 睡不着 老忘事 脾气 暴躁 岁 女	__label__other
+棕树 页 用处 治疗 什么 病有通 血管 作	__label__other
+晚上 睡觉 喉咙 发痒 咳嗽 吃 咽炎 药 止咳药	__label__other
+失恋 我 忘不了 半年 谈 了 三个 月	__label__other
+能 减少 肝癌 晚期 病人 疼苦	__label__tumor
+六岁 小孩 尿次 吗 孩子 去年 一月份 尿频 的 现象 尿 出来	__label__other
+肿瘤 患者 适宜 化疗	__label__tumor
+诊断 直肠癌 辅助 检查 哪些	__label__tumor
+是 艾滋病 前期 舌头 症状 有 口交	__label__other
+卵巢 恶性 囊肿 : 母亲 段时间 身体 消 廋	__label__tumor
+腿疼 做 噩梦 是 病	__label__other
+宝宝 便 中 含有 不化 食物 调理	__label__other
+胃癌 对症支持 治疗 什么	__label__tumor
+眼睛 里 瞳孔 里 经常出现 水波纹 咋办	__label__other
+口 干 手心 出汗 副作用	__label__other
+牙齿 植体 掉 是 植体种 个 月	__label__other
+爸爸 胃癌 吃 药	__label__tumor
+右边 鼻子 旁边 疼 酸 感觉 右上 牙 不	__label__other
+头晕 头 抬 怎 回事	__label__other
+轻度 胃炎 吃 太 烫 吐血 什么 情况	__label__other
+娱乐场所 飞机 小姐 飞机 杯 帮 打 出血了 打 了 不会 感染 艾滋	__label__other
+子宫 全切 还 得 宫颈癌	__label__tumor
+你好 白血病 能过 性生活	__label__tumor
+中药 治疗 肺癌 效果 吗	__label__tumor
+绿豆 红豆 芡实 大米 红枣 煮汤 效果	__label__other
+那时 想过 自杀 情况 什么 改善	__label__other
+啪啪 时候 紧张 怎么回事	__label__other
+美瞳 完 第二天 眼睛 浓水 糊糊 有点肿	__label__other
+腮腺 肿瘤 传染	__label__tumor
+睡觉 爱 出汗 睡觉 中 出汗 什么 原因	__label__other
+干活 喘气 费劲 怎么回事	__label__other
+右 肾结石 mm 积液 左 肾 mm 吃药 排出来	__label__other
+内心 焦虑不安 总 感觉 有病	__label__other
+肿瘤 哪些 治疗 手段	__label__tumor
+放射治疗 后 暂停 一段时间	__label__tumor
+乳腺 门诊 放疗 办公室 那里	__label__tumor
+宫颈癌 放疗 于 人群	__label__tumor
+肺癌 放疗 常见 后遗症 — — 放射性肺炎 放疗 干咳 气喘 需注意 该病	__label__tumor
+宝贝 感冒 的 不多后 鼻腔 里 一直有 黄 鼻涕	__label__other
+甲亢 服药 一年 怎么 治疗	__label__other
+宝宝 脖子 白白的 什么 这样	__label__other
+胳膊肘 有 痛点 怎么回事 手 按压 很痛 腕部 疼痛	__label__other
+头昏眼花 不 真实感 是	__label__other
+左眼 眼白 红 一块 情况	__label__other
+这个 手 冷 就 发胀 肿起来 热 也 发胀 肿起来 是 什么 原因	__label__other
+乳腺癌 术 前 化疗 术后 还会 化疗	__label__tumor
+胃癌 化疗 期间 注意	__label__tumor
+常见 的 射 治疗 不良反应 有	__label__tumor
+乳腺癌 化疗 便秘	__label__tumor
+国内 预防 乳腺癌 疫苗	__label__tumor
+美赞臣 奶粉 吗 这款 不会 甜	__label__other
+保肢 手术 并发症 哪些	__label__tumor
+叫术 前 放疗 要 做术 前 放疗	__label__tumor
+食道癌 中期	__label__tumor
+脖子 皮下 长 个 疙瘩 是 恶性 疾病	__label__tumor
+子宫内膜癌 术后 什么	__label__tumor
+食道癌 基本 症状 有 呢	__label__tumor
+鼻子 有块 发黑 肝癌	__label__tumor
+宝宝 一个月 乳腺 管堵 八个 月 能 疏通 吗	__label__other
+矮 才能 长高	__label__other
+生气 会得 乳腺癌	__label__tumor
+颅内 肿瘤 放疗 病人 放疗 前 教育	__label__tumor
+昨天 检查 视网膜 裂孔 误诊	__label__other
+打喷嚏 张嘴 头疼 怎么回事	__label__other
+眼皮 肿是 怎么回事 淋巴结 疙瘩	__label__other
+胸口 用力 按压 会 疼	__label__other
+胃癌 晚期 活多久 怎么办	__label__tumor
+儿童 患者 适合 放疗 会 由于 放射性物质 影响 患儿 生长发育	__label__tumor
+乳头 痒 怎么回事 我 柔 和 手 挤 下	__label__other
+肠癌 早期 症状	__label__tumor
+结肠癌 一些 症状	__label__tumor
+． 放射线 能 治疗 肿瘤	__label__tumor
+是 的 病情 : 舌头 根部 疙瘩 舌头	__label__other
+乳腺癌 患者 打赫塞汀 情况 下会 复发 怎么办	__label__tumor
+崴 脚崴 立马 肿得 厉害 每次 是	__label__other
+不会 裂纹 处 的 裂开 那 牙齿 不废	__label__other
+口 干舌造 牙龈 变白	__label__other
+直肠癌 遗传	__label__tumor
+骨癌 死亡率 高	__label__tumor
+胸闷 晕倒 怎么回事 女	__label__other
+痔疮 便血 直肠癌 区别	__label__tumor
+乳腺癌 术后 一定 做 放化疗	__label__tumor
+胃癌 靶向 药物 治疗 效果 吗	__label__tumor
+． 是 术后 放疗 术后 放疗 什么 价值	__label__tumor
+退烧药 美林 开封 能用	__label__other
+几天 会 运动 一天 在 慢跑 W 步	__label__other
+． 月经 时 病人 做 放疗	__label__tumor
+情绪低落 流泪 不愿 人 交流 只想	__label__other
+胃疼 不会 了 胃癌	__label__tumor
+父亲 报告单 肝癌 晚期	__label__tumor
+肾癌 有 表现	__label__tumor
+女朋友 在 排卵期 和 是 第一次 进去	__label__other
+情绪低落 有 重要 事 做 最近 睡不着 觉	__label__other
+眉毛 边缘 撞伤 眼皮 肿大 淤青	__label__other
+结肠癌 早 早期 症状 化疗	__label__tumor
+化疗 卵巢癌 什么	__label__tumor
+跟 混 吃 死 没什么 区别 公交车 上会 不 舒服	__label__other
+鼻咽癌 放疗 什么 副作用	__label__tumor
+有时候 很 放松 小 紧张 如何 克服	__label__other
+身高 发育 比较慢 缺什么	__label__other
+肝癌 吃 药 买 药	__label__tumor
+肝癌 晚期 患者 伴有 腹部疼痛	__label__tumor
+了 胰腺癌 什么 症状	__label__tumor
+割 牙龈 可以 医院 的 漱口水 漱口	__label__other
+乳腺癌 请 医生 报告	__label__tumor
+说 眼睛 发炎 我能 戴 隐形眼镜	__label__other
+脚背 第二根 指骨骨折 有天 坐久 脚背	__label__other
+岁 左腿 疼 怎么回事	__label__other
+结肠癌 会 疼 化疗 疼不疼	__label__tumor
+男腿 磕 年岁 治	__label__other
+舌头 烂 是 原 不 舒服 感觉	__label__other
+宫颈癌 放射治疗 慢性 并发症 哪些 症状	__label__tumor
+艾迪 注射 夜 过敏 肾 什么 危害	__label__other
+直肠癌 对症支持 治疗 做	__label__tumor
+梨膏 糖 有 黑色 颗粒 怎么样	__label__other
+两天 出 月 怎么 排 湿气	__label__other
+乙肝患者 手指 划破 一点 做饭 家人 吃 家人 未	__label__other
+软组织 挫伤 大面积 算 轻微伤 腿部	__label__other
+宝宝 拉肚子 发烧 怎么回事 宝宝 几天 断奶 开始 拉肚子	__label__other
+哺乳期 孩子 多月 时候 乳房 疼一模 硬 疙	__label__other
+了 乳腺癌 能 全愈	__label__tumor
+胃癌 会 什么 症状	__label__tumor
+检查 知道 结肠癌 有没有 扩散	__label__tumor
+乳腺癌 转移 胳膊 么 女岁	__label__tumor
+碘 治疗 治疗 注意	__label__tumor
+了 肺癌 不能 吃海鲜 腊肉	__label__tumor
+生殖器官 半年前 萎缩 什么 原因	__label__other
+是 恶性黑色素瘤	__label__tumor
+的 经颅 磁 刺激 某 部位 的 兴奋 抑制	__label__other
+乳腺癌 转移 肺部 班点 化疗 治疗	__label__tumor
+左耳 昨天 棉签 掏耳朵 时候 出血了 今天	__label__other
+甲状腺 乳头状癌 出现 咳血 情况 治好	__label__tumor
+白血病 能治 骨髓 匹配 难	__label__tumor
+男岁	__label__tumor
+放疗 化疗 综合 时 同时	__label__tumor
+大量 流鼻血 正常	__label__other
+放射治疗 的 副作用 哪些	__label__tumor
+确诊 鳞状细胞癌 患者 扩散 舌头 淋巴 肿块	__label__tumor
+为 夏天 鼻出血 冬天 鼻出血	__label__other
+皮肤癌 哪些 类型	__label__tumor
+歲 孩子 拉肚子 嘔吐 發燒 滿臉 通紅度 怎麼	__label__other
+不知 什么 原因 导致 脸上 白 是 图 炉甘石洗剂	__label__other
+肚 胀 胀 是不是 胃癌 了	__label__tumor
+家境贫寒 穷困潦倒 父亲 母亲 疾病 缠身 我 痛	__label__other
+这是 上火 原因	__label__other
+小孩 鼻甲 肿大 消肿	__label__other
+麦粒肿 要 切除	__label__other
+保肢 手术 并发症 哪些	__label__tumor
+胃 息肉 治疗	__label__tumor
+口腔 长 白色 颗粒	__label__other
+血管瘤 好治	__label__tumor
+放疗 中 常用 加速器 哪几种 有何	__label__tumor
+我 胃里 难受 如果 做 休息 躺 下脑	__label__other
+性生活 患 宫颈癌 几率 吗	__label__tumor
+全身 多处 淋巴结肿大 不会 淋巴癌	__label__tumor
+请问 结肠癌 了 晚期 什么 症状	__label__tumor
+． 是 组织间 插植术 能 治疗 肿瘤	__label__tumor
+肝癌 介入治疗 怎样 延长 生命	__label__tumor
+五年 生存率 活 五年	__label__tumor
+我妈 打呼噜 是不是 遗传 一定 关系 有 鼻炎	__label__other
+宝宝 病毒 感冒 的 支气管炎 了 大量 痰 液	__label__other
+左耳 痛 从前 几天 的	__label__other
+是 恐艾 是 发现 爸爸 是 同性恋 开始	__label__other
+保肢术 怎样 康复 锻炼	__label__tumor
+赛乐惠 喉诺 清治 喉咙 发炎	__label__other
+你好 医生 老婆 急性 淋巴 炎 二十天 肿块 不消	__label__tumor
+是 肿瘤 姑息性 手术	__label__tumor
+乳腺癌 患者 吃 冬虫夏草	__label__tumor
+患 喉癌 初期 能治好	__label__tumor
+脚指甲 突然出现 大块 斑点 癌症	__label__tumor
+髓 细胞 白血病 结疗 用 吃 口服药	__label__tumor
+血管瘤 哪几种	__label__tumor
+嚷 肿 什么 的 多久 好	__label__other
+男 周岁 牙上 壁 小红点 嘴一吸 嘬 那	__label__other
+前 纵膈 等 密度 结节影 意思	__label__other
+查 体温 老在度 不 是 回事	__label__other
+药流 星期 清除 干净	__label__other
+直肠癌 姑息性 化疗 什么 药	__label__tumor
+男宝 岁 月 两个 门牙 了 松动	__label__other
+大姑 发现 肝癌 患者 请问 治疗	__label__tumor
+医生 小孩 九岁 急性淋巴细胞白血病 存活 概率 吗	__label__tumor
+女朋友 乳腺癌 治好	__label__tumor
+聚乙烯醇滴眼液 五岁 孩子 可用 孩子 总	__label__other
+体重下降 左侧 胸部 隐隐作痛 位置 乳头 下发 两	__label__tumor
+黄 鼻涕 了 嗓子 特别 疼 是 了	__label__other
+卡他性中耳炎 吃 阿莫西林 醋酸泼尼松片	__label__other
+肺癌 早期 手术 四个 月 咳嗽 严重 这是 怎么回事	__label__tumor
+子宫内膜癌 有 疼痛	__label__tumor
+乳腺癌 患者 饮食 什么	__label__tumor
+子宫癌 早期 症状 四五年 前有 不规则 出血的 经历 伴有 腿酸 知道 是因为 昨天 站 久 什么	__label__tumor
+肝癌 晚期 能 病人 不疼	__label__tumor
+嘴上 血管瘤 两年 了 现在 发现 旁边	__label__tumor
+甲状腺 术后 有 精神 的 出现	__label__other
+小腹 疼痛 流血 这是 了	__label__other
+放疗 头颈部 肿瘤 吗	__label__tumor
+糜烂 怎么回事	__label__other
+乳房 疼痛 得 乳腺癌	__label__tumor
+癌症 化疗 前 吃 防 过敏 药	__label__tumor
+肝硬化 肝癌 同等 可怕	__label__tumor
+放疗 结束 出现 颜面 部 颈部 皮肤 肿胀 现象 怎么回事	__label__tumor
+有异味 我要 吃 点 药	__label__other
+一只 眼珠 一只 内 偏 一点点	__label__other
+孩子 牙疼 用 牙疼 水 起用 什么 的 办法	__label__other
+胃癌 什么 的	__label__tumor
+是 痰 湿 体质 肥胖 什么 方法	__label__other
+鼻咽癌 病人 放疗 过程 中 口腔 咽喉 疼痛 处理	__label__tumor
+流血 需要 含 华素片	__label__other
+人会 梦见 醒 其实 没醒 一直 醒	__label__other
+正确对待 放疗 的 发热	__label__tumor
+导致 皮肤癌 主要 原因 哪些	__label__tumor
+情况 需要 接受 子宫内膜癌 手术	__label__tumor
+人流 残留物 × mm 吃药 排出来	__label__other
+斜视 手术 后能 吃 薯片	__label__other
+热敷 加速 蛋白 线 吸收	__label__other
+支气管 发炎 住院 需要 打丙球	__label__other
+结肠癌 怎么 的	__label__tumor
+乳腺癌 化疗 便秘	__label__tumor
+月经没来 怀孕 吗	__label__other
+早上 起床 醒 鼻涕 会带 一点 血丝 一天 早上 血量 喉咙 很 痛 担心 不会 鼻咽癌 我 怕	__label__other
+达喜 克拉霉素片 食用	__label__other
+医生 不好意思 的 文字 长 用 图片 表达	__label__other
+做 让 抑郁症 人活 更 长久 我 做	__label__other
+大牙 牙齿 掉 一小块 吃 冷 热 东西 很 疼 怎么回事	__label__other
+子宫内膜癌 晚期 哪些 症状	__label__tumor
+食道 鳞状细胞癌 中晚期 吞咽 难 生体 消瘦 化疗 放疗	__label__tumor
+腰 酸痛 两个 多月 其他 时间段 早上 腰	__label__other
+虎牙 掉 一片 往里 隐约 红色 流用 手能	__label__other
+胃癌 胃窦 印戒细胞癌	__label__tumor
+． 叫术 前 放疗 要 做术 前 放疗	__label__tumor
+乳腺癌 手术 一定 化疗	__label__tumor
+放疗 化疗 区别 哪里	__label__tumor
+胰腺癌 治愈	__label__tumor
+乳腺 肿瘤 乳腺癌 什么 区别	__label__tumor
+胰腺炎 病好 四年 没 喝 酒会 复发	__label__other
+发现 舌头 长 两个 小红点 怎么回事	__label__other
+胰腺癌 生存率	__label__tumor
+卵巢癌 良性 能 根治	__label__tumor
+小孩子 月 有点 流鼻涕 喝 点 感冒药 再 喝点 姜汤	__label__other
+甲胎蛋白 升高 肝癌	__label__tumor
+孩子 烫 都 五天 那 都 闹过 疼 列害 怎么回事	__label__other
+肠 位置 顺便 拉 吗	__label__other
+肿物 切除 病理 报告 肉瘤 恶性 的 呢	__label__tumor
+戴眼镜 玩 手机 眼睛 好累 几天 眼镜 好累 难	__label__other
+眼睑 刺痛 怎么回事	__label__other
+咳嗽 吃 雪梨 炖 枇杷 吗	__label__other
+黑色素瘤 必要 么	__label__tumor
+背心 正中 骨头 胀痛 怎么回事	__label__other
+非 经期 出血 排卵期 出出 天一	__label__other
+直肠癌 放疗 什么 作用	__label__tumor
+夫妻间 感情 困惑 方面 压力 喘 气 面对 压力	__label__other
+是 肿瘤 微创 治疗	__label__tumor
+肚 很多 类似 痱子 疙瘩 什么 东西	__label__other
+肝癌 术后 天 我 需不需要 化疗 在	__label__tumor
+马桂芬 母亲 年 月 号 广州	__label__tumor
+请问 乳腺癌 可能	__label__tumor
+卵巢癌 吃 水果	__label__tumor
+急 老年人 岁 盆 骨骨折	__label__other
+乳腺癌 病人 调节 情绪 什么 的 方法	__label__tumor
+胃癌 早期 症状 女性 是不是 癌 症状	__label__tumor
+鼻子 出血 什么 药	__label__other
+乳腺癌 早期 症状 啥 样	__label__tumor
+放射治疗 生育 有 影响	__label__tumor
+手术 治疗 本人 患 尿毒症	__label__other
+鼻子 拽 一条 透明 像 胶水 的 东西 男	__label__other
+有没有 办法 防止 肿瘤 复发 需要 放疗	__label__tumor
+男岁 近个 月 尿频 尿急 憋不住	__label__other
+绷着脸 却 感觉 不到 怎么回事	__label__other
+情绪低落 稳定 失眠 睡不着 失眠 凌晨	__label__other
+胃癌 晚期 胃管 排出 的 物质	__label__tumor
+结肠癌 可不可以 吃活 珠子	__label__tumor
+特别 疼 吃 乱七八糟 东西 感冒	__label__other
+食道癌 中期 患者 能 活多久	__label__tumor
+宝宝 吃 头孢克肟 拉肚 吃 阿奇霉素 女	__label__other
+右 下腹疼 腿 麻 小腹疼痛 回事	__label__other
+哺乳期 乳房 硬块 红 痛痒 发炎	__label__other
+长不胖 肉 没少 吃	__label__other
+肚疼 两天 一直 拉肚 咋办	__label__other
+医生 判断 右侧 骨 撕脱 性骨折 大概 多久 好	__label__other
+胸 腺瘤 切除 呼吸机 天 去掉 怎么回事	__label__other
+眼球 萎缩 左 斜视 做 斜视 手术 可以 改善	__label__other
+放疗 可以 退 费用	__label__tumor
+直肠癌术后 放疗 于 人群	__label__tumor
+会得 食道癌	__label__tumor
+抑郁症 能 根治	__label__other
+前列腺癌 吃 阿 比特 龙 一个月 PAS 降 后	__label__tumor
+医生 什么 情况 嘴巴 舒服	__label__other
+紧张 浑身 刺痛 要死 被 针扎 一样	__label__other
+您好 父亲 的 胃癌 放疗 阶段 问题 想 咨询 您	__label__tumor
+恶性黑色素瘤 什么 临床表现	__label__tumor
+左肺上叶 尖后 段 条 索状 密度 增高 影是 肺结核	__label__other
+胃部 隐隐作痛 食道 向上 顶 喉咙 吃 食物 堵塞	__label__other
+喝水 感觉 其他 不适 治愈 可能性 吗	__label__tumor
+干咳 一周 咽喉 不适 什么	__label__other
+有没有 办法 把 体重 快速 补上来	__label__other
+坐月子 拉屎 拉 出来 屁眼 肿了 擦屁股 有血	__label__other
+一个 鼻咽 科 有 问题 想 咨询 男岁	__label__other
+胸口 异物感 不是 疼 是 情况	__label__other
+舌头 舔 痘痘 硬硬 这 怎么回事	__label__other
+肺癌 腺癌 术后 天 饮食 不好	__label__tumor
+乳腺癌 前期 症状	__label__tumor
+请问 血管瘤 如何 治疗	__label__tumor
+贤 摔跤 碰破 怎么办 流血	__label__other
+健康 减肥	__label__other
+胃癌 请教 国内 哪家 肿瘤医院	__label__tumor
+腰 下部 腰 下部 右侧 按压 疼痛 打针 青 按 一样 那种 疼 坐在 床上 向前 倾穿 袜子 时有 牵扯 感 发紧 这是 了 怎么 治疗 女	__label__other
+白细胞 下降 有 好 治疗 方法	__label__tumor
+脐带血 治疗 肺炎	__label__other
+两边 臀部 确实 疼痛 到底 原因	__label__other
+爸爸 咳血 治疗 检查 肺癌	__label__tumor
+输液 抗生素 喝咖啡 有 阿莫西林	__label__other
+男上 厕所 大便 急 怎么回事 第二天 早上 大便 感觉 必须 上 稀	__label__other
+脑干出血 呼吸 频率 快 什么 办法	__label__other
+胃底体 粘膜 肥厚 浸润 胃癌	__label__tumor
+患有 鼻咽癌 好	__label__tumor
+肺癌 腺癌 术后 天 饮食 不好	__label__tumor
+宝宝 五个 月 右边 歪 脖	__label__other
+许 乙肝 真的 遗传 孩子	__label__tumor
+子宫内膜癌 手术 危险	__label__tumor
+耳朵 里边 起皮 扣 会 疼 旁边 肿了 挺	__label__other
+哥 肝癌 晚期 一年 怎么办	__label__tumor
+韧带 损上 月 伤 多久 好	__label__other
+请 医生 判断 这 头晕 鼻窦炎 的 颈椎病 的	__label__other
+cmxcm 肿块 问下 这能 确诊 淋巴瘤	__label__tumor
+男人 腰疼 什么 原因 的	__label__other
+平常 吃 多 不长 肉 瘦 挺快 有人 建议	__label__other
+发现自己 喜欢 女生 一起 有 问题	__label__other
+那个 支架 手 心里 放 支架 为什么 会痛	__label__other
+． 组织间 插植技术 操作步骤 哪些	__label__tumor
+我妈 冠心病 心绞痛 犯 特别 频繁 血管痉挛	__label__other
+肝癌 介入治疗 风险 吗	__label__tumor
+口腔溃疡 喉咙 痛 是 发炎 吗	__label__other
+别人 耳朵 跟前 了 一声 耳朵 响 听 不到	__label__other
+． 情况 下用 电子线 治疗	__label__tumor
+空腹 喝一杯 现榨 果汁 不吃 早饭 吗 午	__label__other
+是不是 干槽症 图片 医生 了	__label__other
+脚 中指 前 几天 紫 过 几天 又 青到 脚 这是	__label__other
+儿童 白血病 期 小腿 疼	__label__tumor
+胰腺癌 注射 苏打水 什么 作用	__label__tumor
+抑郁 发作 人 不想 医院 硬去 有 危险	__label__other
+脸个 月 长胖 好多 瘦 回去	__label__other
+肝癌 高烧 退 咳嗽 憋气 厉害	__label__tumor
+呼吸 肺癌 腹腔 积水 咳嗽 哮喘	__label__tumor
+小腿 肌肉 外翻 导致 腿部 间隙 大 影响	__label__other
+眼睑 上长 两颗 白点 感觉	__label__other
+后背痛 肺癌 症状 哪些	__label__tumor
+婴儿 喝 凉 奶粉	__label__other
+胃疼 难受 胃溃疡 面积 很大 不会 麻烦	__label__tumor
+放疗 过程 中 洗澡	__label__tumor
+胃癌 喝 中草药	__label__tumor
+喝 孕妇 奶粉 胖 是 惠氏 妈妈 牌 热量 高	__label__other
+心跳 加快 是 一阵一阵 是 怎么回事	__label__other
+骨癌 晚期 能 活多久 骨癌 能活	__label__tumor
+乳腺癌 传染	__label__tumor
+拉完 屎 感觉 屁眼 屎 卡主 的	__label__other
+妇女 肚痛 什么 原因	__label__other
+宝宝 七十五 天 吃 完 奶粉 不 拉肚 要换 奶粉	__label__other
+是 放疗	__label__tumor
+肠癌 治疗	__label__tumor
+一个 红点 不用 狂犬 疫苗	__label__other
+乳腺癌 早期 有 恶心 想吐 症状	__label__tumor
+治愈 几率 多少 吗 医生	__label__tumor
+种 指甲 癌症 女中 指甲盖 凹 什么 病	__label__tumor
+三个 月 的宝宝 身高体重	__label__other
+鼻咽癌 良性 恶性 之分	__label__tumor
+喉癌 早期 表现 症状	__label__tumor
+老人 了 肝癌 想 咨询	__label__tumor
+吃 瓜子 瓜子壳 戳 进 舌头 里 肿了 一块	__label__other
+耳朵 里长 一股 小包 不动 不痛 有时候 有点	__label__other
+白血病 癌症 治不好	__label__tumor
+舌淡 胖有 齿痕 苔 白为 脾虚 湿重	__label__other
+感觉 喉咙 里 卡住 饭粒 吐 出来 咽不下 好几	__label__other
+长 两颗 下牙 马牙	__label__other
+九个 多月 的宝宝 消化不良 益生菌 长期 吃	__label__other
+宝宝 屎 今天 拉水	__label__other
+胃癌 患者 吃 肺癌 药 什么 危害	__label__tumor
+直肠癌 淋巴 转移 腹腔 见个 癌细胞	__label__tumor
+胃 息肉 导致 胃癌	__label__tumor
+肠癌 治疗	__label__tumor
+结肠癌 发展期	__label__tumor
+放疗 多久 作用	__label__tumor
+牙齿 边有 泡 直径 mm	__label__other
+一个月 朋友 见 都 说 胖 许多 体重 增加 脸 圆 大重 下巴 很大 到底 怎么回事	__label__other
+嘴唇 这个 肉团 几年 忘记 是 长得	__label__other
+没有 别的 不适 膝盖 骨节 有时候 会 疼	__label__other
+子宫 锥切 术后 手脚冰凉 腰部 发凉 浑身 出冷汗 正常 现象	__label__other
+长期 妥布霉素 会得 白血病	__label__tumor
+M 白血病 染色体 一条 关系	__label__tumor
+左 耳朵疼 睡不着 觉 鼻塞	__label__other
+放射性 结 直肠炎 自我 护理	__label__tumor
+有个 水泡 脱皮 怎么回事	__label__other
+直肠癌 有没有 误诊 可能	__label__tumor
+怀孕 都 用 鼻炎 喷雾剂 知道 孩子 有没有 影响	__label__other
+骨癌 早期 症状	__label__tumor
+是 术后 放疗 术后 放疗 什么 价值	__label__tumor
+妈妈 这个 脚 骨头 舒服 不 怎么	__label__other
+肝癌 传染	__label__tumor
+放疗 注意事项 哪些	__label__tumor
+喉癌 早期 症状 什么	__label__tumor
+晕倒 头 疼 有没有 颅内出血 风险	__label__other
+男儿 岁月 气 两声 痛哭 一看 下体 阴茎	__label__other
+血小板 降低 应 处理	__label__tumor
+确诊 直肠癌 晚期 化疗 或者 其他 措施	__label__tumor
+放射线 正常 组织 损害	__label__tumor
+年轻人 会得 胃癌	__label__tumor
+小细胞肺癌 想 问问 有没有 靶向 药物	__label__tumor
+右侧 乳房 有点痛 乳腺癌	__label__tumor
+肛门 下坠感 收 肛门 好处	__label__other
+女性 乳腺癌 症状 什么	__label__tumor
+大腿 偏 内测 出生 一直有 一块 这会 最后 黑色素瘤	__label__tumor
+四个 月 的 孩子 发烧 度 流涕	__label__other
+睡觉 嘴里 咸 感觉 点 回甜 嘴巴 里 腻	__label__other
+宝宝 低烧 低烧 持续 退	__label__other
+． 照射 区 皮肤 发生 破溃 流水 如何	__label__tumor
+做 双眼 天 眼睛 肿 烦人 失败 双眼皮	__label__other
+左面 耳朵 嗓子 疙瘩 有 一段时间 一	__label__other
+摔了一跤 小腿 筋痛	__label__other
+双相 情感障碍 焦虑 强迫 什么 关系	__label__other
+眼镜 小孩 小心 打肿 应该 急急 急急	__label__other
+腿 粗长 高 的话 小腿 拉长 变细	__label__other
+多年 咽炎 频繁 清 嗓 咳嗽 折磨 死 了 要 治疗	__label__other
+另一边 红红的 有 疹子 怎么办	__label__other
+结肠癌 肝 转移 治疗方案	__label__tumor
+半个 月 体重 降 斤 吗	__label__other
+治疗 卵巢癌 多少 钱	__label__tumor
+治疗 暴食 症 精神 控制 类药物	__label__other
+肺癌 传染性	__label__tumor
+医院 检查 是 血管瘤	__label__tumor
+直肠息肉 导致 直肠癌	__label__tumor
+肝癌 结肠癌 图片 请 下	__label__tumor
+哺乳期 乳房 硬块 瘙痒	__label__other
+脸部 皮肤癌 早期 症状	__label__tumor
+双顶 颈 mm 股骨 长 mm 产房 医生 说 可能 畸形 我家 宝宝 是 畸形	__label__other
+保肢 手术 截肢 手术 更好	__label__tumor
+肺癌 晚期 死前 征兆 我妈 查出 肺癌 晚期 多像 转移 一年 整了 死前 征兆	__label__tumor
+岁 小孩 左 下眼皮 有个 坨 关系	__label__other
+颞下颌关节 紊乱 导致 眼睛 咽喉 舒服	__label__other
+保肛 术后 多久 进食	__label__tumor
+肺癌 扩散 淋巴 是不是 只能 化疗	__label__tumor
+脚背 长 一个 筋包 很大 疼痛感	__label__other
+营养 肿瘤 什么	__label__tumor
+恶性黑色素瘤 危险因素 哪些	__label__tumor
+舌苔 白厚 有 小 疙瘩	__label__other
+乳腺癌 转移 肝脏 能治	__label__tumor
+金银花 玫瑰花 泡茶 脸 肿了	__label__other
+骨癌 早期 哪些 症状	__label__tumor
+县城 医院 怀疑 癌症 挂号 是 挂 科室	__label__tumor
+昨天 开始 疼痛 药棉 取出 吗	__label__other
+左脚 脚掌 关节 位置 肿痛 一阵阵 刺痛	__label__other
+现在 特别 疼 可以 抹 红霉素眼膏	__label__other
+甲状腺结节 帮 看 报告 没关系	__label__other
+刚配 副 眼镜 回来 感觉 凸	__label__other
+讲 肥胖 人 通过 中医 补气 调节 体质 去 医生	__label__other
+两个 乳房 外侧 疼 怎么回事	__label__other
+预防 结肠癌	__label__tumor
+女婴 第 天体 温度 家里 暖气 室	__label__other
+直肠癌 治疗	__label__tumor
+牙齿 喝 冷水 酸 敏感	__label__other
+长痘 开 中药 不会 影响 月经	__label__other
+门牙 断 一半 用 树脂 补牙 可以 费用 多少	__label__other
+鼻子 鼻梁 右侧 同学 使劲 用手 摁 一下 导致 鼻梁 歪掉	__label__other
+胃癌 晚期 化疗 痊愈	__label__tumor
+骨癌 怎么 的	__label__tumor
+四岁 孩子 晚上 发烧 做 噩梦 怎么回事	__label__other
+卵巢癌 可以 喝茶	__label__tumor
+岁 腺体 扁桃体肥大 手术 手术 不到 小时 睡觉	__label__other
+乳腺癌 病人 调节 情绪 什么 的 方法	__label__tumor
+放疗 哪些 不良反应	__label__tumor
+稍晚 一点 感冒 喉咙 就会 痛头 容易 昏是 情况	__label__other
+医生 宝宝 三个 半月 斤 全 母乳 出生	__label__other
+舌头 里面 底下 很痛 就是 红 一点 不	__label__other
+牙齿 疼 口腔 出血	__label__other
+骨癌 死亡率 高	__label__tumor
+结肠癌 吗 治疗	__label__tumor
+胆囊 切除 是不是 结肠癌 概率 高	__label__tumor
+做 缓解 肝癌 痛苦 男	__label__tumor
+儿童 急性中耳炎 土 方法 吗	__label__other
+脑 胶质瘤 哪些 临床症状	__label__tumor
+爸爸 结肠癌 想 问 关于	__label__tumor
+请问 不会 乳腺癌 胸壁 复发	__label__tumor
+有时候 呼吸急促 手舞足蹈 哼哼唧唧 是 怎么回事	__label__other
+大豆 卵磷脂 胶囊 不能 奶 蓟草 两种 保健品 服用	__label__other
+流鼻涕 身上 红疹 这是	__label__other
+孩子 头 磕 包 处理 男岁 月	__label__other
+直肠癌 扩散 还 治疗	__label__tumor
+眼科 大夫 : 痛 痒 是 过敏 发炎	__label__other
+真的 生气	__label__other
+四个 月 的宝宝 前 囟门 中指 拇 宽 嘛	__label__other
+脑瘤 头痛 普通 头痛 区别	__label__tumor
+骑车 摔 一下 脚上 轻微 损伤 右 胸口 疼痛 淤	__label__other
+了 皮肤癌 哪些 症状	__label__tumor
+转移 肝癌 吃 点 药 就是 疼	__label__tumor
+甲状腺癌 术后 九个 月 转移 碘 治疗	__label__other
+我 缝线 缝 两针 好像 掉 在 嘴里 感觉 有 影响	__label__other
+宝宝 出生 右边 脖子 就 一个包 鼓鼓的 不知	__label__other
+喉咙 疼 有 痰 一点 黄色 前天 是 喉	__label__other
+容易 紧张 焦虑 一点 事情 会险入 紧张 焦	__label__other
+检查 有 胆囊管结石 不 该	__label__other
+人瘦 皮肤 粗糙 特别 怕冷 精神 特别 困	__label__other
+感觉 手淫 强迫 躺 床上 有 淫秽	__label__other
+确诊 鼻咽癌	__label__tumor
+梅核气 最 方法 治疗 什么 喉咙 里 舒服	__label__other
+胃癌 肝 转移 有没有 办法 缓解	__label__tumor
+放射线 治疗 肿瘤 优点	__label__tumor
+白血病 阴转阳	__label__tumor
+小孩 耳朵 一粒 东西 导致 发炎 发烧 打针 💉	__label__other
+发现 乳头 下方 有个 黄豆 大小 是 奶结	__label__other
+有 肝癌 做手术	__label__tumor
+补 牙 现在 咬合 胀 咬合 酸痛 不	__label__other
+放疗 时 常用 体位 哪几种	__label__tumor
+癌症 手术 就 视为 治愈 无需 治疗 情况 继续 治疗	__label__tumor
+两个 乳房 外侧 疼 怎么回事	__label__other
+眼眶 骨折 眼眶 塌陷 月 能 做手术 有 影响	__label__other
+乳腺癌 术后 锻炼 什么	__label__tumor
+我 肚饿	__label__other
+眼睛 睁不开 嗓子 干疼 吃不下 饭 怎么回事	__label__other
+细胞 肺癌 中期 治疗	__label__tumor
+结肠癌 术后 化疗 两 肺 肝脏 多发 M	__label__tumor
+胸口 背部 隐痛 鼻腔 有 干 血痂 是 肺癌	__label__tumor
+小孩 咳嗽 我 小孩 段时间 反反复复 咳嗽	__label__other
+扁桃体发炎 吃 药咽 东西 一点 疼 发热 嗓子 干 冒烟	__label__other
+肝癌 早期 治疗	__label__tumor
+乳腺癌 患者 饮食 上要 吃 比较	__label__tumor
+请问 胃癌 如何 治疗	__label__tumor
+直肠癌 患者 如何 选择 检查 方法	__label__tumor
+别人 眼睛 对视 不由自主 有 紧张 不 怎么 走路	__label__other
+月经 干净 复查 增大 要 手术	__label__other
+中期 卵巢癌 治愈	__label__tumor
+胆碱酯酶 高是 怎么回事	__label__other
+早醒 导致 睡眠 严重不足 原因 完书 会	__label__other
+预防 结肠癌	__label__tumor
+胰腺癌 治愈	__label__tumor
+乳腺癌 早期 有 恶心 想吐 症状	__label__tumor
+吃 完 火锅 咳嗽 吐血 原因 昨天 吃火锅 早上 咳嗽 厉害 吐血	__label__other
+早上 梳头发 时候 脖子 扭 一下 现在 很痛	__label__other
+发现 老婆 同性恋 女人 发生 性关系	__label__other
+早上 发现 左 眼睫毛 根部 红肿 请 医生 帮 看看 什么 情况	__label__other
+红 血细胞 恶性 乳腺癌 细胞	__label__tumor
+宝宝 月 体重 身高 生长迟缓 奶量	__label__other
+吗 乳腺癌 可能性 吗	__label__tumor
+男儿 岁月 气 两声 痛哭 一看 下体 阴茎	__label__other
+岁 咳嗽 胸闷 头晕 肺癌	__label__tumor
+乏力 疲倦 拉肚 这 怎么回事	__label__other
+头疼 全身 酸疼 怎么回事 买 药	__label__other
+害怕 磨 玻璃 结节 肺癌	__label__tumor
+放疗 腹胀 腹泻	__label__tumor
+岁 宝宝 嘴角 嘴唇 生小 泡泡 怎么回事	__label__other
+喉癌 传染	__label__tumor
+腿 粗会 影响 长高	__label__other
+代煎 中药 少加 一味 生姜 什么 补救措施	__label__other
+正确 预防 乳腺癌	__label__tumor
+减轻 放疗 副反应	__label__tumor
+乳腺癌 化疗 消化道 副反应	__label__tumor
+浑身 疼痛 这 怎么	__label__other
+病人 适合 做 直肠癌术后 放疗	__label__tumor
+脚底 跟 脚掌 脚指 疼 怎么回事	__label__other
+子宫内膜癌 月经 生育 吗	__label__tumor
+现在 感觉 喉咙 肿胀	__label__other
+男 cmkg 肚 减肥	__label__other
+结肠癌 肝 转移 第四期 化疗	__label__tumor
+放射治疗 疗程 多长时间	__label__tumor
+高 分化 直肠癌 做 化疗	__label__tumor
+一月 前有 不洁 性交 史 小便 刺痛 尿 早起	__label__other
+乳腺癌 放疗 一个月 奶头 会 痒	__label__tumor
+了 皮肤癌 哪些 症状	__label__tumor
+我妈 冠心病 心绞痛 犯 特别 频繁 血管痉挛	__label__other
+天气 干燥 时候 感觉 鼻子 闻到 好多 灰尘 头 容	__label__other
+乳腺癌 晚期 压迫 一侧 肺门 喘 厉害	__label__tumor
+每次 治疗 时 体位 对 治疗 有何 影响	__label__tumor
+吃 东西 很 痛 怎么回事	__label__other
+脑瘤 治疗	__label__tumor
+恐艾后 自己 心理 问题 看 都 艾	__label__other
+女性 了 宫颈癌 传染 男性	__label__tumor
+结肠癌 肝 转移 化疗 情况 咨询	__label__tumor
+早上 醒来 鼻子 里 难受 感觉 痰 血丝	__label__other
+宝宝 两个 月 血管瘤 混合性血管瘤 不想 打针	__label__tumor
+越来越 不想 别人 交流 不想 心事 说 朋友	__label__other
+肺癌 晚期 治疗	__label__tumor
+喉癌 早期 症状 什么	__label__tumor
+喉管 卡 鱼刺 怎么办 怎么 去 鱼刺 鱼刺	__label__other
+初三 就 失眠 现象 上课 发呆 咋办	__label__other
+半年 一直 不适 不会 恶性	__label__other
+肝癌 黄疸 已经 晚期	__label__tumor
+宫颈癌 治愈 几率 高	__label__tumor
+确诊 乳腺癌 怎么 确诊	__label__tumor
+鼻炎 癌 放化疗 后个 月 是 转移 吧	__label__tumor
+脸上 长 个 血管瘤 发现 现在 一个月 时间长	__label__tumor
+胆囊息肉 了 胆囊 肠胃 不好 年 了	__label__other
+最近 星期 感觉 内眼角 里 疼 痒 伴随 流	__label__other
+三个 月 宝宝 拉 两次 绿粑 粑 稀 拉 豆腐	__label__other
+适合 喝 有 功能	__label__other
+肝癌 早 末期 主要 特征	__label__tumor
+放射治疗 济程 包括 步骤	__label__tumor
+岁 做 鼻 泪管 堵塞 做过 静脉曲张 手术 做 骨髓移植	__label__other
+便血 肝癌 一直 呕吐	__label__tumor
+生完 小孩 两年 一直 做 家务 拖过 两次	__label__other
+喉咙 异物感 吞 东西 难受	__label__other
+去 超市 买 东西 买 完 回家 发现 物品 包装	__label__other
+锻炼 我 体形 变瘦 要 抑郁	__label__other
+骨 摔 折后 简单 治疗 出现 水泡 处理	__label__other
+胃癌 晚期 预后 一般	__label__tumor
+直肠癌术后 放疗 于 人群	__label__tumor
+复查 泌乳素 高值	__label__other
+结肠癌 淋巴结 转移 怎么 治疗	__label__tumor
+子宫内膜癌 什么 原因 的	__label__tumor
+乳腺癌 治疗 方法 有	__label__tumor
+洗澡 发现 女儿 胸部 乳头 按 有 硬硬 是不是 早熟	__label__other
+子宫内膜癌 遗传	__label__tumor
+家里 老人 在 县 医院 刚出 icu 问 是	__label__tumor
+肝癌 术后 想 现在 情况 多	__label__tumor
+请问 医生 直肠癌 遗传	__label__tumor
+眼镜 一点 眼睛	__label__other
+每天 早晚 喝一杯 陈醋 蜂蜜 两勺 蜂蜜 喝能 减肥	__label__other
+周岁 小孩 大腿 拉伤 打针	__label__other
+不明 原因 消瘦 体检 十月 十一月 工作 疲劳 瘦 斤 体检	__label__other
+乳腺癌 治疗	__label__tumor
+宫颈癌 时候 复查	__label__tumor
+乳腺癌 保守 治疗 还是 手术	__label__tumor
+鼻咽癌 放疗 中 出现 中枢神经系统 损伤 处置	__label__tumor
+请问 毛细胞 白血病 中医 治疗 效果 吗	__label__tumor
+嘴张 不开 很小 嘴 只能 张开 放进 一颗	__label__other
+肺癌 检查 项目 哪些	__label__tumor
+请问 直肠癌 介入 放疗	__label__tumor
+结肠癌 中晚期 化疗 期间	__label__tumor
+白血病 化疗 为什么 感觉 头疼 头晕	__label__tumor
+段时间 晚上 睡醒 拉尿 是 黑 用	__label__other
+早期胃癌 术后 六天 腹胀 谢谢	__label__tumor
+耳朵 特别 痒 是 了	__label__other
+眼白 有 一小块 斑点 的 淡青色 怎么回事	__label__other
+足部 青筋 鼓起 长时间 走路 些许 疼痛	__label__other
+麻烦 大夫 下 宝宝 鼻子 白天 没什么 症状	__label__other
+做 胸片 的 射线 引发 白血病 乳腺癌	__label__tumor
+没 办法 安全感 觉得 自己 支离	__label__other
+乳腺癌 切除 就 彻底 治愈 吗	__label__tumor
+胃 ca 胃窦 就是 胃癌	__label__tumor
+晚上 来 客人 闺女 先是 吃 些 热鸡	__label__other
+肺癌 放疗 导致 放射性 肺部 纤维化	__label__tumor
+用水 软化 喉咙 怎么办	__label__other
+因为 右眼 舒服 照镜子 红红的 不 知道 为啥	__label__other
+脑袋 有颗 先天性 肿瘤 经常 疼痛 很痛 那种	__label__other
+肝癌 患者 总是 疼痛	__label__tumor
+是 钴 治疗机 有 优缺点	__label__tumor
+连续 腹泻 天 到底 怎么回事	__label__other
+岁 腰疼 两个 月 右腿 外侧 腿疼 怎么 治疗	__label__other
+咳嗽 恶心 这是 原因	__label__other
+直肠癌 造口 护理 做	__label__tumor
+肚脐 右侧 约 cm 地方 隐痛 症状 持续 三天	__label__other
+医生 小孩 两天 流 鼻水 咳嗽 喉咙 没用	__label__other
+乳腺癌 肿瘤 医生 咨询	__label__tumor
+恶性黑色素瘤 转移	__label__tumor
+宫颈癌 晚期 临终前 症状	__label__tumor
+放疗 副作用	__label__tumor
+月 号 发现 补 那颗 牙 牙龈 肿痛 怎么 治疗	__label__other
+眼睛 红 不痛不痒 回事	__label__other
+乳腺癌 检查 项目 乳房 硬块 做 哪些项目 检查	__label__tumor
+鼻咽癌 怎么 治	__label__tumor
+放射治疗 诱发 肿瘤	__label__tumor
+结肠癌 症会 传染给 吗	__label__tumor
+卵巢癌 化疗 期间 复查	__label__tumor
+舌苔 厚 自动 发冷 又 自动 发热 脸有	__label__other
+到底 身体 不好 疑 病症 神经症	__label__other
+三岁 完 预防针 发烧 回事	__label__other
+这颗 牙 补过	__label__other
+这 二个月 爱 喝水 加点 糖 开水壶 里 喝特	__label__other
+耳朵 里 感觉 东西 动 是 怎么回事	__label__other
+肾癌 什么 原因 的	__label__tumor
+模拟定位 哪里	__label__tumor
+一个鼻孔 流血 鼻音	__label__other
+宝宝 眼皮 有 小 疙瘩 破 以后 眼睛 流血 男	__label__other
+妇女 肚痛 什么 原因	__label__other
+宝宝 两个 月 一直 混合 喂养 觉得 一直	__label__other
+屁眼 边上 长 一个 绿豆 大小 红色 水泡	__label__other
+直肠息肉 患者 如何 预防 直肠癌	__label__tumor
+麻烦 下 检查 怎么样	__label__other
+直肠癌 放疗 什么 作用	__label__tumor
+胃癌 活多久	__label__tumor
+请问 乳腺癌 什么 症状	__label__tumor
+宝宝 期间 使用 痔疮栓 男	__label__other
+鼻子 撞 流鼻血	__label__other
+舌癌 传染	__label__tumor
+放疗 结束 为什么 定期 医院 复查	__label__tumor
+查出 唇裂 裂痕 不会 影响 上颚	__label__other
+直肠癌 能 保住 肛门	__label__tumor
+碰 疼 碰 微微 疼 怎么回事	__label__other
+医生 说 有点 湿热 喝	__label__other
+是 的 病情 : 舌头 根部 疙瘩 舌头	__label__other
+甲胎蛋白 高会 肝癌	__label__tumor
+脚趾 断 手术 一天 伤口 处长 类似 血	__label__other
+手术 做 后 化脓 化 一个 洞 黄水	__label__other
+抑郁症 爱上 不该 爱 人 刺激 源 吃 几个	__label__other
+直肠癌 患者 如何 选择 检查 方法	__label__tumor
+肺癌 早期 治好	__label__tumor
+胃癌 主要 原因 什么	__label__tumor
+慢性淋巴细胞白血病 发病 年龄	__label__tumor
+心慌 怎么回事 心口 也 疼 一会	__label__other
+肝癌 传染	__label__tumor
+马来酸非尼拉敏 盐酸 结膜炎 好处	__label__other
+脑 胶质瘤 放疗 期间 注意	__label__tumor
+出汗 是不是 了 炎症	__label__other
+年轻人 会得 胃癌	__label__tumor
+大便 滴血 两月前 有过 几天 没 流血	__label__other
+直肠癌 扩散 肝癌 情况 非常 糟糕	__label__tumor
+胰腺癌 患者 都 有 症状	__label__tumor
+很 疼要 去 医院	__label__other
+脑肿瘤 晚期症状 有 哪些方面	__label__tumor
+头颈部 放疗 哪些 方式	__label__tumor
+咳嗽 头 鼻子 疼右 前胸 疼 怎么	__label__other
+的 女儿 十岁 睡觉时 双腿 拱 就 几天	__label__other
+放射治疗 中 进行 日常生活	__label__tumor
+结肠癌 晚期 办法 控制	__label__tumor
+结婚 年 和 丈夫 性生活 没	__label__other
+胰腺癌 放疗 吃	__label__tumor
+疼 两种 药 治疗 腰	__label__other
+改善 口腔癌 放疗 的 溃疡 加重	__label__tumor
+话 卡 嘴边 想 说 不 憋 的 难	__label__other
+放疗 患者 饮食 注意事项	__label__tumor
+的 眼睛 干眼症 好几年 眼罩 不会 管用	__label__other
+宝 孩子 高烧 度查 血常规 血项 不高 给孩	__label__other
+现在 要 前面 四颗 牙齿 矫正	__label__other
+胃息肉癌变 哪些 影响 因素	__label__tumor
+胃癌 术后 化疗 还是 吃 中药 怎么办	__label__tumor
+感冒 流鼻涕 咋办	__label__other
+想 抑郁症 贪睡 有点 暴饮暴食 整天	__label__other
+采集 足 血 两次 怎么 治疗	__label__other
+月 日 肠胃 受凉 拉稀 家中 有事 忙碌 吃饭 吃	__label__other
+胃癌 转移 肝脏 介入 意义	__label__tumor
+双肺 淋巴结钙化 什么 我 是 肿瘤 需要	__label__tumor
+左脚 脚掌 关节 位置 肿痛 一阵阵 刺痛	__label__other
+头颈 放疗 门诊 办公室 那里	__label__tumor
+过敏性紫癜 说 眼睛 疼 怎么回事	__label__other
+肝癌 化验 血能 查出来	__label__tumor
+肝癌 靶向 药 有 卖	__label__tumor
+银杏达莫 m 注射液 钱 一支	__label__other
+右 后腰 下方 皮下 硬块 疼痛 躺 坐 走路 疼 腿	__label__other
+左侧 筛窦 黏下 囊肿 鼻咽 软组织 增厚	__label__other
+胃癌 晚期 吃 甲鱼	__label__tumor
+焦虑 强迫症 太 别人 当回事 敏感 多疑 猜疑 想	__label__other
+小细泡 肺癌 淋巴 转移 治疗	__label__tumor
+何为 放射治疗 临床 剂量学 四原则	__label__tumor
+张不开 嘴 牙齿 打不开	__label__other
+放疗 导致 恶心呕吐	__label__tumor
+我爸 肺癌 晚期 骨转移 做 七次 化疗 不去	__label__tumor
+鼻咽癌 采用 治疗 方式	__label__tumor
+胃癌 晚期 能治好	__label__tumor
+前天 晚上 人 了 一巴掌 耳膜 穿孔 需要 去测 听力	__label__other
+老人 耳朵 流血 疼痛感	__label__other
+食管癌 哪些 症状	__label__tumor
+直肠癌术后 放疗 于 人群	__label__tumor
+糖尿病 眼底出血 治	__label__other
+的 牙齿 一口 需要 矫正 的 需要 钱	__label__other
+怀孕 低 回声 团块 恶性	__label__tumor
+性伴侣 多会 癌症 白血病	__label__tumor
+乙状结肠 癌 是 晩 期 吗	__label__tumor
+治疗 焦虑症 的 药 焦虑症 吃 药	__label__other
+肺癌 特罗 凯 失效 治疗方案 选择	__label__tumor
+大便 干燥 排出来 少有 东西 堵住	__label__other
+胖子 痒 咳嗽 感觉 痰 堵 声音嘶哑 前 几天 发烧 症状	__label__other
+男朋友 妈妈 手术 住院 几天 一直在 陪床	__label__other
+了 食道癌 吃 最好	__label__tumor
+肝内 强回声 不会 肝癌	__label__tumor
+你好 大夫 药对 白血病 效果	__label__tumor
+肠癌 咨询 便血 时间 从 去年 吧	__label__tumor
+牙齿 补完 很酸 东西 不能 咬	__label__other
+四个 月 的宝宝 喝 金银花 甘草 水 排毒	__label__other
+放疗 病人 身上 放射 残留	__label__tumor
+大便 脓液 不会 直肠癌	__label__tumor
+直肠癌 结肠癌 什么 病证	__label__tumor
+皮肤癌 哪些 类型	__label__tumor
+是 复查 CT 这个 能看懂	__label__tumor
+大夫 拉 血便 直肠癌	__label__tumor
+结肠炎 结肠癌 区别	__label__tumor
+来 打扰 爸爸 去 医院 拆线 了 没有	__label__other
+排卵期 前一天 同方 射射 完 洗澡 洗完 澡半	__label__other
+吃 完 晚饭 分钟 左右脚 冻得 痛是 怎么回事	__label__other
+直肠癌术后 年	__label__tumor
+化疗 脱发 有 的 人 不会	__label__tumor
+度 近视 度 散光 多少度 隐形	__label__other
+紧张 过度 死	__label__other
+治 肺癌 治疗	__label__tumor
+叫 倒 Y 野	__label__tumor
+早期 喉癌 检查 出来	__label__tumor
+转氨酶 高 伴有 耳鸣 怎么回事 经常 失眠	__label__other
+鼻中隔偏曲 时常 流鼻血	__label__other
+颈椎 生理 曲度 呈 反弓 改变 颈椎 骨质 结构 未见确	__label__other
+肛门 有来 天想 有 小虫 爬 一样 舒服 什么 原因	__label__other
+放射治疗 恶性肿瘤 治疗 中 占有 地位	__label__tumor
+要 接受 放射治疗	__label__tumor
+有 精神分裂症 人 呆 久 会	__label__other
+早期 肝癌 治愈 还 活多久	__label__tumor
+宝宝 晚上 哭 哄 哭 整一整 哭 拉	__label__other
+只要 用水 清洗 就 让 自然 长	__label__other
+岁 直肠癌 动	__label__tumor
+结肠癌 治疗 费用	__label__tumor
+二姑 胃癌 晚期 医生 说 扩散 全身	__label__tumor
+有 重牙 一上 特 难看 情况 拔掉	__label__other
+近视 度 视疲劳 带度 眼镜 能 看得清	__label__other
+小孩 三岁 四个 月 从入 幼儿园 就 感冒	__label__other
+纤维瘤 吃 大豆 胶原蛋白	__label__tumor
+皮肤癌 控制 好	__label__tumor
+眼睛 边上 长 白色 颗粒	__label__other
+乳腺癌 晚期 做手术 乳头 痛 咋办	__label__tumor
+张不开 嘴 左侧 疼痛 张嘴 位置 疼	__label__other
+上海 治 肺癌 晚期 好 医院 哪些	__label__tumor
+放射线 治疗 肿瘤 优点	__label__tumor
+哺乳期 鼻炎 吃 药	__label__other
+冠心丹参 丸 吃 会 内热	__label__other
+神经病 课表上 什么 又 说 我 老板 闹 点 愉快	__label__other
+了 食道癌 吃 最好	__label__tumor
+宝宝 两个 月 一直 混合 喂养 觉得 一直	__label__other
+想 问问 直肠癌 吃	__label__tumor
+问过 医生 可以 吃 肚 胀气 太瘦	__label__other
+头疼 心情 不好 情绪低落 食欲不振 未来 希	__label__other
+两天 晚上 频繁 哭闹 要 长牙 吗	__label__other
+胃 息肉 治疗	__label__tumor
+右耳 ° 低烧 如果 低烧 怎么 她 降温	__label__other
+眼睛 打肿 几天 消肿	__label__other
+心窝 处 闷 疼 胃癌 岁	__label__tumor
+宫颈癌 检查 做	__label__tumor
+右眼 遇风 流眼泪 怎么回事	__label__other
+乳腺癌 不会 隔代遗传	__label__tumor
+有时 用 低熔点 铅 做成 形状 模块	__label__tumor
+宫颈癌 什么 原因 导致	__label__tumor
+需要 破伤风 现在 痛	__label__other
+乳腺癌 切除 就 彻底 治愈 吗	__label__tumor
+头部 受伤 没 发现 多久 体现 呢	__label__other
+乳腺癌 化疗 脱发	__label__tumor
+七十二岁 老大爷 县 医院 查 医生 初步 是	__label__tumor
+化疗 哪些 不良反应	__label__tumor
+月经不调 检查 畸胎瘤 年 做手术 不会 耽搁 影响	__label__tumor
+放射性肺炎 自我 调护	__label__tumor
+牙痛 什么 方法 止痛 突然间 疼	__label__other
+鼻 中轴 偏曲 流血 经常性 头痛	__label__other
+了 胃癌 呢	__label__tumor
+鼻咽癌 放疗 需要 什么	__label__tumor
+左腿 疼 半月 时间 以前 腰疼 前段时间	__label__other
+很久没 去 复查 知道 最近 疼痛	__label__other
+三阴 乳腺癌 早期 吗	__label__tumor
+我爸 肺癌 晚期 血液 循环 能 活多久	__label__tumor
+肝上 厘米 肿瘤 是 恶性 的 吗	__label__tumor
+食道癌 手术 两年 检查 t 椎体 骨质破坏	__label__tumor
+肾癌 转移 肺癌 挂 科	__label__tumor
+是 伽马刀	__label__tumor
+胃癌 请问 大夫 一步 处理	__label__tumor
+放射治疗 几个 疗程	__label__tumor
+小腹 一侧 疼 什么 情况	__label__other
+鼻咽癌 放疗	__label__tumor
+胃癌 会 什么 症状	__label__tumor
+体检 查出 胃癌 指数 增高	__label__tumor
+老年人 了 肺癌	__label__tumor
+放疗 和 治疗 方式 使用	__label__tumor
+淋巴结肿大 身上 起红 疙瘩 咽喉 痛 发烧	__label__other
+从没 过 肝病 肝癌 几率 大不大	__label__tumor
+宫颈癌 早期 有 症状	__label__tumor
+感觉 眼睛 近视 东西 模糊 根 身体	__label__other
+前男友 微信 我 说 句 前任 啥意思 是	__label__other
+纤维结肠镜检查 确诊 直肠癌	__label__tumor
+医院 生 孩子 找人 代理 签字 会上 电脑	__label__other
+康妇凝胶 了 这药 阴道 伤害	__label__other
+头颈部 肿瘤 放疗 影响 患者 认知 记忆 功能	__label__tumor
+半年 了 泡沫 尿 调理	__label__other
+宝宝 退烧 消炎药 吃 几天 女岁 月	__label__other
+我爸 患有 会厌 癌于 年月日	__label__tumor
+是 放射治疗 模拟定位	__label__tumor
+这是 下颌 淋巴结肿大 缩脖子 时 双下巴 摸 半硬 半软 的 块状 物	__label__other
+中医 抗癌 治疗 中 发挥 作用	__label__tumor
+帮 判断 是不是 焦虑症	__label__other
+婴儿 肚 大是 怎么回事 干呕 找 吃	__label__other
+一个 红点 不用 狂犬 疫苗	__label__other
+阴毛 长 一串 灰色 肉瘤 不痛不痒 用手 掐掉	__label__tumor
+舌头 有时候 事 有点 溃烂 怎么回事	__label__other
+中期 胃癌 手术 多少 钱	__label__tumor
+想自杀 人 大 概率 抑郁症 总是 自己	__label__other
+乳腺癌 术后 化疗 为什么 放疗	__label__tumor
+直肠癌 手术 复发率 很 高	__label__tumor
+膝盖 处 下楼 时有 舒服 感觉 什么 原因 的	__label__other
+取下 左耳 两个 发黑 右耳 化脓 影响 神经	__label__other
+总 自己 没精神 做 事情 觉得	__label__other
+七个 月 积食 检查	__label__other
+放射治疗 计划 执行	__label__tumor
+直肠癌 新辅助放化疗 治疗 时间 多久	__label__tumor
+后脑 疼 脑空 穴位 手指 点压 头痛 减轻 服	__label__other
+放射治疗 治疗 恶性淋巴瘤 的 作用	__label__tumor
+晚期 鼻咽癌 最终 会 死	__label__tumor
+糖尿病人 腿 起水泡 可否 自行处理 放出 放出	__label__other
+肝癌 这个 情况 用 方法 调理	__label__tumor
+眼睛 里 黄斑 嵌入 黑眼圈	__label__other
+宫颈癌 A 期 复发率 高	__label__tumor
+． 腔内 放疗 操作步骤 哪些	__label__tumor
+害怕 小针刀 手术 彻底 再 做	__label__other
+月经 特别 少 乳房 胀痛 腰酸	__label__other
+乳腺 疼涨 发热 咋办	__label__other
+正在 哺乳期 左侧 乳房 的 皮肤 发痒	__label__other
+我家 宝宝 耳朵 流 黄水 宝宝 湿疹 比较严重	__label__other
+肺癌 放化疗 单纯 化疗 区别	__label__tumor
+肝癌 帮下 忙	__label__tumor
+腿 膝盖 紫色 小泡 按着 疼 是 怎么回事	__label__other
+有 受伤 那侧 鼻骨 一侧 掉 感觉 没长 吗	__label__other
+乙肝 不能 做 房事 戴上 避孕套 好了吗 女友	__label__other
+那种 口腔的 味道 牙结石 原因	__label__other
+站 小肚 两侧 胀 胀 扯 腰 坠坠 的 感觉 能 做 宫腔镜	__label__other
+直肠癌 打嗝 怎么回事	__label__tumor
+肺癌 晚期 治疗 哪家 医院 好	__label__tumor
+肝癌 早期 症状 治疗 方法	__label__tumor
+肺癌 晚期 治疗	__label__tumor
+胃癌 初期 化疗 彻底 治疗	__label__tumor
+医生 有 肛裂 疼 肛裂 抹 药 抹 吗	__label__other
+寒喘祖帕颗粒 金维他 能合 吃	__label__other
+胃癌 麻烦 医生 这个 情况 手术	__label__tumor
+手腕 骑车 受过伤 图 手腕 不 上劲	__label__other
+红花 茴香 蒸蛋 肺癌 人 吃	__label__tumor
+白血病 移植 活多久 捐献者 有害	__label__tumor
+右眼 遇风 流眼泪 怎么回事	__label__other
+直肠癌 微创 还是 开刀 怎么办	__label__tumor
+早上 起来 觉得 胃 难受 下午 时候 打	__label__other
+三四天 伴随 发烧 害冷 腿酸 口腔溃疡 的	__label__other
+宫颈癌 女性 身体 危害 哪些	__label__tumor
+胃癌 病人 吃 莲蓬	__label__tumor
+手指 经断 会 什么 后遗症	__label__other
+做 双 眼睛 皮 伤口 有小肉 粒 怎么回事	__label__other
+张嘴 时 脸部 两侧 骨骼 响 怎么回事	__label__other
+血小板减少 白血病 关系	__label__tumor
+耳朵 后边 包包 有时候 有时候 男岁	__label__other
+以前 经常 剧烈运动 感到 心悸 我会 一	__label__other
+胃癌 什么 病	__label__tumor
+胃癌 主要 转移 途径 怎么办	__label__tumor
+体检 检查 脂肪肝 胰岛素 血压	__label__other
+骨肉瘤 发病 有	__label__tumor
+扁桃体发炎 天天 打针 连续 一周 好转	__label__other
+发烧 一个 咳嗽 吃 药	__label__other
+喉癌 传染	__label__tumor
+胃胀 昨天 半夜 吐 早上 拉肚 全是 水到	__label__other
+一碰 疼 碰 有时候 疼	__label__other
+放假 回来 口腔溃疡 我 肌肉 牵引 问题	__label__other
+做过 近视眼 矫正 看不清 东西 角膜穿孔 能 吗	__label__other
+宫颈癌 放疗 期间 注意事项	__label__tumor
+有 口臭 感觉 容易 胖 那种 喝水 长	__label__other
+上额 窦 恶性 成骨性 肿瘤	__label__tumor
+右 肋骨 下面 肋骨 里 吸气 时候 感觉 舒服 怎么回事	__label__other
+直肠癌术后 两周 左腹 刀口 痛	__label__tumor
+脑膜瘤 放疗 效果	__label__tumor
+泼尼松片 吃 几次 中耳炎 刚刚 吃药 注意	__label__other
+五百多 度 近视 红血丝 明显 咋办	__label__other
+膝盖 异物 移动 疑惑 不疼不痒	__label__other
+食欲不振 易 头晕 什么 情况	__label__other
+眼皮 红肿 痒 说 化妆品 过敏 怎么回事	__label__other
+组织间 插植技术 操作步骤 哪些	__label__tumor
+直肠癌 什么 情况 需要 接受 术 前 放疗	__label__tumor
+哺乳期 感冒 中 午睡 嗓子疼 打喷嚏	__label__other
+一吃 母乳 拉肚 最近 两天 知道 了	__label__other
+颅咽管瘤 术后 放疗 达到 效果 可以 减少 复发率	__label__tumor
+糖尿病 年月日 上午 右手 中指 发红 疼	__label__other
+脑 胶质瘤 哪些 治疗 方法	__label__tumor
+肠癌 术后 适合 吃	__label__tumor
+胃息肉癌变 哪些 影响 因素	__label__tumor
+请 下 B超 单子 给 看看 乳腺癌	__label__tumor
+结肠癌 治愈	__label__tumor
+岁 虎牙 拔牙	__label__other
+长 牙龈 的 门牙 拔	__label__other
+． 固定 体位 哪些 方法 各有 优缺点	__label__tumor
+胰腺癌 生存率	__label__tumor
+尿道 发痒 怎么回事 龟头 男岁	__label__other
+岁 男 年前 膀胱癌 切除 一个 肾有 保养 方法	__label__tumor
+恐惧 恶心 感觉 性生活 怎办	__label__other
+宝宝 鼻子 里拉 了 一条 鼻涕 的 东西	__label__other
+卵巢癌 化疗 副作用	__label__tumor
+什么 方法 检查 肝癌	__label__tumor
+放疗 与 新型 治疗 手段 联合 吗	__label__tumor
+怀孕 期间 减肥 我 怀孕 多天	__label__other
+叔叔 前 几天 查出 患有 食道癌 治疗	__label__tumor
+颅脑 外伤 什么 药	__label__other
+调强 放疗 什么	__label__tumor
+我家 孩子 放炮 眼睛 崩 一下 眼仁 淤血 不疼	__label__other
+直肠癌 中期 动过 手术 怎么办	__label__tumor
+转移性 骨癌 可以 活多久	__label__tumor
+一 女生 交往 一年 感情 好且 结婚 打算 这	__label__other
+焦虑 失眠 臆想 情绪 失控 想自杀	__label__other
+眶 内侧壁 骨折 手术 二十八 天在 锻炼 眼球 时	__label__other
+血管瘤 不会 自行 消退	__label__tumor
+牙龈 肿痛 下巴 淋巴结 痛 吗	__label__other
+乳腺癌 化疗 骨髓抑制	__label__tumor
+是 四位 放疗	__label__tumor
+喝完 酒 吃药 怎么办 喝完 酒 忘 吃 牙疼 药有 甲硝唑	__label__other
+是 鼻咽癌 患者 颈部 淋巴结 啊	__label__tumor
+晚上 躺 睡 了 就 发现 脚凉 脚底 出汗 怎么回事	__label__other
+医生 说 肝癌 晚期 可以 治疗	__label__tumor
+老人 白内障 手术 费用 在	__label__other
+四五 跖骨骨折 多久 好	__label__other
+男 会 乳腺癌	__label__tumor
+乳腺癌 术后 化疗 为什么 放疗	__label__tumor
+胃癌 病人 些	__label__tumor
+肺癌 传染	__label__tumor
+同学 患 白血病 治疗 麽 请问 医生	__label__tumor
+央视 健康 路 肺癌 术后	__label__tumor
+做 鼻 综合 了 鼻 夹板 回家 去 医院 找 医生 拆	__label__other
+鼻咽癌 不能 治疗	__label__tumor
+耳朵 好像 东西 听不见 声音 怎么回事	__label__other
+头颈部 肿瘤 病人 放疗 前 要 先 牙齿	__label__tumor
+孩子 肛门 跟 橡皮筋 怎么回事	__label__other
+一天到晚 口里 吐个 痰 丝 痰 液吐个 不停 咋办	__label__other
+放射治疗 那些 要求	__label__tumor
+放疗 导致 味觉 迟钝 处理	__label__tumor
+磁共振 脑部 结节 年前 有	__label__other
+小儿 剪 绊 舍痛 多久 好	__label__other
+是 紫癜 紫癜 什么 症状	__label__other
+问 宝宝 身上 长 这个 包是 怎么回事	__label__other
+宫颈癌 术后 五天 体重 增长 十斤 怎么回事	__label__other
+眼睛 远处 模糊 近处	__label__other
+很胖 这是 原因	__label__other
+右眼 眼 外角 磨 怎么回事	__label__other
+一只 眼右 眼睛 眼屎 黄是 怎么回事	__label__other
+胃癌 早期 检查 可以 治	__label__tumor
+请问 胃癌 晚期 能治	__label__tumor
+感觉 有 严重的 强迫症 之前 小说 看	__label__other
+检查 肾内科 内分泌科 说好 那 检查 科	__label__other
+散光 检查 要 散瞳 三天 三天 注意 吗	__label__other
+胃癌 请教 国内 哪家 肿瘤医院	__label__tumor
+吡拉西坦 和 氨磺必利 吃	__label__other
+腔内 放疗 怎么 操作	__label__tumor
+感到 嘴部 拉扯 怎么回事	__label__other
+化疗 什么 副作用	__label__tumor
+孩子 脚边 红 疙瘩 抓 抓 就 成 水泡 了 现	__label__other
+结肠癌 术后 复查 报告 分析	__label__tumor
+怀疑 是 乳腺癌 做 检查	__label__tumor
+变 胃癌 隆起糜烂性胃炎 不会 恶化	__label__tumor
+离了婚 要 复通 证明	__label__other
+心理 特别 烦 每天 熬夜 特别 晚 吃 顿饭	__label__other
+呋喃妥因 岁 小孩 吃 几次	__label__other
+便 渣 渣样 是 怎么回事	__label__other
+左面 耳朵 嗓子 疙瘩 有 一段时间 一	__label__other
+膀胱颈 狭窄 泌尿系 感染 膀胱炎	__label__other
+肝癌 早期 肝功能 检查 什么	__label__tumor
+卵巢癌 怎么 的	__label__tumor
+宝贝 门牙 摔 一颗 牙根 断裂 导致 牙龈 肿包	__label__other
+宫颈癌 饮食 注意	__label__tumor
+乳腺癌 不会 隔代遗传	__label__tumor
+卵巢癌 早期 临床症状 表现	__label__tumor
+眼睛 过敏 红肿 贴 双眼皮 胶 眼睛 出现 发红 快速	__label__other
+肺癌 放疗 导致 放射性肺炎	__label__tumor
+肺癌 早期	__label__tumor
+儿童 做 放疗 有 后遗症 应 对待	__label__tumor
+脸 骨头 怎么回事	__label__other
+舌尖 上长 一个 肉丁	__label__other
+是 男生 二十岁 六十 公斤 太瘦 我 脸 塌陷	__label__other
+烦躁不安 睡不着 心烦 厉害	__label__other
+结肠癌 肝 转移 手术 饮食 应多 吃 食物	__label__tumor
+对 自己 青霉素 过敏 不太	__label__other
+反反复复 好久 也 输液 快要 了 起 白点	__label__other
+月 消瘦 斤 吗	__label__other
+直肠癌 开刀 一 吃 东西 肚疼	__label__tumor
+乳腺癌 化疗 骨髓抑制	__label__tumor
+． 是 放射线	__label__tumor
+的 鼻子 揉 总 感觉 臭味 这是 怎么回事	__label__other
+鼻咽癌 采用 治疗 方式	__label__tumor
+肿瘤 饮食 注意	__label__tumor
+达喜 克拉霉素片 食用	__label__other
+造瘘口 狭窄 怎么 预防	__label__tumor
+卵巢癌 治愈	__label__tumor
+有时 放疗 要加 楔形板	__label__tumor
+眼花 什么 原因 的	__label__other
+肺癌 腺癌 术后 天 饮食 不好	__label__tumor
+结肠癌 有没有 误诊 可能	__label__tumor
+乳腺癌 患者 吃 冬虫夏草	__label__tumor
+想 做 磁共振 检查 看 右耳 的 听小骨 耳蜗 情况 男	__label__other
+时常 厕所 大便出血 痔疮 的	__label__other
+胃癌 晚期 医生 还 手术 有 腹水	__label__tumor
+胰腺癌 胰腺炎 什么 区别	__label__tumor
+有没有 特效药 有 办法 根治	__label__other
+眼 肿了 快速 消肿 眼 肿了 吃 药是 眼角 炎	__label__other
+放疗 病人 身上 辐射 家人 有 影响	__label__tumor
+心理 男岁 晚上 睡不着 觉 脾气 暴躁 感觉	__label__other
+胃癌 营养 针管 吗	__label__tumor
+最近 的 不想吃 东西 没胃口 的 暴	__label__other
+我 结肠 接肠 不行 不想 得 做手术	__label__other
+眼角 边上 红 肿疼	__label__other
+双 乳腺 囊性 占位性 病变 内透性 差 BIRADS	__label__other
+我 不 两次 复查 有没有 可比性	__label__other
+模拟定位 哪里	__label__tumor
+直肠癌 手术 做	__label__tumor
+脑积水 · mm	__label__other
+骨肉瘤 病理 活检 相关 注意事项 哪些	__label__tumor
+自己 自信 之前 每次 说 总是 被	__label__other
+你好 右半 结肠癌 症状 什么 怎么办	__label__tumor
+入睡 困难 得 抑郁症 焦虑症	__label__other
+刚出生 天 的宝宝 中午 高烧 度该 啊	__label__other
+一天到晚 口里 吐个 痰 丝 痰 液吐个 不停 咋办	__label__other
+宫颈癌 早期 治好	__label__tumor
+嘴巴 前凸 怎么回事	__label__other
+胃癌 淋巴 扩散 化疗 情况 办法	__label__tumor
+的 小孩 九个 月 两个 乳头 裂口 怎么办	__label__other
+最怕 别人 说话 问 自己 为什么	__label__other
+岁 乳腺癌 需不需要 吃药	__label__tumor
+肝癌 最多 能活 几年 吃 药	__label__tumor
+你好 肝癌 怎么 治求 答案	__label__tumor
+左 耳朵 高频率 听力 下降 建议 治疗	__label__other
+胰腺癌 治疗 哪几种 类型	__label__tumor
+咳嗽 流鼻涕 啊	__label__other
+手指 肿痛 不痒 弯曲 很 痛	__label__other
+小时候 得过 肺门 淋巴结核 肺结核	__label__other
+主诉 : 一个月 前 发现 右侧 腮腺 颌下腺 两个 位置	__label__other
+血癌 就是 白血病 不能治愈	__label__tumor
+没 鼻塞 需要 手术	__label__other
+请问 晚期 肝癌 什么 症状	__label__tumor
+急性白血病 化疗 中会 鬲	__label__tumor
+放疗 要 脱衣服	__label__tumor
+结肠癌 摸 腹部肿块	__label__tumor
+逗逗 怎么 得	__label__other
+宝宝 湿疹 一个多月 反复 吃药 用药 快好了 洗完	__label__other
+淋巴瘤 传染	__label__tumor
+脑部 肿瘤 手术 切除 别的 治疗 方法	__label__tumor
+胃癌 用手 按会 疼 医生 请问	__label__tumor
+要 做 直肠癌 术 前 放疗	__label__tumor
+喉咙 疼痛 眼睛 红 眼屎 怎么回事	__label__other
+月 反复 发烧 处理	__label__other
+在 前天 吃 东西 酸痛 吃 东西 酸痛 这是 怎么回事	__label__other
+胃癌 中期 化疗 治好	__label__tumor
+直肠癌 肝 转移 选择 种 方式 治疗	__label__tumor
+用 计算机 做 治疗 计划	__label__tumor
+乳腺癌 早期 能治好 怎么 治疗	__label__tumor
+放射治疗 导致 脱发	__label__tumor
+小心 搓 眼睛 隐形眼镜 弄 下 了 由于	__label__other
+鼻子 连续 八九天 有血 用 纸巾 卷 就 一	__label__other
+矮 才能 长高	__label__other
+肝癌 有 表现	__label__tumor
+中晚期 脑癌 治疗	__label__tumor
+胃癌 黏液 腺癌 岁 女医生 帮 看 我 母亲	__label__tumor
+右眼 感觉 肿胀 一样 这是 怎么回事	__label__other
+鼻子 味轻 闻 着 味重 闻到 了	__label__other
+我妈 老是 脚上 起个 小包 疼 分钟	__label__other
+X 线 Y 线有 不同	__label__tumor
+大肠癌 什么 科	__label__tumor
+看到 宝宝 鸡鸡 长 红色 点点 这是	__label__other
+好 疼 坐 疼 厉害 怎么回事 的	__label__other
+把 前任 追回来 有 电话 QQ 放 下面	__label__other
+膀胱癌 转移 盆腔 淋巴 治疗	__label__tumor
+乳腺癌 化疗 中 感冒了 吃 感冒药	__label__tumor
+大肠癌 什么 科	__label__tumor
+月经 时 病人 做 放疗	__label__tumor
+女岁 耳朵疼 多天 怎么回事	__label__other
+放射治疗 过程 中 有 人员 参与	__label__tumor
+放疗 轮 需要 多久	__label__tumor
+嗓子疼 吃 药 嗓子疼 鼻子 通气	__label__other
+胃癌 初期 化疗 彻底 治疗	__label__tumor
+本来 左边 疼来 左边 不疼 右边 疼 输	__label__other
+肺癌 晚期 治疗	__label__tumor
+鼻咽癌 放疗 期间 注意	__label__tumor
+肺癌 转移 淋巴 肺门	__label__tumor
+直肠癌 什么 中药 药 治疗	__label__tumor
+胃 流血 牙齿 流血 是 白血病	__label__tumor
+胃癌 晚期 伴肝 转移 用 介入治疗	__label__tumor
+眼睛 出血 水有 分泌物 流眼泪 红 肿要 消肿	__label__other
+胳膊 肉 疼 不是 骨头疼 抽着 疼 像	__label__other
+手术 治疗 喉癌 能治好	__label__tumor
+未 发现 输尿管结石 这是 怎么回事	__label__other
+直肠癌术后 多久 性生活	__label__tumor
+结肠癌 八期 化疗 的 疗养 注意事项	__label__tumor
+医生 您好 确认 肝癌 症状	__label__tumor
+早期 宫颈癌 术后 活多久	__label__tumor
+结肠癌 术前 要 做 必要 常规 检查	__label__tumor
+鼻子 斜 如何 矫正 小时候 鼻炎 拧 鼻子 鼻子	__label__other
+想 乳腺癌 早期 怎么样 怎么办	__label__tumor
+鼻咽镜 检查 鼻咽癌 吗	__label__tumor
+肺癌 咯血 发烧 便秘 症状	__label__tumor
+结肠癌 症会 传染给 吗	__label__tumor
+乳腺癌 化疗 结束 检查	__label__tumor
+结肠癌 手术 饮食 注意事项	__label__tumor
+食道癌 基本 症状 有 呢	__label__tumor
+乳腺癌 我 姐姐 怎么办	__label__tumor
+多 多 血压高	__label__other
+肠癌 术后 适合 吃	__label__tumor
+连续 几天 心悸 心慌 是不是 有 病	__label__other
+放疗 过程 中 洗澡	__label__tumor
+早期 卵巢癌 检查 出来	__label__tumor
+什么 没吃 半个 小时 拉 全是 水早	__label__other
+宝宝 扁桃体发炎 吃 两天 阿奇霉素 效果 不好 吃 头孢 克污 男	__label__other
+肝癌 末期 什么 办法 治疗	__label__tumor
+脑瘤 治疗	__label__tumor
+年 月 生 宝宝 宝宝 两个 月 时候	__label__other
+放射治疗 疗程 多长时间	__label__tumor
+大哥 肝癌 晚期 知道 能 活多久	__label__tumor
+肿瘤 放化疗 的 疗效 很差 再 试试 肿瘤 疫苗	__label__tumor
+左边 耳鸣 知 一样	__label__other
+食道癌 晚期 吃 好	__label__tumor
+膝盖 腿 麻疼 什么 原因	__label__other
+烫伤 掉 痂 被 衣服 擦 红红的 女岁 月	__label__other
+胃癌 姑息性 手术 什么 作用	__label__tumor
+缺铁性贫血 会 血小板 偏高	__label__other
+请问 血管瘤 如何 治疗	__label__tumor
+牙齿痛 昨天晚上 第一次 痛 没有 疼过	__label__other
+前 几天 发现 口腔 里 这些 疙瘩 赘 生物 尖锐湿疣	__label__other
+肝癌 吃 食物 呢	__label__tumor
+乳腺 增生 医生 我 开 治 乳腺癌 药	__label__tumor
+入 肾动脉 阻值 增高 做 几个 检查 什么 吗	__label__other
+月 月 号 查 四次 血常规 报告 一直 当心 不会 血液病	__label__other
+孩子 岁 前天 晚上 发烧 烧 一	__label__other
+医生 请问 慢性 细胞 白血病 那些 症状	__label__tumor
+感觉 食道 堵得 慌会 怀孕	__label__other
+牙齿 整齐 外 爆想 牙齿 整齐 好看 什么 办法	__label__other
+肝区 隐痛 无力 食欲 很	__label__other
+． 是 电子线 有 特点	__label__tumor
+宫颈癌 放射治疗 期间 吃 食物	__label__tumor
+乳腺 增生 乳腺癌 预兆 哪些	__label__tumor
+皮肤癌 治 好	__label__tumor
+手摸 腋下 疼痛 地方 有种 滚珠 圆溜溜 感觉 这是 淋巴结 发炎	__label__other
+白血病 才能 病情恶化	__label__tumor
+小腹 疼 几天 回事	__label__other
+体外照射 什么	__label__tumor
+膀胱癌 转移 盆腔 淋巴 治疗	__label__tumor
+胃癌 症状	__label__tumor
+家庭 原因 自卑 多 压力 更严	__label__other
+请问 骨癌 前兆 什么 什么 症状	__label__tumor
+胃癌 什么 方法 治好	__label__tumor
+请问 白血病 恶性肿瘤	__label__tumor
+盆腔 放疗 慢性 并发症 哪些	__label__tumor
+最近 三天 是 躺 就 睡着 睡着 时间 每次	__label__other
+骨癌 早期 能治好	__label__tumor
+陈老师 想 咨询 几个	__label__other
+老想 尿 尿 尿 多	__label__other
+一个月 感冒 几次 能 手术 男	__label__other
+脸部 皮肤癌 早期 症状	__label__tumor
+乳腺癌 术后 医院 建议 化疗 必要	__label__tumor
+乳腺癌 左 乳房 切除 后癌 扩散 淋巴	__label__tumor
+鼻咽癌 良性 恶性 之分	__label__tumor
+感觉 眼睛 疲倦 这是 问题	__label__other
+患 肝癌 人 肝功能 不好	__label__tumor
+喝 有 一个月 不 对 身体 有没有 不良影响	__label__other
+皮肤 癌症 白血病 肝炎	__label__tumor
+卵巢癌 化疗 大便 拉 出来 大便 解不出 腹胀 吃 下去 饭	__label__tumor
+寒喘祖帕颗粒 金维他 能合 吃	__label__other
+下眼睑 处长 一个 白色 小 疙瘩 不要 就医	__label__other
+牙龈 长 个 肉 疙瘩 知道 什么	__label__other
+一次 说 头晕 远视 的	__label__other
+肺癌 怎么 预防	__label__tumor
+闫建林 直肠癌 看	__label__tumor
+后脑勺 上长 一个 小包 血管瘤	__label__tumor
+胃癌 什么 科	__label__tumor
+术后 麻药 劲过 没有 明显 疼痛	__label__other
+直肠癌 危险 吗	__label__tumor
+结肠癌 印戒 癌	__label__tumor
+肝癌 人 吃饭 住会 传染	__label__tumor
+这是 病情 加重 吗 化疗 阶段	__label__tumor
+奥利司他 减肥 身体 伤害	__label__other
+手上 淤青 怎么 没 撞 过 摁 也 不痛	__label__other
+是 放射治疗	__label__tumor
+有点 咳嗽 痰 感冒了	__label__other
+磁石 标准 高出 倍 人体 有害	__label__other
+左肩 疼痛 左手 触水 拇指 食指 发麻 什么 原因	__label__other
+家里 某些 原因 的 事情 压 自己 身	__label__other
+给 周岁 宝宝 断奶	__label__other
+顺尔宁 每片 十 毫克 岁 女孩 误 吃 两片 危险	__label__other
+年 一月份 体检 发现 肺部 结节 知道 转移	__label__other
+有人 放射治疗 称为 烤电 不	__label__tumor
+同一个 部位 肿瘤 反复 做 放射治疗	__label__tumor
+宝宝 马 上个月 咯 吃 米粉 吗 的 营	__label__other
+术后 放疗 哪些 成功 经验	__label__tumor
+咽喉 感觉 痰 用力 呑 咽的 有点痛 异物	__label__other
+胃溃疡 喝汤 臣 倍健 蛋白粉	__label__other
+盆腔 囊肿 后续 治疗	__label__tumor
+运动 小时 减肥	__label__other
+早幼 粒细胞 白血病 治	__label__tumor
+小细胞肺癌 转移 脑部	__label__tumor
+宝宝 一岁 多青支 骨折 打 石膏 天 了	__label__other
+手术 小拇指 筋 特别 疼	__label__other
+戴 套套 插 肛门 过敏	__label__other
+验血 哪里	__label__tumor
+胰腺癌 治愈	__label__tumor
+庞 有事 咨询	__label__other
+左手 胳膊 半年前 人用 拳头 了 隐隐作痛	__label__other
+胃癌 病人 些	__label__tumor
+帮 看个 尿 碘 报告	__label__other
+食道癌 中期 最佳 治疗 方法	__label__tumor
+肝癌 怎么 预防	__label__tumor
+肝癌 早期 cm 瘤 治愈	__label__tumor
+鼻孔 长 白毛 什么 原因 越来越 了 白毛	__label__other
+左额 眼角 上方 长 个 骨瘤 做手术	__label__tumor
+白血病 癌症	__label__tumor
+肺癌 病人 饮食 吃 对 身体	__label__tumor
+放疗 B型 胸 腺瘤 中 作用	__label__tumor
+小细胞肺癌 骨转移 男岁	__label__tumor
+宝宝 嘴巴 下巴 红 很 干	__label__other
+放疗 区 皮肤 出现 变化 处理	__label__tumor
+辨别 乳腺癌	__label__tumor
+长 哪个 部位 黑痣 应 注意	__label__tumor
+是 计算机 治疗 计划 系统 对 放疗 什么 重要性	__label__tumor
+肿瘤 患者 抑郁 焦虑 不良情绪 中医药 什么 方法 调理	__label__tumor
+胰腺癌 胰腺炎 什么 区别	__label__tumor
+结肠癌 前期 症状 什么	__label__tumor
+白细胞 血小板 降 什么 程度 停止 放疗	__label__tumor
+食道癌 放 支架 放疗 喉管 破 喝 水流 进肺 方法 治疗	__label__tumor
+吃 完 东西 吐 感觉 肚 胀 怎么回事	__label__other
+我 膝盖 很痛 风湿	__label__other
+． 每次 治疗 时 体位 对 治疗 有何 影响	__label__tumor
+网上 一种 减脂 塑身 衣 真的 管用	__label__other
+不 配眼镜 散光 能 矫正	__label__other
+右眼 干痛 东西 模糊	__label__other
+起身 时 腰酸 吃 上劲 怎么回事	__label__other
+前两天 睡 完 午觉 发现 右边 耳朵 像是 蒙上 一层 膜 这是 怎么回事	__label__other
+宝宝 营养不良 发育迟缓 喝 小百肽 不 爱喝	__label__other
+小腿 两侧 了 好多 小红 疙瘩 人理 吗	__label__other
+你好 肠癌 结肠癌 一样 吗	__label__tumor
+老年人 化疗	__label__tumor
+五个 月 宝宝 发烧	__label__other
+患有 鼻咽癌 好	__label__tumor
+孩子 脾气 暴躁 怎么回事	__label__other
+脑膜瘤 放疗 期间 放疗 需要 什么	__label__tumor
+耳朵 声音 一动 有 声音 摸 好 痛	__label__other
+脚后跟 长 骨刺 什么 办法	__label__other
+直肠癌 转移 肝后 转移 大脑	__label__tumor
+卵巢癌 可以 喝茶	__label__tumor
+十九个 月 的宝宝 体重 十九 斤 脾胃 不好 不长	__label__other
+宫颈癌 复查 哪些项目	__label__tumor
+医生 说 可能 软骨瘤 治疗	__label__tumor
+上次 感冒 药 有没有 激素	__label__other
+改善 口腔癌 放疗 的 恶性 呕吐 食欲不振 口中 无味 变味	__label__tumor
+腰 脊椎 脊髓 里 个 囊肿 大 腿抽筋 痛	__label__other
+眼角 位置 肿了 氧 眼周 肌肉疼 怎么回事	__label__other
+宝宝 一周 家里 装修 五个 月 一直 通风 检测 发现	__label__other
+手术 胃疼 吃些 呢	__label__other
+胃癌 传染	__label__tumor
+认知 能力 了 该	__label__other
+乳腺癌 遗传	__label__tumor
+岁 带 牙套 反弹 几率 多少	__label__other
+精神科 咨询 幻觉 怎么回事	__label__other
+大腿 筋 有点像 抽筋 这是 原因	__label__other
+中年 男性 四五十岁 有 特别 心理 原因	__label__other
+肺癌 传染性	__label__tumor
+新生儿 头上 有个 软包 感觉 血 怎么回事	__label__other
+直肠癌 结肠癌 什么 病证	__label__tumor
+第一腰椎 压缩性 骨折 洗澡 厕所 稍微 走动	__label__other
+肝内 强回声 不会 肝癌	__label__tumor
+结肠癌 术后 ct 请问 吗	__label__tumor
+长期 吃 苦荞 面 什么 不好 吗 不会 胖	__label__other
+截肢术后 患肢 痛	__label__tumor
+乳腺癌 肿块 什么样	__label__tumor
+有时候 成度 手淫 史 祸	__label__other
+卵巢癌 做 放疗	__label__tumor
+再障 性贫血 比 白血病 难治	__label__tumor
+胆囊 摘除 得 结肠癌 几率 变大是	__label__tumor
+这是 有 异物感	__label__other
+肝癌 晚期 的 是 怎么办	__label__tumor
+左侧 膝盖 内侧 抽搐 三天 是 怎么回事	__label__other
+青少年 会 生 白血病 预防	__label__tumor
+肿瘤 患者 接受 放射治疗	__label__tumor
+请问 了 胃癌 手术 该 吃	__label__tumor
+月 日 雪地 摔跤 背部 肌肉痛	__label__other
+拔 智齿 第二天 本来 不疼 现在 临牙 下颌	__label__other
+不怎么 红 需要 处理	__label__other
+骨折 总 右 肩胛骨 似的 不会 手术 钢板 问题	__label__other
+下面 疼 疼 吗	__label__other
+麻烦 下 检查 怎么样	__label__other
+乙肝 不能 做 房事 戴上 避孕套 好了吗 女友	__label__other
+化疗药物 不能 抑制 肿瘤 复发	__label__tumor
+对象 出轨 总乱 想 想象 我 对象 别人	__label__other
+肝癌 介入治疗 怎样 延长 生命	__label__tumor
+脸上 长 个 肉瘤 硬硬 发现 两三个 月 严	__label__tumor
+诊断 直肠癌 辅助 检查 哪些	__label__tumor
+血管瘤 颜色 变 深红	__label__tumor
+号 有点 嗓子疼 发烧 号 低烧 担心 头孢 喝 量	__label__other
+一岁 宝宝 牙 着 怎么回事 担忧	__label__other
+直肠癌 摸 腹部肿块	__label__tumor
+一个月 的宝宝 脸上 长 痘痘 身上 开始 擦	__label__other
+觉得 是 感冒 有天 在 诊所 了 两天 针	__label__other
+胸口 闷 想吐 每次 起床 都 累 累 感觉	__label__other
+宫颈癌 晚期 临终前 症状	__label__tumor
+刚刚 膝盖 疼 心理作用	__label__other
+六个月 的宝宝 宝宝 不 翻身	__label__other
+岁 男 胃部不适 疑似 胃癌	__label__tumor
+武 儿子 岁 月 发现 嘴角 内侧 长	__label__other
+冬天 喉咙干 疼 喝 药好	__label__other
+双眼皮 增生 怎么	__label__other
+脸部 肿瘤医院 明天 化疗 生命危险 医师	__label__tumor
+直肠癌术后 半年 化疗	__label__tumor
+小腹 下坠 疼痛感 小便 痛 怎么回事	__label__other
+这种 是 皮肤癌 很 担心	__label__tumor
+这 眼睛 了 红红的	__label__other
+不 动手术 穿刺 检查 判断 肺癌 种类	__label__tumor
+胆碱酯酶 高是 怎么回事	__label__other
+岁 小女孩 肛门 阴部 连接 处长 疙瘩 是 怎么回事	__label__other
+肝癌 病人 吃 鹅 活血	__label__tumor
+胃癌 晚期 请问 物理 治疗	__label__tumor
+爸爸 岁 肝癌 腹水 出过 血	__label__tumor
+脚 脸 肿大 结肠癌 吃 比较	__label__tumor
+长期 服用 纳欣同 有 让 心室 功能 衰退 副作用	__label__other
+就 想 肿瘤 病变 什么	__label__tumor
+性生活 患 宫颈癌 几率 吗	__label__tumor
+查着 疑似 肺癌 帮忙 周岁 这是 查血 结	__label__tumor
+要紧 ⊙ o ⊙ 腰肌劳损 买 几片 膏药 麝香 阵痛 膏	__label__other
+现在 来 月经 月经不调	__label__other
+乳腺癌 化疗 如何 中医 调养	__label__tumor
+结肠癌 术后 七个 月 脚麻	__label__tumor
+胃部 舒服 查出 胃癌	__label__tumor
+肠癌 早期 症状	__label__tumor
+感冒 了 问 医生 什么 原因	__label__other
+左手 胳膊 半年前 人用 拳头 了 隐隐作痛	__label__other
+患者 岁 患 肝癌 下肢水肿 腹水	__label__tumor
+睡不着 难过 看 科 一 回家 感觉 压抑	__label__other
+发烧 度 吃 退烧药	__label__other
+． 放疗 中 常用 放射线 哪些	__label__tumor
+我妈 多岁 一 感冒 肺炎 怎么办 抵抗	__label__other
+下午 睡一觉 耳朵 里 疼	__label__other
+大便出血 什么 情况 明显 不适	__label__other
+口腔黏膜 纤维化 癌变 我该 有救	__label__other
+半年 一直 不适 不会 恶性	__label__other
+左边 牙齿 咬 东西 疼痛 右边 没事 自己 吗	__label__other
+雄激素 过高 脱发 用 中药 调理 跟 月经不调	__label__other
+放疗 治疗 松果体 区 肿瘤	__label__tumor
+五岁 男孩 吃 了 催吐	__label__other
+胃癌 术后 月	__label__tumor
+一只 眼睛 特别 红 红血丝 充血 需要 滴	__label__other
+医生 帮看 这个 报告单 什么 吗	__label__other
+吃 葵花 健儿消食口服液 妈咪爱	__label__other
+脖子 左侧 里 个 肉球 的 东西 按下会 疼	__label__other
+白细胞 高有 吗	__label__other
+免疫组化 提示 神经内分泌癌	__label__tumor
+体检 发现 甲状腺结节 处理	__label__tumor
+产后 肩 腰腿疼 大腿 外侧 刺痛 发 硬是 什么 土 医生 弄	__label__other
+双耳 BHFTA = dB 什么 左耳 MTk	__label__other
+晚期 现 肝区痛 有 权威 肝癌 专家	__label__tumor
+胸部 外侧 按压 式 疼痛	__label__other
+吐 又 拉拉 都 水 吐了 两次 拉 次	__label__other
+牙疼 一吃凉 热 牙齿 疼 补完 疼 不	__label__other
+放疗 导致 腹痛 腹泻 腹胀	__label__tumor
+肚脐眼 右边 厘米 按压 有 疼痛感 阑尾 彩超 输	__label__other
+眼睛 疼 模糊 看不清 白色 块状 血丝 什么 症状	__label__other
+青春期 孩子 肥胖 会长 吗 周岁 这一	__label__other
+晚期 肝癌 不能 治	__label__tumor
+肺癌 晚期 什么 药才 佳	__label__tumor
+骨肉瘤 常用 诊断 检查 方法 哪些	__label__tumor
+乳腺癌 化疗 口腔炎	__label__tumor
+胱癌 术后 多长时间 灌注	__label__tumor
+谷氨酰转移酶 偏高 肝功能异常	__label__other
+发烧 高度 吃 药 好	__label__other
+乳腺癌 一定 切掉 乳房	__label__tumor
+胃癌 晚期 活多久	__label__tumor
+． 照射 胸部 病人 进食 时 会 下咽 疼痛	__label__tumor
+要 做 直肠癌 术 前 放疗	__label__tumor
+乳腺癌 化疗 结束 检查	__label__tumor
+的 头 怎么 后脑勺 对称 办法 治嘛	__label__other
+烫伤 起水泡 处理	__label__other
+宝宝 七岁 睡觉 打颤 怎么回事	__label__other
+放疗 中 常用 放射线 哪些	__label__tumor
+身高体重 能 健康 地 减肥	__label__other
+中医 治疗 胃癌	__label__tumor
+岁 女生 胸多大	__label__other
+这 年龄 弱视 有治	__label__other
+洗澡 发现自己 乳头 米粒 的 豆豆 比以	__label__other
+原发性 腹膜 癌 腹腔镜 探查 粘液性	__label__tumor
+感觉 物理 减肥 效果 不佳 用 药物 辅助	__label__other
+瘦腿 方法 什么	__label__other
+大人 增强 免疫力 老人 岁 慢性 鼻炎 失眠	__label__other
+快点 瘦腿 想 寒 假定 瘦 腿 计划	__label__other
+放射治疗 疗效 评估	__label__tumor
+痔疮 不能 吃药 必须 手术 严不	__label__other
+请问 宫颈癌 筛查 什么	__label__tumor
+叫 切线 照射	__label__tumor
+宝宝 发烧 度 手脚 冷 男	__label__other
+小儿 脾胃虚弱 吃 药	__label__other
+蛋白 琥珀 口服 溶液 喝完 直接 吃 母乳	__label__other
+小孩 岁 说 膝盖 疼 什么 情况 回事	__label__other
+无法控制 表情 忍不住 笑 晚上 失眠 脱发	__label__other
+焦虑症 自我 治疗	__label__other
+眼底 疼 一只 眼睛 疼 是 回事	__label__other
+拔 完牙能 吃 话梅	__label__other
+右 胸口 闷 堵 怎么回事	__label__other
+中医 舌头 虚弱	__label__other
+放疗 住院	__label__tumor
+手 破皮 什么 药	__label__other
+拟郁症 几年 现 疑心 重说 看不起 有 几次	__label__other
+尊敬 医生 我带 近视眼镜 多年 听	__label__other
+我妈 老是 脚上 起个 小包 疼 分钟	__label__other
+有人 说 化疗 玉石俱焚 敌我不分 说 恰当	__label__tumor
+胸闷 胸口 痛是 肺癌 早期 症状	__label__tumor
+乳腺 增生 变成 乳腺癌	__label__tumor
+排便 时 出血 是 回事	__label__other
+治 肺癌 治疗	__label__tumor
+胃癌 能 活多久	__label__tumor
+了 血管瘤 治疗 困难	__label__tumor
+类型 颅咽管瘤 适合 放疗 的 适合 外 放疗	__label__tumor
+扁桃体发炎 嗓子疼	__label__other
+嘴 有 烂 好像 黏膜 烂 又 淤血	__label__other
+肚脐眼 右边 厘米 按压 有 疼痛感 阑尾 彩超 输	__label__other
+姑息性 化疗 什么	__label__tumor
+宫颈癌 晚期症状 什么	__label__tumor
+眼睛 往里面 凹陷 什么 原因 导致	__label__other
+． 有人 放射治疗 称为 烤电 不	__label__tumor
+是不是 结肠癌 怀疑 有 肠道 癌症	__label__tumor
+． 同一个 部位 肿瘤 反复 做 放射治疗	__label__tumor
+乳腺癌 患者 怀疑 转移 后续 报告	__label__tumor
+宫颈癌 什么 原因 导致	__label__tumor
+身高 有 好 办法	__label__other
+头晕 隔 一段时间 突然 晕倒 全身 无力	__label__other
+宝宝 发烧 发现 抽搐 是 情况	__label__other
+乳腺癌 化疗 口腔炎	__label__tumor
+打闹 不慎 朋友 烟头 弹 眼睑 疤痕	__label__other
+心情 长时间 低落 焦虑 心跳 很快 咋办	__label__other
+骨癌 早期 能治好	__label__tumor
+放疗 治疗 后应 什么	__label__tumor
+看待 民间 偏方 治愈 肿瘤 传说	__label__tumor
+大夫 上次 淋巴结 总是 摸 总 感觉 了	__label__tumor
+放射治疗 包治百病	__label__tumor
+肺癌 晚期 病人 吃 食物 好	__label__tumor
+颈椎病 脖子 痛 胳膊 痛 吃 药	__label__other
+放射治疗 时 要 皮肤 上用 红色 墨水 画 印子	__label__tumor
+牙龈肿大 消肿 不 痛	__label__other
+直肠癌 传染	__label__tumor
+结肠癌 晚期 采取 那种 治疗 方法	__label__tumor
+儿童 便秘 天次 排便 麻烦 告诉 解决 好办	__label__other
+肺癌 大脖筋 疼 受不了	__label__tumor
+经来 时候 却 很多 水 咋办	__label__other
+医生 我 乳腺 增生 结节 好多年 今天 复查	__label__tumor
+． 术 前 放疗 哪些 成功 经验	__label__tumor
+亲戚 国外 了 保健品 知道 有 效果	__label__other
+上次 谈话 结束 又 购买	__label__other
+拉肚 吃 双歧杆菌 吃 蒙脱石散 女	__label__other
+喝水 口腔 发涩 有点肿 嘴唇 里面 发	__label__other
+肝癌 晚期 有没有 办法	__label__tumor
+的 肿瘤 使用 立体 定向 放射治疗	__label__tumor
+月 宝宝 便秘 连续 服用 低聚 果糖	__label__other
+刚戴 器 几天 牙缝 戴 保持 器 礼拜 牙齿 缝隙 变 怎么办	__label__other
+肝癌 手术 十天 喝 中药	__label__tumor
+俩个 眼睛 白 眼球 黄斑 突起 立体 形状 女	__label__other
+鼻腔 用纸 擦 血 是 病	__label__tumor
+肝癌 什么 情况 需要 接受 射频 消融	__label__tumor
+你好 肝硬化 肝癌 做 完 切除 手术 十天 医生 说 肝 又 长 一个 花生 的 肿块	__label__tumor
+女岁 甲胎蛋白 是不是 肝癌	__label__tumor
+食道癌 晚期 进食 吐血 能 活多久	__label__tumor
+肺癌 晚期 什么 治疗 方法	__label__tumor
+宝宝 出生 斤天 体重 都 增加	__label__other
+乳腺癌 早期 术后 存活 多久 根治	__label__tumor
+白细胞计数 降到 咋办	__label__tumor
+说话 清楚 紧张 说	__label__other
+这是 问题	__label__other
+五岁 男孩 说话 歪嘴 斜眼 紧张 尴尬	__label__other
+身高体重 我查 标准 体重	__label__other
+指 手指尖 有 好多 刀 签甲上 手指甲 有刀 签 手指 怎么 治疗	__label__other
+胃癌 晚期 扩散 痛 吃不下 东西	__label__tumor
+心理 的 一件 事 无法 开解	__label__other
+口腔溃疡 严重 知道 吸收 消化 不好	__label__other
+． X 线 Y 线有 不同	__label__tumor
+放射治疗 副作用 哪些	__label__tumor
+我家 宝宝 出生 十五天 乳房 有 肿块 样子 乳晕	__label__other
+同学 一些 语言 是 我该	__label__other
+转氨酶 高 调理 血检 检 有 剧烈运动	__label__other
+卵巢癌 饮食 注意事项	__label__tumor
+减肥 时用 呼啦圈 不会 皮肤 松弛	__label__other
+膀胱癌 传染	__label__tumor
+照射 是 肿瘤 正常 肺 组织 被 发 肺炎	__label__tumor
+老年人 吃肉 后会 身上 肉痛	__label__other
+了 胃癌 呢	__label__tumor
+耳朵 旁长 一个 东西 不要紧	__label__other
+白血病 什么 主要症状	__label__tumor
+胰腺癌 取 病理 做 检查	__label__tumor
+右脚 背 排骨汤 烫伤 月 日 烫伤 后来 医生 建议 擦 美宝 烫伤膏 吃 罗红霉素胶囊 不 有没有 感染	__label__other
+身体 长不高 缺什么 营养	__label__other
+医学院 临床诊断病例 肺癌 月 日 出院 转	__label__tumor
+肚脐 左边 疼老想 大 号	__label__other
+月经 开始 然后 了 早上 就 不太想	__label__other
+医生 胃癌 手术 治疗	__label__tumor
+患者 腹股沟 肿瘤 是 想 您 帮忙 一下 化验	__label__other
+胰腺癌 检查 项目 哪些	__label__tumor
+病人 眼睛 礼炮 炸伤 现 诊断 眼底 水肿 白内障	__label__other
+胰腺癌 治疗 哪几种 类型	__label__tumor
+感觉 疼会 怀孕	__label__other
+直肠癌 能治好	__label__tumor
+小细胞肺癌 转移 脑部	__label__tumor
+怀孕 多久 去 医院 查 期间 做过 艾灸	__label__other
+是 骨肉瘤	__label__tumor
+镶 牙 感觉 舒服 长期 会 把 的 牙 磨平	__label__other
+月 中旬 左 鼻孔 鼻涕 带血 什么 病	__label__other
+怀孕 时 乙肝 大三阳 肝功 DNA 定量 正常	__label__other
+你好 想 请问 胃癌 注意 什么	__label__tumor
+外疮 要 手术 治疗	__label__other
+乳房 疼痛 得 乳腺癌	__label__tumor
+被 掐住 喉咙 就是 舒服 说不出	__label__other
+患有 干眼症 人能 喝 姜茶	__label__other
+肺结核 气管炎 活多久	__label__other
+甘露醇 输完 液 多长时间 哺乳	__label__other
+糖类抗原 查出 偏高 癌症	__label__tumor
+膝盖 疼 一周 了 是 怎么回事	__label__other
+左 肋骨 下方 抽筋 结核性 胸膜炎 联关	__label__other
+是 草莓状血管瘤	__label__tumor
+乳腺 结节 变成 乳腺癌	__label__tumor
+岁 男性 直肠癌	__label__tumor
+预防 癌症 白血病	__label__tumor
+一岁 宝宝 输 退烧药 多久 后能 吃 退烧药	__label__other
+卵巢癌 化疗 几个 周期	__label__tumor
+乳腺癌 患者 饮食 什么	__label__tumor
+晚上 来 客人 闺女 先是 吃 些 热鸡	__label__other
+有 受伤 那侧 鼻骨 一侧 掉 感觉 没长 吗	__label__other
+手足 无力 吃 中药 调理 中 这样 恢复	__label__other
+大便 拉 出来	__label__tumor
+医生 拔 完 智齿 牙齿 里 一块 肉 怎么弄	__label__other
+宝宝 输液 没精神 爱 睡	__label__other
+直肠癌术后 天 吃点 水果	__label__tumor
+流 浓 鼻涕 怎么回事 也 醒 干净 一会	__label__other
+肝血管瘤 这是 了	__label__tumor
+直肠癌 痔疮 区别 哪些 症状	__label__tumor
+我妈 冠心病 心绞痛 犯 特别 频繁 血管痉挛	__label__other
+大便 成型 有时候 糖稀 有时候 是 那种 牙膏 状	__label__other
+手指 发白 舌头 上长 泡 白血病	__label__tumor
+喝茶 预防 白血病	__label__tumor
+瘦掉 手臂 大象 腿 大肚 女孩	__label__other
+体检 时说 肺部 炎症 应该 治疗	__label__other
+打吊瓶 了 天麻 宝宝 非要 喝奶 是 手足 无策 给 喝	__label__other
+三维 适形 什么	__label__tumor
+乳腺 门诊 放疗 办公室 那里	__label__tumor
+胃 流血 牙齿 流血 是 白血病	__label__tumor
+不 上班 去 不去 纠结 自责 是不是 精神病	__label__other
+MB 白血病 指 能否 治愈	__label__tumor
+薏米 红豆 水 煮	__label__other
+放射性 有	__label__tumor
+直肠癌 痔疮 区别	__label__tumor
+原因 引起 耳鸣 一段时间 失眠 早 醒醒 难以 入睡	__label__other
+腹腔镜 结扎手术 两天 颈 肩 疼痛	__label__other
+肺癌 ib 期 不 进行 靶向 治疗	__label__tumor
+卵巢癌 复发	__label__tumor
+腰椎 血管瘤 危害 腰椎 血管瘤 不用 开刀 方	__label__other
+眼镜 疼 稍微 有点肿 轻微 磨 疼感	__label__other
+女生 肾虚 常年 手脚冰凉	__label__other
+想 什么 事情 不想 做 吃不下 睡不着 什么 心理 病	__label__other
+胃癌 建议 怎么办	__label__tumor
+云南昆明 三级 医院 做 肠梗阻 纳 手术 住院费 手术费 治疗费 总数 多少 钱	__label__other
+肠癌 治疗 方法	__label__tumor
+肺癌 肺结核 做 检查 排除 我 咳嗽	__label__tumor
+食管癌 手术 天 发烧 后人 发抖 原因	__label__tumor
+放射 注意事项	__label__tumor
+坤复康胶囊 使 艾滋 抗体 检测 阴性	__label__other
+男性 岁 直肠癌	__label__tumor
+乳腺癌 晚期 化疗 还是 中医 治疗	__label__tumor
+睡觉 心里 莫名 持续 紧张 胸闷 有时候	__label__other
+牙齿 乱 想 矫正 不拔行	__label__other
+胃癌 动手术 好吃 中药 疗效	__label__tumor
+头颈部 肿瘤 病人 放疗 拔牙 什么 危险	__label__tumor
+子宫内膜癌 什么 情况 需要 接受 放疗	__label__tumor
+宫颈癌 早期 治好	__label__tumor
+前段时间 健身 增肌 变壮 最近 减脂 瘦下来 就	__label__other
+孩子 手上 疱疹 三号 孩子 发烧 怎么回事 医生	__label__other
+直肠癌 晚期 高烧 怎么回事	__label__tumor
+一块 有 牙石 接触 知道 什么	__label__other
+平时 严重贫血 疼 是 怎么回事	__label__other
+男岁 高度 近视 度 小时候 岁 开	__label__other
+醫生 請 問牙齒 矯正受 年齡 影響 嗎	__label__other
+直肠癌术后 等待 化疗	__label__tumor
+中医 治疗 胃癌	__label__tumor
+请问 肛诊 确定 直肠癌	__label__tumor
+肝癌 末期 什么 办法 治疗	__label__tumor
+少儿 白血病 恶性肿瘤 一种 能 称为 恶性	__label__tumor
+肝癌 术后 月 请问 情况	__label__tumor
+不能 戴牙套 方法 矫正 横生 智齿	__label__other
+早上 左 眼球 黑眼珠 跑 眼角 在 郓城 了	__label__other
+胸部 疼痛 摸 有 一块 什么 原因	__label__other
+女儿 两天 手足口病 发 现在 手足口病 育苗	__label__other
+减肥 什么 办法 影响 长高	__label__other
+肺癌 晚期 治疗 哪家 医院 好	__label__tumor
+嗓子 吞口水 困难 喉结 右侧 摁 疼	__label__other
+肿瘤 哪些 治疗 手段	__label__tumor
+割 阑尾 做 腹腔镜 手术 看出 直肠癌	__label__tumor
+乳腺 疼涨 发热 咋办	__label__other
+有没有 事 体重 身高 在 长	__label__other
+肺部 小 结节 密度 增高 影 大小 约 MM 邻近 胸	__label__tumor
+鼻子 手术 做 完不塞 吗	__label__other
+王 主任 在 咽喉 科做 一个 EB 病毒检测 刚刚	__label__other
+声带水肿 充血 表面 欠 光滑 声嘶	__label__other
+肝癌 传染	__label__tumor
+牙齿痛 吃火锅 多	__label__other
+就 很 烫 下去 不会 食道癌	__label__tumor
+老年人 了 肺癌	__label__tumor
+岁 孩子 早上 醒来 牙床 知觉	__label__other
+痣 疮 微创 八小时 想大 便是 真有 大便	__label__other
+睡一觉 牙龈 痛 从外 往里 第七 颗	__label__other
+年 想 检查 时候 专家 上班	__label__other
+鼻咽癌 病毒检测 E 是 什么	__label__other
+直肠癌 四年 能 痊愈	__label__tumor
+双眼皮 增生 怎么	__label__other
+宫颈癌 放疗 副作用	__label__tumor
+肠癌 治疗	__label__tumor
+特别 瘦 一米 七二 体重 八 十多斤 才能 变胖点	__label__other
+耳朵 有 死 皮 喜欢 扣一扣 狠 就 流水 一只 耳	__label__other
+乳腺癌 治疗 方法 最好	__label__tumor
+突然 口臭 特别 厉害	__label__other
+脚踝 扭伤 触地 疼痛 处理	__label__other
+胃癌 要 手术	__label__tumor
+新辅助化疗 什么	__label__tumor
+是 乳腺 结节 现在 知道 吃 点 药好	__label__other
+开始 出血 有没有 事	__label__other
+鼻咽癌 请 医生 帮着 是否 改观 好转 女	__label__tumor
+骨癌 晚期 什么 症状	__label__tumor
+子宫内膜癌 治疗	__label__tumor
+骶骨 挫伤 知道 什么 原因	__label__other
+放疗 导致 喉咙 食道 处 疼痛	__label__tumor
+乳腺癌 肺部 转移 活多久	__label__tumor
+磕 时候 流 好多 血 会 留下来 疤痕	__label__other
+乳腺癌 饮食 注意	__label__tumor
+胃癌 患者 特别 嗜睡 想 问 转移 脑部	__label__tumor
+肝硬化 转化成 肝癌 多久	__label__tumor
+头颈部 放疗 影响 视力 听力	__label__tumor
+脚掌 踩 地上 左脚 咋 回事	__label__other
+乳腺癌 遗传	__label__tumor
+一岁 两个 月 宝宝 前 天天 拉肚 吃 拉什	__label__other
+碰到 狗 粘液 打针	__label__other
+． 放疗 常用 方法 每天 照射 每周 照射 次 是 道理	__label__tumor
+大便出血 是 直肠癌 吧	__label__tumor
+鼻子 痛有 挖 鼻孔 坏习惯 上次 挖 就	__label__other
+情况 时候 手术 女岁 月	__label__other
+中晚期 脑癌 治疗	__label__tumor
+我妈 了 直肠癌 吃 水果	__label__tumor
+刚刚 鼻子 流血 这是 原因	__label__tumor
+麻烦 帮 看看 肝癌	__label__tumor
+我 小时候 偏食 吃 特别 少	__label__other
+前 十天 给 宝宝 洗 屁屁 发现 鸡鸡 右边 鼓起来	__label__other
+下肢 双脚 水肿 脚掌 紫 淤 情况	__label__other
+脊柱 左侧 弯现 腰 五 滑脱 度 平时 锻炼 熬夜	__label__other
+鼻咽癌 不能 治疗	__label__tumor
+口咽癌 放疗 疗效	__label__tumor
+喝 白酒 吃 烧烤 胃疼 呕吐 吐 完 没事	__label__other
+纤维瘤 乳腺 乳腺癌 什么 区别	__label__tumor
+脑膜瘤 放疗 有 不良反应	__label__tumor
+肺癌 用 红外线 照射	__label__tumor
+血气胸 肺 挫伤 治疗	__label__other
+肝癌 早期 预防	__label__tumor
+岁 老年人 查出 肺癌 晚期 转移 保守	__label__tumor
+眼睛 进沙 怎么办 红	__label__other
+父亲 胃癌 上次 咨询 过岁 前天 咨询	__label__tumor
+乳腺癌 放疗 放 怎么办	__label__tumor
+易激惹 不爱 说话 请 给 分析 这是 病	__label__other
+肛裂 上火 可以 吃点 去 火	__label__other
+白血病 总数 超标 会 疑似 病	__label__tumor
+确诊 鼻咽癌	__label__tumor
+榴莲 牛肉 一起 吃 我 头疼 恶心 特别 想 喝 凉水	__label__other
+肝癌 最多 能活 几年 吃 药	__label__tumor
+岁 女生 能长 高 初三 到 高三	__label__other
+结肠癌 化疗	__label__tumor
+刚换 恒牙 牙齿 稀疏 原因	__label__other
+孕妇 和 放疗 的 患者 住 同一 屋檐下	__label__tumor
+晚期 肺癌 求 医生 一些 建议	__label__tumor
+骨癌 早期 哪些 症状	__label__tumor
+肚 有时候 咕噜咕噜 感觉 肠道 里 空气	__label__other
+症状 提示 宫颈癌 复发 呢	__label__tumor
+想 咨询 就是 骨质增生 脚部 位置 骨质增生 腿 麻 走路 像 脚上 了 厚厚的 一层 就是 坐 坐 多久 得 站 腿部 位置 痛 好多年 了 的 能治好 女	__label__other
+盐酸 氮哌丁片 河车大造丸 同 吃	__label__other
+请问 肺癌 早期 成活 几成	__label__tumor
+化疗药物 不能 抑制 肿瘤 复发	__label__tumor
+鼻咽癌 放疗 期间 调班 换 不同 放疗 医生 对 治疗 影响	__label__tumor
+肝脏 肿瘤 要 做 肝 穿刺	__label__tumor
+． 放疗 结束 为什么 定期 医院 复查	__label__tumor
+牙龈 长 水泡 一年 了 按会痛 牙齿 黑斑 洗牙后	__label__other
+乳腺癌 治 之后 复发率 多 高	__label__tumor
+子宫内膜癌 放疗 治疗 效果 吗	__label__tumor
+浸润性 乳腺癌 医治	__label__tumor
+肺部 咨询 查 是 肺癌	__label__tumor
+屁股 摔了一跤 检查 事	__label__other
+身高体重 才斤 平时 吃 也 就是 不胖 是	__label__other
+双侧 额 顶叶 皮层 白质 多发 缺血 灶腺样 体肥	__label__other
+喉咙 痛快 一个月 声音 嘶哑 浓痰 灰色	__label__other
+肛门 坠胀 指 捡 说 混合 痔用 肛泰 星期 不难	__label__other
+易胖 体质 减肥 一米 六 体重 多斤	__label__other
+小时候 得过 肺门 淋巴结核 肺结核	__label__other
+了 脑瘤 活多久	__label__tumor
+乳腺癌 术后 锻炼 什么	__label__tumor
+感冒了 咳嗽 的 吃饭 喉咙 很痛	__label__other
+结肠癌 有 表现	__label__tumor
+咳嗽 厉害 痰 痰 黑色 东西 是 什么 病	__label__other
+股骨颈骨折 用带 激素 眼药水	__label__other
+您好 麻烦 帮 看 血常规 是 白血病	__label__tumor
+谷氨酰转移酶 偏高 肝功能异常	__label__other
+结肠息肉 导致 结肠癌	__label__tumor
+肾癌 小 住 医院 不会 长大	__label__tumor
+左边 肋骨 那种 一跳 跳 疼 明 疼 原因	__label__other
+性病 癌症 应该 治疗	__label__tumor
+知道 中耳炎 一直在 流 三天	__label__other
+双侧 乳腺 结构 层次 尚清 腺体层 紊乱 回声 均匀	__label__other
+喉癌 T 肺部 炎症 颈部 淋巴 脸色苍白 男岁	__label__tumor
+女 左侧 肋骨 下方 五指 疼偏 左方 任何 恶心	__label__other
+宝宝 宝 三个 月 大便 酸臭 绿 有点像 鼻涕 治疗	__label__other
+分手 特别 难过 初恋	__label__other
+乳腺癌 年 右边 腋下 结节 怎么回事	__label__tumor
+岁 时 了 肺结核 一年 就 了 是	__label__other
+骨肿瘤 病人 夜间 疼痛加剧	__label__other
+出生 时候 胎儿窘迫 就 剖 孩子 有 吗	__label__other
+非 霍奇金 淋巴瘤 IIA 期 弥漫 B 细胞 型 病情	__label__tumor
+乳腺癌 化疗 后 内分泌 治疗 药物 选择	__label__tumor
+小细泡 肺癌 淋巴 转移 治疗	__label__tumor
+身高体重 身体 各种 状况 浑	__label__other
+这个 演变 白血病 怎么办	__label__tumor
+肺癌 晚期 什么 治疗 方法	__label__tumor
+肉毒素 皱 眼睛 斜视 模糊 属 属于 多久	__label__other
+穿刺术 会 肿瘤 转移	__label__tumor
+请问 直肠癌 介入 放疗	__label__tumor
+安神补脑液 乙酰胆碱 副交感神经 多巴胺 复合 胺 神经系统 帮助	__label__other
+吃 能够 长高	__label__other
+甲状腺 乳头状癌 要 服典	__label__tumor
+矫正 牙齿 完骨 钉过 几天 肿 有 白色	__label__other
+口腔 里长 个 水泡 的 东西 什么	__label__other
+胃癌 呕吐 胃疼 化验	__label__tumor
+左边 腰 酸疼 站 久 也 酸 手脚冰凉 硬 快 软	__label__other
+大面积 面部 撕裂 伤 老人 的 情况 怎么 治疗	__label__other
+放射治疗 哪里	__label__tumor
+蛇胆川贝液 和 羧甲斯坦 口服液 服用 女	__label__other
+岁 直肠癌 治疗 吗	__label__tumor
+小苏打 化疗 能治 肺癌 中晚期	__label__tumor
+直肠癌 什么 情况 需要 接受 术 前 放疗	__label__tumor
+胶原蛋白 口服液 冻 可以 吃	__label__other
+同一个 部位 肿瘤 反复 做 放射治疗	__label__tumor
+肺癌 中晚期 什么	__label__tumor
+牙齿 松动 反复 疼痛	__label__other
+胃癌 有救 急急 急	__label__tumor
+导致 皮肤癌 主要 原因 哪些	__label__tumor
+左 膝盖 弯曲 紧绷 下用 手 能 感觉 皮下 一些 橡皮 硬度 结节 的 东西 知道 肌腱	__label__other
+宝宝 湿疹 一个多月 反复 吃药 用药 快好了 洗完	__label__other
+怀疑 水银 溅 眼睛 里 检查 我 想 你 说	__label__other
+岁 可能 乳腺癌	__label__tumor
+手指头 被门压 里面 很痛 按着 不疼 疼	__label__other
+做 睡眠 监测 呼吸暂停 百分之十 严重	__label__other
+叫 切线 照射	__label__tumor
+眼睛 一到 晚上 沙眼 怎么回事	__label__other
+卵巢癌 时候 做 复查	__label__tumor
+术 前行 放化疗 直肠癌 什么	__label__tumor
+结肠癌 手术 的 预后 怎么办	__label__tumor
+鼻子 脖子 舒服 妈妈 这是 了	__label__other
+帮 看 中间 牙缝 白色 内个 东西 什么	__label__other
+隔 一会 喘气 有时候 大 喘气 不够	__label__other
+肝癌 手术	__label__tumor
+结肠癌 发生 哪些因素 相关	__label__tumor
+耳鸣 头 昏昏 成成 怎么办	__label__other
+月 反复 发烧 处理	__label__other
+结肠癌 晚期 我妈 结肠癌 晚期 刀口 疼 什么 原因	__label__tumor
+现在 早泄 吃 一次 伟哥 在 同房 没	__label__other
+乳腺 增生 不会 乳腺癌	__label__tumor
+做 肝部 b 超说 肝纤维化 能 肝 问题	__label__other
+角膜移植 看 东西 模糊	__label__other
+晚期 皮肤癌 传染 家人	__label__tumor
+洗眼 用 好 舒服	__label__other
+放疗 治疗 导致 放射性 中耳炎 应	__label__tumor
+做 眼部 手术 留下 吸收 线 什么 影响	__label__other
+纤维瘤 术后 一月 刀口 有个 硬 疙瘩	__label__tumor
+血管瘤 做 完 微创 手术 头痛 正常 现象	__label__tumor
+胃 难受 感觉 东西 堵住 一样 烧 热感	__label__other
+请 小细胞肺癌 专家 回复	__label__tumor
+乳腺癌 乳房 切掉 就 没事 吗	__label__tumor
+白血病 化疗 左腿 血栓 治疗	__label__tumor
+年月日 : ￼ 我家	__label__other
+是 序贯 放化疗	__label__tumor
+孩子 岁 感冒 第二天 鼻塞 难受 发热 咳	__label__other
+子宫内膜癌 月经 生育 吗	__label__tumor
+半岁 夜间 发烧 什么 原因 血红蛋白 低	__label__other
+食管癌 哪些 治疗 方式	__label__tumor
+肝癌 手术	__label__tumor
+医生 说 办法 是否是 乳腺癌 其它 良性 恶性	__label__tumor
+肾上腺 腺瘤 帮 看看 需不需要 做手术	__label__tumor
+心脏 不好 这些 属于 吗	__label__other
+右 眼角 一个 痘痘 什么 症状	__label__other
+放射治疗 在 医院 放射科 吗	__label__tumor
+我爸 早期 鼻腔 淋巴瘤 NKT 能 什么	__label__tumor
+宝宝 一个月 乳腺 管堵 八个 月 能 疏通 吗	__label__other
+岁 小孩 咳嗽 身上 长 东西	__label__other
+肺癌 早期 治好	__label__tumor
+擤 鼻涕 眼睛 疼 怎么回事 吗	__label__other
+子宫内膜癌 什么 原因 的	__label__tumor
+男岁	__label__tumor
+胃癌 晚期 怎样 治疗	__label__tumor
+左侧 蝶窦 似见 软组织 肿块 窦壁 骨质 密度	__label__other
+腰疼 就 要 断掉 是 怎么回事	__label__other
+风 冷风吹 眼眶 会痛 视力 模糊	__label__other
+男士 手 骨折 可以 同房	__label__other
+宝宝 一岁 小心 床上 掉 了 地上 胳膊 骨折	__label__other
+喝 是 小瓶 珍护 换大瓶 小孩	__label__other
+请问 查 白血病 查 血液 一项	__label__tumor
+怀孕 长 痔疮 不会 影响 宝宝	__label__other
+转移性 骨癌 可以 活多久	__label__tumor
+是 结怨 性郁欲症	__label__other
+孩子 四周 小心 脑袋 磕 一个包 才能 快速	__label__other
+确诊 肠癌	__label__tumor
+胃癌 怎么 导致	__label__tumor
+肛门 处有 裂痕 出血 呀	__label__other
+月 宝宝 发烧 到度 四天 是 病因	__label__other
+七八年 前 腰椎 受 外伤 腰椎 侧弯 四 五锥间	__label__other
+乳腺癌 手术 又 扩散 该	__label__tumor
+在 减肥 只 吃 一顿饭 大姨妈 推迟 六天	__label__other
+肥胖 导致 子宫内膜癌	__label__tumor
+戴着 眼镜 重影 也 过	__label__other
+胃溃疡 说 好几个 是 胃癌	__label__tumor
+感冒 没 打喷嚏 一到 吃饭 时 鼻子 流清 鼻	__label__other
+白血病 化疗 为什么 感觉 头疼 头晕	__label__tumor
+肺癌 化疗 鼻子 痛是 原因	__label__tumor
+是 照光	__label__tumor
+牙齿 好像 长 牙 芯 什么 情况	__label__other
+膀胱癌 放疗 什么 作用 放疗 形式 一样	__label__tumor
+乳腺癌 患者 吃 南瓜	__label__tumor
+胱癌 术后 多长时间 灌注	__label__tumor
+一处 牙缝 牙龈 一直在 出血	__label__other
+胃癌 进展 期 淋巴 转移 治	__label__tumor
+治疗 肺癌 好 方法	__label__tumor
+情况 进行 肝癌 手术 治疗	__label__tumor
+男岁 感觉 气倒 过来 老想长 出气 为	__label__other
+左 脚后跟 跟骨骨折 天 发现	__label__other
+你好 直肠癌 必须 切除 挂袋	__label__tumor
+刚补 牙齿 咬合 碰到 有 一点点 的 痛 填充物 刺激 的	__label__other
+鼻孔 里 有没有 静脉 血管 鼻孔 流鼻血	__label__other
+左足 舟骨 内侧 副 骨影 什么	__label__other
+有 结膜炎 导致 左 眼皮 跳动 啊	__label__other
+依诺肝素 钠 低分子肝素钙 吗	__label__other
+岁 吃 布洛芬 退烧	__label__other
+患者 住院 接受 放射治疗	__label__tumor
+女性 宫颈癌 早期 症状 什么	__label__tumor
+急性淋巴细胞白血病 淋巴瘤	__label__tumor
+乳腺癌 怎么 的	__label__tumor
+右腰 叩击 痛会 升 结肠癌	__label__tumor
+眼睛 里 了 包 磨 眼睛 疼 什么 情况	__label__other
+子宫内膜癌 如何 诊断 呢	__label__tumor
+肝癌 分子 靶向 治疗 哪些	__label__tumor
+发现 舌头 底下 有个 泡 怎么回事	__label__other
+嗓子 痰 发干 感觉 异物感 舌根 发现 淋巴 滤	__label__other
+是 精神病 患者 我断 氯氮平 咋办	__label__other
+五年 不 复发 不会 复发	__label__tumor
+情绪低落 不想 干什么 也 不想 管好 累	__label__other
+肝癌 晚期 什么 表现	__label__tumor
+软组织肿瘤 传染	__label__tumor
+对象 月 号 月经 什么 结束 知道	__label__other
+岁 心脏病 放 支架 又 犯 什么	__label__other
+肝癌 吃 食物 呢	__label__tumor
+血管瘤 做 完 微创 手术 头痛 正常 现象	__label__tumor
+免费 心理咨询 在线 聊 是 高二 男孩 妈妈	__label__other
+肝癌 做 几次 介入治疗	__label__tumor
+． 是 近距离 后装治疗	__label__tumor
+小儿 泪腺 堵塞 多久 好	__label__other
+我要 考研 我 俩次 考研 失败 我 知道	__label__other
+五年 生存率 活 五年	__label__tumor
+近几年 腿 血管 暴起 特 咨询 大夫 这是 怎么回事	__label__other
+子宫内膜癌 治疗	__label__tumor
+疼痛 后面 了 死 血	__label__other
+我右 东西 时候 一个 圆形 黑影	__label__other
+卵巢癌 早期 临床症状 表现	__label__tumor
+胆碱酯酶 高是 怎么回事	__label__other
+想 问下 两天 吃 烧烤 会得 胃癌	__label__tumor
+晚上 睡觉 喘 动气 感觉 嗓子 像 东西 堵	__label__other
+女岁 肝癌 晚期 医生 这是 做 核磁共振	__label__tumor
+腿 好几处 伤 磕 碰	__label__other
+见到 在 朋友圈 发 开心 事 总是 :	__label__other
+一个月 的宝宝 脸上 长 痘痘 身上 开始 擦	__label__other
+治疗 过敏性 鼻炎 雾化吸入 女岁 月	__label__other
+左侧 肋骨 疼痛 碰到 疼 不 碰到 疼 厉	__label__other
+叫 全淋巴结 照射	__label__tumor
+事外 放射治疗	__label__tumor
+假体置换 术后 上学 工作 结婚 生子	__label__tumor
+做 完 肝管结石 手术 夜间 尿频 口渴	__label__other
+白血病 人查 血常规 哪些 正常	__label__tumor
+焦虑 恐慌 心理 有病	__label__other
+口 干 手心 出汗 副作用	__label__other
+母亲 乳腺癌	__label__tumor
+穿刺术 会 肿瘤 转移	__label__tumor
+吃 完蒜 嗓子疼 吃 药好	__label__other
+眼睛 近视 多度 想 做 激光 矫正 手术 上海	__label__other
+的 家长 问 中药 针灸 不能 复发 复发 能否 中药 针灸治疗	__label__tumor
+鼻咽癌 放疗 有 副作用	__label__tumor
+会 感觉 右脚 脚趾 麻筋 麻 难受	__label__other
+肾癌 切除 右肾 转移 肺癌	__label__tumor
+父母 想 我们 吃饭 菜 里 下药 我 癌症	__label__tumor
+便血 肛门 肿痛 大便 干	__label__other
+女性 了 直肠癌 后能 过 性生活	__label__tumor
+脑挫伤 出现 电解质紊乱 氧合 危险	__label__other
+体外照射 什么	__label__tumor
+在 思考 总是 想起 事 咋办	__label__other
+了 说明书 感觉 也 那么 我用 吃	__label__other
+小女孩 先天性 结晶 移位 一只 眼睛 度 一只 眼睛 度	__label__other
+牙齿 摔断了 疼 上 星期六 电话线 绊倒	__label__other
+妈妈 总说 下巴 筋 拉 疼 胸部 胀痛 下巴	__label__other
+乳腺癌 传染	__label__tumor
+一件 心事 无法 开解	__label__other
+全身乏力 呕吐 症状 有没有 是 感冒 的 心肌炎	__label__other
+放射治疗 过程 中会 疼痛 其他 不适 感觉	__label__tumor
+叫 肿瘤 分子 靶向 药物 治疗 靶向 治疗	__label__tumor
+不会 到时候 月经 走 几天 来	__label__other
+关节 刺痛 夜晚 加剧 发作 频繁 伴 结节 关节畸形 肿	__label__other
+长期 熬夜 对长 个子 影响 一般 人长 个子 哪	__label__other
+乳腺癌 手术 是 伤口 什么 变化 吗	__label__tumor
+结肠癌 化疗 吐 很 厉害	__label__tumor
+请问 中晚期 肝癌 治疗	__label__tumor
+卵巢癌 手术 的 饮食	__label__tumor
+． 头颈部 肿瘤 病人 放疗 为什么 出现 口 干 防治	__label__tumor
+说 糖尿病 吃 蜂王浆 有 的 说 糖尿病 可以 吃 蜂王浆	__label__other
+回家 爸爸 说 不 走 吧 说 走 他 说	__label__other
+乳腺癌 浸润性 癌 吗	__label__tumor
+肝癌 晚期 抽 腹水 住院	__label__tumor
+． 放疗 中 要 忌口 吃 鸡	__label__tumor
+胰腺癌 如何 诊断 呢	__label__tumor
+了 焦虑症 自愈	__label__other
+鼻咽癌 患者 生活 传染	__label__tumor
+事后 想来 并 什么 事 家里 有人 回来 会 心理 不 舒服	__label__other
+眼睛 模糊 处理	__label__other
+膀胱癌 早期 手术 效果 还会 复发	__label__tumor
+口腔癌 术后 放疗 几次	__label__tumor
+羧甲基纤维素钠滴眼液 平时 能用	__label__other
+肝癌 病因 哪些	__label__tumor
+． 术后 放疗 哪些 成功 经验	__label__tumor
+喊 头痛 什么 影响	__label__other
+按 疼 碰 就 疼 这 怎么回事	__label__other
+急性 髓系 白血病	__label__tumor
+左眼 疼有 异物感 有点肿 使用 电脑 观察 左	__label__other
+脚趾 骨折 手术 半月 小腿肚 酸痛 怎么回事	__label__other
+结肠癌 肝 转移 吗	__label__tumor
+肝癌 吃 中药	__label__tumor
+儿子 六岁 右腿 疼 几天 拍 片子 说右 股骨 远端 关节 面略 毛糙	__label__other
+两只 药膏 只是 擦 血管瘤 我 女儿 耳朵 里 湿	__label__tumor
+胃癌 做 胃镜 检查 怎么办	__label__tumor
+巨块 型 肝癌 肚 里 腹水	__label__tumor
+肝癌 如何 诊断 呢	__label__tumor
+放疗 点药 三药 什么 东西	__label__tumor
+X 刀 用来 治疗 肿瘤	__label__tumor
+是 女性 我 肚脐 有 硬块 按压 有点痛	__label__other
+想 这 皮肤癌 无故 的	__label__tumor
+父母 烦躁易怒 平常 小 事情 会 感到	__label__other
+结肠癌 停止 化疗 皮肤瘙痒 起风 团	__label__tumor
+查着 疑似 肺癌 帮忙 周岁 这是 查血 结	__label__tumor
+食道癌 中期 最佳 治疗 方法	__label__tumor
+手 痉挛 怎么回事 跟 胃癌 关系	__label__tumor
+上颌窦炎 头 痛 好治	__label__other
+婴儿 出生 体重下降	__label__other
+喝酒 腿疼 平时 腿 不 舒服	__label__other
+是 深部 X 线 治疗机 情况 适宜	__label__tumor
+五岁 儿童 说 在 说话	__label__other
+疼过 久 现在 腿 不 舒服 这 怎么	__label__other
+了 乳腺癌 可以 性生活	__label__tumor
+一到 晚上 腿疼 怎么回事	__label__other
+肝癌 转移 肺上 癌细胞 扩散 吗	__label__tumor
+传染 急性 结膜炎	__label__other
+我家 孩子 放炮 眼睛 崩 一下 眼仁 淤血 不疼	__label__other
+胸 的 肋骨 有 坑 按压 疼痛 平常 肋骨	__label__other
+感觉 一 鼻子 不通 呼吸 费力 鼻炎	__label__other
+医生 我 喝 吃 稳心颗粒 好像 什么 东西 卡 心里	__label__other
+直肠癌 化疗 后个 月 复查	__label__tumor
+现 留下 痘 痕 第一张 照片 起泡 磕 一下 流血 怎么 治疗	__label__other
+耳鸣 肾虚 医生	__label__other
+咽喉 发炎 异物感 怎么回事	__label__other
+最近 感觉 眼睛 干 口腔 有 异物 牙齿 舌苔	__label__other
+我家 宝宝 连续 两个 星期 流鼻涕 感冒 不 发烧 怎么办 男	__label__other
+肾 占位 伴 出血 止血 医生 说 是 良性	__label__tumor
+请问 直肠癌 化疗 期间 吃螃蟹	__label__tumor
+放疗 哪些 不良反应	__label__tumor
+孩子 七岁 四年 哮喘病 史 吸入 舒利迭 控	__label__other
+父亲 做 骰 关节 全 髋 手术 二十天 怎么	__label__other
+家里 老人 患 直肠癌	__label__tumor
+肝癌 症状 哪些	__label__tumor
+老人 直肠癌 第二次 搭桥 嘛	__label__tumor
+． 是 X 刀 真是 一把 刀	__label__tumor
+期 直肠癌 活多久 怎么办	__label__tumor
+胃癌 化疗 期间 注意	__label__tumor
+拔 完牙 第二天 疼 智齿	__label__other
+一颗 潜伏 牙能 矫正 好看	__label__other
+假体置换 术后 上学 工作 结婚 生子	__label__tumor
+眼情 干涩 而胀 头晕 回事	__label__other
+是 肿瘤 免疫治疗	__label__tumor
+乳腺 肿块 不会 衍变 成 乳腺癌	__label__tumor
+右 肋骨 下方 隐隐 异常 感觉 不疼 咋办	__label__other
+皮肤癌 护理 诊断	__label__tumor
+脑出血 发展 成 脑瘤	__label__tumor
+肺癌 病人 传染 吗	__label__tumor
+我 膝盖 很痛 风湿	__label__other
+我家 宝宝 大概 连续 吐奶 星期 了	__label__other
+我手 烫伤 能 它 的 快点	__label__other
+孩子 诊断 蛋白尿 隐血 看看 治疗 蛋白尿 隐血	__label__other
+我家 宝贝 三岁 半去 牙科 门诊 说 急性牙髓炎 做	__label__other
+扁桃体发炎 特别 疼 化脓	__label__other
+食管癌 情况 需要 接受 内镜 黏膜 切除术	__label__tumor
+宫颈癌 放疗 期间 注意事项	__label__tumor
+吆喝 眼睛 舒服 怎么回事	__label__other
+会 发炎 这种 情况 拔 完牙会 特别 疼	__label__other
+嘴角 内长 溃疡 不了 什么 原因	__label__other
+男生 腿肚 发胖 就 长 高	__label__other
+药店 有 效果 一点 减肥药	__label__other
+叔叔 前 几天 查出 患有 食道癌 治疗	__label__tumor
+高 危天 艾滋病抗体 阴 排除	__label__other
+胫骨 平台 前 交叉 付 韧带 处 撕裂 性骨折 手术	__label__other
+积液 输 消炎药 见少 排除 肿瘤	__label__tumor
+淋巴瘤 白血病 白细胞 很 低	__label__tumor
+不 自己 是否 健康 常常 失眠 我 失眠	__label__other
+小孩 拉肚 起 一身 红 点点 怎么回事	__label__other
+去年 六月 结核性腹膜炎 手术 七月 出院 拔出	__label__other
+肺癌 确诊 中医 西医 治疗 方法	__label__tumor
+卵巢癌 怎么 的	__label__tumor
+结肠癌 晚期 的 治	__label__tumor
+预防 结肠癌 饮食 上该 什么	__label__tumor
+放疗 期间 每周 至少 要查 白细胞 血小板	__label__tumor
+脑积水 · mm	__label__other
+小孩 血管瘤 治疗 好	__label__tumor
+忍不住 想 发脾气 知道 开学	__label__other
+请 帮忙 看下 可能 肺癌	__label__tumor
+黑点 带上 牙套 后会 发展 整个 牙齿 坏掉	__label__other
+请问 肝功 检测 能 排除 肝癌	__label__tumor
+左下腹疼痛 结肠癌	__label__tumor
+东西 很 细小 大概 白色 东西 快速 闪过	__label__other
+眼睛 伤口 放 眼药水	__label__other
+放疗 过程 中 如何 选择 饮食	__label__tumor
+月 宝宝 脸上 小红 疙瘩	__label__other
+尿路感染 药 吃 了 感觉 老想 厕所	__label__other
+我爸 早期 鼻腔 淋巴瘤 NKT 能 什么	__label__tumor
+妈妈 大便 肛门 擦 干净 持续时间 半年	__label__other
+皮肤癌 传染	__label__tumor
+左 眼睛 或者 闭眼 时候 眼皮 疼 手摸 有点	__label__other
+今 早晨 起床 现在 眼睛 磨 慌	__label__other
+婴儿 便是 泥巴 色 什么 原因	__label__other
+咽炎 咳嗽 好几个 月 不见 怎么办	__label__other
+右 胸部 摸 有 硬块 乳腺癌	__label__tumor
+直肠癌 术 前 放疗 治疗 效果 吗	__label__tumor
+术 前行 放化疗 直肠癌 什么	__label__tumor
+皮肤癌 病因	__label__tumor
+左侧 腰疼 坐 和 弯腰 疼 知道 原因	__label__other
+乳腺癌 术后 一定 做 放化疗	__label__tumor
+一直 喉咙痒 咳嗽 是 咽炎 药 知道	__label__other
+王 主任 在 咽喉 科做 一个 EB 病毒检测 刚刚	__label__other
+晚上 眼睛 痒 揉 一会 第二天 发现 眼睛 里	__label__other
+我前 几天 买 美白丸 这款 在 百度 都 查不到	__label__other
+五年 不 复发 不会 复发	__label__tumor
+放疗 厌食 恶心呕吐	__label__tumor
+月子 里 哭 好 现在 五个 月 天天 熬夜 眼睛	__label__other
+子宫内膜癌 诊断 呢	__label__tumor
+眼睛 发炎 快好了 戴美瞳 眼睛 发炎 红血丝 一点 个别 原因 带 能 带到 小时	__label__other
+现在 嗓子疼 和 喉癌 患者 接过 吻 请问 有没有 关系 谢谢 大夫	__label__tumor
+感冒咳嗽 好 差不多 现在 喉咙 痰	__label__other
+肝癌 患者 饮食 注意	__label__tumor
+右边 额颌 关节 响声 怎么回事	__label__other
+刚刚 吃 减肥药 能 乙肝疫苗	__label__other
+胰腺癌 有 表现	__label__tumor
+肝癌 症状 哪些	__label__tumor
+跑 几个 月 步 脚板 骨头疼	__label__other
+减轻 放疗 副反应	__label__tumor
+长期 误 吃 抑郁 药 导致 思维 神经 损害	__label__other
+想到 春雨 有没有 心理 主要 婆媳	__label__other
+治疗 血管瘤 采用 种 技术	__label__tumor
+翻开 眼皮 是 伤口	__label__other
+治 肠癌	__label__tumor
+食道癌 水 喝 已经 一个月 进食 化疗 做	__label__tumor
+眼睛 肿了 知道 原因 红肿	__label__other
+我要 咨询 天津 第五 中心医院 肿瘤 大夫	__label__tumor
+眼睛 白 眼球 黄斑 好多年 最近 长大 女	__label__other
+右 锁骨 处 剪刀 扎 流血 有事吗	__label__other
+老鼠 咬 出血了 破伤风 吗	__label__other
+六个月 婴儿 吃 哪种 DHA 什么 吃 多久	__label__other
+肿瘤 适宜 做 化疗	__label__tumor
+牙齿 有 一小块 有白尖 怀疑 马牙	__label__other
+一岁 宝宝 急性 肠胃炎 喝牛奶	__label__other
+父亲 岁 前列腺增生 急性 尿潴留 医生	__label__other
+智齿 导致 肉裂 智齿 了 导致 智齿 旁边	__label__other
+岁 盐酸丙卡特罗 服多 怎么办	__label__other
+结肠癌 低 分化 发现 转移	__label__tumor
+眼睛 就是 痒 挺 长时间 一摸 枯燥	__label__other
+感觉 脖子 压咽 唾沫 时候 考虑一下 咽	__label__other
+结肠癌 判断 淋巴 转移	__label__tumor
+乳腺癌 转移 胸腔	__label__tumor
+想 一下 睡觉 做 噩梦 是 梦 和	__label__other
+大便 成型 肠癌 肚 咕噜 有气	__label__tumor
+想 利用 奥利司他胶囊 减肥 么	__label__other
+口腔溃疡 很久 刷牙 大出血 口臭 厉害 要紧	__label__other
+委 椎骨 是 部位	__label__other
+自发性 疼痛 慢性牙髓炎 有 严重后果	__label__other
+肝癌 术后 想 现在 情况 多	__label__tumor
+化疗 哪些 副反应	__label__tumor
+孕妇 喉咙 发炎 说不出 话	__label__other
+霉菌性 阴道炎 这个 药 冲洗 昨天 冲完 没什么	__label__other
+胃癌 人 不要 吃 卤过 东西	__label__tumor
+直肠息肉 患者 如何 预防 直肠癌	__label__tumor
+体内 体外 放射治疗 区别	__label__tumor
+改善 口腔癌 放疗 的 口干舌燥	__label__tumor
+右小腿 腓骨骨折 劈叉 骨折 处 没 疼 一个月 石膏 不能 撤	__label__other
+五岁 男孩 晚上 哭喊 腿疼 他 吃 阿法 骨化	__label__other
+乳腺癌 肿块 什么样	__label__tumor
+结肠癌 先	__label__tumor
+胃癌 动手术 好吃 中药 疗效	__label__tumor
+安神补脑液 牌子	__label__other
+放疗 过程 中 各种 原因 治疗 中断 一段时间 对 疗效 什么 影响	__label__tumor
+吸烟 肺癌 关系	__label__tumor
+肺癌 中晚期 什么	__label__tumor
+舌头 两颗 黑点 怎么回事	__label__other
+做 完 淋巴结 节 手术 星期	__label__other
+岁 掉牙 不长 新牙	__label__other
+岁 月 女孩 身高 厘米 正长 重	__label__other
+预防 乳腺癌 饮食 注意	__label__tumor
+华蟾素 急性 骨髓 性 白血病 治疗 效果	__label__tumor
+截肢术后 患肢 痛	__label__tumor
+胃癌 传染	__label__tumor
+． 有时 在 皮肤 上放 过 猪皮	__label__tumor
+是 放射治疗	__label__tumor
+前 几个 星期 右眼 下眼皮 跳动 了 两 星期	__label__other
+口 干 嘴唇 干造 上牙堂 牙 周边 白色 泡 乳白色 舌	__label__other
+病人 : 男 名字 : 乌日图 那顺岁 哈尔滨市 第一	__label__tumor
+翻开 眼皮 是 伤口	__label__other
+头颈部 放疗 时 病人 会 脱发 脱发 还会 再长 吗	__label__tumor
+痔疮 直肠癌 可能性 吗	__label__tumor
+卵巢癌 护理 诊断 措施	__label__tumor
+液体钙 牙齿 有没有	__label__other
+直肠癌 晚期 排血 粘液 什么 原因	__label__tumor
+乳腺癌 不会 转移	__label__tumor
+结肠癌 大便 变 细长 有 多细	__label__tumor
+想 咨询 胃癌 事情	__label__tumor
+喝醉酒 三四天 肚 咕噜咕噜 响 咋办	__label__tumor
+舌头 一 是 像 血泡 红点 这是 怎么回事	__label__other
+癌症 手术 就 视为 治愈 无需 治疗 情况 继续 治疗	__label__tumor
+请问 这是 肝癌	__label__tumor
+三岁 孩子 呕吐 腹泻 腹泻 两次 发热	__label__other
+服用 易瑞沙 最好 服用 药 治疗 非小细胞肺癌	__label__tumor
+感冒 一周 开始 打喷嚏 流鼻涕 嗓子疼 吃 了	__label__other
+嗓子疼 两个 月 不是 每次 疼 大 口 喝水	__label__other
+喉咙 里长 白色 东西 有 病	__label__other
+肺癌 晚期 医生 做手术 吗	__label__tumor
+生物 化疗 疗程 两天 有用吗	__label__tumor
+结肠癌 喝 汤能 吃	__label__tumor
+是 放射治疗	__label__tumor
+卵巢癌 手术 的 饮食	__label__tumor
+髋关节 酸疼 大腿 无力 多月	__label__other
+才 减肥 体重下降	__label__other
+肾上腺 腺瘤 帮 看看 需不需要 做手术	__label__tumor
+头痛 得 脑瘤	__label__tumor
+X 刀 γ 刀 什么 区别	__label__tumor
+做 膀胱癌 全切 还 复发 转移	__label__tumor
+乳腺癌 术后 十个月 不知 怎么回事	__label__tumor
+乳腺癌 放疗 哪些	__label__tumor
+妈妈 吵 时候 都 想自杀 自虐 自己 以前 这样 情况 这是 了	__label__other
+运动 小时 减肥	__label__other
+是 肝癌 患者 跑步	__label__tumor
+昨天 脚趾 疼 怎么回事	__label__other
+左 倒数 第二个 牙齿 里 侧 牙根 痛 治疗	__label__other
+放疗 病人 饮食 如何 调整	__label__tumor
+洗完 澡后 乳头 痒 难受 	__label__other
+冠心病 感觉 胸闷 四肢无力 感觉 憋着 什么 压着	__label__other
+胃癌 细胞 分裂症 什么	__label__tumor
+差 七天 月经 会来 七天 排卵	__label__other
+耳闷 啊	__label__other
+小孩 嘴 磕 肿了 什么 软膏 消肿 月	__label__other
+乳房 内陷 会得 乳腺癌	__label__tumor
+眼角 疼 眼角 红 洗脸 刺痛 感觉 一颗颗	__label__other
+． 放疗 过程 中 各种 原因 治疗 中断 一段时间 对 疗效 什么 影响	__label__tumor
+老年 肿瘤 患者 进行 放化疗 吃 中药 吗	__label__tumor
+接触 手机 患上 白血病	__label__tumor
+腓骨骨折 三个 月 复位	__label__other
+手心 擦伤 不会 哪些 隐藏 身体	__label__other
+吃 减肥药 肠道 疾病 久治不愈 有何 办法	__label__other
+结肠癌 TaNMx 化疗 咨询	__label__tumor
+请问 医生 是 确诊 肺癌	__label__tumor
+医生 大 肿瘤 摘 眼睛 吗	__label__other
+化疗 周期 间隔 越短 剂量 越大 疗效 更好	__label__tumor
+嗓子眼 红血丝 喉咙 难受 异物感 几天 少有	__label__other
+刚刚 狗狗 被车撞 大腿 内侧 被 地面 蹭 伤能 跑	__label__other
+打架 小心 到 眼球 充血 医院 检查 说	__label__other
+放疗 可以 退 费用	__label__tumor
+下眼睑 肿了	__label__other
+肝功能 总胆红素 偏高 直接胆红素 间接 胆红素 偏	__label__other
+女岁 满口 牙齿 几年 排牙 的 最 两	__label__other
+两岁 宝宝 发烧 第四天 查血 怎么办	__label__other
+醫生 請 問牙齒 矯正受 年齡 影響 嗎	__label__other
+手指 骨节 挫伤 关节 肿大 三个 月 一直 肿	__label__other
+做 完 鼻甲 肥大 用 洗 鼻盐 洗	__label__other
+一 喝水 不停 打嗝 食道癌	__label__tumor
+了 慢性 非 萎缩性胃炎 幽门螺杆菌 阳性	__label__other
+X 刀 用来 治疗 肿瘤	__label__tumor
+子宫内膜癌 什么 情况 需要 接受 放疗	__label__tumor
+有 好 治疗方案 理疗 方案	__label__other
+直肠癌 复查 情况 问题 吗	__label__tumor
+直肠癌 哪些 症状	__label__tumor
+月经 第一天 感觉 经血 量 超过 ml 痛经 不算	__label__other
+鼻咽癌 放疗 的 后遗症 妈妈 放疗 回家 半个 月 有没有 事	__label__tumor
+喉癌 全喉切除术 有没有 放化疗	__label__tumor
+左乳低 回声 结节 类 吗 不要紧	__label__other
+眼眶 内侧壁 骨折 手术 会 出现 肌肉萎缩 情况	__label__other
+肺部 梭形 细胞 肿瘤 治疗 死亡率 多少	__label__tumor
+请问 宫颈癌 筛查 什么	__label__tumor
+脑膜瘤 哪些 治疗 方法	__label__tumor
+直肠癌 大便 有血 早期 症状	__label__tumor
+乳腺癌 了 晚期 能治好	__label__tumor
+患上 皮肤癌 怎么 治疗	__label__tumor
+洛神 花 酵素 减肥	__label__other
+智齿 有用 上火 疼 上火 不 疼	__label__other
+肺癌 早期 治愈 机会 老年人 七十多	__label__tumor
+小孩 肥胖 减肥	__label__other
+小孩 血管瘤 治疗 好	__label__tumor
+张口 上 鄂 疼 口腔癌	__label__other
+帮忙 一下 这是 近视 两只 眼睛 相差 越来越 吗	__label__other
+大腿 股 骨髓 内钉 取出 伤口 两个 半月 愈合 什么 原因	__label__other
+骨肉瘤 什么 临床表现	__label__tumor
+我岁 骑 自行车 走路 走路 了 一点 膝关节痛 经常性 要 吃 药	__label__other
+宝宝 半月 补钙	__label__other
+结肠癌 术后 一年 吐 黑水 什么 病	__label__tumor
+手术 平常 流黄 鼻涕 鼻子 不透气	__label__other
+我家 孩子 大牙 发黑 是 正常 蛀牙 以后	__label__other
+放疗 多久 作用	__label__tumor
+孕妇 患 肿瘤 做 放疗	__label__tumor
+脑瘤 头痛 普通 头痛 区别	__label__tumor
+想 问下 两天 吃 烧烤 会得 胃癌	__label__tumor
+放疗 中 常用 加速器 哪几种 有何	__label__tumor
+两只 眼睛 正常 一个 远处 模糊 段时间	__label__other
+胃癌 喝 中成药	__label__tumor
+总是 手心 出汗 脚 出汗	__label__other
+直肠癌 有 症状	__label__tumor
+麻烦 下 是 肺癌 什么 期 手术	__label__tumor
+食道癌 中国 什么 地方 治疗	__label__tumor
+颅咽管瘤 复发 后该 再次 手术	__label__tumor
+是 胃癌 肝上 有 请问 喝 茶	__label__tumor
+放疗 早期 并发症 哪些	__label__tumor
+三个 月 宝宝 胃口 不好	__label__other
+心里 纠结 事 不 是不是 心	__label__other
+医生 早期 乳腺癌 化疗方案 什么	__label__tumor
+的 左肩 疼痛 疼别 干活 时想 拔罐子	__label__other
+胃癌 晚期 活多久	__label__tumor
+坦度 螺酮断 吃次 有事吗 下午 晚上 没有 吃	__label__other
+尿血 膀胱癌	__label__tumor
+咳嗽 不 吐痰 是 肺癌	__label__tumor
+抑郁 三个 多月 可以 服药	__label__other
+你好 肝癌 怎么 治求 答案	__label__tumor
+小孩 喉咙 叫 怎么回事	__label__other
+肛门 有肉球 紧急	__label__other
+直肠 造瘘口 病人 饮食 注意	__label__tumor
+恶性 概率 么	__label__tumor
+腿部 减肥 初中 很瘦 初三 就 胖	__label__other
+直肠癌 能 保住 肛门	__label__tumor
+肺癌 晚期 转移 脑 临终前 症状	__label__tumor
+咨询 白血病 症状 有人	__label__tumor
+手磕伤 冷敷 热敷 清洗 用生 鸡蛋 么 手	__label__other
+早上 肚疼 是 肠癌	__label__tumor
+一周 有点 感冒了 打喷嚏 流鼻涕 头疼 嗓子疼	__label__other
+什么 办法 或者 不要 他 断奶 家里 老人 不让 断奶 觉得 断奶	__label__other
+艾滋病 小时 吃药 阻断	__label__other
+的 眼睛 看 东西 觉得 眼前 有个 黑点 视线 漂移 怎么回事	__label__other
+年 月 脑 转移 肿块 发展 放疗 时有 注意事项	__label__tumor
+左眼 了 结膜炎 第二天 右眼 视力下降 模糊 什么 原因	__label__other
+岁 乳牙 轻微 松动 拔牙 恒牙 出 歪	__label__other
+乳腺癌 放疗 副作用 缓解	__label__tumor
+确定 肛裂 肠胃 出血 有没有 癌症 可能	__label__tumor
+孩子 十岁 今年 发现 偷 女人 丝袜 鞋子 回来	__label__other
+乳腺癌 切除 患者 存活率 多久	__label__tumor
+鼻咽癌 怎么 治	__label__tumor
+腰肌劳损 治疗 三个 月 我 年轻 😂	__label__other
+是否 化疗 口服 药物 男	__label__tumor
+结肠癌 中晚期 患者 化疗 期间 危险	__label__tumor
+放疗 哪些 流程	__label__tumor
+了 皮肤癌 治疗 有效	__label__tumor
+肾癌 如何 诊断 呢	__label__tumor
+胃癌 后期 血液 减少	__label__tumor
+先 吃 清开灵颗粒 两个 药能 一块 吃	__label__other
+打开 肛门 截石位 六点 方向 很小 很小 一块 息肉 痔疮	__label__other
+防止 白血病 很 害怕 得 病	__label__tumor
+混合型 血管瘤 治疗	__label__tumor
+五个 月 宝宝 发烧	__label__other
+放疗 前 注意事项	__label__tumor
+白血病 初检 做 项目 怎么办	__label__tumor
+月 宝宝 在度 水 游泳 分钟 脸	__label__other
+胃癌 中晚期 能 活多久	__label__tumor
+问 白血病 算不算 恶性肿瘤	__label__tumor
+减轻 放疗 副反应	__label__tumor
+乳腺癌 手术 割除 乳房	__label__tumor
+又 肿了 睁不开 眼睛 一直 流眼泪 氧氟沙星眼膏 不怎么 用	__label__other
+肚脐 右侧 约 cm 地方 隐痛 症状 持续 三天	__label__other
+乳腺癌 治疗 方法 最好	__label__tumor
+腰部 疼痛 是 骨癌	__label__tumor
+脚趾 筋断 能 恢复 好	__label__other
+有 流血 现象 怎么回事	__label__other
+乳腺癌 做 手术 化疗 怎么样	__label__tumor
+胸闷 气短 肺癌	__label__tumor
+宝宝 夜里 翻来覆去 睡不着 觉 没有 的 舒	__label__other
+口腔 上腔 疼痛 有个 红色 痘痘	__label__other
+淋巴组织 增生 套路 增厚 须 免疫诊断 就是 恶	__label__tumor
+想 咨询 问题	__label__other
+山楂 白开水 加 蜂蜜 喝能 减肥	__label__other
+岁 肺癌 气切 损害 声带	__label__tumor
+现在 月经 刚刚 我 想 你 我 中药 药方	__label__other
+请问 喝 绿茶 预防 白血病	__label__tumor
+脑膜瘤 放疗 进行	__label__tumor
+看 放射治疗 记录 中 常用 英文 缩写	__label__tumor
+十一个 女 宝宝 不吃 奶粉 不吃 母乳 吃 家常饭	__label__other
+抑郁症 脑袋 不会 变慢	__label__other
+子宫内膜癌 阴道 正常 排液 有 表现	__label__tumor
+降压药 降太低 提高	__label__other
+胃癌 什么 阶段 有 治疗 机会	__label__tumor
+想 咨询 关于 小细胞肺癌 问题 岁	__label__tumor
+丫头 咳嗽 醒来 咳嗽 咳出 痰 严重的 症状	__label__other
+肺部 肿瘤 确定 良心 还是 恶性	__label__tumor
+胃癌 靶向 药物 治疗 效果 吗	__label__tumor
+胃癌 怎么 导致	__label__tumor
+脸耳 发烫 回事 发慌	__label__other
+小细胞肺癌 转移 脑部	__label__tumor
+婆母 两个 多月 尿频 现象 是 怎么回事	__label__other
+原来 咨询 您 现在 情况 细菌性前列腺炎	__label__other
+放疗 常用 方法 每天 照射 每周 照射 次 是 道理	__label__tumor
+什么 治疗 胃癌 中药	__label__tumor
+预防 乳腺癌	__label__tumor
+乳腺 低 回声 结节 乳腺癌	__label__tumor
+乳腺癌 切除 张 淋巴 要紧	__label__tumor
+睡觉 时候 躺 就 感觉 天旋地转 恶心 中毒	__label__other
+腔内 放疗 放疗 多久	__label__tumor
+放疗 白细胞 数量 减少	__label__tumor
+按压 痛 是 怎么回事	__label__other
+请问 重庆 医院 治疗 胃癌	__label__tumor
+宝宝 两个 月 血管瘤 混合性血管瘤 不想 打针	__label__tumor
+自己 着 镜子 发现 白 眼球 长 个 通明 疙瘩 就是 磨眼 不 影响 视力 的	__label__other
+宫颈 切片 后天 拖地	__label__other
+老年人 适合 靶向 治疗	__label__tumor
+眼 肿了 快速 消肿 眼 肿了 吃 药是 眼角 炎	__label__other
+疾病 不同 阶段 使用 中医药	__label__tumor
+肺癌 症状 什么 感冒咳嗽	__label__tumor
+眼睑 生 两个 白点	__label__other
+嘴巴 类似 一大 团 口腔溃疡	__label__other
+肺癌 中晚期 活多久	__label__tumor
+腰间盘 脱出 四五 节 关节 脱出	__label__other
+乳腺癌 手术 一定 化疗	__label__tumor
+晚上 睡觉 磨牙 什么	__label__other
+乳腺癌 转移 胸骨 治疗	__label__tumor
+我带 眼镜 一年 前两天 眼镜 坏 了 这 两天	__label__other
+结肠癌 骨转移 可以 治愈	__label__tumor
+知道 输液 加热 袋 类似 暖 宝宝 样 东西 绑	__label__other
+膀胱癌 放疗 什么 作用 放疗 形式 一样	__label__tumor
+肝血管瘤 危险	__label__tumor
+吃 减肥药 得 白血病	__label__tumor
+莫名 烦躁 心慌 噩梦 怎么回事	__label__other
+鼻咽癌 哪些 临床症状	__label__tumor
+母亲 直肠癌术后 问题 请教	__label__tumor
+看 大夫 说 骨膜炎 出出 多	__label__other
+求 复发 办法 了 肝癌	__label__tumor
+大便 有血 怎么回事	__label__other
+耳廓 红肿 轻微 流脓 什么 情况	__label__other
+昨天 吃饭 小心 咬 了 腮帮子 着 镜子 看	__label__other
+体重下降 左侧 胸部 隐隐作痛 不好 现象	__label__tumor
+经期 超 五天 做 药 流出 血 两天 就 多 超 五天 不会 排出 大块 东西	__label__other
+又 了 这 什么 虚	__label__other
+． 放射治疗 恶性肿瘤 治疗 中 占有 地位	__label__tumor
+乳腺 结节 形态 不规则 是 乳腺癌	__label__tumor
+胃癌 姑息性 化疗 晚期 什么 化疗药	__label__tumor
+直肠癌 放疗 放疗 科	__label__tumor
+容积 调强 适	__label__tumor
+皮肤癌 传染	__label__tumor
+左手 腱鞘炎 右手 腱鞘囊肿	__label__other
+半夜 右 手臂 酸胀 怎么回事	__label__other
+出生 身高 体 吗	__label__other
+睡觉 特别 难受 焦虑症	__label__other
+腰间盘 坐骨神经 疼 没有 严重	__label__other
+皮肤癌 患者 在生活中 多 什么	__label__tumor
+仰头 脖子 刺痛 颈椎病	__label__other
+乳腺癌 手术 做 保乳 看 后续 治疗	__label__tumor
+宝宝 睡 踏实 发出 呻吟	__label__other
+恶性黑色素瘤 治愈	__label__tumor
+结肠癌 二期 有 不会 转移 嘛	__label__tumor
+攥 紧拳 伸不开 指头 咋办 肌酸激酶 高 治疗	__label__other
+后背 整天 疼	__label__other
+颧骨 耳朵 连接 地方 了 疙瘩 淋巴结肿大 牙龈出血	__label__other
+淋巴癌 治 转 成 白血病	__label__tumor
+女 宝宝 月 喝 英国 爱 美 奶粉 体重 偏轻 身高	__label__other
+宫颈癌 存活率 高	__label__tumor
+月 宝宝 脸上 小红 疙瘩	__label__other
+肺癌 早期 完全 治愈	__label__tumor
+确定 宝宝 感冒了 肺炎 宝宝 天	__label__other
+口腔 里 红色 中间 黑点	__label__other
+乳腺癌 早期 化疗 化疗 几次 好	__label__tumor
+Wo 全身 减肥 n	__label__other
+鼻咽癌 确诊 好治	__label__tumor
+男性 染色体 变异 导致 病	__label__other
+胃癌 晚期 什么	__label__tumor
+闷闷不乐 无所事事 我 觉得 一刻	__label__other
+食道癌 患者 食谱	__label__tumor
+鼻咽癌 不能 治疗	__label__tumor
+男女 说话 就 难受 咋 回事 就 心情 压抑	__label__other
+卵巢癌 治愈	__label__tumor
+肺癌 遗传性	__label__tumor
+鼻咽癌 中期 治愈 可能	__label__tumor
+肺癌 什么 原因 的	__label__tumor
+子宫内膜癌 治疗	__label__tumor
+的 血糖 餐后 两 小时 正常	__label__other
+是 结肠癌 病人 想 问 问题	__label__tumor
+喉癌 放疗 后能 吃 食物	__label__tumor
+膀胱癌 早期 手术 效果 还会 复发	__label__tumor
+左侧 上颌骨 额突 骨折 折处 塌陷 移位 鼻窦 积血	__label__other
+放疗 不良反应 出现 什么	__label__tumor
+皮肤癌 死亡率 多少	__label__tumor
+长 口腔溃疡 什么 原因 吃 维生素C咀嚼片	__label__other
+眼睛 做 磁共振	__label__other
+白血病 患者 可不可以 吃 抗癌 哂 米	__label__tumor
+胃癌 胆囊 劈 粗糙 转移	__label__tumor
+器质性 斜视 先天性 斜视 治好 斜视	__label__other
+早上 起床 头晕 医院 检查 CT 没事 血 化验 没事	__label__other
+我哥 查出来 白血病 怎么办	__label__tumor
+早期 乳腺癌 及时 治疗	__label__tumor
+门牙 位置 长 一颗 重牙 影响 美观 想要 拔掉 请 帮	__label__other
+肝癌 手术 还是 放疗	__label__tumor
+体表 标记线 掉 可以 放疗	__label__tumor
+． 血小板 降低 应 处理	__label__tumor
+早上 鼻子 是 鼻涕 会 的 感觉 不 痛快	__label__other
+月经 推迟 一周 了 什么 原因 有 性生活	__label__other
+． 放疗 时 常用 体位 哪几种	__label__tumor
+十五岁 男孩 喝 一瓶 白酒 有没有 事	__label__other
+结肠癌 三期 很严重	__label__tumor
+说话 很	__label__other
+刚生 的 小孩 胃癌	__label__tumor
+直肠癌 患者 喝牛奶	__label__tumor
+鼻子 有颗 脓肿 反反复复 没好 咋办	__label__other
+卵巢癌 护理 诊断 措施	__label__tumor
+两天 耳朵 痒 手 挠 他 耳朵 边上 的 耳 瘘 关系	__label__other
+过 乳腺癌 患者 吃 河蟹	__label__tumor
+睡觉 时常 感觉 呼吸 时 胸腔 痛喘 气要 喘	__label__other
+口 大齿 旁边 长 个 肉瘤 的	__label__tumor
+红细胞 隐血 个加 隐血 个加 什么 吗	__label__other
+开始 出血 有没有 事	__label__other
+就 胃 很大 刺激性 这是 正规 保健品	__label__other
+胃 腺癌 egfr 基因突变 检测	__label__tumor
+身体 含硫 咋 回事 为啥 戴银 镯子 手腕 发黑	__label__other
+上颚 多形性腺瘤 检查 出前 割掉 做 病理 检查 再次 手术	__label__other
+眼部 b 超能 检查 视网膜 裂孔 右眼 感觉 舒服	__label__other
+胃癌 术后 吃 葡萄糖	__label__tumor
+是 质子 重离子 治疗	__label__tumor
+放疗 导致 下颌关节 强制 处理	__label__tumor
+年轻人 胃癌 多	__label__tumor
+纤维瘤 乳腺 乳腺癌 什么 区别	__label__tumor
+． 头颈部 肿瘤 病人 放疗 拔牙 什么 危险	__label__tumor
+的 肿瘤 术后 放疗	__label__tumor
+肾癌 哪几种 类型	__label__tumor
+儿子 六个 半月 十天 前 他 吃 蛋黄	__label__other
+胃痛 几年 想 做 全身检查 注意	__label__other
+无缘无故 流鼻血 怎么回事	__label__other
+我爸 今天上午 武汉市 第一 医院 做 胃镜检查 医	__label__tumor
+有点 疼 怎么回事	__label__other
+痔疮 半年 也 不好 痔疮 才能 治	__label__other
+考虑 费用 情况 有 好 方案	__label__tumor
+鼻癌症 必要 做 靶向 治疗	__label__tumor
+知道 有没有 缓解 办法 不用 医院	__label__other
+头颈部 放疗 时 病人 会 脱发 脱发 还会 再长 吗	__label__tumor
+昨天 问过 说 是 筋 膜炎 冲击波 治疗 已经 做	__label__other
+ct 确诊 肺癌 穿刺 活检 没有 发现 什么 情况	__label__tumor
+放疗 导致 下肢水肿	__label__tumor
+乙肝 丙肝病毒 传染	__label__tumor
+长 哪个 部位 黑痣 应 注意	__label__tumor
+颈动脉 不适 什么 方法 彻底解决 不适	__label__other
+放疗 要 脱衣服	__label__tumor
+肝癌 晚期 术后 复檢需 检查 几项	__label__tumor
+这是 有 异物感	__label__other
+医生 检查 说 是 肝癌 真的	__label__tumor
+我家 宝宝 大概 连续 吐奶 星期 了	__label__other
+改善 口腔癌 放疗 的 情绪 改变	__label__tumor
+． 有时 用 低熔点 铅 做成 形状 模块	__label__tumor
+眼睛 红肿 流脓 怎么回事 好像 过敏	__label__other
+昨天晚上 一直 高烧 咳嗽 这是 流感	__label__other
+乳腺癌 治疗 方法 有	__label__tumor
+子宫内膜癌 化疗 多少 次	__label__tumor
+宫颈癌 传染	__label__tumor
+感觉 嗓子疼 舌头 有交个 小泡 嘴唇 干 上边	__label__other
+胆脂瘤 型 中耳炎 手术 做 疼 疼 好不好 恢复	__label__other
+放疗 轮 需要 多久	__label__tumor
+你好 肝硬化 肝癌 做 完 切除 手术 十天 医生 说 肝 又 长 一个 花生 的 肿块	__label__tumor
+图中 左边 位置 疼 锁骨 第二 三条 肋骨 位置	__label__other
+骨肉瘤 治疗 方法 哪些	__label__tumor
+中期 卵巢癌 治愈	__label__tumor
+乳腺癌 转移 是 肝癌 晚期	__label__tumor
+胰腺癌 晚期 病人 胡言乱语 出现 嗜睡 醒	__label__tumor
+直肠癌 治疗 全部 费用	__label__tumor
+牙齿 松动 反复 疼痛	__label__other
+消化科 医生 帮帮我 是不是 肝癌	__label__tumor
+结肠癌 疼痛	__label__tumor
+． 白细胞 血小板 降 什么 程度 停止 放疗	__label__tumor
+乳腺癌 左侧 枕骨 局部 密度 不均	__label__tumor
+耳朵 边上 长出 黑色 软 刺	__label__other
+肝癌 早期 症状 治疗 方法	__label__tumor
+注射 肉毒素 后眼 斜视 什么 药	__label__other
+病人 脸黑 不能 黑 这 怎么回事	__label__tumor
+肺癌 晚期 脚 肿了 什么 办法 消肿	__label__tumor
+我会 什么 不感兴趣 有 轻生 想	__label__other
+奥氮平片 两个 牌子 是否 换 吃	__label__other
+岁 男 年前 膀胱癌 切除 一个 肾有 保养 方法	__label__tumor
+感冒 导致 耳朵 疼 是 原因	__label__other
+走路 时间长 膝盖 疼要 吃药	__label__other
+几天 流鼻涕 这 两天 的 鼻子 就	__label__other
+什么 方法 检查 肝癌	__label__tumor
+是 肿瘤 姑息性 手术	__label__tumor
+早期 宫颈癌 患者 能 活多久	__label__tumor
+非常 消极 自己 太苦 能 想到	__label__other
+子宫内膜癌 康复 期 饮食 注意	__label__tumor
+眼睛 红血丝 持续 有 几周 吧	__label__other
+喉咙 感觉 长 一个包 特别 硬	__label__other
+女性 乳腺癌 早期 症状	__label__tumor
+血管瘤 哪几种	__label__tumor
+我家 娃 三个 月 二十几天 之前 喝 贝因美 长	__label__other
+颈动脉 斑块 服用 波立维 瑞舒伐他汀钙 片 多久	__label__other
+舌癌 传染	__label__tumor
+刚刚 哭闹 厉害 什么	__label__other
+肺癌 检查 项目 哪些	__label__tumor
+结肠癌 肝 转移 吗	__label__tumor
+血常规 发现 白血病	__label__tumor
+放射治疗 患者 带有 放射性	__label__tumor
+了 皮肤癌 治疗 有效	__label__tumor
+用 舌 推回 原位 怎么办	__label__other
+知道 输液 加热 袋 类似 暖 宝宝 样 东西 绑	__label__other
+三岁 男孩 牙床 长大 包是 东西	__label__other
+孩子 舌头 上起 白泡 疼 喝 奶粉	__label__other
+宫颈癌 存活率 高	__label__tumor
+恶寒 头重 穿 暖和 流汗 也 是 感觉	__label__other
+哺乳期 乳房 硬块 红 痛痒 发炎	__label__other
+胰腺癌 早期 症状	__label__tumor
+肛裂 上火 可以 吃点 去 火	__label__other
+大腿 股 骨髓 内钉 取出 伤口 两个 半月 愈合 什么 原因	__label__other
+肝癌 晚期 能 活多久	__label__tumor
+三个 月 的宝宝 惊醒 : 小宝宝 低 体重 出生 体重	__label__other
+第二天 晚上 排 一点 便是 怎么回事	__label__other
+腰部 疼痛 是 骨癌	__label__tumor
+眼睛 充血 吃海鲜	__label__other
+三维 适形 什么	__label__tumor
+岁 孩子 的 眼睛 不会 影响 视力	__label__other
+七个 月 宝宝 睡觉 有 眼屎 黄脓状 怎么回事	__label__other
+宝宝 生 只有 卵 能治好	__label__other
+脑血管 介入 取出 血栓 放 支架 什么 坏处	__label__other
+有没有 办法 宝宝 喜欢 床上 睡觉	__label__other
+请问 结肠癌 术后 有 肠痉挛 现象	__label__tumor
+前 几天 脖子 酸痛 昨天晚上 右 肩膀 疼	__label__other
+嘴里 一洗 一口血 感觉 牙和牙 之间 很多 空隙	__label__other
+新生儿 眉毛 处 会 小 鼓包	__label__other
+小孩 脖子 莫名其妙 长 一点 肉肉 怎么回事	__label__other
+是 放射线	__label__tumor
+小宝宝 四个 月 喝 姜汤 对 身体 什么 影响	__label__other
+右 肩关节 疼痛 大幅度 活动 关节	__label__other
+直肠癌 手术 容易 口 干吗	__label__tumor
+吧唧 嘴巴 舒服 吃	__label__other
+胃癌 细胞 分裂症 什么	__label__tumor
+右 肩膀 疼 躺 或者 不动 时候 不疼 动作 对	__label__other
+胃癌 晚期 医生 还 手术 有 腹水	__label__tumor
+月 宝宝 发烧 到度 四天 是 病因	__label__other
+痛经 月经 第二次 痛经 每次 痛	__label__other
+颅咽管瘤 全切 术后 放疗 利弊	__label__tumor
+子宫癌 传染	__label__tumor
+乳房 一块 硬硬 怎么回事	__label__other
+不爱 说话 到 经颅 磁 刺激 仪 治疗 自闭症 这里 医院 有没有 仪器	__label__other
+鼻咽癌 早期 治愈	__label__tumor
+恶寒 头重 穿 暖和 流汗 也 是 感觉	__label__other
+月 宝宝 便秘 连续 服用 低聚 果糖	__label__other
+食道癌 中期 治療 法有 什 麽 方法	__label__tumor
+保肢 手术 截肢 手术 更好	__label__tumor
+皮肤癌 控制 好	__label__tumor
+赵 是 在 广州 华侨 医院 拍 彩超 麻烦 帮忙	__label__tumor
+右 办边 脸 抽 眼睛 跳 嘴巴 抽是 怎么回事	__label__other
+放疗 复查 随访 进行	__label__tumor
+想 减肥 想 减肥 想 减肥 求 方法	__label__other
+乳腺癌 患者 能医	__label__tumor
+月 宝宝 双歧杆菌 三联 活菌 肠溶胶囊 服	__label__other
+卵巢癌 良性 能 根治	__label__tumor
+哺乳期 妈妈 扁桃体发炎 怎么办	__label__other
+卵巢癌 早期 能治好	__label__tumor
+妈妈 乳腺癌 病例 报告	__label__tumor
+拔 三颗 牙齿 的 牙齿 逐渐 变得 稀疏	__label__other
+怎么 吃 不 胖 身高体重 kg	__label__other
+乳腺癌根治术 胶带 过敏	__label__tumor
+中午 吃饭 时候 小心 鱼刺 刺进 牙缝里 应该	__label__other
+岁 女 走路 摔了一跤 天天 左边 腰疼 睡觉 不能 翻来覆去 怎么回事	__label__other
+防止 乳腺癌 吃 比较 防癌	__label__tumor
+乳腺癌 早期 症状 右侧 胸 有时候 疼	__label__tumor
+乳腺癌 早期 能治好 怎么 治疗	__label__tumor
+嘟嘟 放屁 大便 黄色 黏糊 肚 胀气	__label__other
+梅毒 : 能 做 乳腺癌 手术	__label__tumor
+吃过饭 胃 巨疼 流 虚汗 眼前 漆黑 这段 时	__label__other
+宝宝 拉肚 五天 体重 减了斤 吃 药 有	__label__other
+岁 结肠癌 俩 腿 消肿 怎么回事	__label__tumor
+淋巴癌 治好 就是 治好 也 复发 我	__label__tumor
+爸爸 说 撇开 事儿 有没有 对 不好 事儿	__label__other
+前列腺 息肉 癌症 膀胱结石 胃溃疡	__label__tumor
+一个 肿瘤科 专家 怎么回事	__label__tumor
+牙髓炎 疼痛 牙周 肿 吃 很多 消炎药 打吊针 没	__label__other
+胰腺癌 治疗 方法	__label__tumor
+腰 莫名 很 酸痛 怎么 特别 吸气 时候 感	__label__other
+放疗 治愈 肿瘤 哪些 肿瘤 放疗 可以 缓解	__label__tumor
+肺癌 晚期 什么 药才 佳	__label__tumor
+三个 月 宝宝 胃口 不好	__label__other
+肝癌 患者 饮食 注意	__label__tumor
+会 找 灰指甲 肝癌 有没有 关系	__label__tumor
+胃 息肉 导致 胃癌	__label__tumor
+结肠癌 肝 转移 吃 药	__label__tumor
+黄豆 山药 紫薯 玉米 糯米 薏仁 胡萝卜 一起 煮粥	__label__other
+发炎 两天 有点痛 锁骨 位置 原先 有	__label__other
+最近 胸闷 肺大泡 不会 变	__label__other
+脚踝 冬天 很 热 特别 痒 烫脚 烫 了	__label__other
+胃癌 不治会 死	__label__tumor
+ct 显示 右上肺 占位 确诊 肺癌	__label__tumor
+眼压 高有 异物感 特别 涨不痛 怎么办	__label__other
+太 害怕 极度 恐惧 白血病	__label__tumor
+． 加速器 治疗 疗效 一定 钴 好	__label__tumor
+放疗 产生 全身 不良反应	__label__tumor
+做 放疗 身体 发生 变化	__label__tumor
+鼻咽镜 检查 鼻咽癌 吗	__label__tumor
+肝癌 做 几次 介入治疗	__label__tumor
+小孩 三岁 四个 月 从入 幼儿园 就 感冒	__label__other
+不 信任别人 包括 男友 父母 朋友 同事	__label__other
+年 十月 尾因 过敏性 鼻炎 耳内 积液 发炎 做 左耳 引流 管及 腺样体 切除 手术引流管 时候 取出 合适	__label__other
+肝癌 早期 预防	__label__tumor
+只能 这种 自虐 方式 这是 精神病	__label__other
+胃癌 姑息性 化疗 晚期 什么 化疗药	__label__tumor
+左侧 内眼角 长 红色 肉 疙瘩 这是 病	__label__other
+脸肿 一个多月 是 原因	__label__other
+． 用 计算机 做 治疗 计划	__label__tumor
+一个多月 瘦 多斤 怎么回事	__label__other
+右 耳朵 里 感觉 堵 听到 声音 尖锐 听力 下降	__label__other
+肠癌 治 俞	__label__tumor
+肺癌 治疗	__label__tumor
+帮 看看 两个 月 孩子 的 验血 报告	__label__other
+肺癌 病人 吃 易瑞沙	__label__tumor
+已经 做 次 放疗 准备 做 后装	__label__tumor
+是 电子线 有 特点	__label__tumor
+女性 双侧 脑动脉痉挛 椎 动脉供血不足	__label__other
+肝癌 吃 了 索 拉非 尼 会 吐	__label__tumor
+癌症病人 口咽 疼痛	__label__tumor
+乳腺癌 可以 运动	__label__tumor
+减肥 催吐	__label__other
+急性淋巴细胞白血病 淋巴瘤	__label__tumor
+子宫内膜癌 a 期中 低 分化 医生 说配 放疗 术后 吃点	__label__tumor
+直肠癌 哪些 不适 症状	__label__tumor
+宝贝 感冒 的 不多后 鼻腔 里 一直有 黄 鼻涕	__label__other
+患 骨肉瘤 危险因素 哪些	__label__tumor
+孕早期 拉 三次 肚 吃 蒙脱石散 女	__label__other
+轻度 胃炎 吃 太 烫 吐血 什么 情况	__label__other
+肿瘤 患者 接受 放射治疗	__label__tumor
+直肠癌 能 保住 肛门	__label__tumor
+女性 了 直肠癌 后能 过 性生活	__label__tumor
+月 孩子 去 婴儿 游泳馆 游泳 洗 个 澡	__label__other
+母乳喂养 孩子 吃 少 吃 两三分钟 不吃 怎么回事	__label__other
+七个 月 宝宝 睡觉 有 眼屎 黄脓状 怎么回事	__label__other
+岁 宝宝 左 眼睑 了 大包 不疼不痒 怎么回事	__label__other
+小便 时候 坠涨 疼痛 感觉 厉害 什么 原因	__label__other
+一周 知道 肠胃 精神 差易 疲劳 肚 经常 舒服	__label__other
+甲状腺 ETC 检查 作用	__label__other
+下午 胀 肚 现象 有 不良反应	__label__other
+尿常规检查 医院 说 我 轻微 的 前列腺	__label__other
+是 坐 炕 太 烫 脚踝 骨 烫伤 该	__label__other
+从小 耳朵 听力 障碍 可以 断定 天生 耳聋	__label__other
+怀疑 直肠癌 病人 做 病理 活检	__label__tumor
+白血病 潜伏期 多久 咨询 肿瘤科 医生	__label__tumor
+被 愁 死 今天 模拟考试 科目 二 五个 项目	__label__other
+有没有 眼镜 一模一样 只能 一只 眼	__label__other
+宝宝 上吐下泻 不能 吃 奶粉 半夜 饿 怎么办 女	__label__other
+之前 半个 月 斤 天 每天	__label__other
+开始 去年 四月份 不能 咬 硬 东西 张口	__label__other
+腰间盘 能 做 几个 训练 腹肌	__label__other
+减肥 贴 把 肚脐 钻 看不到 了 怎么办	__label__other
+皮肤癌 初期 症状 哪些	__label__tumor
+岁 男孩 左心 收缩 功能 减低 症状 长 出气	__label__other
+结肠癌 患者 不 放屁	__label__tumor
+咨询 与 相关 问题 被车撞 以后	__label__other
+宫颈癌 放疗 于 人群	__label__tumor
+外孙女 年月日 生现 多月	__label__other
+上颚 几个 白点 口腔溃疡	__label__other
+小细胞肺癌 治疗 的 检查报告	__label__tumor
+是 直肠癌	__label__tumor
+这份 报告 看 是 原发性 肝癌	__label__tumor
+便秘 年 了 是 便秘 今年冬天 便秘 严	__label__other
+吃饭 咽 疼 胸部 有个 疙瘩 说 食道癌 要 做手术 切除 男	__label__tumor
+老公 岁 体检 报告 显示 鳞状上皮 细胞 癌 抗原 看 需要 复查	__label__tumor
+宫颈癌 中 晚期症状	__label__tumor
+我 儿子 两个 多月 大时 发现 两只 眼睛 瞳孔 一样 这 什么 原因 导致	__label__other
+乳腺癌 了 晚期 能治好	__label__tumor
+卵巢囊肿 瘤 抗原 吗	__label__tumor
+轻度 郁症 什么 表现 失眠 心慌	__label__other
+弟弟 十五岁 血管瘤 长得 怎么办	__label__tumor
+肚脐眼 疼 水拉 一天 现在 疼 又 拉 怎么办 难受	__label__other
+宝宝 月 流鼻涕 鼻塞 吃 艾畅 吗	__label__other
+两 眼窝 发紫 一直有 黑眼圈 什么 原因	__label__other
+患 肝癌 人 肝功能 不好	__label__tumor
+岁 吃 布洛芬 退烧	__label__other
+挺 宣化 医生 说 做手术 在 家里 眼药 消	__label__other
+两岁 宝宝 眉毛 上缝 两针 会留 疤痕	__label__other
+草莓 血管瘤 用 不用 治疗 什么 影响	__label__tumor
+食道 鳞状细胞癌 中晚期 吞咽 难 生体 消瘦 化疗 放疗	__label__tumor
+你好 儿童 白血病 能治好	__label__tumor
+宝宝 一岁 昨天早上 呕吐 就是 拉 吐	__label__other
+同一个 部位 肿瘤 反复 做 放射治疗	__label__tumor
+第一次 化疗 直肠癌 化疗 中 吃 好	__label__tumor
+剖腹产 产后 一个月 哺乳期 牙龈 肿痛 可否 拔 智齿	__label__other
+肿瘤 患者 抑郁 焦虑 不良情绪 中医药 什么 方法 调理	__label__tumor
+医院 检查 是 血管瘤	__label__tumor
+卵巢癌 分 几期 怎么回事	__label__tumor
+喉癌 什么 症状 前期 什么	__label__tumor
+头疼 恶心感 心烦意乱 怎么回事	__label__other
+发烧 度 吃 退烧药	__label__other
+年轻人 胃癌 多	__label__tumor
+肺癌 治疗	__label__tumor
+淋巴癌 放疗 副作用 吗	__label__tumor
+白 眼球 上长 个 疙瘩 红血丝 阳光 流泪	__label__other
+乳腺癌 改良 跟治术 分 两种	__label__tumor
+岁 孩子 手术 麻醉 发狂 原因	__label__other
+孩子 肛门 长 一个 肉 揪 的 大便 出血 怎么回事	__label__other
+两天 晚上 频繁 哭闹 要 长牙 吗	__label__other
+放疗 费用	__label__tumor
+结肠癌 术后 月 适当 运动 跑步	__label__tumor
+流血 不会 破伤风	__label__other
+家庭 原因 自卑 多 压力 更严	__label__other
+晚天 昨上 发烧 的 尼美舒利颗粒 喝 半袋 喝多 有 影响	__label__other
+右 嘴角 内侧 血管瘤 用 微创 治疗 治疗 吗	__label__tumor
+鼻涕 痰 里 有血 是 鼻窦炎 鼻咽癌	__label__other
+退 放疗 费	__label__tumor
+骨髓增生 异常 咳嗽 咳血	__label__tumor
+依旧 搞清 问题 是不是 痴呆	__label__other
+人参健脾丸 吃 啊 外壳 剥 然后 嚼 吗	__label__other
+看 说 眼干 回来 吃 菜 怎么办	__label__other
+肝癌 晚期 年轻 痛苦	__label__tumor
+乳腺癌 切除 三个 月 复查	__label__tumor
+舌头 感觉 臭 吃 完 东西 一会 就 臭 黄黄的	__label__other
+几天 一热 脸上 起 痘痘 怎么回事	__label__other
+肝癌 患者 急性肠炎 治疗	__label__tumor
+急性白血病 多少 钱 怎么办	__label__tumor
+肝癌 治疗 有 化疗方案	__label__tumor
+早上 有点 头晕 想吐 和 晚上 做 噩梦 关系	__label__other
+吡拉西坦 和 氨磺必利 吃	__label__other
+舌头 发白 两侧 有齿痕	__label__other
+肾癌 切除 右肾 转移 肺癌	__label__tumor
+我家 孩子 九岁 小鸡鸡 包皮 翻 过来	__label__other
+预防 腹中 胎儿 长 白血病	__label__tumor
+小孩 脚面 烫伤 睡觉 腿 抽搐 怎么回事 男	__label__other
+化疗 哪些 不良反应	__label__tumor
+娃娃 长不高 岁 米左右 疾病	__label__other
+寄 回来 螃蟹 冻起 冰 可以 吃	__label__other
+胃癌 艾滋病 区别 什么 怎么办	__label__tumor
+鼻咽癌 请 医生 帮着 是否 改观 好转 女	__label__tumor
+乳腺癌 做手术 切除	__label__tumor
+睡 一觉 右边 嘴唇 不好 开始 两	__label__other
+化疗 什么 副作用	__label__tumor
+了 乳腺癌 能 全愈	__label__tumor
+改善 口腔癌 放疗 照射 区域 的 皮肤改变	__label__tumor
+直肠癌 治疗	__label__tumor
+体外照射 什么	__label__tumor
+放射线 致癌	__label__tumor
+吃 东西 很痛	__label__other
+纤维结肠镜检查 确诊 结肠癌	__label__tumor
+脚崴 疼痛 减轻 怎么办	__label__other
+一直 咳嗽 阻碍 性肺炎 这 是 癌症	__label__tumor
+不良 生活习惯 引发 结肠癌	__label__tumor
+浑身 难受 喉咙干 痰 睡不着 觉	__label__other
+宋 主任 眼压 高 在 五官科 做 筛查	__label__other
+屁股 沟里 左边 有个 骨头 来 怎么回事	__label__other
+前列腺癌 传染	__label__tumor
+宝宝 手腕 处有个 红印 出生 有 女岁 月	__label__other
+乳腺癌 复查 请 大夫 有 问题 谢谢	__label__tumor
+患过 乳腺癌 吃 河蟹	__label__tumor
+怀孕 复查 甲状腺 当天 吃药	__label__other
+我想 问下 是不是 了 结肠癌	__label__tumor
+加速器 治疗 疗效 一定 钴 好	__label__tumor
+痔疮 半年 也 不好 痔疮 才能 治	__label__other
+． 国内 快中子 治疗 现状	__label__tumor
+医院 年月日 : ￼	__label__other
+肝癌 晚期 肺上 起泡 什么 办法	__label__tumor
+吃 奥 韦司 健儿清解液 一天 是 高烧 退	__label__other
+胃癌 症状 哪些	__label__tumor
+判断 是否 了 直肠癌	__label__tumor
+请问 例假 洗头 会得 乳腺癌	__label__tumor
+感冒了 嗓子疼 鼻塞 传染 孩子 吃 药好	__label__other
+多生牙 做手术 拆线 疼 用 什么 线缝 有 说	__label__other
+预防 结肠癌 饮食 上该 什么	__label__tumor
+请问 中医 治疗 直肠癌 早期	__label__tumor
+宝宝 天从 开始 右 眼睛 很多 眼屎 似	__label__other
+乳腺癌 保守 治疗 还是 手术	__label__tumor
+肝脏 穿刺 加速 肿瘤 恶化	__label__tumor
+脸部 烧伤 怎样 恢复 快	__label__other
+叫 介入治疗	__label__tumor
+矫正 小孩 o 型 腿 有点 o 型 腿 男岁	__label__other
+乳房 按 疼 按 疼 感觉 有 硬块 一穿	__label__other
+结肠癌 中晚期 预后	__label__tumor
+耳朵 总跳 睡 觉	__label__other
+前 几天 鼻子 通气 耳闷 啊	__label__other
+月经 推迟 几天 怎么回事	__label__other
+宝宝 吃 母乳 刚个 月牙 这样 是 原	__label__other
+卵巢癌 做 放疗	__label__tumor
+是 接触 治疗机 能 治疗 疾病	__label__tumor
+一会 眼睛 刺痛 这 什么 症状	__label__other
+舌头 尖 起泡 白色 比 药	__label__other
+请问 血管瘤 如何 治疗	__label__tumor
+宝宝 脚踝 内侧 的 骨头 说好 胀 难受 怎么回事	__label__other
+小时候 睡觉 嘴巴 睡 歪 现在 岁 能 矫正	__label__other
+判断 是不是 胃癌	__label__tumor
+体虚 乏力 瞌睡 眼睛 干涩 模糊 原因	__label__other
+标准 体身 身高 米 体重 斤	__label__other
+食管癌 传染	__label__tumor
+结肠癌 化疗 肠子 外面 结节 回事	__label__tumor
+岁 男 体重 斤 希望 增重 到斤	__label__other
+两天 晚上 腿 发抖 什么	__label__other
+走路 疼	__label__other
+昨天早上 右眼 眼部 刺痛 异物感 半天 异物感	__label__other
+头颈部 肿瘤 术后 放疗 理由	__label__tumor
+重庆 肿瘤医院 胃癌 晚期 作 手术	__label__tumor
+胰腺癌 治疗	__label__tumor
+结肠癌 几率 吗 状况 吗 女岁	__label__tumor
+卵巢癌 患者 饮食 注意 点	__label__tumor
+缺爱 的 变态 怎样	__label__other
+我经常 口腔溃疡 我会 传染	__label__other
+才能 查出 肺癌	__label__tumor
+胃癌 低 分化 癌	__label__tumor
+病人 适合 做 直肠癌术后 放疗	__label__tumor
+喉癌 什么 症状 前期 什么	__label__tumor
+腔内 放疗 什么	__label__tumor
+喉咙 疼 个 半月 也 输过 青霉素 头孢	__label__other
+想 求助 六年 前 做手术 吃 激素 药 身体	__label__other
+前段时间 朋友 我 一家 保险公司 做 一个	__label__tumor
+岁 男 胃部不适 疑似 胃癌	__label__tumor
+胃癌 肝 转移 总打 咯	__label__tumor
+患 喉癌 初期 能治好	__label__tumor
+是 直线 加速器	__label__tumor
+化疗 最高 年龄 吗	__label__tumor
+吗 乳腺癌 可能性 吗	__label__tumor
+鱼刺 不痛不痒 身体 有害	__label__other
+往上 返气 左边 乳房 处痛 胸闷 背部 痛 两年	__label__other
+父亲 脚 扭 了 有点肿 处理 需不需要 就医	__label__other
+口腔 上颚 异物感 如图 没什么 感觉	__label__other
+牙周炎 治疗 大牙 松动 松动 超过 毫米	__label__other
+儿童 金丝 熊 咬 流血 打 狂犬 疫苗	__label__other
+右 眼角 一个 痘痘 什么 症状	__label__other
+喉咙 早上 也 舒服 是不是 艾滋病 前期 现象	__label__other
+心肝 肺 在 积水 怎么回事	__label__other
+膀胱癌 传染	__label__tumor
+多天 的宝宝 感冒 鼻塞	__label__other
+肝癌 晚期 能 活多久	__label__tumor
+乳腺癌 晚期症状 治愈 可能性	__label__tumor
+． 孕妇 患 肿瘤 做 放疗	__label__tumor
+大三阳 会转 肝癌	__label__tumor
+孩子 做 完上 眼睑 下垂 手术 一个月 是 手术 失败 吗	__label__other
+HIV 什么 症状 体重下降 经常感冒 症状	__label__other
+想 下 近视 激光手术 术后 什么 并发症	__label__other
+乳腺 浸润性 乳腺癌	__label__tumor
+口腔黏膜 纤维化 癌变 我该 有救	__label__other
+肝脏 穿刺 加速 肿瘤 恶化	__label__tumor
+医生 您好 直肠癌 怎么办	__label__tumor
+一到 晚上 哭闹 手脚 舞动 怎么回事	__label__other
+有时候 人 活成 都 免不了 一死 干脆 不去 努力 了	__label__other
+胰腺癌 治疗 方法	__label__tumor
+一岁 宝宝 感觉 疲惫 以前 欢	__label__other
+放疗 缺点	__label__tumor
+有时候 使劲 用手 捏 没 无意间 碰 那么 疼	__label__other
+直肠癌 转移 肝后 转移 大脑	__label__tumor
+孩子 发烧 喉咙 红 没有 鼻涕 吃 药	__label__other
+药流 天后 褐色 分泌物	__label__other
+看过 医生 化验 说 红细胞 高说 病毒性肠炎 开 头孢 双歧杆菌 吃 三天 什么 改善	__label__other
+肺癌 早期 症状 在 地方	__label__tumor
+这 牙龈炎 才能 治	__label__other
+痔疮 荆芥 熏 洗剂 洗 几个 月 断断续续 现在	__label__other
+弟弟 十五岁 血管瘤 长得 怎么办	__label__tumor
+肺癌 做 手术 怎么 治疗	__label__tumor
+右侧 锁骨 上见 大小 cm 不均质回声 形	__label__other
+鱼刺 卡有 办法	__label__other
+想 鼻中隔偏曲 影响 呼吸 鼻炎 堵 鼻子 影响 我 鼻炎 治疗 什么 手段	__label__other
+眼角 拆线 碰伤 淤血	__label__other
+拍片 有个 钉子 裤子 钉子 衣服 也 没有	__label__other
+肝癌 吃 药 买 药	__label__tumor
+孩子 两岁 八个 月 发烧 嗓子 红肿 咳嗽	__label__other
+乳腺癌 患者 吃	__label__tumor
+胃癌 什么 的	__label__tumor
+是 医院 检查报告 乳腺癌	__label__tumor
+洗牙 牙齿 振裂 怎么办	__label__other
+急性淋巴细胞白血病 化疗 吃 中药 能治好	__label__tumor
+牙齿 疼长 歪 有牙肉	__label__other
+高 危型 人乳头瘤病毒 年 今年 人体 直线 消瘦 啊	__label__other
+急性白血病 手术 成活率 多 高	__label__tumor
+鼻子 流血 呢	__label__other
+眼睛 底部 呈 红色 血块 是 哭 呕吐 后面	__label__other
+现在 生活 状态 安逸 是 学 音乐 的 现	__label__other
+知道 说 朋友 说 心里 问题	__label__other
+直肠癌术后 多久 性生活	__label__tumor
+鼻梁 歪 可以 纠正 已经 好几年	__label__other
+上火 吃 东西 降火	__label__other
+月 十 的宝宝 吃 可 增强 免疫力	__label__other
+儿子 九岁 老是 头昏 小儿 迷走 型 昏厥 能治好 男	__label__other
+早期 白血病 症状 能治	__label__tumor
+哭 厉害 鸡鸡 疼 是 怎么回事	__label__other
+是 适形 放疗	__label__tumor
+乳腺癌 手术 切除 后怕 感冒	__label__tumor
+宝宝 出生 几个 月 发现 耳 后背 有个 苞 怎么回事	__label__other
+乳腺癌 恶性肿瘤	__label__tumor
+孩子 先天 眼睑 下垂 手术 做 完 一个月 是 失败 吗	__label__other
+左 小腿肚 肿胀 一月 有余 消 肿 咋办	__label__other
+直肠癌 手术 为什么 腥臭味	__label__tumor
+缺爱 的 变态 怎样	__label__other
+年 十月 尾因 过敏性 鼻炎 耳内 积液 发炎 做 左耳 引流 管及 腺样体 切除 手术引流管 时候 取出 合适	__label__other
+满月 的宝宝 脸上 长 好多 红色 小粒	__label__other
+宫颈癌 放疗 早期 哪些 并发症	__label__tumor
+横 结肠癌 三期 算 中期 晚期	__label__tumor
+的 左腿 屁股 脚跟 之间 很痛	__label__other
+从小 听力 障碍 交流 声音 能 听到	__label__other
+今天上午 拔 牙 疼 没事	__label__other
+年 年底 查出来 肺癌 是不是 病 的	__label__tumor
+急性白血病 化疗 中会 鬲	__label__tumor
+下肢 静脉血栓 可不可以 喝 红酒	__label__other
+咨询 心理专家 性 的 心理	__label__other
+爱 打嗝 知道 什么 原因	__label__other
+晚期 肝癌 不能 治	__label__tumor
+宫颈癌 复查 哪些项目	__label__tumor
+胃癌 吃 鲢 子 鱼	__label__tumor
+宫颈癌 放疗 于 人群	__label__tumor
+胰腺癌 如何 选择 治疗 方法	__label__tumor
+胃痛 外胸 瘙痒 怎么回事	__label__other
+今晚 发现 嘴唇 门牙 上方 了 肉样 要紧	__label__other
+防止 白血病 很 害怕 得 病	__label__tumor
+鼻涕 带 血丝 回事	__label__other
+膝关节 炒菜锅 有点 疼月子 期间 夏天 大腿	__label__other
+乳腺癌 切除 年 复发	__label__tumor
+乳腺癌 了 晚期 能治好	__label__tumor
+睡 八小时 觉得 疲劳 睡不醒 吃 调理	__label__other
+宝宝 脚 开水烫 怎么办 女岁 月	__label__other
+耳朵 深处 一样 东西 发光 耳朵 有时 会响	__label__other
+天前验 血常规 今天 鼻子 出血 验	__label__other
+肺癌 什么 原因 的	__label__tumor
+左肋 下方 肋骨 边缘 隐隐作痛 怎么回事	__label__other
+食道癌 患者 食谱	__label__tumor
+耳朵 里长 肉芽 不去 治疗 不	__label__other
+你好 请问 肺癌 哪些 提醒	__label__tumor
+确诊 肠癌	__label__tumor
+血热 毛细血管 血小板 脆	__label__other
+痔疮 术后 天 是 水肿 会 慢慢 吗	__label__other
+血小板减少 症 丘脑出血 毫升	__label__other
+放射治疗 前 照理 什么	__label__tumor
+白血病 临床表现	__label__tumor
+不斜 矫正视力 了 裸眼 视力 都	__label__other
+满月 腰疼 腰酸 前 弯腰 后 弯腰 咋办	__label__other
+一颗 减肥药 对个 月 宝宝 什么 危害	__label__other
+双眼皮 割完 十几年 为什么 几天 眼睛 红肿 痒	__label__other
+年月日 做 肛瘘 手术 这是 原因	__label__other
+这是 黑色素瘤 中间 深 浅	__label__tumor
+不是 肝癌 怎么办 活多久	__label__tumor
+我岁 女性 身高 cm 体重 公斤	__label__other
+北京 哪家 医院 治 肺癌	__label__tumor
+拉肚 怎么 做	__label__other
+脖子 长 一个 硬 包会 淋巴瘤	__label__tumor
+坐骨神经痛 症状 : 产后 没什么 稍微 弯	__label__other
+肾虚 腰疼	__label__other
+． 叫 面颈 联合 野	__label__tumor
+婴儿 白血病 两个 月 怎么办	__label__tumor
+拔 完 智齿 后痛 吃 止疼药	__label__other
+吃 食物 进食 消化吸收 完 排出 经历 多长时间	__label__other
+放疗 期间 病人 有 全身反应 处理	__label__tumor
+情况 需要 接受 肾脏 肿块 穿刺 活检	__label__tumor
+人 那个 的 个 忘 问	__label__other
+感觉 喉咙 总有 东西 堵着 吞咽 疼痛感 不咳	__label__other
+打嗝 两天 这种 吃药 针灸 好 怎么办	__label__other
+人 得 子宫内膜癌	__label__tumor
+患 骨肉瘤 危险因素 哪些	__label__tumor
+常有 恶心 症状 反酸 胀气 胃癌	__label__tumor
+化疗 越大 疗效 越	__label__tumor
+宝宝 感冒 发烧 吃 能 增强 免疫力 男个	__label__other
+嗓子 异物感 嗓子 痰 怎么回事	__label__other
+半岁 夜间 发烧 什么 原因 血红蛋白 低	__label__other
+耳朵痛 说 海水 感染 后滴 药 水流 是 血 怎么回事	__label__other
+平躺 睡觉 咳嗽 酷酷 声 重有 慢性咽炎 喉咙	__label__other
+嗓子 里 异物	__label__other
+是 根治性 手术 根治性 手术 彻底 治愈 肿瘤	__label__tumor
+最近 几天 患 中耳炎 每天晚上 痛得 睡不着	__label__other
+持续 痛要 做手术	__label__other
+结肠癌 患者 饮食 什么 禁忌	__label__tumor
+牙根 长 神经 上能 牙齿 矫正 进行 矫牙 困难	__label__other
+乳腺癌 做 手术 化疗 怎么样	__label__tumor
+结肠癌 吃 药	__label__tumor
+食管癌 如何 诊断	__label__tumor
+近几年 腿 血管 暴起 特 咨询 大夫 这是 怎么回事	__label__other
+患者 可以 直肠癌 分子 靶向 治疗	__label__tumor
+今天 晚上 厕所 拉 出血了 早上 时候 没事 拉	__label__other
+情况 需要 做 直肠癌 辅助新放化疗	__label__tumor
+卵巢癌 早期 什么 症状	__label__tumor
+吐 绿色 跟 胆汁 吃药 吐出来 怎么办 头疼 伴随 拉肚	__label__other
+婴儿 维生素 d 时候 吃	__label__other
+右 眼睛 跳	__label__other
+双眼 眼部 缺血性 视网膜病变	__label__other
+感觉 麻木 随着 时间 消退 变好	__label__other
+鼻咽癌 放疗 什么 副作用	__label__tumor
+卵巢癌 治	__label__tumor
+视网膜病变 做手术 恢复 原来 视力	__label__other
+吃元 蛋白粉 身体 副作用	__label__other
+尿道口 有 液体 干 会 黄色 怎么回事	__label__other
+． 近距离 后装治疗 哪些 类型 的 优缺点 什么	__label__tumor
+痔疮 每次 大便 出 血	__label__other
+乳腺癌 CiK 治疗 咨询	__label__tumor
+结肠癌 手术 注意 怎么办	__label__tumor
+卵巢癌 分 几期 怎么回事	__label__tumor
+治疗 成 人口 急 治疗 机构 到 一直 有	__label__other
+小孩 误食 保健品 更年期 平衡 片 眼睛 流泪	__label__other
+上岁数 摔 能动 疼	__label__other
+两岁半 孩子 戒备 心 强 怎么回事	__label__other
+情况 需要 做 直肠癌 辅助新放化疗	__label__tumor
+我家 宝宝 三岁 了 白天 吃饭 晚上 喝 两三	__label__other
+． 放射线 正常 组织 损害	__label__tumor
+卵巢 上皮性 癌用 化疗方案	__label__tumor
+卵巢癌 常见 症状 有 呢	__label__tumor
+白血病 白细胞 吗	__label__tumor
+郁闷 时 胸口 处 有 东西 划过	__label__other
+乳腺癌 治疗 方法 有	__label__tumor
+中药 治疗 肺癌 效果 吗	__label__tumor
+肾癌 什么 原因 的	__label__tumor
+心理医生 心烦 失眠	__label__other
+油 小心 溅 眼睛 里	__label__other
+恶性黑色素瘤 转移	__label__tumor
+跑 几个 月 步 脚板 骨头疼	__label__other
+胰腺癌 怎么办	__label__tumor
+浑身 发凉 无力 缓解 办法	__label__other
+子宫内膜癌 哪些 症状	__label__tumor
+老年人 气血 气转 一个 地方 很 疼 呢	__label__other
+胃胀 吃完饭 是 喝水 特别 胀 想 主动 打嗝	__label__other
+乳腺癌 做 手术 化疗 怎么样	__label__tumor
+口腔癌 手术 出现 耳朵 积水 怎么回事	__label__tumor
+防止 白血病 很 害怕 得 病	__label__tumor
+我经常 挨骂 妈妈 总是 我 笨 说 我 是 傻	__label__other
+纤维瘤 术后 刀口 有个 硬 疙瘩	__label__tumor
+岁 坐骨神经 疼贴 育药	__label__other
+结肠癌 心包积液 治疗	__label__tumor
+肺癌 放疗 期间 注意事项	__label__tumor
+的 肿瘤 术 前 放疗	__label__tumor
+一下 疼有 异物感	__label__other
+做半 飞秒 手术 左 眼角膜 韧性 太好 咋办	__label__other
+诊断 结肠癌 辅助 检查 包括	__label__tumor
+宫颈癌 二期 的 阶段 核磁共振 结束 显示 癌细	__label__tumor
+喉镜 麻药 喝下去 没含 分钟 重新	__label__other
+做 CT 说 肾结石 跟 呕吐 关系	__label__other
+姐姐 了 侵袭 性胸 腺瘤 b 型 姐能 进食 人参	__label__tumor
+内镜 黏膜 切除术 效果 吗	__label__tumor
+的 肺癌 治疗	__label__tumor
+口腔内 右边 咬 白线 能 刮掉 皮是 怎么回事	__label__other
+上颌窦 癌 放射治疗 副作用 吗	__label__tumor
+结肠癌 术后 偶有 肚疼	__label__tumor
+请 中医 幫 看 舌苔 四张 后面 四张 什么 症状	__label__other
+骨肉瘤 治疗 方法 哪些	__label__tumor
+的 牙齿 做好 多少 钱	__label__other
+帮忙 脊柱 变形 情况 严重	__label__other
+黑色素瘤 病理 PTNM 早期	__label__tumor
+满月 的宝宝 脸上 长 好多 红色 小粒	__label__other
+发现 乳腺结核 八个 月 规律服药 八个 月 是	__label__other
+肺癌 今天 医院 的 了	__label__tumor
+肺癌 放疗 导致 放射性 脑	__label__tumor
+鼻咽癌 不能 治疗	__label__tumor
+尿检 潜血 问 大观霉素 影响	__label__other
+组织间 插植技术 注意事项	__label__tumor
+总是 高烧 退 喉咙 痛打 三天 吊瓶 好	__label__other
+癌症 首选 手术 治疗	__label__tumor
+右侧 额 颟部 占位性 病变 脑膜瘤 可能性 大女	__label__tumor
+初中 两个 暑假 工地 提过 很重 东西 打工	__label__other
+右眼 度数 增加 度 两者之间 联系	__label__other
+宫颈癌 放疗 副作用	__label__tumor
+上火 脖子 上长 包包 怎么回事	__label__other
+红眼病 十天 挂 水 吃药 没 咋办	__label__other
+嗅觉 降低 交替 性 鼻塞 鼻子 呼吸 顺畅	__label__other
+舌头 长 个 白色 疙瘩 痛死 吃饭 不敢 吃	__label__other
+几天 发现 痰 里 血丝 这是 情况	__label__other
+骨癌 早期 症状	__label__tumor
+想 什么 事情 不想 做 吃不下 睡不着 什么 心理 病	__label__other
+原发性 肺癌 什么	__label__tumor
+结肠癌 术后 刀口 不愉	__label__tumor
+月经 推迟 四天 白带	__label__other
+肿瘤 放化疗 的 疗效 很差 再 试试 肿瘤 疫苗	__label__tumor
+每天晚上 腰疼 胀气 咋办	__label__other
+白血病 可以 治	__label__tumor
+舌头 长出 肉芽 不痛不痒	__label__other
+肺 积水 抽能 活多久 不治会 肺癌 晚期	__label__tumor
+大小便失禁 几天 天气 暖和 会 起来	__label__other
+乳腺癌 患者 怀孕	__label__tumor
+长 麦粒肿 挤压 怎么办	__label__other
+脚踝 囊肿 使 脚 干动	__label__other
+体重 斤 去年 月 饮食	__label__other
+血管瘤 颜色 变 深红	__label__tumor
+运动 右额 疼 什么 原因 的	__label__other
+直肠癌 结肠癌 该 做 治疗	__label__tumor
+舌头 有齿痕 怎么回事 女性	__label__other
+感觉 心脏 喉咙 跳 气喘 上不来 气 几秒钟	__label__other
+做 的话 眼睛 坏 特别 了	__label__other
+甲胎蛋白 值 癌胚抗原 如何 治疗	__label__other
+中央型 肺癌 算 晚期	__label__tumor
+手 腿脚 发麻 怎么 检查	__label__other
+胸椎 mr 平扫 检查	__label__other
+周六 发烧 宝宝 这是 了	__label__other
+总是 发怒 生气 事情 早已 安排 可	__label__other
+感冒了 扁条体 发炎 红肿 厉害 不会 抽 血 正常	__label__other
+鼻咽癌 放疗 效果	__label__tumor
+了 乳腺癌 可以 性生活	__label__tumor
+肝癌 晚期 病人 脚 肿了 怎么回事	__label__tumor
+嘴巴 歪 矫正 牙齿 不齐	__label__other
+直肠癌 放射治疗 什么 副作用	__label__tumor
+鼻咽 部 软组织 稍 增厚 咽部 隐影 吗	__label__other
+是 咽鼓管 功能 不良 的 耳鸣 治疗	__label__other
+儿童 补钙 吃 钙片	__label__other
+近视 度 视疲劳 带度 眼镜 能 看得清	__label__other
+感觉 很 窝囊 动脑子 办事 知道 怎么	__label__other
+感觉 脚后跟 僵硬 吃 药	__label__other
+只要 用水 清洗 就 让 自然 长	__label__other
+导致 睡觉 打呼噜 要 是 血液病	__label__other
+左 膝盖 弯曲 紧绷 下用 手 能 感觉 皮下 一些 橡皮 硬度 结节 的 东西 知道 肌腱	__label__other
+胃癌 晚期 病人 应 注意 日常 饮食	__label__tumor
+双乳 小叶 增生 囊性 结节 淋巴结肿大	__label__other
+鼻子 流血 怎么回事	__label__other
+肺癌 早期 症状 哪些	__label__tumor
+时不时 牙痛 马牙 婴儿 会长 吗	__label__other
+淋巴癌 放疗 本质 优缺点	__label__tumor
+体重下降 左侧 胸部 隐隐作痛 咋办	__label__tumor
+请问 宫颈癌 转 肺癌 是不是 治不好	__label__tumor
+肺癌 术后 注意 事项	__label__tumor
+腐烂 状 粑 粑 不会 奶粉 的 腹泻	__label__other
+眼皮 肿疼 下午 想 原因	__label__other
+乳腺癌 吃 阿胶	__label__tumor
+肝 S 段 实质性 病灶 血管瘤 肝 S 段 小囊	__label__tumor
+小腹 下坠 疼痛感 小便 时候 疼	__label__other
+我要 做 抑郁 情绪 测试	__label__other
+知道 什么 一点点 痛	__label__other
+是 钴 治疗机 有 优缺点	__label__tumor
+髌骨 裂缝 天 几天 摸 裂缝 高出 一条线	__label__other
+左脚 脚掌 关节 位置 肿痛 一阵阵 刺痛	__label__other
+跟 咨询 焦虑 问题 我 处理 呢	__label__other
+子宫内膜癌 放疗 治疗 效果 吗	__label__tumor
+右 后脑勺 一阵阵 跳痛 原因	__label__other
+女性 宫颈癌 早期 症状 什么	__label__tumor
+我家 宝宝 岁 白天 吃饭 吃饭 吃 不 也	__label__other
+乳腺癌 切除 患者 存活率 多久	__label__tumor
+淋巴瘤 传染	__label__tumor
+白细胞 有 问题	__label__other
+间接 胆红素 谷氨酰转肽酶 肝硬化 吗	__label__other
+肝癌 晚期 冶疗	__label__tumor
+腹股沟 淋巴瘤 恶性 怎么 分 类型	__label__tumor
+白血病 早期 症状 癌症	__label__tumor
+感觉 吃完饭 食物 返到 嗓子眼	__label__other
+沾 一点点 精液 手 放在 女朋友 阴道口 怀孕	__label__other
+嘴巴 起 一个 水泡	__label__other
+两岁 宝宝 误喝 一点 过期 柔肤水 怎样	__label__other
+问题 吗 吃 点 药	__label__other
+一次 喂 吃 饼 接着 吃 口 知道 吃 没吃 狗 唾液 我会 患上 狂犬病	__label__other
+老年人 白血病 怎么 治疗	__label__tumor
+帮 看个 尿 碘 报告	__label__other
+手掌 拍手 时候 左手 心 鼓起来 发紫 怎么办	__label__other
+嘴巴 往右 歪 呀	__label__other
+就 想 戴眼镜 学习 之外 平时 戴 戴	__label__other
+鼻炎 复发 开点 yao	__label__other
+要 做 直肠癌 术 前 放疗	__label__tumor
+结肠癌 治疗	__label__tumor
+宝宝 手上 血管瘤 长得 越来越 怎么办	__label__tumor
+看待 民间 偏方 治愈 肿瘤 传说	__label__tumor
+肝炎 感染 一定 会得 肝癌	__label__tumor
+牙疼 牙龈 按压 疼痛 去 做 根管治疗	__label__other
+鼻咽癌 病人 冲洗 鼻腔	__label__tumor
+了解 基因 检测 我们 做 两次 病理 第一次 说	__label__tumor
+宫颈癌 放疗 早期 哪些 并发症	__label__tumor
+五个 月 宝宝 出生 七斤 四两 十六	__label__other
+安利 安神片 安神补脑液 分开 小时 吃 有没有 药物	__label__other
+宫颈癌 放射治疗 期间 吃 食物	__label__tumor
+中指 断掉 一节 在 造 需要 钱	__label__other
+趴着 感觉 脖子 像是 什么 东西 拉着 疼	__label__other
+一直 咳嗽 阻碍 性肺炎 这 是 癌症	__label__tumor
+放疗 治愈 肿瘤 哪些 肿瘤 放疗 可以 缓解	__label__tumor
+岁 孩子 体温 脚手 暖和 吗	__label__other
+． 放疗 化疗 综合 有何 优点	__label__tumor
+结肠癌 生活 注意	__label__tumor
+克拉霉素 甲硝唑 硫糖铝 奥门拉唑 吃 没用	__label__other
+郝 医生 半个 月 前 咨询 一直 吃药 头疼 没什么	__label__other
+脑 胶质瘤 放疗 效果	__label__tumor
+痔疮 直肠癌 区别	__label__tumor
+先天性 骨质 疏散 注意 事项	__label__other
+父亲 肾衰竭 重想 吃 肉 都 知道	__label__other
+固定 体位 哪些 方法 各有 优缺点	__label__tumor
+鼻子 疼 上火 自己 么	__label__other
+宫颈癌 早期 症状 有	__label__tumor
+父亲 岁 胸疼 咳嗽 无痰 有白 痰 气急	__label__tumor
+睡觉时 脑袋 里 感觉 虫子 大便 虫卵 全身	__label__other
+男孩 小便 泡沫 检查 其他 就是 总胆红素 高是 怎么回事	__label__other
+S 段 结节 血管瘤 什么 病	__label__tumor
+头 摔 一下 喝点 阿莫西林	__label__other
+岁 发烧 怎么办 手脚冰凉	__label__other
+高血压 人 吃 八仙 果	__label__other
+对 失眠 药有 抵制 药物 副作用	__label__other
+肝癌 怎么 治能 吗	__label__tumor
+检查 是否 鼻咽癌	__label__tumor
+照射 区 皮肤 发生 破溃 流水 如何	__label__tumor
+食道癌 晚期 吃 好	__label__tumor
+烫伤 一个月 晚上 发现 两个 水泡 的 东西 什么	__label__other
+血液 癌症 检查 胃泌素 释放 肽 前体 高	__label__tumor
+鼻梁 右侧 骨头 部位 肿胀 消炎 治疗 好转	__label__other
+结肠癌 饮食 有 禁忌	__label__tumor
+卵巢癌 早期 什么 症状	__label__tumor
+小孩 门牙 又 长 颗 牙齿 有没有 事	__label__other
+颈椎病 吃 药 呢	__label__other
+放疗 注意事项	__label__tumor
+肝移植术 四个 月 发现 肺部 多发性 结节 适合	__label__tumor
+术后 哪些 放疗 方法	__label__tumor
+手指 拇指骨折 三周 打 钢钉 昨天 拆 线	__label__other
+上肢截肢术 下床 活动 时 身体 失衡	__label__tumor
+咳嗽 喉咙痛 挂 两天 水 停下来 他 慢慢 自然	__label__other
+直肠癌 能 多 的 直肠癌 手术 多	__label__tumor
+是 胃癌 哪个 阶段 如何 治疗	__label__tumor
+眼睛 疼 碰到 眼睛	__label__other
+口 干 喉咙 舒服 病尿病	__label__other
+小腹 下坠 疼痛感 小便 时候 会 痛	__label__other
+月经 期间 吃 比智高	__label__other
+长期 服 保健药 吗 增强 免役 力 那种	__label__other
+昏迷 一个多月 说话 不清 有治	__label__other
+解觉 目光 呆滞 两眼 神	__label__other
+头颈 放疗 门诊 办公室 那里	__label__tumor
+天天 都 担心 老婆 这事 那事 咋办	__label__other
+胰腺癌 取 病理 做 检查	__label__tumor
+小鸡 疼 什么 原因 感觉 像 做 包皮 手术 走路 有时 疼	__label__other
+． 是 术中放疗	__label__tumor
+的 淋巴 发炎 肿大 多久 消退	__label__other
+眼睛 撞击 眼底出血	__label__other
+吃 完奶 肚 咕噜咕噜 响 知道 便秘	__label__other
+减肥 有效 方法 药物	__label__other
+肿瘤 白血病 治好 的 吗	__label__tumor
+肛门 坠胀 难受 直肠癌	__label__tumor
+中期 食道癌 手术 是 化疗 还是 化疗	__label__tumor
+． 做 放疗 又 做 化疗 病人 产生 放射性肺炎	__label__tumor
+也 爱 吃 好吃 菜 面有 方法	__label__other
+再 喝 中药 调理 好像 没什么 效果	__label__other
+前列腺 增大 小便 不通 什么 治疗 方法	__label__other
+减轻 放疗 副反应	__label__tumor
+肝癌 晚期 能 活多久	__label__tumor
+嗓子 里长 白色 东西 治疗 不 疼	__label__other
+你好 请问 白血病 希望 医好 吗	__label__tumor
+有没有 特效药 有 办法 根治	__label__other
+白 眼球 外厕 左边 一 右边 少是 怎么回事	__label__other
+吃元 和胃片 胃酸 了	__label__other
+情况 隔 几天 补有 影响	__label__other
+腿部 血管瘤 检查 积液 有没有 影响	__label__tumor
+眼睛 异状 胬肉 手术 两个 月 旁边 眼睛 痒 吃龙泽 熊胆胶囊	__label__other
+鼻咽癌 哪些 治疗 方法	__label__tumor
+卵巢癌 三期 化疗 后能 锻炼身体	__label__tumor
+距离 肛门 六 厘米 新 生物 三块 直肠癌	__label__tumor
+真的 生气 不 开心 事情 分享 他	__label__other
+急性 髓系 白血病 M 很严重	__label__tumor
+门牙 卡住 缝衣针 捅 下 然后 门牙 和 牙龈 连接 出现 个 洞	__label__other
+有效 治疗 皮肤癌 呢	__label__tumor
+曾一度 害怕 自杀 我该 啊	__label__other
+昨天 发现 头部 积液 被 的 原因	__label__other
+情况 下用 电子线 治疗	__label__tumor
+咽不下 这种 感觉 连到 胃 想 打嗝 不 怎么办 危险	__label__other
+一个月 画圈 位置 有点痛 按压 硬 条状 东西	__label__other
+鼻塞 流鼻涕 开始	__label__other
+肾癌 哪几种 类型	__label__tumor
+肝癌 手术 希望	__label__tumor
+脚步 有点 胀 胀 感觉 拄 拐	__label__other
+． 放疗 病人 饮食 如何 调整	__label__tumor
+嗓子 有些 肿痛 想 您 下 上火 导致	__label__other
+所有 肝癌 病人 能 做手术	__label__tumor
+耳朵 后边 包包 有时候 有时候 男岁	__label__other
+麻烦 医生 一下 孩子 检查 是否 进一步 治疗	__label__other
+降 结肠癌 多发 肝 转移	__label__tumor
+． 放疗 化疗 综合 有何 缺点	__label__tumor
+十个月 宝宝 缺锌 吃药 不管 也 爱 吃饭 喝 母乳	__label__other
+年龄 岁 女 心脏 跳 胸口 闷 喉咙 好像	__label__other
+做 根管治疗 平时 有过 两次 吃 糖 疼 二 他 了 药后 回来 天天 疼 吗	__label__other
+人 得 乳腺癌	__label__tumor
+年 胃癌 开 刀 是 复查 报告	__label__tumor
+了 乳腺癌 切除 乳房 以后 还会 复发	__label__tumor
+治 小儿感冒 这 两天 鼻塞 可以 吃	__label__other
+近视 平常 做 降低 度数	__label__other
+前列腺 痛感 恢复 性功能 一点	__label__other
+子宫内膜癌 术后 需要 辅助 治疗	__label__tumor
+膝盖 髌骨 增生 膝盖骨 上长 一个 软骨 越长越	__label__other
+早上 体重 少 一两	__label__other
+整 眼睛 整 鼻子 整 下巴 了 是 样子	__label__other
+癌细胞 能 抵抗 放射治疗	__label__tumor
+胃癌 传染	__label__tumor
+蛀牙 拔掉 换牙 时候 蛀牙 不能 掉	__label__other
+想 怎么样 清楚 知道 是从 时候 患上 抑郁症 焦虑症	__label__other
+眼镜 远视 左眼 度 右眼 度该 配眼	__label__other
+请问 这个 报告 有 乳腺癌 可能	__label__tumor
+多柔比星 脂质体 化疗药 要用 pICC 导管	__label__other
+说话 微量元素 稍微 低里 肠胃 吸收 问题 怎么 改男	__label__other
+左 膝盖 弯曲 紧绷 下用 手 能 感觉 皮下 一些 橡皮 硬度 结节 的 东西 知道 肌腱	__label__other
+疾病 结肠癌	__label__tumor
+月经周期 前 乳房 胀痛 吗	__label__other
+痔疮 剧痛 知道 痔疮 病	__label__other
+你好 想 一下 放疗 是 多长时间	__label__tumor
+子宫内膜癌 激素 治疗 副作用	__label__tumor
+食管癌 哪些 治疗 方式	__label__tumor
+放射治疗 导致 血象 降低	__label__tumor
+乳腺癌 患者 可以 参加 抗癌 俱乐部	__label__tumor
+瘦 肚 什么 办法 哺乳期 减肥	__label__other
+宝宝 五个 月 身高体重 斤 吗	__label__other
+做 纤维瘤 手术 多久 洗澡 十二天	__label__tumor
+骨癌 晚期 什么 症状	__label__tumor
+请问 直肠癌 晚期 活多久	__label__tumor
+七个 月 宝宝 坐 时 往后 仰头 有时 抱 时	__label__other
+治疗 卵巢癌 多少 钱	__label__tumor
+打嗝 腹胀 怎么回事	__label__other
+结肠癌 术后 天 怎么办	__label__tumor
+试纸 查 怀孕 原因	__label__other
+腮腺 肿瘤 传染	__label__tumor
+放射治疗 时 要 皮肤 上用 红色 墨水 画 印子	__label__tumor
+直肠癌 肝 转移	__label__tumor
+艾滋病 的 尿液 弄 眼睛 因为 哭 用 接触	__label__other
+治疗 鼻咽癌	__label__tumor
+排除 白血病 淋巴癌	__label__tumor
+前 十天 给 宝宝 洗 屁屁 发现 鸡鸡 右边 鼓起来	__label__other
+有胃病 是 胃癌	__label__tumor
+您好 想 问问 胃癌 症状 什么	__label__tumor
+晚上 睡觉 流汗 什么 症状	__label__other
+孩子 说话 看 天花板 什么 病	__label__other
+宝宝 五个 半月 多一点 一个 眼睛 泪汪汪 有	__label__other
+肾结石 排出来 吃 两轮 药 肾石通 的	__label__other
+鼻咽癌 如何 治疗	__label__tumor
+直肠癌 对症支持 治疗 做	__label__tumor
+子宫内膜癌 复发	__label__tumor
+恶性黑色素瘤 危险因素 哪些	__label__tumor
+结肠癌 治疗 化疗 几次	__label__tumor
+乳腺 纤维瘤 导致 乳腺癌	__label__tumor
+白血病 化疗 期间 吃 羊 胎盘	__label__tumor
+小心 溅 到 眼睛 里头 会 有事	__label__other
+乳腺癌 了 晚期 能治好	__label__tumor
+抑郁症 药物 安非 酮 什么 优势	__label__other
+十个月 宝宝 发烧 退 怎么办 吃 退烧药 出汗	__label__other
+肺癌 中期 进行 手术	__label__tumor
+直肠癌 怎么办	__label__tumor
+肝癌 结肠癌 图片 请 下	__label__tumor
+放射治疗 治疗 肿瘤	__label__tumor
+我于 前天 咳嗽 头 有点痛 好 担心 是不是 狂犬病 发作	__label__other
+恶性肿瘤 包含 白血病 算	__label__tumor
+放疗 恶心呕吐	__label__tumor
+肚疼 两天 一直 拉肚 咋办	__label__other
+手臂 小心 打到 眼睛 开始 疼	__label__other
+乳腺癌 手术 都 什么 治疗	__label__tumor
+月 宝宝 白血病 治疗 怎样治	__label__tumor
+强迫症 死人 联想 症状 想到 亲人 发生意外 马上会	__label__other
+大姨妈 不 怎么办 测纸 没 怀孕	__label__other
+CT 检查 肺部 阴影 伴有 关节疼 咳嗦	__label__tumor
+闪光灯 直对 眼睛 不会 影响 视力	__label__other
+手腕 骑车 受过伤 图 手腕 不 上劲	__label__other
+直肠癌 晚期 患者 缺钾 吃 药	__label__tumor
+近几年 腿 血管 暴起 特 咨询 大夫 这是 怎么回事	__label__other
+． 头颈部 肿瘤 病人 放疗 时 口腔粘膜 出现 白膜 破溃 这是 道理 处理	__label__tumor
+食道癌 早期 症状 什么	__label__tumor
+岁 老人 脑梗 直肠癌	__label__tumor
+结肠癌 病理 分析 了	__label__tumor
+了 皮肤癌 什么 症状	__label__tumor
+． 放射治疗 疗程 多长时间	__label__tumor
+我家 宝宝 六个月 昨天 儿保 医生 说长 太快	__label__other
+美尼尔 综合症 吃 敏使朗 么	__label__other
+年前 发现 直肠癌 改道 手术 癌 扩散 肺 脑袋 知道 什么	__label__tumor
+直肠癌 扩散 肝 吗	__label__tumor
+两岁半 宝宝 误 吃 一包 小儿 氨酚 黄 颗粒 第二天	__label__other
+脑瘤 能 治疗	__label__tumor
+会 大腿 屁股 交接 那块 疼痛 是因为 流产 的	__label__other
+牙齿 坏 很 痛 根管治疗 疼不疼	__label__other
+宫颈癌 不会 传染给 呢	__label__tumor
+放疗 期间 感觉 症状 加重	__label__tumor
+右脚 脚指头 脚 中 后部 麻木 外侧	__label__other
+肾上腺 瘤 恶性 概率 高	__label__tumor
+直肠癌 有没有 误诊 可能	__label__tumor
+岁 儿童 轻微 脑震荡	__label__other
+爸爸 直肠癌 治好	__label__tumor
+血液 癌症 检查 胃泌素 释放 肽 前体 高	__label__tumor
+有时候 呼吸急促 手舞足蹈 哼哼唧唧 是 怎么回事	__label__other
+血管瘤 发生 哪里	__label__tumor
+颅咽管瘤 复发 后 是不是 容易 复发	__label__tumor
+在 生气 时候 控制 不住 的 脾气 应该	__label__other
+特别 紧张 害怕 不 这是 原因 导致 紧张	__label__other
+嘴唇 干 疼 该 吃 药	__label__other
+肝癌 晚期 腹水 治疗	__label__tumor
+是 脸部 一个 硬块 会 这种 情况	__label__other
+真菌性 皮肤病 治疗 偏方 好 方法	__label__other
+大腿 特别 怎么办 穿 裙子 特别 难看	__label__other
+手术 治疗 喉癌 能治好	__label__tumor
+背 东西 抱 东西 左上 部位 疼	__label__other
+结肠癌 什么 的	__label__tumor
+在 哺乳 吃 点 吗 什么 办法 解决 血色 吗	__label__other
+化疗 周期 间隔 越短 剂量 越大 疗效 更好	__label__tumor
+治疗 老年 肿瘤 选择 西医 中医	__label__tumor
+我该 听说 牙齿 留缝	__label__other
+请问 白血病 的 医院 哪家	__label__tumor
+大腿 前侧 小腿 胀痛 什么 原因	__label__other
+结肠癌 人 化疗 应该 注意 怎么办	__label__tumor
+乳腺癌 淋巴 处有 一处 转移	__label__tumor
+夫人 岁 半个 多月 口臭 现象 舌苔	__label__other
+拉肚 发烧 可以 吃 治疗 缓解 症状	__label__other
+男 宝宝 出生 kg 两个 月 kg 体重 增长	__label__other
+舌头 裂纹 治疗 小时候 医生 说 不用 治是 地图舌 越来越 了	__label__other
+肺癌 做 定量 检测 的 公司 哪家	__label__tumor
+舌头 旁边 左上方 长 个 黑色 小球 有点像 息肉	__label__other
+宝宝 下眼皮 红肿 硬 疙瘩 疼疼 不 女	__label__other
+例假 没有 流血 一整天 一点点 淡 粉色	__label__other
+血管瘤 发生 哪里	__label__tumor
+扁桃体 腺样体 术后 第二十六 天 疼 该 什么 药	__label__other
+了 脑瘤 活多久	__label__tumor
+减轻 放射 损伤 提高 放疗 疗效	__label__tumor
+肺癌 患者 晚期 症状 哪些	__label__tumor
+透析 病人 心脏 跳 快 体温 才	__label__other
+结肠癌 早期 症状	__label__tumor
+冷不丁 一下子 左腿 使 上力 路 走 昨天	__label__other
+咳嗽 憋气 情况 化疗 作用	__label__tumor
+眼睛 黑眼圈 鼻子 红 嘴皮 黑 皮肤 越来越 差 肚 部	__label__other
+乙状结肠 癌 术后 饮食 大便 情况 咨询	__label__tumor
+女岁 小 腿抽筋 特别 疼 吃 药	__label__other
+鼻子 洞里 缝 二针 拆线 吗	__label__other
+白血病 很严重 康复	__label__tumor
+舌头 边缘 呈 锯齿状 舌 面上 长 很多 红色	__label__other
+手 流血 痛 一直 流	__label__other
+． 叫 倒 Y 野	__label__tumor
+知道 网吧 辐射 人体 有没有 害	__label__other
+乳房 做过 纤维瘤 地方 刺痛 怎么回事	__label__tumor
+肿瘤 适宜 做 化疗	__label__tumor
+结肠癌 几期 不 明白 手术 做	__label__tumor
+直 结肠癌 症状 哪些	__label__tumor
+华西 做过 一系列 检查 心肺 脑 器质性 也 哮喘 到 一直 头脑 清醒 感觉 真实感 才 那 晚上 发生 只是 惊恐发作 说 植物神经 紊乱 过度 焦虑 我 做 个 测试 感觉 很 吓人 😨 不 知道 有没有 参考价值	__label__other
+胸闷 血压高 贫血 走 上坡路 心口 疼	__label__other
+大便出血 会 疼	__label__other
+孩子 一岁 月 出生 现在 晚上 起夜	__label__other
+请问 直肠癌 什么 症状	__label__tumor
+医院 检查 抑郁症 开 药 舍曲林 药	__label__other
+求 结肠癌 术后 中药 调理 方子	__label__tumor
+患上 皮肤癌 怎么 治疗	__label__tumor
+肾癌 有 表现	__label__tumor
+吃 减肥药 不能 献血 不会 检测 合格	__label__other
+是 颈部 切线野	__label__tumor
+发烧 惊厥 第四次 该 治	__label__other
+岁 腺体 扁桃体肥大 手术 术后 不到 六小时 睡觉	__label__other
+服用 维 C 钙片 坏处	__label__other
+吸烟 肺癌 关系	__label__tumor
+放射治疗 原理 什么	__label__tumor
+皮肤癌 患者 在生活中 多 什么	__label__tumor
+流 浓 鼻涕 怎么回事 也 醒 干净 一会	__label__other
+专家 的 肿瘤 学科 联合 综合 治疗 什么 涵义	__label__tumor
+昨天早上 右眼 眼部 刺痛 异物感 半天 异物感	__label__other
+卵磷脂 体 ➕ 白细胞	__label__other
+病后 焦虑症 什么 症状 失眠 胸闷	__label__other
+侵润性 乳腺癌	__label__tumor
+结肠癌 发现 都 晚期	__label__tumor
+咳嗽 一个月 礼拜 拍 胸片 显示 肺炎 医	__label__other
+右半 结肠癌 手术 怎样 保养	__label__tumor
+老人 病危 时能 吃 红参 洋参	__label__other
+女宝 岁 月 开始 歪头 眯眼 走路 女	__label__other
+肿瘤 患者 需要 营养	__label__tumor
+右眼 眼白 布满 血丝 轻微 肿胀 异物感 分泌液	__label__other
+月 号 月经 月 吃 的 避孕药 过后	__label__other
+一个多月 抑郁 开始 情绪 不好 时候	__label__other
+总 眼睛 有泪 感觉 不 舒服	__label__other
+直肠癌 肠梗阻 用 开塞露	__label__tumor
+手割 个口 伤口 鼓起 包一 就 疼 怎么回事	__label__other
+眼皮 长 个 类似 溃疡	__label__other
+胃癌 如何 诊断 呢	__label__tumor
+是 放疗	__label__tumor
+乳腺癌 患者 可以 参加 抗癌 俱乐部	__label__tumor
+眼睛 白 眼球 发红 什么 原因 吃 自助餐 时 觉得 肿胀 发痒	__label__other
+喉咙 吐痰 吐 出血 感觉 异物感	__label__other
+容积 调强 适	__label__tumor
+是 慢性 闭角 青光眼 能治好	__label__other
+牙龈 肿的 很大 一碰 流脓 流血 肿起来 地方	__label__other
+骨肉瘤 常用 诊断 检查 方法 哪些	__label__tumor
+的 患者 颅咽管瘤 复发 想 伽马刀 治疗 吗	__label__tumor
+嘴角 了 好多 米粒 嘴巴 起 些小 泡 什么 原因 导致	__label__other
+支架 做成 查出 肺癌 治	__label__tumor
+发烧 了度 冒汗 冷 热 女岁	__label__other
+癌症 结肠癌 转移 肝 尾骨	__label__tumor
+父亲 确诊 直肠癌 肝 转移 怎么办	__label__tumor
+肝血管瘤 危险	__label__tumor
+这是 肺癌 症状 到底 怎么回事	__label__tumor
+放疗 导致 膀胱炎	__label__tumor
+甲状腺 乳头状癌 术后 能要 小孩 多长时间 能要	__label__tumor
+右边 头皮 耳朵 疼 怎么回事	__label__other
+催吐 会得 胃癌	__label__tumor
+岁 腰疼 两个 月 右腿 外侧 腿疼 怎么 治疗	__label__other
+哺乳期 妇女 牙疼	__label__other
+卵巢癌 早期 能治好	__label__tumor
+胃癌 中期 手术 胃 全切 能 么	__label__tumor
+感冒 一周 开始 打喷嚏 流鼻涕 嗓子疼 吃 了	__label__other
+肝癌 早期 能 活多久	__label__tumor
+． 情况 下用 术中放疗	__label__tumor
+吃 中药 效果 现在 我俩 关系	__label__other
+身高体重 kg 要备 孕 减肥 需	__label__other
+肺癌 放疗 导致 脱发	__label__tumor
+近节指骨 掌骨 处 骨头 凸出	__label__other
+鼻子 出血 鼻咽癌	__label__other
+头颈部 肿瘤 病人 放疗 时 口腔粘膜 出现 白膜 破溃 这是 道理 处理	__label__tumor
+耳朵 里 疼痛 怎么回事 耳朵 一阵阵 的 疼痛	__label__other
+颈部 感觉 不 舒服 扭动 沙沙 声音 很大 晚上	__label__other
+俩 月 前 饭菜 热 一点 吃 食道 感到 灼热 不舒	__label__other
+头晕 脖子 很痛 很胀 眼睛 很 晕 都 想 睡觉	__label__other
+老年人 化疗	__label__tumor
+结肠癌 通过 直肠 指诊 发现	__label__tumor
+结肠癌 术后 转移 做 化疗	__label__tumor
+请问 残胃癌 转肝 传染 吗	__label__tumor
+两三次 大便 排 不 有时候 排 一点点 早	__label__other
+慢性胃炎	__label__other
+小时候 得过 肺门 淋巴结核 肺结核	__label__other
+吃 紧急 避孕药 吃药 有 关系	__label__other
+慢性 粒细胞 白血病 后期 症状	__label__tumor
+肺癌 前期 征兆 什么样	__label__tumor
+头颈部 肿瘤 病人 放疗 前 要 先 牙齿	__label__tumor
+上海 治 肺癌 晚期 好 医院 哪些	__label__tumor
+你好 得 肝癌 胃癌 脑癌 白血病 怎么办	__label__tumor
+结肠癌 术后 月 cea 升高	__label__tumor
+小孩 温度 贴 退烧 贴后 反	__label__other
+中午 吃饭 时候 小心 鱼刺 刺进 牙缝里 应该	__label__other
+胃癌 不治会 死	__label__tumor
+宝宝 多月 检查 微量元素 查出 铅 超标	__label__other
+不知 就是 难过 想 嚎啕大哭 哭 出来 觉	__label__other
+爸爸 咳嗽 四五天 咳 很 厉害 有时候 干咳	__label__other
+乳癌 患者 月经 来 必要 切除 卵巢	__label__tumor
+左眼 也 长 一个 知道 什么	__label__other
+医生 麻烦 下 情况 胃癌 期	__label__tumor
+右脚 蹆 伸直 脚后跟 内侧 按压 刺痛	__label__other
+一侧 耳朵痛 什么 原因 早上 洗完 头	__label__other
+胃酸 反胃 有时候 饭 容易 吐 便秘 很长	__label__other
+混合 疮 分公 母	__label__other
+牙齿痛 牙龈 肿痛 两者之间 区别	__label__other
+孩子 开水 烫伤 三天 伤口 有些 发炎	__label__other
+在 医院 确诊 慢性咽炎 每天 想 感觉 不 舒服 想吐 一点 辣椒 不能 吃	__label__other
+后背 了 荨麻疹 做些 辅助 治疗	__label__other
+所有 肝癌 病人 能 做手术	__label__tumor
+直肠癌术后 化疗 三四天 大便 怎么办	__label__tumor
+白血病 M 好治 有 好 方法	__label__tumor
+怀疑 直肠癌 有 什么 症状	__label__tumor
+后脑勺 上长 一个 小包 血管瘤	__label__tumor
+胃癌 表现 什么	__label__tumor
+今天 拔 颗 智齿 这药 怎么 吃 看不懂	__label__other
+不想吃 东西 在 家里 出门 好多天 不	__label__other
+乳房 疼有 肿块 是 乳腺癌	__label__tumor
+早期 结肠癌 腹泻 中成药 能治 止住	__label__tumor
+小细胞肺癌 想 问问 有没有 靶向 药物	__label__tumor
+大姨妈 时候 带套 啪啪 啪 哟 大 概率 不	__label__other
+卵巢癌 时候 做 复查	__label__tumor
+乳腺癌 肿瘤 医生 咨询	__label__tumor
+浸润性 乳腺癌 情况 怎样 治疗 严 不严	__label__tumor
+笑 牙龈 露 多 不能 修复 了	__label__other
+颈部 淋巴 肿大 恶性 怎么样	__label__tumor
+胃癌 主要 转移 途径 怎么办	__label__tumor
+两个 耳朵 听不见 能治好	__label__other
+近几个月 感觉 记忆力减退 注意力 集中	__label__other
+肺癌 一般 寿命 多久	__label__tumor
+乳腺癌 放疗 哪些	__label__tumor
+请问 血管瘤 根治	__label__tumor
+胰腺癌 有 表现	__label__tumor
+抑郁症 药对 泌乳素 影响	__label__other
+子宫内膜癌 做 检查	__label__tumor
+乳腺癌 患者 处理 夫妻 之间 性关系	__label__tumor
+有点 肿痛 三天三夜 鼻子 症状 慢慢 缓解 尿路感染 也验 是 原因	__label__other
+右侧 筛 宭 骨瘤 吗	__label__tumor
+我会 长高 才 cm 我想长 高到	__label__other
+晚上 胳膊 麻木 伴有 手心 疼痛 可能 什么 病 前兆	__label__other
+乳腺癌 中晚期 活多久	__label__tumor
+喝酒 感觉 眼睛 里 东西 疼痛	__label__other
+胃癌 切除 两年 复发 手术	__label__tumor
+肿瘤 脑 转移 放疗	__label__tumor
+鼻子 右侧 扩充 鼻孔 时候 外侧 疼痛感 下午	__label__other
+脑膜瘤 转移 肺部 什么 期	__label__tumor
+扁桃体发炎 吃 药咽 东西 一点 疼 发热 嗓子 干 冒烟	__label__other
+三岁 宝宝 牙 花子 红肿	__label__other
+娱乐场所 飞机 小姐 飞机 杯 帮 打 出血了 打 了 不会 感染 艾滋	__label__other
+宫颈癌 治愈 几率 高	__label__tumor
+小孩 吃完饭 打嗝 什么 回事	__label__other
+涎 腺癌 放疗	__label__tumor
+这是 肺癌 晚期	__label__tumor
+卡介苗 化脓 结痂 宝宝 影响	__label__other
+你好 医生 胃癌 什么 表现	__label__tumor
+鼻咽癌 怎么 检查	__label__tumor
+胃癌 术后 处 化疗 阶段 狗肉 吃	__label__tumor
+子宫癌 传染	__label__tumor
+朋友 得 胃癌 治 医生	__label__tumor
+鼻咽癌 放疗	__label__tumor
+两颗 门牙 黄不 是 原因	__label__other
+骨癌 怎么 的	__label__tumor
+喝水 有 小便 会	__label__other
+感觉 马上 抑郁	__label__other
+时候 奶 真的 别人 说 没有 营养 吗	__label__other
+乳腺癌 症状 什么 预防 乳腺癌	__label__tumor
+感冒 流鼻涕 咋办	__label__other
+放疗 导致 咳嗽	__label__tumor
+放疗 食欲不振	__label__tumor
+误 吃 布洛芬 吃 俩 条	__label__other
+月份 老公 肺有 最后 淋巴结 做手术	__label__tumor
+虹膜 周切 术后 不要 点降 眼压 药水 左眼 原已 做 白内障 手术	__label__other
+缝针 伤口 多久 恢复	__label__other
+心口 舒服 胸腔 难受	__label__other
+女生 大腿 怎么办 小腿 粗	__label__other
+直肠癌 肝 转移 什么 治疗 方法	__label__tumor
+腔内 放疗 放疗 多久	__label__tumor
+红参 服用 禁忌 人 适合 服用 人 适合	__label__other
+牙齿痛 肿了 一个包	__label__other
+你好 糖类抗原 CA : 什么 指标	__label__tumor
+做 检查 确珍 肺癌	__label__tumor
+乳腺癌 手术 一定 化疗	__label__tumor
+请问 白血病 什么 症状	__label__tumor
+的 背部 总 感觉 不适 这个 情况 有没有 是 骨转移	__label__tumor
+宫颈 肌瘤 mm × mm 治疗 吗	__label__other
+岁 躺 头晕 怎么回事	__label__other
+孩子 躺 就 咳个 不停 怎么回事	__label__other
+皮肤癌 病因	__label__tumor
+一直 抑郁 心情 低落 与 交流 压力	__label__other
+宝宝 外伤 失血过多 处理 眉毛 封 六针	__label__other
+胃 切除 网膜 淋巴 浸犯	__label__other
+胃癌	__label__tumor
+想 咨询 憩室 炎 憩室 炎能 肠子 破	__label__other
+治疗 宫颈癌 什么 药	__label__tumor
+胥 医生 大便出血 怎么回事	__label__other
+出血了 有没有 打 一针	__label__other
+腔内 放疗 注意事项 哪些	__label__tumor
+红花 茴香 蒸蛋 肺癌 人 吃	__label__tumor
+四十岁 男 一年 经常性 脚麻 是 脚 指	__label__other
+术中放疗 哪些 成功 经验	__label__tumor
+基底节出血 肺部感染 该 治疗	__label__other
+宝宝 下眼睑 内侧 有个 肉芽 怀疑 霰粒肿	__label__other
+颅咽管瘤 全切 部分 切除 手术 都 放疗	__label__tumor
+治疗 老年 肿瘤 选择 西医 中医	__label__tumor
+股沟 疝气 疝气 兜 不住 我 想 挺 一年	__label__other
+化疗 次 放疗 这次 复查 说 指标 达标	__label__tumor
+的 肿瘤 使用 立体定向放射外科 手术 治疗	__label__tumor
+采集 足 血 两次 怎么 治疗	__label__other
+乳腺炎 乳腺癌 诱因	__label__tumor
+卵巢癌 中晚期 活多久	__label__tumor
+早期 鼻腔 淋巴瘤 NKT 治疗	__label__tumor
+耳鸣 得 中耳炎 鼻炎	__label__other
+牙龈 出血 突然 出血了	__label__other
+胃癌 喝 中草药	__label__tumor
+有 胆汁 返流 半 躺 床上 突感 喉咙 半部	__label__other
+子宫 全切 还 得 宫颈癌	__label__tumor
+白血病 细胞 扩散 治	__label__tumor
+大夫 拉 血便 直肠癌	__label__tumor
+眼睛 发红 特别 痒 医生 说 角膜炎	__label__other
+术中 病理 黏液 性囊 腺瘤 情况 下会 导致 怀孕	__label__tumor
+小细胞肺癌 治疗	__label__tumor
+骨髓增生 异常 咳嗽 咳血	__label__tumor
+结肠癌 淋巴结 转移 怎么 治疗	__label__tumor
+胆囊息肉 ct 肺气肿 cea 偏高 注意	__label__tumor
+． 术中放疗 哪些 成功 经验	__label__tumor
+右边 耳朵 耳鸣 咋办	__label__other
+喉结 两侧 跟 的 骨头 按压 疼痛 两天	__label__other
+咳嗽 睡觉 咳嗽 一两声 用药	__label__other
+医生 您好 请问 有没有 误诊 白血病 例子	__label__tumor
+肋间 神经炎 挂 科 小孩 杳出 患 肋间 神经炎 挂	__label__other
+盆腔 放疗 慢性 并发症 哪些	__label__tumor
+难受 又 睡不着 怎么回事	__label__other
+鼻咽癌 的 症状 表现 哪些	__label__tumor
+手 长年 冻出 血管瘤 治 医生 说 血管瘤	__label__tumor
+乳 乳腺癌 晚期 有医	__label__tumor
+发育 高峰期 长不高 瘦	__label__other
+放疗 和 治疗 方式 使用	__label__tumor
+孩子 吐奶 怎么回事 拉肚	__label__other
+结肠癌 中晚期 化疗 危险	__label__tumor
+食管癌 如何 诊断	__label__tumor
+一觉 睡 后背 痛手 抬起 会 引发 后背 疼痛	__label__other
+急 性质 淋巴 白血病 能治好	__label__tumor
+宫颈癌 放疗 早期 哪些 并发症	__label__tumor
+乳腺癌 患者 饮食 上要 吃 比较	__label__tumor
+口腔癌 放疗 后应 护理	__label__tumor
+总 自己 没精神 做 事情 觉得	__label__other
+． 是 快中子 治疗 的 是	__label__tumor
+老爸 岁 查出 肺 腺癌 基因 检測 呈 阴性 适用	__label__tumor
+焦虑症 好像 心脏 舒服	__label__other
+突然间 想吐 耳鸣 眼花 了	__label__other
+疾病 不同 阶段 使用 中医药	__label__tumor
+一个 a 是不是 乳腺癌	__label__tumor
+乳腺癌 不会 隔代遗传	__label__tumor
+三代 近亲结婚 结婚 危害	__label__other
+淋巴瘤 白血病 白细胞 很 低	__label__tumor
+为什么 喜欢 人家 脱裤子 打屁股	__label__other
+胰腺癌 患者 都 有 症状	__label__tumor
+老人 胃癌 晚期 胃上 长 个 肿瘤 癌	__label__tumor
+宝宝 月 月 宝宝 身高 增长 公分	__label__other
+宫颈癌 早期 症状 有	__label__tumor
+宝宝 甲流 又 反复 发烧 怎么办 咳嗽 呕吐 了	__label__other
+体重下降 左侧 胸部 隐隐作痛 位置 乳头 下发 两	__label__tumor
+咳嗽 痰 吃 好 快	__label__other
+感觉 上火 时 会 痛 知道 口腔癌	__label__other
+肝癌 腹水 肚 胀痛 呕吐 干呕	__label__tumor
+． 儿童 做 放疗 有 后遗症 应 对待	__label__tumor
+拉肚 一次 拉 粑 粑 知道 什么	__label__other
+求助 肝癌 知识 咨询	__label__tumor
+吃 紧急 避孕药 怀孕 怎么回事	__label__other
+精神分裂症 常做 噩梦 半夜 惊醒	__label__other
+医生 说 急性 结膜炎 传染	__label__other
+肺癌 扩散 肝能 活多久	__label__tumor
+现在 特别 慌 是 怎么回事	__label__other
+慢性淋巴细胞白血病 发病 年龄	__label__tumor
+脚趾甲 沟有 针眼 的 伤口 里面 摸不到	__label__other
+有 我 会 心脏 特别 疼	__label__other
+滴露 擦洗 烧 水壶 冲洗 多次 用 开水 烧 好	__label__other
+想 咨询 下像 这样 检测 是否 必要	__label__other
+急性白血病 治疗	__label__tumor
+鼻咽癌 放疗 有 不良反应	__label__tumor
+肺癌 放疗 效果 吗	__label__tumor
+乳腺癌 症状	__label__tumor
+宝宝 两周 今天 拉肚 前 几天 回 老家 不知	__label__other
+． 是 接触 治疗机 能 治疗 疾病	__label__tumor
+放射线 能 治疗 肿瘤	__label__tumor
+的 血常规 检查 白血病	__label__tumor
+胰腺癌 治疗 哪几种 类型	__label__tumor
+肝癌 晚期 发烧 度 吃 布洛芬	__label__tumor
+年 月 号 就诊 检查 住院 这种 情	__label__other
+睡 一觉 右边 嘴唇 不好 开始 两	__label__other
+几天 右眼 白天 头发 的 影 怎么回事	__label__other
+乳腺癌 化疗 期间 吃 人参皂苷	__label__tumor
+拔针 时 针扎 出血了 病人 乙肝 肝癌 了 两支	__label__tumor
+． 放疗 化疗 综合 时 同时	__label__tumor
+一次 说 头晕 远视 的	__label__other
+这是 了 鹅口疮 没好	__label__other
+嘴角 长 的 痘痘 为什么 挤不动 都	__label__other
+婴儿 维生素 d 时候 吃	__label__other
+肝癌 术后 发热 情况	__label__tumor
+上肢截肢术 下床 活动 时 身体 失衡	__label__tumor
+医生 左 腰椎 膨出 左 腹部 腹部 胁 肌 发达 肚	__label__other
+鼻孔 一圈 溃烂 刺痛 症状 持续 天 时间	__label__other
+是 放射治疗	__label__tumor
+全身 流汗 切开 吃 一整片 吃 什么	__label__tumor
+叫 肿瘤 分子 靶向 药物 治疗 靶向 治疗	__label__tumor
+宝宝 感冒 恢复 能 宝宝 泳池 游泳 吗	__label__other
+宝宝 下眼皮 红肿 硬 疙瘩 疼疼 不 女	__label__other
+胃痛 不会 胃癌 女岁	__label__tumor
+刚出生 一个 三岁 张成 好几个 这是 病	__label__other
+时不时 有 耳鸣 知道 原因	__label__other
+食管 鳞状上皮 乳头状瘤 什么 病 吗	__label__tumor
+肚脐 左边 疼老想 大 号	__label__other
+今年冬天 嘴 上火 皮 红 右眼 下眼皮 红起 皮	__label__other
+手术 子宫 小 肌瘤 怎么回事	__label__other
+鼻子 十天 一直有 鼻涕 黄 偶尔 血丝 鼻子	__label__other
+小孩 肚痛	__label__other
+放射治疗 过程 中 使用 药物 预防 减轻 不良反应	__label__tumor
+红色 那块 口腔癌 后来 点 血 没 了	__label__tumor
+主诉 : 一个月 前 发现 右侧 腮腺 颌下腺 两个 位置	__label__other
+被套 会 有鼠 蚤 鼠疫 病毒 的	__label__other
+喉咙 痛快 一个月 声音 嘶哑 浓痰 灰色	__label__other
+颞下颌关节 紊乱综合征 咋办	__label__other
+医生 我 喝 吃 稳心颗粒 好像 什么 东西 卡 心里	__label__other
+乙肝 丙肝病毒 传染	__label__tumor
+医生 说 治疗 可以 再次 长高 真的	__label__other
+昨天 吃 辣 晚上 嗓子 痛喝 点 菊花茶 胖大	__label__other
+直肠指检 排除 直肠癌	__label__tumor
+男岁 刚刚 睡觉时 突然间 流鼻血 感觉 冷	__label__other
+慢性 粒细胞 白血病 治疗	__label__tumor
+白血病 髓系 M 化疗 活多久	__label__tumor
+老是 纠结 的 头发 一种 强迫行为	__label__other
+直肠癌 放疗 什么 副作用	__label__tumor
+治疗 卵巢癌 特效药 什么	__label__tumor
+放疗 皮肤 不良反应	__label__tumor
+肝癌 治疗 必要	__label__tumor
+双侧 脑 缺血 灶 吗 怎么 治	__label__other
+放疗 导致 便血	__label__tumor
+男友 大三阳 想 咨询 相关	__label__other
+化疗 最高 年龄 吗	__label__tumor
+白血病 怎么 的 的 容易 白血病	__label__tumor
+腿抽筋 抽筋 解决	__label__other
+坐久 左 胸 会 涨痛 身体 恢复正常	__label__other
+鼻咽癌 的 症状 表现 哪些	__label__tumor
+急性淋巴细胞白血病 化疗药物 是	__label__tumor
+老人 岁 突然 不吃不喝 拒绝 饮食 喝水	__label__other
+压痛 波动 感 口里 异物感 非常明显 真的 是因为 智齿	__label__other
+顺产 第五天 五天 睡觉 头晕 脑胀 乏力	__label__other
+直肠癌 饮食 注意	__label__tumor
+病毒性肺炎 更昔洛韦 与 奥司他韦 联合 吗	__label__other
+喉癌 全喉切除术 有没有 放化疗	__label__tumor
+现在 左 乳房 疼痛感 乳腺癌 症状	__label__tumor
+吃 生耗 喝 钙尔奇 身体 接受	__label__other
+宫颈癌 检查 做	__label__tumor
+舌头 破 怎么回事 隔 一个月 破	__label__other
+急需 的 我 大腿 根部 肌肉 想要 减 怎	__label__other
+乙肝 大三阳 时候 e 抗原 会 变成 小三阳	__label__other
+女儿 眼睛 弄 茶油 肿起来 分泌 眼屎 怎么	__label__other
+血尿 一定 得 膀胱癌	__label__tumor
+五百多 度 近视 红血丝 明显 咋办	__label__other
+肺癌 扩散 脑部 做手术	__label__tumor
+宝宝 咳嗽 化验 血 淋巴 高	__label__other
+偏头痛 每次 疼 时候 肩颈 会 酸痛 照过 脑	__label__other
+嗳气 反酸 胃癌 症状	__label__tumor
+了 胰腺癌 什么 症状	__label__tumor
+发现 三年 了 以为 痔疮 才 发现 肛	__label__other
+体质 弱 特别 瘦 才能 长胖 身高 一七二	__label__other
+牙龈 好几个 地方 凸起 小白 疙瘩 舒服 怎么回事	__label__other
+寒喘祖帕颗粒 金维他 能合 吃	__label__other
+外婆 患 直肠癌 请问 吃 食物	__label__tumor
+直肠癌 能 保住 肛门	__label__tumor
+内镜 黏膜 切除术 效果 吗	__label__tumor
+是 近距离 后装治疗	__label__tumor
+小孩 癫痫 三岁 一月 二十八 号 抽搐 二	__label__other
+肝癌 治疗 必要	__label__tumor
+小儿 鼻窦炎 吃 药好 一个月 前 诊断 急性鼻窦炎	__label__other
+白血病 恶性肿瘤	__label__tumor
+特别 在乎 老公 一举一动 一言一行 一举	__label__other
+请问 血管瘤 根治	__label__tumor
+上个月 到 偶尔 出现 鼻梁 跳	__label__other
+口腔 两边 长 一条 一条 不 痛用 舌头 碰 感觉	__label__other
+骨癌 表现 症状 哪些	__label__tumor
+骨癌 晚期 胡言乱语 能 活多久	__label__tumor
+鼻子 不塞 喉咙 越来越 疼 咳痰 全身 热 怕冷	__label__other
+发痒 调理 吗	__label__other
+孩子 一到 晚上 睡觉 痒 用 手挠 会起 疙	__label__other
+脂肪肝 转换成 肝癌 脂肪肝 治疗	__label__tumor
+一直 比较 烦躁 气短 这是 怎么回事	__label__other
+卡培他滨 乳腺癌 晚期 患者 吃 药	__label__tumor
+请问 颈部 淋巴 乳腺癌 关系 么	__label__tumor
+肝功能 总胆红素 偏高 直接胆红素 间接 胆红素 偏	__label__other
+痔疮 怎么样 啊	__label__other
+鼻咽癌 确诊 好治	__label__tumor
+咽癌 放疗 进行	__label__tumor
+右眼 流泪 买 药 今天 右眼 流眼泪	__label__other
+卵巢癌 化疗 几个 周期	__label__tumor
+医生 帮 看看 发现 嘴里 长 这个 按压	__label__other
+尿道 高级别 浸润性 上皮 癌 上海 医院 那个	__label__tumor
+钼 靶 检查 乳腺癌	__label__tumor
+了 脑肿瘤 什么 症状	__label__tumor
+小儿 剪 绊 舍痛 多久 好	__label__other
+乳腺癌 做 手术 吃 这 两个 药要 长期 服用	__label__tumor
+脸色 发暗 舌苔 发白 口臭	__label__other
+的 手 肿胀 发紧 原因 吃 肉 肉 明显	__label__other
+血尿 一定 得 膀胱癌	__label__tumor
+急性 淋巴瘤 白血病 治不好	__label__tumor
+乳腺癌 不会 转移	__label__tumor
+是从 膝盖 腿 根 都 疼 原因	__label__other
+． 是 模拟定位 机它 什么 作用	__label__tumor
+处理 鼻咽癌 放疗 副作用 中 张口 困难	__label__tumor
+做 运动 瘦 腿 几天 会 有 效果	__label__other
+我后 胸椎 压迫感 左肋 神经痛 我 这个	__label__other
+孩子 摘 睡 莲花 玩 满 手 起泡 痒 孩子 泰国 玩	__label__other
+岁 拖地 摔伤 走路 腰腹部 疼 从 卧床	__label__other
+中期 食道癌 手术 是 化疗 还是 化疗	__label__tumor
+肠癌 治疗 方法	__label__tumor
+直肠癌 如果 医治 能治	__label__tumor
+没天 会 跳绳 半小时 跑步 半小时 经常会 做	__label__other
+肺部 咨询 查 是 肺癌	__label__tumor
+肝癌 晚期 现 肚 胀	__label__tumor
+儿童 金丝 熊 咬 流血 打 狂犬 疫苗	__label__other
+儿童 舌头 瘀斑 怎么回事	__label__other
+不懂事 鼻毛 一张 长 拔 鼻炎 鼻中隔 呼吸 畅 耳朵 有 声音 头 舒服 😔 医生 我要 做 检查 好 害怕	__label__other
+胃癌 患者 吃 肺癌 药 什么 危害	__label__tumor
+这是 肺癌 症状 到底 怎么回事	__label__tumor
+放疗 化疗 综合 有何 优点	__label__tumor
+脚踝 严重 红肿 发热 必要 医院	__label__other
+专家 的 肿瘤 学科 联合 综合 治疗 什么 涵义	__label__tumor
+食管 哽咽 感 胸骨后疼痛	__label__other
+支气管 截断 一定 肺癌	__label__tumor
+岁 宝宝 睡觉 打呼 怎么回事	__label__other
+保肢术 怎样 康复 锻炼	__label__tumor
+肺癌 早期 患者 做 胸透 查出	__label__tumor
+口腔 鼻孔 呼气 很 是 原因	__label__other
+乳腺癌 患者 吃 冬虫夏草	__label__tumor
+咳嗽 不流 鼻子 长 牙齿 发烧	__label__other
+右侧 椎动脉 向上 基底动脉 椎基底动脉 走形	__label__other
+嘴唇 白色 东西 特别 什么 原因	__label__other
+口水 太 止不住 早上 起床 时候 喉咙 不适	__label__other
+平时 症状 晚期 肺癌 症状	__label__tumor
+肺癌 晚期 治疗 哪家 医院 好	__label__tumor
+直肠癌 淋巴结 转移 吗 怎么办	__label__tumor
+胃癌 手术 两个 月 吃 炒 菜	__label__tumor
+肝癌 晚期 转移 骨该	__label__tumor
+小叶 增生 导致 乳腺癌	__label__tumor
+请问 骨癌 前兆 什么 什么 症状	__label__tumor
+肺部 肿瘤 确定 良心 还是 恶性	__label__tumor
+放射治疗 种类 哪些	__label__tumor
+老婆 查出 沙眼 衣原 老公 同 吃药	__label__other
+其他 感冒 症状 正常	__label__other
+直肠癌 晚期 采取 方法 治疗	__label__tumor
+直肠癌 相关 咨询	__label__tumor
+脚边 内部 肿大 疼 红肿 热痛	__label__other
+结肠癌 生活 注意	__label__tumor
+肝炎 感染 一定 会得 肝癌	__label__tumor
+羊穿 排除 小头畸形	__label__other
+肺癌 传染	__label__tumor
+两只 眼睛 眼皮 双 程度 一样 导致 大小	__label__other
+什么 情况 容易 发生 乳腺癌	__label__tumor
+求 医生 改 体重 不长 反瘦	__label__other
+白血病 化疗 前 感染 一直 发烧	__label__tumor
+肝硬化 十多年 有 腹水 手脚无力	__label__other
+子宫内膜癌 有 疼痛	__label__tumor
+胃癌 怎么 得来	__label__tumor
+头 一阵一阵 刺痛 怎么回事 会 眩晕	__label__other
+肠癌 早期 症状	__label__tumor
+骨肉瘤 患者 没 手术 下 床 活动	__label__tumor
+什么 情况 容易 发生 乳腺癌	__label__tumor
+是 快中子 治疗 的 是	__label__tumor
+配合 腹腔 化疗 治疗 卵巢癌 效果 更好	__label__tumor
+男岁 小心 闪 腰	__label__other
+三岁 女孩 咳嗽 支气管炎 扁桃体炎 白细胞 怎么回事	__label__other
+乳腺癌 一定 切掉 乳房	__label__tumor
+是否是 乳腺癌 前兆	__label__tumor
+放疗 化疗 区别 哪里	__label__tumor
+朋友 了 白血病 用药 咨询	__label__tumor
+高尿酸血症 怎么 的 型 糖尿病 多久	__label__other
+宝宝 三岁 吃 打虫药	__label__other
+直肠癌 造瘘 术后 喝 安素	__label__tumor
+切除 要 化疗 请问 乳腺癌	__label__tumor
+脑瘤 能 治疗	__label__tumor
+侵润性 乳腺癌	__label__tumor
+全身 无力 色苔白 是 病	__label__other
+是 放射治疗	__label__tumor
+乳腺癌 指标 复发 几率 高	__label__tumor
+肝癌 患者 脸色 变黑 原因	__label__tumor
+连续 天 动不动 想到 发生 不好	__label__other
+会 猛烈 咳嗽 喘 气来 眼泪 流 会 打嗝	__label__other
+牙齿 出现 舒服 感染 艾滋病	__label__other
+鼻腔 口腔 连接处 疼痛 鼻腔 发痒 打喷嚏 鼻	__label__other
+阑尾炎 手术 晚上 睡不着 觉 吃 安定 药	__label__other
+是 射波刀	__label__tumor
+肠癌 怎样 治疗	__label__tumor
+食道癌 做 检查 确诊 最快	__label__tumor
+食道 胸口 堵 不 舒服 喜欢 打嗝 舒服 一点	__label__other
+鼻子 出血 男	__label__other
+宝宝 多月 坐 火车 隧道 声音 伤害	__label__other
+眼睛 发炎 滴 好 眼药水 无效 结膜炎 右	__label__other
+静脉曲张 静点 氨曲南	__label__other
+衣扣 旁剌痛 两三年 以前 偶尔 剌 痛	__label__other
+烫伤 伤口 是不是 伤口 化脓 伤口 疼	__label__other
+肝癌 晚期 吃 吗啡 能 活多久	__label__tumor
+恶性肿瘤 患者 是 什么 原因	__label__tumor
+卵巢癌 治愈	__label__tumor
+宝宝 作息时间 不好 晚睡 的 晚 导致	__label__other
+是 螺旋 断层 治疗	__label__tumor
+我岁 男 有 一年 两年 自己 沉	__label__other
+直肠癌 手术 做	__label__tumor
+用 完 洗液 白带 黑褐色 有 阴道炎	__label__other
+宫颈癌 早期 有 症状	__label__tumor
+鼻腔 壁比 左 鼻子 红肿 不会 鼻癌	__label__other
+胃癌 活多久	__label__tumor
+医生 几天 感觉 的 心理 不 主要	__label__other
+乳腺癌 放疗 期间 吃 能 减轻 副作用	__label__tumor
+左眼 位置 有 小 疙瘩 想 这是	__label__other
+乳腺癌 患者 吃 可力洛 降压片	__label__tumor
+夜宁颗粒 天王补心丹 同时 服用	__label__other
+孩子 身上 小红点 有时候 很 有时候	__label__other
+双腿 感觉 肿胀 好像 不是 水肿 怎么回事	__label__other
+腰椎间盘突出 手术 身体 剧烈 抖动 怎么回事	__label__other
+女性 了 宫颈癌 传染 男性	__label__tumor
+身高 cm 这个 吗	__label__other
+癌细胞 早 早期 发现 要 化疗 治疗	__label__tumor
+嗝 气 几年 时好时坏 有时候 病吃点 药会	__label__other
+右 嘴角 内侧 血管瘤 用 微创 治疗 治疗 吗	__label__tumor
+生殖细胞瘤 做 诊断性 放疗	__label__tumor
+前 几个 月 铁条 剐 一个 口子 伤口 很深	__label__other
+孕 整期 抑郁症 不会 影响 胎儿 心脏	__label__other
+宝宝 睡觉 热 脸上 了 鸡皮疙瘩 东西 什么	__label__other
+多岁 久病 卧床 老人 吃 都 说 咸 一点 盐	__label__other
+胃癌	__label__tumor
+食道癌 中期 患者 能 活多久	__label__tumor
+三天 前 吹 一 晚上 空调 第二天 出差 开 五个	__label__other
+人易 患 恶性黑色素瘤	__label__tumor
+的 鼻子 里 经常会 痒 鼻子 那里 的话	__label__other
+是 朋友 爸爸 报告 想要 帮 这里 结	__label__other
+产生 呕吐 不能 摇头 就 想 是不是 耳石 症	__label__other
+是 朋友 爸爸 报告 想要 帮 这里 结	__label__other
+胃癌 化疗 转移 机会 康复	__label__tumor
+胃癌 术后 小便 颜色 特别 黄 怎么办	__label__tumor
+岁 化疗 大便 拉 出来	__label__tumor
+结肠癌根治术 术后 治愈率	__label__tumor
+你好 请问 肺癌 哪些 提醒	__label__tumor
+手 东西 时候 发抖 拿 筷子 时 夹菜 开车	__label__other
+六岁 小孩 长 痔疮	__label__other
+和 男朋友 一起 三年 我们 结婚 我怀	__label__other
+肝癌 晚期 情况 治疗	__label__tumor
+家庭婚姻 的 专家	__label__other
+潍坊 脑血管 专家 珠 网膜 下腔 出血 转院	__label__other
+结肠癌 术后 一个月 一步 治疗 两种 治疗 病人 情况 选择	__label__tumor
+肺癌 怎么 预防	__label__tumor
+月 宝宝 母乳 近半年 体重 增加	__label__other
+两处 褥疮 未好 两个 疮 处理	__label__other
+患者 岁 男 核磁 检查 : 左侧 脑室 后角 旁脑白 质点	__label__other
+从没 过 肝病 肝癌 几率 大不大	__label__tumor
+年前 右眼 受过伤 感觉 不 舒服 怎么回事	__label__other
+结肠癌 晚期 怎么办	__label__tumor
+感冒了 嗓子疼 鼻塞 传染 孩子 吃 药好	__label__other
+肺癌 治疗	__label__tumor
+一个 红点 不用 狂犬 疫苗	__label__other
+女宝 月 星期天 感冒 流涕 咳嗽 晚上	__label__other
+岁 头痛 全身 痛 喉咙痛 下午 了 两针 屁	__label__other
+乳腺癌 早期 扩散 化疗	__label__tumor
+落枕 脖子 动 现在 了 特别 舒服	__label__other
+眼睛 里 好像 根线 不痛不痒	__label__other
+咽 吐沫 不 疼会 疼 怎么回事	__label__other
+牙龈 肿 疼 是 口腔溃疡	__label__other
+长 高能 长	__label__other
+不明 原因 消瘦 一个多月 瘦 四五斤 一个月 前	__label__other
+肚 有时候 咕噜咕噜 感觉 肠道 里 空气	__label__other
+结肠息肉 导致 结肠癌	__label__tumor
+右 膀子 摔伤 对 右眼 眼压 高有 影响	__label__other
+乳腺癌 恶性肿瘤	__label__tumor
+四岁 孩子 呕吐 发烧 喝水 不吃 东西 不 吐了	__label__other
+甲胎蛋白 升高 肝癌	__label__tumor
+呼吸 肺癌 腹腔 积水 咳嗽 哮喘	__label__tumor
+眼皮跳 个 星期 有 办法	__label__other
+眼睛 酸 流泪 眼皮 沉 脑袋 发沉	__label__other
+感觉喘 过来 气 头晕 沉沉的 不是 天旋地转	__label__other
+眼睛 疼 模糊 看不清 白色 块状 血丝 什么 症状	__label__other
+鼻咽癌 如何治	__label__tumor
+食管癌 哪些 症状	__label__tumor
+l 椎弓 峡部 断裂 滑脱	__label__other
+岁 男孩 生气 划伤 用 刀割 伤手 脚割	__label__other
+治疗 眼部 血管瘤 哪些 的 治疗 方法	__label__tumor
+头疼 全身 酸疼 怎么回事 买 药	__label__other
+黑 是 是 肝癌 七十一岁	__label__tumor
+做过 乳腺癌 手术 人 可不可以 染 头发	__label__tumor
+有时 在 皮肤 上放 过 猪皮	__label__tumor
+陌生人 同事 说话 愿意 跟 亲人 怎么回事	__label__other
+肺 腺癌 中晚期 腰椎 退行性 改变 骨转移	__label__tumor
+子宫内膜癌 情况 需要 放疗 化疗	__label__tumor
+想 咨询 如果 矫正 牙 拔牙	__label__other
+五个 月 的宝宝 买 来 补充 营养 维生	__label__other
+鼻子 通气 起 脓 是 鼻炎	__label__other
+胳膊 算使 上劲 怎么回事	__label__other
+结节 是 肺癌	__label__tumor
+胃癌 症状 哪些	__label__tumor
+脖子 胸部 用劲 疼	__label__other
+请 帮 看 我 检察 报告 问题	__label__other
+生婴儿 眉骨 上方 长 个 硬 包是 有没有	__label__other
+孩子 腺样体肥大 医生	__label__other
+是 立体定向放射外科	__label__tumor
+想 咨询 问题 一次 看见 新闻 说 一个	__label__other
+直肠癌 怎么 的	__label__tumor
+喉咙 早上 也 舒服 是不是 艾滋病 前期 现象	__label__other
+宫颈癌 不会 传染给 呢	__label__tumor
+岁 高烧 退 宝宝 高烧 两天	__label__other
+吃 治 精神 类 药 说话 不太 利索 嘴 歪 怎么回事	__label__other
+眼球 发现 红血丝 没事	__label__other
+严重 是 直肠癌	__label__tumor
+混合 疮 分公 母	__label__other
+膀胱癌 早期 表现 什么	__label__tumor
+肠梗阻 造瘘 手术 送回 手术 大 手术	__label__other
+确认 近视 什么 原因 导致 左眼 视力 差	__label__other
+七个 月 宝宝 坐 时 往后 仰头 有时 抱 时	__label__other
+就 很 烫 下去 不会 食道癌	__label__tumor
+请教 孙 医生 基因 监测 问题 了解 基因 检	__label__tumor
+诊断 胆管癌 要 病理 看 有没有 转移	__label__other
+子宫内膜癌 遗传	__label__tumor
+肝癌 晚期 第二次 昏迷 状态 情况	__label__tumor
+医院 诊断 社区 性肺炎 体温 波动 白细胞	__label__other
+儿童 验光 配眼镜 近处 看不清 远处 清楚 怎么回事	__label__other
+乳腺癌 病人 吃 姜黄 素	__label__tumor
+是 淋巴结 淋巴瘤 也 疼痛感 平常 驼背	__label__tumor
+问是 造成 是 泪腺 不通 有 炎症	__label__other
+卵巢癌 中晚期 活多久	__label__tumor
+膀胱癌 早期 表现 什么	__label__tumor
+四岁 孩子 嘴角 磕 个 口子	__label__other
+笑 时候 上牙露 出来 感觉 上颌 短 下颌骨	__label__other
+脚趾 痛 脚趾 上皮 麻木 什么 科室	__label__other
+白血病 了 培门冬 要 多久 出院	__label__tumor
+取足 血 筛查 耳聋 基因 未 您 我们 需要 做	__label__other
+脑子 越来越 麻木 这是 问题	__label__other
+医生 您好 请问 肺癌 传染	__label__tumor
+放射治疗 禁忌证 什么	__label__tumor
+身上 疼 呃 下来 怎么办	__label__tumor
+撞 眼睛 鼻子 流血 有事吗	__label__other
+得 肺癌 晚期 有药 可治	__label__tumor
+肝功能 会得 肝癌	__label__tumor
+广州 儿童医院 治疗 淋巴 肿瘤 白血病	__label__tumor
+红肉 什么	__label__tumor
+红 没退 应该	__label__other
+宫颈癌 放射治疗 慢性 并发症 哪些 症状	__label__tumor
+做 X 刀 治疗 经过 步骤	__label__tumor
+的 乳头 开裂 怎么回事 出血	__label__other
+口腔 红肿 疼 咳嗽	__label__other
+肝血管瘤 要紧 会 恶性 么	__label__tumor
+骨癌 并发症 有 呢	__label__tumor
+直肠癌 放射治疗 什么 副作用	__label__tumor
+右 第九 肋弓处 骨折 注意	__label__other
+肝癌 治疗 方法 那些	__label__tumor
+皮肤癌 死亡率 多少	__label__tumor
+结肠癌 由于 引起 怎么办	__label__tumor
+我 舌头 一部分 红红的 很痛	__label__other
+是 草莓状血管瘤	__label__tumor
+腰椎 疼 站不起来	__label__other
+腰 疼疼 几天 为什么	__label__other
+怀疑 肝癌 怎么办 肝区 有 过 几次 疼痛	__label__tumor
+没有 别的 不适 膝盖 骨节 有时候 会 疼	__label__other
+胸闷 晕倒 怎么回事 女	__label__other
+张 左 屁股 痛胀 会 不会 前列腺	__label__other
+膜性肾病 头痛 有 药 缓解	__label__other
+长 棵 智齿 很痛 痛 肉 肿了	__label__other
+卵巢癌 治	__label__tumor
+慢性 淋巴细胞 刑 白血病	__label__tumor
+子宫内膜癌 诊断 呢	__label__tumor
+宝宝 大便 难	__label__other
+维生 恭 E 转 软膏 小孩 用 我家 小孩 皮肤 干燥	__label__other
+体表 标记线 洗掉 怎么办	__label__tumor
+放疗 影响 孩子 大脑 发育 特别 智力	__label__tumor
+牙龈 上长 个 肉 疙瘩 左 门牙 上边 有个 肉 疙瘩 平	__label__other
+月经 量少 喝 中药 排出 咖啡色 好像 垃圾	__label__other
+肝功 碱性磷酸酶 偏高 球蛋白 偏低 什么 原因	__label__other
+老年人 适合 靶向 治疗	__label__tumor
+肺癌 挂 科室	__label__tumor
+胃癌 表现 什么	__label__tumor
+． 有时 要用 蜡块 起 作用	__label__tumor
+直肠癌 手术 后活 年	__label__tumor
+血糖升高 早餐 好吃 呢 早晨 上班	__label__other
+肝癌 晚期 服用 麝香 有 效果	__label__tumor
+眼眶 疼 发青 受过 外伤	__label__other
+肝癌 如何 诊断 呢	__label__tumor
+鼻咽癌 患者 生活 传染	__label__tumor
+看着 生气 微信 问 是不是 不想 了	__label__other
+右边 鼻子 堵去 拍 片子 医生 说 鼻中隔 偏	__label__other
+肺癌 扩散 脑部 做手术	__label__tumor
+术 前 化疗 术后 化疗 各有 作用	__label__tumor
+放射 期间 注意事项	__label__tumor
+肚疼 一阵一阵 也 怀孕	__label__other
+佛山市 妇幼保健 院 耳鼻喉科 做手术 住 几天	__label__other
+两天 眼角 无缘无故 发痒 怎么回事	__label__other
+新开 婴儿 游泳馆 带 宝宝 游泳 会 有	__label__other
+结肠癌 存活 几率 多大	__label__tumor
+胃癌 晚期 吃 药 止吐	__label__tumor
+痛风 吃 秋水仙碱 扶他林	__label__other
+半夜 点到点 这是 肝癌	__label__tumor
+肝癌 晚期 病人 打隔	__label__tumor
+弄 我 淋巴 发炎 不 该	__label__other
+十二 脂肠 球部 溃疡 术后 化疗	__label__tumor
+直肠癌 新辅助放化疗 治疗 时间 多久	__label__tumor
+脚扭伤 半个 月 没 消肿	__label__other
+范 媳妇 拍 磁共振成像 请 帮 看看	__label__other
+胃部不适 请问 这是 胃癌 可能性 吗	__label__tumor
+知道 阿普唑仑 喝酒 西酞普兰 体内 药效 多长时间	__label__other
+宝宝 左眼 有 眼泪 怎么回事	__label__other
+肝癌 中期 吃 中药 灵芝 有救	__label__tumor
+肝癌 靶向 药 有 卖	__label__tumor
+宝宝 就 爱 吃饭 拉 两回 稀 晚	__label__other
+有时 要用 蜡块 起 作用	__label__tumor
+龟头 红斑 不痛不痒 图片	__label__other
+厕所 拉血 怎么 要 检查 查 方面	__label__other
+宝宝 两个 月 一直 混合 喂养 知道 怎样 正确	__label__other
+肥胖 胸大 早泄 屁多 睡觉 醒 早 前胸 毛囊炎 脾	__label__other
+思想负担 重 心理压力 喜欢 胡思乱想 可不可以	__label__other
+白血病 注意 可以 活多久	__label__tumor
+胰腺癌 治疗	__label__tumor
+放疗 导致 口鼻腔 粘膜炎 处理	__label__tumor
+皮肤癌 初期 症状 哪些	__label__tumor
+牙齿痛 昨天晚上 第一次 痛 没有 疼过	__label__other
+停经 不到 一个月 孕酮 宫外孕	__label__other
+胃癌 术后 病理 什么 期	__label__tumor
+直肠癌 什么 症状 发生	__label__tumor
+放疗 导致 喉咙 疼痛 痰 症状 处理	__label__tumor
+直肠癌 指检血 什么 颜色	__label__tumor
+帮 看 泌乳素 这是 复查	__label__other
+完 玻 尿酸 针眼 黑黑的 闭合	__label__other
+感冒 怎么回事	__label__other
+肺癌 晚期 活多久	__label__tumor
+咽喉 发炎 异物感 怎么回事	__label__other
+肠 胃癌 医好 医好 用 钱	__label__tumor
+憋着 不尿尿 憋 坏 怎么办 尿过 jj	__label__other
+下肢 静脉血栓 可不可以 喝 红酒	__label__other
+头晕 一年 了 西比灵 一点 都 是 怎么回事	__label__other
+胃癌 胆囊 劈 粗糙 转移	__label__tumor
+乳腺癌 患者 饮食 上要 吃 比较	__label__tumor
+颏 偏左 皮肤 深层 血管瘤 治疗方案	__label__tumor
+是 艾滋病 前期 舌头 症状 有 口交	__label__other
+乳腺癌 治疗 方法 有	__label__tumor
+外界 事物 敏感 会 联想 怎么回事	__label__other
+是 根治性 手术 根治性 手术 彻底 治愈 肿瘤	__label__tumor
+喉癌 放疗 后能 吃 食物	__label__tumor
+预防 恶性黑色素瘤	__label__tumor
+了 脑肿瘤 什么 症状	__label__tumor
+脑膜瘤 哪些 临床症状	__label__tumor
+肺癌 中晚期 治疗 有治	__label__tumor
+放射治疗 过程 中 麻醉	__label__tumor
+外阴 癌 手术 半年 长出 瘤	__label__tumor
+日照 乳腺癌 大夫 吗 谢谢 男岁	__label__tumor
+天天 胃酸 是 胃癌 么	__label__tumor
+肺癌 熬 生姜 汤 喝 若 喝 生姜 汤 吃药 冲突	__label__tumor
+放疗 过程 中 使用 中药	__label__tumor
+肝癌 晚期 如图 适合 治疗	__label__tumor
+脚手 冰凉 什么 原因	__label__other
+胆囊 切除 防止 结直肠癌	__label__tumor
+囊肿 囊 黑 科技 减肥胶囊	__label__other
+第一腰椎 压缩性 骨折 洗澡 厕所 稍微 走动	__label__other
+胃癌 胃窦 癌 二期 治愈 几率	__label__tumor
+症 支持 治疗 直肠癌 什么	__label__tumor
+不疼 吃 三天 头孢 加蒲 地兰 用 这会 口交 的	__label__other
+盘龙 云海 排毒养颜胶囊 和 减肥药 服	__label__other
+牙龈 肿痛 天	__label__other
+走路 右侧 游是 怎么回事	__label__other
+麻烦 问下 我家 孩子 打过 丙球 打 肺炎疫苗	__label__other
+直肠癌 帮忙 一下 基因 检测 吗	__label__tumor
+想 咨询 关于 乳腺癌 基因 遗传	__label__tumor
+问 医生 乳腺癌 早期 全切 后要 化疗	__label__tumor
+直肠癌 进行 化疗	__label__tumor
+结肠癌 典型 症状	__label__tumor
+乳腺癌 患者 怀孕	__label__tumor
+沙棘 能治 直肠癌 我 希要	__label__tumor
+化疗 吃 补 白细胞	__label__tumor
+癌症 结肠癌 转移 肝 尾骨	__label__tumor
+放射治疗 降低 全身 免疫力	__label__tumor
+放射治疗 过程 中 病人 保护 放射区 皮肤	__label__tumor
+骨肉瘤 患者 没 手术 下 床 活动	__label__tumor
+放疗 恶性胸腺瘤 合并 重症肌无力 影响	__label__tumor
+老年 肿瘤 患者 进行 放化疗 吃 中药 吗	__label__tumor
+判断 有没有 抑郁症	__label__other
+直肠癌 晚期 症状 什么 样子 怎么办	__label__tumor
+金 妈妈 肺癌 吗	__label__tumor
+我半 躺 床上 会 腰 舒服 用劲 坐在 软沙	__label__other
+我头 后脑勺 对称 我该	__label__other
+胰腺癌 放疗 吃	__label__tumor
+三天 前 急性扁桃体炎 过敏性 鼻炎 轻微 腹泻	__label__other
+听说 这是 肝癌 救	__label__tumor
+放射治疗 身体 免疫力 影响	__label__tumor
+咽炎 一 感冒	__label__other
+是 加速器	__label__tumor
+解觉 目光 呆滞 两眼 神	__label__other
+治疗 静脉曲张 手术 打针 没 根 静脉曲张	__label__other
+脑 挫裂伤 八个 月 不会 走路 希望 走路	__label__other
+拍 那个 图片 可以 的 牙龈 我 是	__label__other
+肺癌 大脖筋 疼 受不了	__label__tumor
+吃 完 东西 感觉 嗓子眼 异物感	__label__other
+乳腺 导管 点状 强回声 乳腺癌 怎么办	__label__tumor
+我家 宝宝 干咳 一个 礼拜 怎么办	__label__other
+是 肿瘤 微创 治疗	__label__tumor
+宫颈癌 早期 症状 有	__label__tumor
+直肠癌术后 化疗方案 做	__label__tumor
+男岁 手脚冰凉 易 疲劳 喝 冷水 拉肚	__label__other
+能 恢复 三颗 牙	__label__other
+． 是 深部 X 线 治疗机 情况 适宜	__label__tumor
+岁长 一颗 龅牙 这是 情况	__label__other
+易惊 晚上 易醒 怎么回事	__label__other
+眼睛 肿了 才能 消肿 撞伤 眼睛 下方 毛细血管 骨折	__label__other
+特别 想 减肥 二十多天 我 快成 不吃不喝	__label__other
+发现 门牙 牙齿 颜色 对 蛀牙 发育 不好	__label__other
+乳腺癌 放射治疗 在 时候	__label__tumor
+了 乳腺癌 切除 乳房 以后 还会 复发	__label__tumor
+肝癌 晚期 吃 吗啡 能 活多久	__label__tumor
+白血病 癌症 预防 预防	__label__tumor
+放疗 不良反应	__label__tumor
+是 加速器	__label__tumor
+颈部 左侧 颈 根部 几个 硬 疙瘩 移动 边界 清	__label__tumor
+一个月 小孩 咳嗽	__label__other
+肺癌 脑 转移 做 伽玛刀	__label__tumor
+岁 睡眠 不好 哭闹 不安	__label__other
+咳血 诊断 肺癌 扩散 支气管	__label__tumor
+结肠癌 由于 引起 怎么办	__label__tumor
+洁癖 很严重 出去 会 焦虑 这要 啊	__label__other
+两种 靶向 药物 效果 好	__label__tumor
+排便 时 向下 滴血 怎么办	__label__tumor
+我 老爸 肝癌 晚期 做 介入 怎么办	__label__tumor
+胃癌 什么 科	__label__tumor
+螺旋藻片 有没有 副作用 吃 有没有 作用 身体	__label__other
+乳腺癌 早期 扩散 化疗	__label__tumor
+早上 起床 嘴巴 慢慢 张开 怎么回事	__label__other
+有效 治疗 皮肤癌 呢	__label__tumor
+左侧 肋骨 下方 五指 疼	__label__other
+鼻咽癌 活检 要 几次	__label__tumor
+验血 抽血 什么 区别	__label__other
+岁长 一颗 龅牙 这是 情况	__label__other
+的 孩子 后 背上 长 血管瘤	__label__tumor
+晚上 睡觉 喉咙 发痒 咳嗽 吃 咽炎 药 止咳药	__label__other
+病毒性肺炎 更昔洛韦 与 奥司他韦 联合 吗	__label__other
+乳腺癌 手术 又 扩散 该	__label__tumor
+小儿 洗澡 着凉 感冒咳嗽 流鼻涕 喝 桔贝合剂 两	__label__other
+最近 几天 肛门 边上 长个 疙瘩 这是 东西	__label__other
+白血病 怎么办 死 医生	__label__tumor
+脑外伤 导致 嗅觉 失灵 恢复	__label__other
+急 老年人 岁 盆 骨骨折	__label__other
+肺癌 扩散 脑部 做手术	__label__tumor
+爸爸 说 撇开 事儿 有没有 对 不好 事儿	__label__other
+医生 孩子 缺钙 补 钙 好 女岁	__label__other
+胸 发育 不 是 营养不良	__label__other
+宝宝 急性 肠胃炎 吃 几次 拉 几次 喝水 拉拉 水现	__label__other
+嘴 稍微 一张 腮帮子 就响 不疼不痒 感觉 下巴	__label__other
+直肠癌 什么 症状	__label__tumor
+手 小刀 划伤 是不是 用水 清理 就 啦	__label__other
+身高 怎么回事	__label__other
+宫颈癌 早期 治愈 复发 可能 多少	__label__tumor
+乳腺 检查 B超 是不是 乳腺癌	__label__tumor
+小孩 出生 天 乳房 肿块 疼 怎么回事	__label__other
+舌头 溃疡 不治会 好	__label__other
+胃癌 能 活多久	__label__tumor
+有些 患者 皮肤 上会 画 标记线	__label__tumor
+结肠癌 并肠腔 狭窄 手术	__label__tumor
+甲硝唑 每天 分开 服用	__label__other
+是 颈部 切线野	__label__tumor
+牙龈溃疡 牙齿 那条 白 牙齿 的 黑 溃疡散	__label__other
+吃 酵素 真的 减肥 有没有 副作用	__label__other
+骨癌 表现 症状 哪些	__label__tumor
+子宫内膜癌 做 检查	__label__tumor
+吃 东西 预防 胃癌	__label__tumor
+小宝宝 反反复复 发烧 喂点 布洛芬 退烧 次数 吃 了 他 影响 男	__label__other
+请问 阴道 直肠癌术后 多久 出院	__label__tumor
+肾癌 治疗 方式 哪几种 类型	__label__tumor
+胃癌 晚期 扩散 痛 吃不下 东西	__label__tumor
+放疗 化疗 有何 差别	__label__tumor
+高龄 白血病 六年 下肢 一个	__label__tumor
+服用 激素 引起 眼袋	__label__other
+胃癌 指标 高肝 特别 怎么办	__label__tumor
+特别 懂药 医生 我 咨询点 药物 的	__label__other
+我妹 骨髓移植 白血病	__label__tumor
+切开 式 双眼皮 有 异物感 流泪 灼热 一只 眼睛 尚	__label__other
+乳腺癌 做 手术 化疗 怎么样	__label__tumor
+喉咙 疼 虚汗 这是 感冒了	__label__other
+小细泡 肺癌 淋巴 转移 治疗	__label__tumor
+眼睛 眼白 红血丝 男岁	__label__other
+头 出汗 怎么回事	__label__other
+吉奥 靶向 药有 区别 胆管癌 手术 二年	__label__tumor
+岁 身高 测 骨龄 岁 母亲	__label__other
+尿 尿 拉屎 一擦 疼 哭	__label__other
+反流性 食道炎 根治	__label__other
+是 肿瘤 免疫治疗	__label__tumor
+咽喉炎 鼻炎 从 嗓子 里 的 痰 小血点	__label__other
+放疗 口腔癌 治疗 效果	__label__tumor
+肺癌 用 红外线 照射	__label__tumor
+肝癌 晚期 抽 腹水 住院	__label__tumor
+腹泻 便秘 怀疑 结肠癌	__label__tumor
+老人 说胡话 晚上 熬夜 睡觉 早上 睡到 吃 中午饭	__label__other
+请问 胃癌 术后 复查 项目 查	__label__tumor
+刚刚 无意间 发现 黑 眼球 里 黑色 斑块 什么 原因	__label__other
+脚 五名 趾 痛麻 什么 病	__label__other
+左 大腿 外侧 酸痛 什么 方法	__label__other
+吃 东西 喉咙 有 刮 的 感觉 囊肿 的	__label__other
+两个 月 三个 月 钱 前 一次 高危 接连 做 四	__label__other
+体质 虚弱 什么 补品 买 她 吃	__label__other
+． 叫 综合 治疗 综合 治疗 哪些 优点	__label__tumor
+伤口 吹风	__label__other
+． 放疗 区 皮肤 出现 变化 处理	__label__tumor
+他 睡 自然 醒 又 精神 这 样子 正常 吗	__label__other
+感觉 几天 吃 都 甜 又 感觉 没什么 味道	__label__other
+月 号 急性膀胱炎 吃 三天 头孢 药	__label__other
+经常 鼻塞 吃药 现在 鼻塞 好 难受	__label__other
+眼睛 发出 蚊子 块 东西 两块 眼袋 的 位置	__label__other
+滴 氧氟沙星滴眼液 利巴韦林滴眼液 眼睛	__label__other
+头晕 脚软 无力 什么 病	__label__other
+时候 的 软骨 导致 嘴张 不开 怎么回事	__label__other
+判断 宝宝 吃 钉子	__label__other
+类风湿 喉咙 疼 吃 药	__label__other
+骨肉瘤 病理 活检 相关 注意事项 哪些	__label__tumor
+乳腺癌 需不需要 化疗	__label__tumor
+调强 放疗 什么	__label__tumor
+手 破皮 什么 药	__label__other
+儿子 岁 七个 月 四肢 好多 疙瘩 屁股	__label__other
+眼睛 U V 血丝 不会 什么 恐怖 疾病	__label__other
+医生 麻烦 帮 看看 这是	__label__other
+央视 健康 路 肺癌 术后	__label__tumor
+是 照光	__label__tumor
+的 孩子 后 背上 长 血管瘤	__label__tumor
+晚期 直肠癌 怎么 治疗	__label__tumor
+老婆 牙齿痛 有没有 可以 缓解	__label__other
+鼻屎 绿绿的 有点 血 是 上火 了	__label__other
+痔疮 直肠癌 可能性 吗	__label__tumor
+早期 淋巴癌 白血病 能治	__label__tumor
+子宫肌瘤 的 贫血 会得 白血病	__label__tumor
+想 一下 补乐佳 避孕药	__label__other
+才能 查出 肺癌	__label__tumor
+头颈部 肿瘤 病人 放疗 为什么 出现 口 干 防治	__label__tumor
+积液 输 消炎药 见少 排除 肿瘤	__label__tumor
+乳腺癌 不会 转移	__label__tumor
+肝癌 黄疸 已经 晚期	__label__tumor
+弱 精症 医治 治 的 概率 多	__label__other
+宝宝 体重 轻 营养 跟不上 缺铁想 添加 米粉 含	__label__other
+我家 孩子 早上 醒来 流鼻涕 打喷嚏 做些 吗	__label__other
+我家 宝宝 发烧 现在 服用 布洛芬	__label__other
+这是 乳腺癌 几期 严重	__label__tumor
+腔内 放疗 怎么 操作	__label__tumor
+常喝 三块 一瓶 绿茶 好处 坏处	__label__other
+宝宝 月 身高体重 斤 么 男	__label__other
+差不多 天天 手机 看 的 时间 很长	__label__other
+乳腺癌 转移 肝脏 能治	__label__tumor
+我想领 孩子 看病 用 孩子	__label__other
+乳腺癌 吃 鸡蛋 桂圆	__label__tumor
+． 放射治疗 包治百病	__label__tumor
+医生 和 老公 闹矛盾 半年 他 提出 几次 离婚	__label__other
+您好 想 白血病 恶性肿瘤	__label__tumor
+眼睛 扎 一下 刚才 吃 东西 时	__label__other
+吐奶 每次 吃 了 吐 竖起 抱 拍 嗝 会	__label__other
+这 眼睛 了 红红的	__label__other
+两岁 宝宝 脸上 人挠 一道 两个 月 有 印	__label__other
+颅内 肿瘤 放射性 治疗	__label__tumor
+每次 吃 都 吃 这是 原因	__label__other
+知道 医生 当初 给 头部 做 射频 手术	__label__other
+骨癌 什么 症状	__label__tumor
+症状 提示 宫颈癌 复发 呢	__label__tumor
+肺癌 头颅 晚期 吗	__label__tumor
+产后 五个 月 两个 月 时候 复查 轻微 宫颈 糜	__label__other
+最近 几天 喉咙 感觉 一直有 痰 是 怎么回事	__label__other
+食管癌 哪些 治疗 方式	__label__tumor
+右肾 囊肿 大小 X 食物 有 不能 吃	__label__other
+早期 宫颈癌 术后 活多久	__label__tumor
+膀胱癌 患者 适合 吃 食物	__label__tumor
+月 女宝 体重 不到 斤 一个多月 涨 不	__label__other
+肛门 长 一个 疙瘩 痒 吃 刺激 食物	__label__other
+一清胶囊 和 一块 吃	__label__other
+胃癌 中晚期 病人 吃 补 蛋白	__label__tumor
+大腿 浮肿 一年 一 一个 坑	__label__other
+女婴 第 天体 温度 家里 暖气 室	__label__other
+鼻咽癌 中期 治愈 可能	__label__tumor
+嘴巴 里 疱疹 一直有 正常	__label__other
+氨璜 必利片 阿立 哌 咗 服用 行	__label__other
+一 不顺心 地方 回家 破口大骂	__label__other
+老婆 乳腺癌 做过 保乳 手术	__label__tumor
+感觉 焦虑 感觉 快 暴裂 原因 我儿	__label__other
+做 肝癌 介入 发烧 正常 现象	__label__tumor
+脚背 酸痛 两天 发现 脚背 凸起 骨头	__label__other
+弟弟 刚刚 热水 烫 破皮 大面积 此刻 等待	__label__other
+医院 查出 近视 现在 配眼镜	__label__other
+宫颈癌 早期 治愈 复发 可能 多少	__label__tumor
+六个月 时 记不清 怎么 划破 脸 有 疤痕	__label__other
+脑梗塞 转院 影响 有 需要 转院 证明	__label__other
+鼻子 睡塌 可以 用手 捏	__label__other
+病情 在线 咨询 三年 前 做 疝气 手术 做 右	__label__other
+我家 宝宝 出生 十五天 乳房 有 肿块 样子 乳晕	__label__other
+性交 有 少量 血 怎么回事	__label__other
+宝宝 手上 血管瘤 长得 越来越 怎么办	__label__tumor
+． 是 腔内 放疗 能 治疗 肿瘤	__label__tumor
+体表 标记线 掉 可以 放疗	__label__tumor
+治疗 卵巢癌 特效药 什么	__label__tumor
+月经 提前 天 吗	__label__other
+处理 放射性 口干燥症	__label__tumor
+是 淋巴结 淋巴瘤 也 疼痛感 平常 驼背	__label__tumor
+肺癌 晚期 什么 治疗 方法	__label__tumor
+月经 前 星期 白带 出现 拉丝 情况	__label__other
+我岁 查出 畸胎瘤 年 做 病变	__label__tumor
+肺癌 放疗 白细胞 降低 吃 能 尽快恢复 白细胞	__label__tumor
+化疗 越大 疗效 越	__label__tumor
+散光 一只 一只 做 icl 今年 刚满 岁 近视	__label__other
+急性白血病 手术 成活率 多 高	__label__tumor
+体检 乳腺 结节	__label__other
+到底 不要 转 有 说 发炎 再涂	__label__other
+胃癌 发现 的 转移 腹部 切除	__label__tumor
+放疗 住院	__label__tumor
+发现自己 色弱 怎么办	__label__other
+身体 特别 凉 感觉 寒气 特别 肚 总 感觉 窜 气	__label__other
+大便出血 肚疼 总想 厕所 半年 时间	__label__other
+月 号 月经周期 天月 号 强阳	__label__other
+叫 面颈 联合 野	__label__tumor
+腔内 放疗 怎么 操作	__label__tumor
+岁 时 了 肺结核 一年 就 了 是	__label__other
+直肠癌 检查	__label__tumor
+我 知道 怎么 面对 控制不了 不去 想	__label__other
+是否 把 的 液体 抽掉 感觉 越来越 大怕 撑破	__label__other
+后背 了 荨麻疹 做些 辅助 治疗	__label__other
+医院 检查 说 胃部 阴影 疑似 胃癌	__label__tumor
+胰腺癌 早期 症状	__label__tumor
+中期 食道癌 治愈	__label__tumor
+血管瘤 小红点 破皮 出血了	__label__tumor
+右侧 耳后 淋巴结 肿痛 医院 做 B超 检	__label__other
+胆管癌 晚期 腿 抖 发烧 吃 东西	__label__tumor
+体检 时发 甲状腺结节 没有 不适 感觉 恶	__label__other
+喝 灵芝 酒 感觉 瘦 好多 喝 一个月	__label__other
+右颈林 巴结 炎 手术 它 又 长 什么 回事	__label__other
+请问 这是 肝癌 急	__label__tumor
+男岁 两周 睡眠 质量 差 入睡 困难 两个 月	__label__other
+你好 医生 老婆 急性 淋巴 炎 二十天 肿块 不消	__label__tumor
+直肠息肉 导致 直肠癌	__label__tumor
+结肠癌 什么 症状	__label__tumor
+乳腺癌 晚期 压迫 一侧 肺门 喘 厉害	__label__tumor
+肺癌 靶向 治疗 什么	__label__tumor
+口臭 喝 矿泉水 口 干 会 口臭 很严重	__label__other
+怀疑 肝癌 怎么办 肝区 有 过 几次 疼痛	__label__tumor
+肺癌 晚期 治疗	__label__tumor
+宝宝 岁 床上 掉 了 地下 左 胳膊肘 肿	__label__other
+晚期 现 肝区痛 有 权威 肝癌 专家	__label__tumor
+宝宝 从生 就 爱哭 不会 伤 声带 女	__label__other
+结肠癌 术后 一年 吐 黑水 什么 病	__label__tumor
+不怎么 红 需要 处理	__label__other
+左 膝关节痛 这是 原因 现在 有时候 感觉 二 手 关节 痛	__label__other
+岁 儿童鼻窦炎 治疗 治愈	__label__other
+肺癌 晚期 医生 做手术 吗	__label__tumor
+分子 靶向 治疗 什么	__label__tumor
+纵隔 可见 片状 密度 增浓影 胸腺 影双 肺纹	__label__other
+化疗 了 可以 见好就收 停止 治疗	__label__tumor
+体表 标记线 洗掉 怎么办	__label__tumor
+结肠癌 现 转移 肺部 野区 什么 怎么办	__label__tumor
+糖尿病 年月日 上午 右手 中指 发红 疼	__label__other
+咳嗽 恶心 这是 原因	__label__other
+可以 挂号	__label__tumor
+白血病 治疗 需 钱 急性 髓系 白血病 M 型 治疗	__label__tumor
+这是 白斑 很 担心 我 扣下来 就 变 了 扣	__label__other
+耳朵 里边 颞骨 噼里啪啦 响 什么 原因	__label__other
+最怕 别人 说话 问 自己 为什么	__label__other
+早上 起床 醒 鼻涕 会带 一点 血丝 一天 早上 血量 喉咙 很 痛 担心 不会 鼻咽癌 我 怕	__label__other
+在 的 放射治疗 方式 中避行 选择	__label__tumor
+月 的宝宝 开始 摇头 什么 原因	__label__other
+这 乳腺癌 要 作 手术	__label__tumor
+鼻窦炎 咽喉 不 舒服 体温 吗	__label__other
+儿子 去年 月 发现 半夜 打喷嚏 医院 检	__label__other
+乳腺癌 酒窝 在 肿瘤 什么 位置	__label__tumor
+父亲 去年 七月 心梗 做 两次 造影 放	__label__other
+胸口 疼痛 伴有 呼吸困难	__label__other
+卵巢癌 复发 做 输尿管 手术 恢复	__label__other
+十八岁 吃 天然维生素 e 我 买 一瓶 养生堂 维生素 E	__label__other
+发现 右边 牙齿 越来越 稀疏 需要 补 吗	__label__other
+乳腺癌 患者 吃	__label__tumor
+父母 感情 不好 听到 争吵 抱怨 每次 听到 争	__label__other
+嘴里 流血 怎么回事 牙齿 松动 经常 流血	__label__other
+胃癌 术后 调理 饮食	__label__tumor
+喜欢 男生 啊	__label__other
+白血病 发生 前有 症状	__label__tumor
+抗抑郁 药	__label__other
+胸口 疼痛 伴有 呼吸困难	__label__other
+偶尔 发现 鼻涕 中 有血 有 其他 吧 女	__label__other
+晚上 睡觉 翻身 很 疼 能 干重	__label__other
+造影 可疑 显影 通畅	__label__other
+放疗 化疗 综合 有何 缺点	__label__tumor
+进 精神病院 人生 就 完 其实 没有 精神病	__label__other
+吉奥 靶向 药有 区别 胆管癌 手术 二年	__label__tumor
+肿瘤 位置 硬 软是 好事 坏事 只能 吃	__label__tumor
+怀疑 结肠癌 去 医院 做 检查	__label__tumor
+． 叫 斗篷野 照射	__label__tumor
+胃癌 建议 怎么办	__label__tumor
+头颈部 肿瘤 包括 肿瘤	__label__tumor
+洁癖 很严重 出去 会 焦虑 这要 啊	__label__other
+月 婴儿 两条腿 有 一块 硬硬 皮肤 干燥	__label__other
+做 放疗 注意	__label__tumor
+叫 综合 治疗 综合 治疗 哪些 优点	__label__tumor
+流感 发烧 会 肚疼 昨天早上 发烧 吵 肚痛	__label__other
+直肠癌 改道 肛门 留有 纱布 怎么回事	__label__tumor
+岔气 吗 腰部 后侧 开始 疼	__label__other
+肝癌 要 脑部 放疗	__label__tumor
+治 肠癌	__label__tumor
+你好 医生 结肠癌 这样	__label__tumor
+b 超在 几楼	__label__tumor
+头垢 洗 这样 额头 脱皮 干燥	__label__other
+肠癌 治 俞	__label__tumor
+b 超能 照出 乳腺癌	__label__tumor
+现在 睡不着 我 得 抑郁症 怎么办 啊	__label__other
+小细胞肺癌 晚期 脑 转移	__label__tumor
+直肠癌 什么样 症状	__label__tumor
+发育 可以 长大 长腿	__label__other
+国内 快中子 治疗 现状	__label__tumor
+已经 便秘 两三个 月 现在 感觉 肚 很胀 排便	__label__other
+乳腺癌 不会 隔代遗传	__label__tumor
+胰腺癌 传染	__label__tumor
+胃癌 喝 中成药	__label__tumor
+直肠癌 转 肝癌 晚期 能治好	__label__tumor
+去年 月份 就 腿疼 知道 怎么回事	__label__tumor
+做过 胃癌 手术 活多久	__label__tumor
+直肠癌 患者 哪些 症状	__label__tumor
+医生 麻烦 看看 的 化验单	__label__other
+结肠癌 请问 怎么 治疗	__label__tumor
+宝宝 腿 弯会 罗圈腿	__label__other
+结肠癌 选择 检查 方法	__label__tumor
+女岁 满口 牙齿 几年 排牙 的 最 两	__label__other
+BRCA 良性 用 靶向 药物 治疗	__label__tumor
+压 一个月 宝宝 肚 宝宝 没哭 有事吗	__label__other
+放射性 有	__label__tumor
+宫颈癌 时候 复查	__label__tumor
+是 X 刀 真是 一把 刀	__label__tumor
+肺癌 前期 征兆 什么样	__label__tumor
+直肠癌 术 前 放疗 治疗 效果 吗	__label__tumor
+乳腺 纤维瘤 导致 乳腺癌	__label__tumor
+手背 食指 肌腱 断裂 一根 缝合 打 石膏 说 打 三	__label__other
+青少年 反复 低烧 疱疹	__label__other
+人 得 子宫内膜癌	__label__tumor
+长 两颗 智齿 拔 应 什么	__label__other
+肝癌 晚期 腹水 黄疸 救	__label__tumor
+乳腺癌 哪些 症状 会痛 冯	__label__tumor
+医生 说 办法 是否是 乳腺癌 其它 良性 恶性	__label__tumor
+白 眼球 发黄 怎么回事 女	__label__other
+宿醉 喉咙痛 胸口 疼 为什么	__label__other
+小孩 白血病 癌症 什么 原因	__label__tumor
+直肠癌 前面 病状 什么 样子 怎么办	__label__tumor
+早期 喉癌 检查 出来	__label__tumor
+治疗 眼部 血管瘤 哪些 的 治疗 方法	__label__tumor
+乳腺癌 化疗 脑袋 身上 疙瘩 发烧	__label__tumor
+老想 厕所 尿 尿痛	__label__other
+鼻咽癌 放疗 有 副作用	__label__tumor
+结肠癌 治疗 多少 钱	__label__tumor
+腰间盘 是 买 牵引器 治疗仪 呢	__label__other
+小腿 酸胀 脚底板 疼 医生 这个 是 问题	__label__other
+子宫内膜癌 哪些 症状	__label__tumor
+头颈部 放疗 时 口腔粘膜 出现 白膜 破溃 处理	__label__tumor
+小儿 牙龈 肿 嘴里 有异味 口中 异味 重 咋办	__label__other
+泌尿科 肾科 请 专家 帮忙 解答	__label__other
+胰腺癌 如何 选择 治疗 方法	__label__tumor
+肠梗阻 治疗 中 肚 不疼 下腹 硬	__label__other
+凌晨 发烧 这是 怎么回事	__label__other
+小孩子 感冒 已经 周 了 为什么 鼻孔 内会 红肿	__label__other
+屁股 打针 地方 麻木 后边 麻木 阑尾炎 吗	__label__other
+． 是 放射治疗	__label__tumor
+我想 问下 乳腺癌 早期 症状	__label__tumor
+摘 隐形眼睛 划破 怎么办	__label__other
+拉稀 拉水 拉稀 水该 啊	__label__other
+胃癌 能活 多长时间 暴瘦斤	__label__tumor
+我爸 早期 鼻腔 淋巴瘤 NKT 除外 肿瘤 这是 意思	__label__tumor
+左眼 始终 度 大夫 孩子 眼镜 度数 合适	__label__other
+半夜 点到点 这是 肝癌	__label__tumor
+喝 调理 痛经 中药 期间 喝 羊奶	__label__other
+说话 声音 胆小 自信	__label__other
+孩子 十岁 今年 发现 偷 女人 丝袜 鞋子 回来	__label__other
+黄色 大便 好像 有 奶瓣 什么 回事	__label__other
+结肠癌 腺癌 请问 手术 治疗 效果 吗	__label__tumor
+总 感觉 头沉 怎么回事 一年 了	__label__other
+送 放疗 病人 时 放疗 室 门口 等待 有 辐射 需注意	__label__tumor
+食道癌 手术 发烧 咋办	__label__tumor
+鼻子 出血 一直 血丝 发现 鼻子 里 是	__label__other
+宝宝 脸 红红的 一块 破皮 粗糙 什么 情况	__label__other
+近节指骨 掌骨 处 骨头 凸出	__label__other
+庞 这 几天 开始 思维 反刍 昨天 氟 西丁调	__label__other
+肺癌 今天 医院 的 了	__label__tumor
+鼻咽癌 如何 治疗	__label__tumor
+膝盖 痛用 艾叶 水 热敷 好像 更痛	__label__other
+人 得 乳腺癌	__label__tumor
+怀疑 是 乳腺癌 做 检查	__label__tumor
+吃 半瓶 安眠药 睡 多久	__label__other
+请问 直肠癌 术 前 术后 应该 些	__label__tumor
+组织间 插植技术 注意事项	__label__tumor
+宝宝 咳嗽 有天 期间 开 药 吃 了	__label__other
+眼角膜 受伤 特别 疼	__label__other
+眼睛 变得 很肿 😭 😭 😭 恢复 原来 样子	__label__other
+化疗 脱发 有 的 人 不会	__label__tumor
+昆明市 第三 医院 肛肠科	__label__other
+红血丝 我 近期 佩戴 隐形眼镜	__label__other
+原发性 左肺 腺癌 脑 转移 骨转移 导致 高位 截瘫	__label__tumor
+肺癌 细胞 吃不了 饭 怎么回事 癌能 活多久	__label__tumor
+食道癌 晚期 吃 好	__label__tumor
+排便 时 出血 是 回事	__label__other
+右边 鼻子 堵去 拍 片子 医生 说 鼻中隔 偏	__label__other
+别人 吃 东西 很烦 这是 疾病	__label__other
+麻烦 下 检查 怎么样	__label__other
+宫颈癌 早期 症状 有	__label__tumor
+缺钾 缺镁能 根治	__label__other
+脖子 有时候 抽筋 舒服 感觉 不 知道 怎么办 两个 手指 位置	__label__other
+正在 补充 锌 铁 有 症状 知道 症状 怎么回事	__label__other
+化疗 卵巢癌 什么	__label__tumor
+化疗 什么 副作用	__label__tumor
+岁 小孩 咳嗽 流鼻涕 天	__label__other
+胃癌 对症支持 治疗 什么	__label__tumor
+乳腺癌 化疗 如何 中医 调养	__label__tumor
+小儿 洗澡 着凉 感冒咳嗽 流鼻涕 喝 桔贝合剂 两	__label__other
+医院 诊断 乳腺癌	__label__tumor
+胃癌 姑息性 手术 什么 作用	__label__tumor
+脑瘤 治疗	__label__tumor
+肾癌 如何 诊断 呢	__label__tumor
+放屁 放 多个 怎么 回事儿	__label__other
+十二指肠 手术 引流	__label__other
+鼻咽癌 患者 颈部 淋巴结	__label__tumor
+高考 前 查出 甲亢 影响 高考 脖子 不会 越	__label__other
+额头 软组织 受伤 治疗	__label__other
+头颈部 肿瘤 病人 放疗 为什么 出现 口 干	__label__tumor
+医生 肝癌 晚期 腹水 怎么办	__label__tumor
+头发 白 经常 口腔溃疡 什么 药 比较 好	__label__other
+胃癌 姑息性 手术 方式 哪几种 类型	__label__tumor
+髋关节 疼 有时候 扭腿 髋关节 卡卡 响	__label__other
+嗓子疼 吃 药	__label__other
+白血病 癌症	__label__tumor
+直肠癌 身上 紫色 是 怎么回事	__label__tumor
+有没有 癌症 白血病 的 医生	__label__tumor
+两个 多月 的宝宝 一直 拉绿屎 半个 多月 体	__label__other
+情绪 特别 激动 紧张 紧张 头 会 控制 不住	__label__other
+淋巴癌 晚期 化疗 几次 有 比较 的 方法	__label__tumor
+不 是 感冒了 的 头晕 无力 心跳 加速 呼吸急促 双手 无力 恶心	__label__other
+直肠癌 前面 病状 什么 样子 怎么办	__label__tumor
+放疗 不良反应	__label__tumor
+胃癌 做 完 手术 怎么办	__label__tumor
+胃癌 腹水 肝硬化 治疗	__label__tumor
+有些 病人 一天 照射 次 或次 治疗 什么 好处	__label__tumor
+乳腺癌 不会 隔代遗传	__label__tumor
+乳腺癌 不会 隔代遗传	__label__tumor
+确诊 是不是 胃癌	__label__tumor
+痛感 像是 里边 痛 确定 在 包上 起火 疖子	__label__other
+脑垂体 泌乳素 肿瘤 吃 溴隐亭 打瘦 腿 针 嚒	__label__tumor
+直肠癌 什么 症状	__label__tumor
+晚上 睡觉 后背 出汗 心烦 气躁 精神 气 做爱 持	__label__other
+非小细胞肺癌 抗原 医生 这是	__label__tumor
+吃 减肥 吃 减肥药 减肥 吃药后 反弹	__label__other
+鼻子 淌 鼻涕 怎么办	__label__other
+我家 宝宝 三岁 了 白天 吃饭 晚上 喝 两三	__label__other
+是 组织间 插植术 能 治疗 肿瘤	__label__tumor
+月 宝宝 咳嗽 发烧 给 喝 白萝卜 蜂蜜水 怎么办	__label__other
+两三次 大便 排 不 有时候 排 一点点 早	__label__other
+嘴里 铁 气味 怎么回事	__label__other
+结肠癌 肝 转移 手术 饮食 应多 吃 食物	__label__tumor
+早上 起床 走路 疼 厉害 问 大夫 什么 原因	__label__other
+男婴 八个 月 右眼 流眼泪 眼睛 不红	__label__other
+白血病 化疗 期间 喝 生土 豆汁	__label__tumor
+父亲 肺癌 晚期 什么 可行 办法	__label__tumor
+眼睛 血丝 肿能 热水 敷	__label__other
+猪 骨头 配 一起 煲汤 养脚 筋	__label__other
+忘 问下 诊断 判断 肺癌	__label__tumor
+我要 做 抑郁 情绪 测试	__label__other
+大夫 说 是 慢性 单纯性 鼻炎 有没有 药 治	__label__other
+放疗 费用	__label__tumor
+嘴唇 内侧 发紫 知道 什么 原因 黄疸 点	__label__other
+减肥药 抗体 什么	__label__other
+白血病 就是 血癌	__label__tumor
+卵巢癌 治疗 怎么 复查	__label__tumor
+月 宝宝 闹觉 哭 怎么回事	__label__other
+了 两个 的 医院 有个 医生 说 肿块 有个 医	__label__tumor
+继续 服用 阿司匹林肠溶片 因为 服用药 胃 急 舒服	__label__other
+一个半月 婴儿 长 肉 怎么回事	__label__other
+三个 月 前 胸痛 去 拍 个 螺旋 CT 检查 肺部	__label__tumor
+结肠癌 化疗 出院 有 荮 吃	__label__tumor
+白血病 患者 末期 是 痛苦	__label__tumor
+血管瘤 小红点 破皮 出血了	__label__tumor
+宝宝 四个 多月 配方 奶 喂养 一个多 星期 白天	__label__other
+有没有 胃癌 医生 一个 怎么办	__label__tumor
+脑肿瘤 晚期症状 有 哪些方面	__label__tumor
+中老年 妇女 五十三岁 近半年 感觉 心悸	__label__other
+ct 显示 右上肺 占位 确诊 肺癌	__label__tumor
+乳腺癌 患者 饮食 上要 吃 比较	__label__tumor
+直肠癌术后 两周 左腹 刀口 痛	__label__tumor
+白血病 生白 针 骨头痛 怎么办	__label__tumor
+卵巢癌 化疗 期间 复查	__label__tumor
+胃癌 肝 转移 有没有 治愈 可能	__label__tumor
+结肠癌 术后 注意	__label__tumor
+肺癌 转移 淋巴 肺门	__label__tumor
+贷款 万 千多 剩下 千多 感觉 贷款 累	__label__other
+二型 糖尿病 血糖 标准	__label__other
+舌头 底下 了 疙瘩 咋 回事	__label__other
+调强 适形 放射治疗 IMRT	__label__tumor
+胰腺癌 如何 诊断 呢	__label__tumor
+的 鼻炎 看好 平时 证状 鼻塞 头疼	__label__other
+孩子 后脑勺 有个 包一 碰 痛	__label__other
+脸部 肿瘤医院 明天 化疗 生命危险 医师	__label__tumor
+周有 朋友 检查 看	__label__other
+肺癌 抗原 高是 怎么回事	__label__tumor
+直肠癌 传染	__label__tumor
+结肠癌 晚期 能治 怎么 治疗	__label__tumor
+胰腺癌 治愈	__label__tumor
+营养不良 孩子 是 情况	__label__other
+退牙 期间 门牙 上方 牙龈 处 长出 新牙 再生 牙	__label__other
+自闭症 人 治愈 会 好	__label__other
+宫颈癌 传染	__label__tumor
+我家 宝宝 连续 两个 星期 流鼻涕 感冒 不 发烧 怎么办 男	__label__other
+乳腺癌 患者 处理 夫妻 之间 性关系	__label__tumor
+每次 一些 剧烈运动 会 反胃 吐 全身 冷汗 乏力 没力气 怎么回事	__label__other
+喉咙 扁桃体 下落	__label__other
+肝癌 初期 那些 症状	__label__tumor
+头部 受伤 没 发现 多久 体现 呢	__label__other
+左眼 了 结膜炎 第二天 右眼 视力下降 模糊 什么 原因	__label__other
+肝癌 靶向 药 有 卖	__label__tumor
+医生 找 不到	__label__tumor
+介入治疗 副作用	__label__tumor
+拔 完 智齿 止血 海绵 弄出来 牙垠 有	__label__other
+您好 麻烦 这个 诊断 是 确诊 胃癌 嘛	__label__tumor
+流清涕 鼻炎 复发 流 那种 纯白色 固体 是	__label__other
+胰腺癌 遗传 白血病 遗传	__label__tumor
+白血病 m 治疗方案	__label__tumor
+肚脐 上方 痉挛 痛个 小时 不 是 问题	__label__other
+鼻子 鼻梁 右侧 同学 使劲 用手 摁 一下 导致 鼻梁 歪掉	__label__other
+右 肩膀 疼 躺 或者 不动 时候 不疼 动作 对	__label__other
+乳腺癌 手术 两年 再次 发现 肿块	__label__tumor
+鼻咽癌 怎么 检查	__label__tumor
+胸口 突然间 疼 一阵一阵 疼 喝酒 吃	__label__other
+乳腺癌 如何 治疗	__label__tumor
+晚期 肺癌 转 骨癌 能 活多久	__label__tumor
+肠癌 怎样 治疗	__label__tumor
+直肠癌术后 化疗方案 做	__label__tumor
+胃部 恶性 淋巴 肿瘤 什么 办法 治疗	__label__tumor
+连续 爬天 山能 瘦小 腿	__label__other
+放疗 中 要 忌口 吃 鸡	__label__tumor
+直肠癌 症状 什么 怎么办	__label__tumor
+吃 药 不见 有没有 胃癌 可能	__label__tumor
+背痛 脊椎 睡觉 后半夜 白天 不太 明显 脚	__label__other
+牙齿 疼带 耳朵 疼 怎么回事	__label__other
+扬子江 护佑 苏黄 止咳胶囊 g 粒	__label__other
+心烦 心悸 心速 经常 左右 血压 正	__label__other
+胃癌 晚期 走不稳 头晕 厉害 转移 吗	__label__tumor
+放射治疗 前 签 知情 同意书	__label__tumor
+直肠癌 怎么 预防	__label__tumor
+坐 一两分钟 腿 会 麻 肌肉 轻微 痛感 明显	__label__other
+牙龈 内侧 发白 怎么 情况	__label__other
+治疗 肺癌 好 方法	__label__tumor
+免费 咨询 眼角膜 眼角 红 眼角 疼	__label__other
+躺 的 腿 蹬 不停 什么 原因	__label__other
+是 肿瘤 放射治疗 学	__label__tumor
+上不出 厕所 肚 憋 慌 吃 东西	__label__other
+肺癌 做手术 还是 做好	__label__tumor
+嘴唇 内侧 发紫 知道 什么 原因 黄疸 点	__label__other
+胃癌 晚期 医生 还 手术 有 腹水	__label__tumor
+慢性胃炎	__label__other
+到 没 月经 怎么回事	__label__other
+放疗 早期 并发症 哪些	__label__tumor
+子宫内膜癌 如何 诊断 呢	__label__tumor
+白细胞 血小板 低 怎么回事 两天 感冒 发烧 咳嗽	__label__other
+姑息性 化疗 什么	__label__tumor
+白血病 可以 吃 德克士 的	__label__tumor
+胃胀 吃完饭 是 喝水 特别 胀 想 主动 打嗝	__label__other

@@ -1,0 +1,172 @@
+宫颈癌 晚期 临终前 症状	__label__tumor
+胃癌 什么 的	__label__tumor
+宫颈癌 晚期 症状 什么	__label__tumor
+宫颈癌 早期 治愈 复发 可能 多少	__label__tumor
+肝癌 黄疸 已经 晚期	__label__tumor
+肺癌 早期 患者 做 胸透 查出	__label__tumor
+女性 了 宫颈癌 传染 男性	__label__tumor
+女岁 满口 牙齿 几年 排牙 的 最 两	__label__other
+喉癌 早期 症状 什么	__label__tumor
+了 皮肤癌 治疗 有效	__label__tumor
+脸部 皮肤癌 早期 症状	__label__tumor
+宫颈癌 不会 传染给 呢	__label__tumor
+嘴巴 歪 矫正 牙齿 不齐	__label__other
+牙龈 内侧 发白 怎么 情况	__label__other
+皮肤癌 死亡率 多少	__label__tumor
+胃癌 晚期 活多久	__label__tumor
+宫颈癌 中晚期 症状	__label__tumor
+医生 麻烦 帮 看看 这是	__label__other
+有效 治疗 皮肤癌 呢	__label__tumor
+皮肤癌 病因	__label__tumor
+我 缝线 缝 两针 好像 掉 在 嘴里 感觉 有 影响	__label__other
+宫颈癌 早期 症状 有	__label__tumor
+才能 查出 肺癌	__label__tumor
+哺乳期 妇女 牙疼	__label__other
+舌头 烂 是 原 不 舒服 感觉	__label__other
+笑 时候 上牙露 出来 感觉 上颌 短 下颌骨	__label__other
+非小 细胞 肺癌 的 治疗 方法	__label__tumor
+肝硬化 转化成 肝癌 多久	__label__tumor
+肝癌 症状 哪些	__label__tumor
+舌头 旁边 左上方 长 个 黑色 小球 有点像 息肉	__label__other
+阻生 智齿 多久 把 临牙顶 坏 的 阻生齿 已知 两	__label__other
+皮肤癌 控制 好	__label__tumor
+肺癌 早期 治好	__label__tumor
+上颚 几个 白点 口腔溃疡	__label__other
+子宫 全切 还 得 宫颈癌	__label__tumor
+张嘴 时 脸部 两侧 骨骼 响 怎么回事	__label__other
+胃癌 什么 方法 治好	__label__tumor
+口腔 右边 咬 白线 能 刮掉 皮是 怎么回事	__label__other
+想 咨询 如果 矫正 牙 拔牙	__label__other
+自发性 疼痛 慢性 牙髓炎 有 严重后果	__label__other
+皮肤癌 哪些 类型	__label__tumor
+门牙 卡住 缝衣针 捅 下 然后 门牙 和 牙龈 连接 出现 个 洞	__label__other
+治 肺癌 治疗	__label__tumor
+导致 皮肤癌 主要 原因 哪些	__label__tumor
+嘴里 铁 气味 怎么回事	__label__other
+舌尖 白色 颗粒 好几个 月 不疼不痒 什么 原因	__label__other
+拔 完牙 第二天 疼 智齿	__label__other
+按住 右侧 鼻孔 嘴巴 里 流出 脓血 每次 一挤 感	__label__other
+吃 瓜子 瓜子壳 戳 进 舌头 里 肿 一块	__label__other
+宫颈癌 女性 身体 危害 哪些	__label__tumor
+嘴 稍微 一张 腮帮子 就响 不疼不痒 感觉 下巴	__label__other
+宫颈癌 初期 症状 什么	__label__tumor
+胃癌 能 活多久	__label__tumor
+患 喉癌 初期 能治好	__label__tumor
+舌头 有齿痕 怎么回事 女性	__label__other
+肺癌 前期 征兆 什么样	__label__tumor
+中药 治疗 肺癌 效果 吗	__label__tumor
+喉癌 早期 表现 症状	__label__tumor
+牙齿 松动 反复 疼痛	__label__other
+上海 治 肺癌 晚期 好 医院 哪些	__label__tumor
+鼻 癌症 必要 做 靶向 治疗	__label__tumor
+嘴唇 发干 发脓 伤口 疼	__label__other
+口腔溃疡 很久 刷牙 大出血 口臭 厉害 要紧	__label__other
+三四天 伴随 发烧 害冷 腿酸 口腔溃疡 的	__label__other
+矫正 牙齿 戴牙套 前 需 锻炼 肌肉	__label__other
+宫颈癌 什么 原因 导致	__label__tumor
+舌尖 上长 一个 肉丁	__label__other
+晚期 肝癌 不能 治	__label__tumor
+全瓷 门牙 感觉 门牙 碰到 上 门牙 医院 咬	__label__other
+肺癌 中晚期 什么	__label__tumor
+了 皮肤癌 哪些 症状	__label__tumor
+醫生 請 問牙齒 矯正受 年齡 影響 嗎	__label__other
+老年人 了 肺癌	__label__tumor
+女岁 满口 牙齿 几年 排牙 的 最 两	__label__other
+ct 显示 右上 肺 占位 确诊 肺癌	__label__tumor
+喝水 口腔 发涩 肿下 嘴唇 里面 发	__label__other
+口腔 黏膜 纤维化 癌变 我该 有救	__label__other
+皮肤癌 治 好	__label__tumor
+喉癌 全喉 切除术 有没有 放化疗	__label__tumor
+放假 回来 口腔溃疡 我 肌肉 牵引 问题	__label__other
+肺癌 早期 完全 治愈	__label__tumor
+什么 方法 检查 肝癌	__label__tumor
+胃癌 治愈	__label__tumor
+发现 舌头 长 两个 小红点 怎么回事	__label__other
+头发 白 经常 口腔溃疡 什么 药 比较 好	__label__other
+一岁 宝宝 牙 着 怎么回事 担忧	__label__other
+中午 吃饭 时候 小心 鱼刺 刺进 牙缝里 应该	__label__other
+早期 喉癌 检查 出来	__label__tumor
+宫颈癌 能 怀孕	__label__tumor
+睡 一觉 右边 嘴唇 不好 开始 两	__label__other
+中午 吃饭 时候 小心 鱼刺 刺进 牙缝里 应该	__label__other
+口腔 黏膜 纤维化 癌变 我该 有救	__label__other
+醫生 請 問牙齒 矯正受 年齡 影響 嗎	__label__other
+颞 下颌 关节 紊乱 综合征 咋办	__label__other
+宫颈癌 治愈 几率 高	__label__tumor
+喉癌 放疗 后能 吃 食物	__label__tumor
+这是 有 异物感	__label__other
+喉癌 什么 症状 前期 什么	__label__tumor
+岁长 一颗 龅牙 这是 情况	__label__other
+早期 肝癌 治愈 还 活多久	__label__tumor
+了 皮肤癌 什么 症状	__label__tumor
+宫颈癌 患者 术后 饮食 吃 好	__label__tumor
+牙龈 长 水泡 一年 了 按会痛 牙齿 黑斑 洗牙后	__label__other
+现在 嗓子疼 和 喉癌 患者 接过 吻 请问 有没有 关系 谢谢 大夫	__label__tumor
+皮肤癌 初期 症状 哪些	__label__tumor
+液体钙 牙齿 有没有	__label__other
+强行 拔掉 气管 开口 红肿 吗	__label__other
+有时候 吃点 东西 疼 大 补 牙齿	__label__other
+做 根管 治疗 平时 有过 两次 吃 糖 疼 二 他 了 药后 回来 天天 疼 吗	__label__other
+肺癌 检查 项目 哪些	__label__tumor
+手术 治疗 喉癌 能治好	__label__tumor
+割 牙龈 可以 医院 的 漱口水 漱口	__label__other
+胃癌 怎么 得来	__label__tumor
+这是 有 异物感	__label__other
+牙龈 出血 突然 出血	__label__other
+舌头 有时候 事 有点 溃烂 怎么回事	__label__other
+三岁 宝宝 牙 花子 红肿	__label__other
+口臭 喝 矿泉水 口 干 会 口臭 严重	__label__other
+岁长 一颗 龅牙 这是 情况	__label__other
+晚期 皮肤癌 传染 家人	__label__tumor
+宫颈癌 放疗 期间 注意事项	__label__tumor
+睡觉 嘴里 咸 感觉 点 回甜 嘴巴 里 腻	__label__other
+睡觉 嘴里 咸 感觉 点 回甜 嘴巴 里 腻	__label__other
+牙齿 松动 反复 疼痛	__label__other
+熬夜 一宿网 早上 睡 了 会 醒来 发现 舌头 根有	__label__other
+能 恢复 三颗 牙	__label__other
+右边 脸上 咬合 肌 位置 肿是 怎么回事	__label__other
+女性 宫颈癌 早期 症状 什么	__label__tumor
+不能 戴牙套 方法 矫正 横生 智齿	__label__other
+宫颈癌 放射治疗 期间 吃 食物	__label__tumor
+皮肤癌 患者 在生活中 多 什么	__label__tumor
+宫颈癌 检查 做	__label__tumor
+口臭 喝 矿泉水 口 干 会 口臭 严重	__label__other
+年轻人 会得 胃癌	__label__tumor
+年轻人 胃癌 多	__label__tumor
+嘴唇 发干 发脓 伤口 疼	__label__other
+口 干 嘴唇 干造 上牙堂 牙 周边 白色 泡 乳白色 舌	__label__other
+流血 需要 含 华素 片	__label__other
+异味 我要 吃 点 药	__label__other
+小儿 牙龈 肿 嘴里 异味 口中 异味 重 咋办	__label__other
+胃癌 症状 哪些	__label__tumor
+皮肤癌 早期 是 症状	__label__tumor
+下巴 底下 按 疼 怎么回事	__label__other
+宫颈癌 存活率 高	__label__tumor
+肝 血管瘤 危险	__label__tumor
+肝癌 早期 症状 治疗 方法	__label__tumor
+宫颈癌 早期 有 症状	__label__tumor
+请问 宫颈癌 筛查 什么	__label__tumor
+今天上午 拔 牙 疼 没事	__label__other
+多生牙 做手术 拆线 疼 用 什么 线缝 有 说	__label__other
+医院 年月日 : ￼	__label__other
+虎牙 掉 一片 往里 隐约 红色 流用 手能	__label__other
+宫颈癌 早期 症状 有	__label__tumor
+刚补 牙齿 咬合 碰到 有 一点点 的 痛 填充物 刺激 的	__label__other
+早期 宫颈癌 患者 能 活多久	__label__tumor
+大面积 面部 撕裂 伤 老人 的 情况 怎么 治疗	__label__other
+睡 一觉 右边 嘴唇 不好 开始 两	__label__other
+性生活 患 宫颈癌 几率 吗	__label__tumor
+长 棵 智齿 很痛 痛 肉 肿	__label__other
+你好 糖类 抗原 CA : 什么 指标	__label__tumor
+的 牙齿 做好 多少 钱	__label__other
+宫颈癌 早期 治好	__label__tumor
+孕早期 牙痛 缓解 什么 办法 止痛	__label__other
+早期 宫颈癌 术后 活多久	__label__tumor
+颧骨 耳朵 连接 地方 了 疙瘩 淋巴结 肿大 牙龈 出血	__label__other
+发炎 挺 的 脓包 发炎 中拔 牙 有事吗	__label__other
+皮肤癌 护理 诊断	__label__tumor
+肝癌 吃 食物 呢	__label__tumor
+开始 去年 四月份 不能 咬 硬 东西 张口	__label__other
+患上 皮肤癌 怎么 治疗	__label__tumor
+胃癌	__label__tumor
+反复 口腔溃疡 怎么办	__label__other

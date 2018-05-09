@@ -1,0 +1,172 @@
+宫颈癌 晚期 临终前 症状	__label__tumor
+胃癌 是 什么 造成 的	__label__tumor
+宫颈癌 的 晚期 症状 是 什么	__label__tumor
+宫颈癌 早期 可以 治愈 吗 复发 的 可能 有 多少	__label__tumor
+肝癌 出现 黄疸 是不是 已经 是 晚期 了	__label__tumor
+肺癌 早期 患者 做 胸透 能否 查出	__label__tumor
+女性 得 了 宫颈癌 能 传染 男性 吗	__label__tumor
+女 69 岁 带 的 满口 牙齿 最近 几年 下 排牙 的 最 两	__label__other
+喉癌 的 早期 症状 有 什么	__label__tumor
+得 了 皮肤癌 怎么 治疗 最 有效	__label__tumor
+脸部 皮肤癌 早期 症状	__label__tumor
+宫颈癌 会 不会 传染给 别人 呢	__label__tumor
+嘴巴 有点 歪 怎么 矫正 我 牙齿 不齐	__label__other
+牙龈 内侧 发白 是 怎么 情况	__label__other
+皮肤癌 死亡率 是 多少	__label__tumor
+胃癌 晚期 能 活多久	__label__tumor
+宫颈癌 中晚期 症状	__label__tumor
+医生 麻烦 帮 我 看看 这是 什么	__label__other
+如何 有效 治疗 皮肤癌 问题 呢	__label__tumor
+皮肤癌 的 病因	__label__tumor
+有 我 的 缝线 缝 了 两针 好像 是 掉 了 在 嘴里 能 感觉 到 有 影响 吗	__label__other
+宫颈癌 的 早期 症状 都 有 啥	__label__tumor
+怎么 才能 查出 肺癌	__label__tumor
+哺乳期 妇女 牙疼 怎么办	__label__other
+舌头 烂 了 是 什么 原 没有 不 舒服 的 感觉	__label__other
+笑 的 时候 上牙露 不 出来 感觉 自己 上颌 短 下颌骨	__label__other
+非小 细胞 肺癌 最好 的 治疗 方法	__label__tumor
+肝硬化 转化成 肝癌 需要 多久 啊	__label__tumor
+肝癌 症状 有 哪些	__label__tumor
+小 舌头 旁边 左上方 长 了 个 黑色 小球 有点像 息肉	__label__other
+阻生 智齿 多久 会 把 临牙顶 坏 我 的 阻生齿 已知 两	__label__other
+皮肤癌 怎样 控制 才 好	__label__tumor
+肺癌 早期 可以 治好 吗	__label__tumor
+上颚 有 几个 小 白点 是不是 口腔溃疡	__label__other
+子宫 全切 后 还 会 得 宫颈癌 吗	__label__tumor
+张嘴 时 脸部 两侧 骨骼 响 怎么回事	__label__other
+胃癌 有 什么 方法 可以 治好 吗	__label__tumor
+我 口腔 内 右边 咬 白线 附近 能 刮掉 皮是 怎么回事	__label__other
+我 想 咨询 一下 如果 要 矫正 牙 需要 拔牙 吗	__label__other
+自发性 疼痛 慢性 牙髓炎 会 有 严重后果 吗	__label__other
+皮肤癌 有 哪些 类型	__label__tumor
+门牙 那里 卡住 了 然后 用 缝衣针 去 捅 了 下 然后 门牙 中间 和 牙龈 连接 那里 出现 了 个 洞 怎么办	__label__other
+治 肺癌 如何 治疗	__label__tumor
+导致 皮肤癌 的 主要 原因 有 哪些 啊	__label__tumor
+嘴里 有 铁 气味 是 怎么回事	__label__other
+舌尖 白色 颗粒 好几个 月 不疼不痒 是 什么 原因 啊	__label__other
+拔 完牙 第二天 疼 智齿	__label__other
+按住 右侧 鼻孔 从 嘴巴 里 流出 脓血 每次 一挤 就 感	__label__other
+吃 瓜子 把 瓜子壳 戳 进 舌头 里 了 肿 了 一块	__label__other
+宫颈癌 对 女性 身体 的 危害 有 哪些	__label__tumor
+嘴 稍微 一张 腮帮子 就响 不疼不痒 感觉 下巴 有点	__label__other
+宫颈癌 主要 初期 症状 是 什么	__label__tumor
+胃癌 一般 能 活多久	__label__tumor
+患 喉癌 初期 能治好 吗	__label__tumor
+舌头 有齿痕 是 怎么回事 女性	__label__other
+肺癌 的 前期 征兆 是 什么样 的	__label__tumor
+中药 治疗 肺癌 效果 好 吗	__label__tumor
+喉癌 的 早期 表现 症状	__label__tumor
+牙齿 松动 反复 疼痛	__label__other
+上海 治 肺癌 晚期 较 好 的 医院 有 哪些	__label__tumor
+鼻 癌症 有 必要 做 靶向 治疗	__label__tumor
+嘴唇 发干 发脓 伤口 疼 怎么办	__label__other
+口腔溃疡 很久 了 刷牙 大出血 口臭 厉害 要紧 吗	__label__other
+已经 三四天 了 伴随 着 发烧 害冷 腿酸 是不是 口腔溃疡 引起 的	__label__other
+矫正 牙齿 戴牙套 前 需 锻炼 肌肉	__label__other
+宫颈癌 是 什么 原因 导致 的	__label__tumor
+舌尖 上长 了 一个 小 肉丁	__label__other
+晚期 肝癌 能 不能 治 好	__label__tumor
+全瓷 门牙 感觉 下 门牙 碰到 了 上 门牙 去 医院 用 咬	__label__other
+肺癌 中晚期 是 什么 意思	__label__tumor
+得 了 皮肤癌 有 哪些 症状	__label__tumor
+醫生 請 問牙齒 矯正受 年齡 影響 嗎	__label__other
+老年人 得 了 肺癌 怎么办	__label__tumor
+女 69 岁 带 的 满口 牙齿 最近 几年 下 排牙 的 最 两	__label__other
+ct 显示 右上 肺 占位 如何 确诊 是否 肺癌	__label__tumor
+喝水 口腔 有点 发涩 有点 肿下 嘴唇 最 里面 有点 发	__label__other
+口腔 黏膜 纤维化 癌变 我该 有救 吗	__label__other
+皮肤癌 治 的 好 吗	__label__tumor
+喉癌 全喉 切除术 后 有没有 必要 放化疗	__label__tumor
+最近 放假 回来 口腔溃疡 是不是 我 肌肉 牵引 的 问题 呢	__label__other
+肺癌 早期 能 完全 治愈 么	__label__tumor
+用 什么 方法 检查 出 肝癌	__label__tumor
+胃癌 能 治愈 吗	__label__tumor
+发现 舌头 长 了 两个 小红点 是 怎么回事 呢	__label__other
+头发 白 的 比较 多 经常 口腔溃疡 用 什么 药 比较 好	__label__other
+一岁 半 宝宝 上下 牙 对 着 怎么回事 很 担忧	__label__other
+中午 吃饭 的 时候 不 小心 鱼刺 刺进 牙缝里 了 应该	__label__other
+早期 喉癌 如何 检查 得 出来	__label__tumor
+有 宫颈癌 还 能 怀孕 吗	__label__tumor
+睡 了 一觉 起来 右边 上下 嘴唇 都 不好 了 开始 是 两	__label__other
+中午 吃饭 的 时候 不 小心 鱼刺 刺进 牙缝里 了 应该	__label__other
+口腔 黏膜 纤维化 癌变 我该 有救 吗	__label__other
+醫生 請 問牙齒 矯正受 年齡 影響 嗎	__label__other
+颞 下颌 关节 紊乱 综合征 咋办	__label__other
+宫颈癌 治愈 的 几率 高 吗	__label__tumor
+喉癌 放疗 后能 吃 什么 食物	__label__tumor
+这是 什么 有 异物感	__label__other
+喉癌 是 什么 症状 前期 有 什么 反应	__label__tumor
+27 岁长 了 一颗 龅牙 这是 什么 情况 啊	__label__other
+早期 肝癌 治愈 后 还 能 活多久 啊	__label__tumor
+得 了 皮肤癌 有 什么 症状	__label__tumor
+宫颈癌 患者 术后 饮食 上 吃 什么 好	__label__tumor
+牙龈 长 水泡 一年 多 了 按会痛 牙齿 有 黑斑 洗牙后	__label__other
+我 现在 嗓子疼 之前 和 喉癌 患者 接过 吻 请问 有没有 关系 谢谢 大夫	__label__tumor
+皮肤癌 有 初期 症状 有 哪些	__label__tumor
+液体钙 对 牙齿 有没有 用	__label__other
+强行 拔掉 的 气管 切 开口 有 红肿 严重 吗	__label__other
+有时候 吃点 东西 会 疼 这么 大 可以 补 牙齿 吗	__label__other
+要 做 根管 治疗 平时 有过 两次 吃 了 糖 疼 的 二 是 他 用 了 药后 回来 天天 疼 正常 吗	__label__other
+肺癌 的 检查 项目 有 哪些	__label__tumor
+手术 治疗 喉癌 还 能治好 吗	__label__tumor
+割 牙龈 后 可以 用 医院 给 的 漱口水 漱口 吗	__label__other
+胃癌 是 怎么 引起 得来 的	__label__tumor
+这是 什么 有 异物感	__label__other
+牙龈 老 出血 是 突然 就 出血 了	__label__other
+我 舌头 有时候 有点 事 和 有点 溃烂 怎么回事	__label__other
+三岁 宝宝 牙 花子 红肿 怎么办	__label__other
+口臭 可以 喝 矿泉水 吗 口 干 就 会 口臭 很 严重	__label__other
+27 岁长 了 一颗 龅牙 这是 什么 情况 啊	__label__other
+晚期 皮肤癌 会 传染 家人 吗	__label__tumor
+宫颈癌 放疗 期间 注意事项	__label__tumor
+睡觉 起来 嘴里 很 咸 又 感觉 又 点 回甜 嘴巴 里 很 腻	__label__other
+睡觉 起来 嘴里 很 咸 又 感觉 又 点 回甜 嘴巴 里 很 腻	__label__other
+牙齿 松动 反复 疼痛	__label__other
+熬夜 上 了 一宿网 早上 睡 了 会 醒来 发现 舌头 根有	__label__other
+现在 能 恢复 么 三颗 牙	__label__other
+右边 脸上 下 咬合 肌 的 位置 有点 肿是 怎么回事	__label__other
+女性 宫颈癌 的 早期 症状 是 什么	__label__tumor
+能 不能 通过 戴牙套 等 方法 矫正 横生 智齿	__label__other
+宫颈癌 放射治疗 期间 吃 什么 食物 好	__label__tumor
+皮肤癌 的 患者 在生活中 要 多 注意 什么	__label__tumor
+宫颈癌 的 检查 怎么 做	__label__tumor
+口臭 可以 喝 矿泉水 吗 口 干 就 会 口臭 很 严重	__label__other
+年轻人 会得 胃癌 吗	__label__tumor
+年轻人 得 胃癌 的 多 不	__label__tumor
+嘴唇 发干 发脓 伤口 疼 怎么办	__label__other
+口 干 嘴唇 干造 上牙堂 牙 周边 有 白色 泡 乳白色 舌	__label__other
+流血 了 需要 立刻 含 华素 片 吗	__label__other
+有 异味 我要 吃 点 什么 药	__label__other
+小儿 牙龈 肿 嘴里 有 异味 口中 异味 很 重 咋办	__label__other
+胃癌 什么 症状 有 哪些	__label__tumor
+皮肤癌 早期 一般 是 什么 症状	__label__tumor
+下巴 底下 一 按 就 疼 是 怎么回事	__label__other
+宫颈癌 存活率 高 吗	__label__tumor
+肝 血管瘤 危险 吗	__label__tumor
+肝癌 早期 症状 和 治疗 方法	__label__tumor
+宫颈癌 早期 都 有 哪些 症状 呢	__label__tumor
+请问 宫颈癌 筛查 是 什么 意思	__label__tumor
+今天上午 拔 了 牙 现在 疼 呢 没事 吧	__label__other
+多生牙 做手术 拆线 疼 吗 用 的 什么 线缝 的 有 的 说	__label__other
+医院 2018 年 02 月 08 日 16 : 01 ￼	__label__other
+虎牙 掉 了 一片 往里 看 隐约 看见 红色 的 流用 手能	__label__other
+宫颈癌 早期 症状 一般 有 哪些	__label__tumor
+刚补 好 的 牙齿 咬合 碰到 会 有 一点点 的 痛 是不是 填充物 刺激 到 的	__label__other
+早期 宫颈癌 患者 还 能 活多久	__label__tumor
+大面积 面部 撕裂 伤 就 老人 现在 的 情况 能 怎么 治疗 呢	__label__other
+睡 了 一觉 起来 右边 上下 嘴唇 都 不好 了 开始 是 两	__label__other
+没有 性生活 患 宫颈癌 的 几率 大 吗	__label__tumor
+长 了 棵 智齿 很痛 怎么办 痛 的 肉 都 肿 了	__label__other
+你好 糖类 抗原 CA199 : 1200 是 什么 指标	__label__tumor
+这样 的 牙齿 怎么 做好 要 多少 钱	__label__other
+宫颈癌 早期 可以 治好 吗	__label__tumor
+孕早期 牙痛 怎么 缓解 有 什么 办法 止痛 吗	__label__other
+早期 宫颈癌 术后 能 活多久	__label__tumor
+颧骨 和 耳朵 连接 的 地方 起 了 一个 疙瘩 是不是 淋巴结 肿大 牙龈 出血	__label__other
+发炎 挺 严重 的 有 脓包 发炎 中拔 了 牙 有事吗	__label__other
+皮肤癌 的 护理 诊断	__label__tumor
+肝癌 吃 什么 食物 好 呢	__label__tumor
+一 开始 去年 四月份 只是 不能 咬 硬 的 东西 张口 不	__label__other
+患上 皮肤癌 该 怎么 治疗	__label__tumor
+是不是 胃癌	__label__tumor
+反复 口腔溃疡 应该 怎么办	__label__other
