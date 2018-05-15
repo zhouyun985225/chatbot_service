@@ -6,15 +6,14 @@ import time
 
 from QA_V4 import console
 from console import Answer
+from mysql_dao import mysql_dao
+
+sql_dao = mysql_dao()
 
 robot = werobot.WeRoBot(enable_session=False,
                         token='yelin1597532',
-                        # test account
-                        # APP_ID='wx7a4560f95a2cee84',
-                        # APP_SECRET='97ee7e0e015eb4c5b9b8eaf2c7f561b6')
                         APP_ID='wx13fe1f4594768ce8',
                         APP_SECRET='1ac3c38ec9be75a1216bd3502f89bb50')
-# Answerclass = Answer()
 client = robot.client
 
 @robot.handler
@@ -25,6 +24,8 @@ def answerQuestion(message):
     print("Target is : ",target)
     input = message.content
     answer = Answerclass.getanswer(input)
+
+    sql_dao.insert_dialog(source,input,answer)
     print("Input Q : ",input)
     print("Answer A is : ",answer)
     print("Answer Type is : ",type(answer))

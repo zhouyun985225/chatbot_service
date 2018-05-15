@@ -1,6 +1,7 @@
+Flask
+mysql-connector-python
 werobot
 jieba
 polling
 scipy
 sklearn
-django

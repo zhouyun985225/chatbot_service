@@ -17,7 +17,7 @@ class Answer:
     def __init__(self):
         self.confidence_cutoff = 0.4
         # self.IR_url = 'http://161.92.141.209:9000/android?q='
-        self.IR_url = 'http://trueview.natappvip.cc/android?q='
+        self.IR_url = 'http://106.15.162.17:9000/android?q='
         self.commonInformation = {
             'location': None,
             'hospital': None,
