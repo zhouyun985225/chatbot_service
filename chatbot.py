@@ -9,6 +9,7 @@ from console import Answer
 from mysql_dao import mysql_dao
 
 sql_dao = mysql_dao()
+Answerclass = Answer()
 
 robot = werobot.WeRoBot(enable_session=False,
                         token='yelin1597532',

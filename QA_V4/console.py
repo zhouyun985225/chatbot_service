@@ -17,7 +17,8 @@ class Answer:
     def __init__(self):
         self.confidence_cutoff = 0.4
         # self.IR_url = 'http://161.92.141.209:9000/android?q='
-        self.IR_url = 'http://106.15.162.17:9000/android?q='
+        self.IR_url = 'http://'+os.getenv('IR_SERVICE_IP','106.15.162.17')+':'+os.getenv('IR_SERVICE_PORT','9000')+'/android?q='
+        print (self.IR_url)
         self.commonInformation = {
             'location': None,
             'hospital': None,
