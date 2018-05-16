@@ -79,13 +79,13 @@ class Answer:
     def getanswer(self, question):
         weatherAnswer, commonInformation = weatherJudge.answerWeather(question, self.commonInformation, self.cityList)
         if weatherAnswer != None:
-            return weatherAnswer
+            return weatherAnswer,question
         else:
             intention, scorevesus = NB_classifier.classifier(question)
             # intention = SKL_clf.predict(self.question, self.clf_rlr)
             # print (intention)
             if intention == 'other':
-                return 'Call chat buddy'
+                return 'Call chat buddy',question
             else:
                 # body = {
                 #     "question": question,
@@ -101,7 +101,7 @@ class Answer:
                 print (r)
 
                 if r == {}:
-                    return 'Professionnal answer required (No answer)'
+                    return 'Professionnal answer required (No answer)',question
                 else:
                     result = r['result'][0]
                 answer = result['answer']
@@ -118,10 +118,10 @@ class Answer:
                     elif validationScore == 1:
                         answer = answer
                     else:
-                        return 'Professionnal answer required (validation failed)'
-                    return answer
+                        return 'Professionnal answer required (validation failed)', original_question
+                    return answer,original_question
                 else:
-                    return 'Professionnal answer required (Low confidence score)'
+                    return 'Professionnal answer required (Low confidence score)',original_question
 
 
     def validifyAnswer(self, question, answer):
@@ -179,13 +179,14 @@ def main():
 
 
 if __name__ == '__main__':
-    # Q = '放疗导致的味觉迟钝怎样处理?'
+    Q = '放疗导致的味觉迟钝怎样处理?'
     # Q = '胃癌吃饭应该注意什么？'
-    Q = '在哪里'
-    # # Q = '上海明天天气怎么样？'
+    # Q = '在哪里'
+    # Q = '上海明天天气怎么样？'
     # # Q = '这是鼻息肉吗有东西刺激到鼻子就打喷嚏'
     # usrinfo = {}
     Answerclass = Answer()
-    answer = Answerclass.getanswer(Q)
+    answer, question = Answerclass.getanswer(Q)
     print(answer)
+    print(question)
     # main()

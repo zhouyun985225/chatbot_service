@@ -23,11 +23,11 @@ def answerQuestion(message):
     target = message.target
     print("Source is : ",source)
     print("Target is : ",target)
-    input = message.content
-    answer = Answerclass.getanswer(input)
+    question = message.content
+    answer, coreference_answer = Answerclass.getanswer(question)
 
-    sql_dao.insert_dialog(source,input,answer)
-    print("Input Q : ",input)
+    sql_dao.insert_dialog(source,question,coreference_answer,answer)
+    print("Input Q : ",question)
     print("Answer A is : ",answer)
     print("Answer Type is : ",type(answer))
     return (answer)
