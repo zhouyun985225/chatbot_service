@@ -3,6 +3,7 @@ import werobot
 import json
 import requests
 import time
+import os
 
 from QA_V4 import console
 from console import Answer
@@ -12,9 +13,9 @@ sql_dao = mysql_dao()
 Answerclass = Answer()
 
 robot = werobot.WeRoBot(enable_session=False,
-                        token='yelin1597532',
-                        APP_ID='wx13fe1f4594768ce8',
-                        APP_SECRET='1ac3c38ec9be75a1216bd3502f89bb50')
+                        token=os.getenv('WECHAT_TOKEN','trueai'),
+                        APP_ID=os.getenv('WECHAT_APP_ID','wx63efb6f9efadb72b'),
+                        APP_SECRET=os.getenv('WECHAT_APP_SECRET','45a4a1cdd8bd13e44e9ce26e763d931e'))
 client = robot.client
 
 @robot.handler
