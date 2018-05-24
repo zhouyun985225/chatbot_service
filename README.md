@@ -1,20 +1,13 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
-
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
-
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+#docker环境变量设置
+## CHATBOT\_LISTENING\_PORT
+监听端口设置，应设置为容器暴露的端口,默认8082
+## IR\_SERVICE\_IP
+IR Service的ip地址,默认106.15.162.17
+## IR\_SERVICE\_PORT
+IR Service的端口,默认9000
+## WECHAT\_TOKEN
+微信公众号的Token,默认trueai
+## WECHAT\_APP\_ID
+微信公众号的App ID,默认wx63efb6f9efadb72b
+## WECHAT\_APP_SECRET
+微信公众号的App Secret,默认45a4a1cdd8bd13e44e9ce26e763d931e
