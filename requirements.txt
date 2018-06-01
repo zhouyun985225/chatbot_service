@@ -4,4 +4,5 @@ werobot
 jieba
 polling
 scipy
+redis
 sklearn

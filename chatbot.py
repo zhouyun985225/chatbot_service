@@ -5,7 +5,7 @@ import requests
 import time
 import os
 
-from QA_V4 import console
+from QA_V5 import console
 from console import Answer
 from mysql_dao import mysql_dao
 

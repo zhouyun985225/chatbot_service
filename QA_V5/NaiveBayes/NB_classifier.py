@@ -119,7 +119,12 @@ class NaiveBayes:
             class_score[i] = log_class_conditional.transpose().dot(text_vec)[0] + np.log(self.priors[i,0])
         transform_score = [(100+score) for score in class_score]
         score_rate = [score/sum(transform_score) for score in transform_score]
-        return self.class_labels[class_score.index(max(class_score))], score_rate
+        if score_rate[0] > 0.5:
+            preindex = 0
+        else:
+            preindex = 1
+        return self.class_labels[preindex], score_rate
+        # return self.class_labels[class_score.index(max(class_score))], score_rate
 
 
     def __createVectorRepresentation(self, tokens_list):
