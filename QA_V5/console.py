@@ -55,7 +55,8 @@ class Answer:
         # self.IR_url = 'http://161.92.141.209:9000/android?q='
         # self.IR_url = 'http://127.0.0.1:9000/android?q='
         # self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='
-        self.IR_url = os.getenv('IR_SERVICE_PROTOCOL','https')+'://'+os.getenv('IR_SERVICE_IP','trueview.natappvip.cc')+':'+os.getenv('IR_SERVICE_PORT','443')+'/android?q='
+        # self.IR_url = os.getenv('IR_SERVICE_PROTOCOL','https')+'://'+os.getenv('IR_SERVICE_IP','trueview.natappvip.cc')+':'+os.getenv('IR_SERVICE_PORT','443')+'/android?q='
+        self.IR_url = os.getenv('IR_SERVICE_PROTOCOL','http')+'://'+os.getenv('IR_SERVICE_IP','106.15.162.17')+':'+os.getenv('IR_SERVICE_PORT','9000')+'/android?q='
         self.commonInformation = {
             'location': None,
             'hospital': None,
@@ -112,20 +113,49 @@ class Answer:
         rlr_model_path = os.path.join(demo.skl_path, 'train_model.rlr')
         self.clf_rlr = joblib.load(rlr_model_path)
 
-    # def getanswer(question, usrinfo):
+    def getIntention(self, question):
+        intention, scorevesus = NB_classifier.classifier(question)
+        return intention, scorevesus
+
+    def getOtherAnswer(self, question):
+        rep = auto_reply.reply(question) + '[非肿瘤相关问题,回答仅供参考]'
+        return rep
+
+    def getIRAnswer(self, question):
+        header = {'content-type': 'application/json'}
+        url = self.IR_url + question
+
+        r = requests.get(url, headers=header).json()
+        print (r)
+        if r == {}:
+            return '此问题请咨询专业人士[肿瘤相关问题, No Replay]', question, None
+        else:
+            result = r['result'][0]
+        answer = result['answer']
+        original_question = result['question']
+        confidence = result['score']
+
+        if confidence > self.confidence_cutoff:
+            rep = answer + '[肿瘤相关问题,回答仅供参考]'
+            return rep, original_question, result
+        else:
+            return '此问题请咨询专业人士[肿瘤相关问题, Low confidence score]',original_question, result
+
+            
     def getanswer(self, question):
+        
         # weatherAnswer, commonInformation = weatherJudge.answerWeather(question, self.commonInformation, self.cityList)
         # if weatherAnswer != None:
         #    return weatherAnswer
         # else:
         intention, scorevesus = NB_classifier.classifier(question)
-            # intention = SKL_clf.predict(self.question, self.clf_rlr)
+         # intention = SKL_clf.predict(self.question, self.clf_rlr)
         # print (intention)
         if intention == 'other':
             # return 'Call chat buddy'   # to tuling Chatbot
             # print('flag')
             rep = auto_reply.reply(question) + '[非肿瘤相关问题,回答仅供参考]'
-            return rep, question
+            return rep, question, intention
         else:
             # body = {
             #     "question": question,
@@ -142,7 +172,7 @@ class Answer:
 
             if r == {}:
                 # return 'Professionnal answer required (No answer)'  # manual service required
-                return '此问题请咨询专业人士[肿瘤相关问题, No Replay]', question
+                return '此问题请咨询专业人士[肿瘤相关问题, No Replay]', question, intention
             else:
                 result = r['result'][0]
             answer = result['answer']
@@ -163,9 +193,9 @@ class Answer:
                 # else:
                     # return 'Professionnal answer required (validation failed)'
                 #    return '此问题请咨询专业人士(Validation failed)'
-                return rep, original_question
+                return rep, original_question, intention
             else:
-                return '此问题请咨询专业人士[肿瘤相关问题, Low confidence score]',original_question
+                return '此问题请咨询专业人士[肿瘤相关问题, Low confidence score]',original_question, intention
                 # return 'Professionnal answer required (Low confidence score)'
 
 

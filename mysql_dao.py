@@ -32,3 +32,16 @@ class mysql_dao:
         cursor.close();
         cnx.close();
         return dialog_id[0];
+
+    def insert_ai_procedure(self, question, intention, ir_answer, comprehen_answer):
+        if question is None or intention is None or comprehen_answer is None:
+            raise ValueError('some param is none')
+        cnx = mysql.connector.connect(user='cdidev', password='Philips@123',host='rm-uf6e87o934505d1162o.mysql.rds.aliyuncs.com',database='trueview_chatbot')
+        cursor = cnx.cursor()
+        cursor.callproc("insert_ai_procedure",(None,question, intention, ir_answer, None, None, comprehen_answer, None, 0, None))
+        cursor.execute("SELECT LAST_INSERT_ID();")
+        ai_procedure_id=cursor.fetchone()
+        cnx.commit()
+        cursor.close();
+        cnx.close();
+        return ai_procedure_id[0]
