@@ -32,8 +32,3 @@ def answerQuestion(message):
     print("Answer A is : ",answer)
     print("Answer Type is : ",type(answer))
     return (answer)
-
-# 让服务器监听在 0.0.0.0:8082
-# robot.config['HOST'] = '0.0.0.0'
-# robot.config['PORT'] = 8082
-# robot.run()
