@@ -27,3 +27,7 @@ IR Service的端口,默认443
 ## WECHAT\_APP_SECRET
 
 微信公众号的App Secret,默认45a4a1cdd8bd13e44e9ce26e763d931e
+
+## ENVIRONMENT
+
+运行环境，可选 development 和 production, 默认 development

@@ -16,4 +16,7 @@ def hello():
     return html.format(name=os.getenv("NAME", "world"))
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=os.getenv("CHATBOT_LISTENING_PORT","8082"))
+    if os.getenv('ENVIRONMENT','development') == 'development':
+        app.run(host='0.0.0.0', port=os.getenv("CHATBOT_LISTENING_PORT","80"))
+    else:
+        app.run(host='0.0.0.0', port=os.getenv("CHATBOT_LISTENING_PORT","8082"))
