@@ -17,46 +17,20 @@ import requests
 import traceback
 
 
-apiKey= '302e70feb15347a9a497dc1d5d405bec'
-apiUrl= 'http://www.tuling123.com/openapi/api'
 confidence_threshold=0.66
-
-class TulingAutoReply:
-    def __init__(self, tuling_key, tuling_url):
-        self.key = tuling_key
-        self.url = tuling_url
-
-    def reply(self, unicode_str):
-        body = {'key': self.key, 'info': unicode_str.encode('utf-8')}
-        r = requests.post(self.url, data=body)
-        r.encoding = 'utf-8'
-        resp = r.text
-        if resp is None or len(resp) == 0:
-            return None
-        try:
-            js = json.loads(resp)
-            if js['code'] == 100000:
-                # return js['text'].replace('', 'n')
-                return js['text']
-            elif js['code'] == 200000:
-                return js['url']
-            else:
-                return None
-        except Exception:
-            traceback.print_exc()
-            return None
-
-auto_reply = TulingAutoReply(apiKey, apiUrl) # key和url从图灵机器人网站上申请得到
-
+otherTopic_reply='此问题请咨询专业人士[非肿瘤相关问题]'
+tumorTopic_noAnswer_reply='此问题请咨询专业人士[No Replay]'
+tumorTopic_lowScore_reply='此问题请咨询专业人士[Low confidence score]'
+tumorTopic_highScore_reply='[肿瘤相关问题, 回答仅供参考]'
 
 class Answer:
     def __init__(self):
         self.confidence_cutoff = confidence_threshold
         # self.IR_url = 'http://161.92.141.209:9000/android?q='
-        # self.IR_url = 'http://127.0.0.1:9000/android?q='
+        self.IR_url = 'http://127.0.0.1:9000/android?q='
         # self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='
-        # self.IR_url = os.getenv('IR_SERVICE_PROTOCOL','https')+'://'+os.getenv('IR_SERVICE_IP','trueview.natappvip.cc')+':'+os.getenv('IR_SERVICE_PORT','443')+'/android?q='
-        self.IR_url = os.getenv('IR_SERVICE_PROTOCOL','http')+'://'+os.getenv('IR_SERVICE_IP','106.15.162.17')+':'+os.getenv('IR_SERVICE_PORT','9000')+'/android?q='
+        # self.IR_url = 'https://trueview.natappvip.cc/android?q='
+        self.IR_url = os.getenv('IR_SERVICE_URL','https://trueview.natappvip.cc/android?q=')
         self.commonInformation = {
             'location': None,
             'hospital': None,
@@ -118,7 +92,7 @@ class Answer:
         return intention, scorevesus
 
     def getOtherAnswer(self, question):
-        rep = auto_reply.reply(question) + '[非肿瘤相关问题,回答仅供参考]'
+        rep = otherTopic_reply #'此问题请咨询专业人士[非肿瘤相关问题]'
         return rep
 
     def getIRAnswer(self, question):
@@ -128,7 +102,7 @@ class Answer:
         r = requests.get(url, headers=header).json()
         print (r)
         if r == {}:
-            return '此问题请咨询专业人士[肿瘤相关问题, No Replay]', question, None
+            return tumorTopic_noAnswer_reply # '此问题请咨询专业人士[No Replay]'
         else:
             result = r['result'][0]
         answer = result['answer']
@@ -136,26 +110,23 @@ class Answer:
         confidence = result['score']
 
         if confidence > self.confidence_cutoff:
-            rep = answer + '[肿瘤相关问题,回答仅供参考]'
+            rep = answer + tumorTopic_highScore_reply
             return rep, original_question, result
         else:
-            return '此问题请咨询专业人士[肿瘤相关问题, Low confidence score]',original_question, result
+            return tumorTopic_lowScore_reply, original_question, result
 
-            
     def getanswer(self, question):
-        
         # weatherAnswer, commonInformation = weatherJudge.answerWeather(question, self.commonInformation, self.cityList)
         # if weatherAnswer != None:
         #    return weatherAnswer
-        # else:
+    # else:
         intention, scorevesus = NB_classifier.classifier(question)
-         # intention = SKL_clf.predict(self.question, self.clf_rlr)
+        # intention = SKL_clf.predict(self.question, self.clf_rlr)
         # print (intention)
         if intention == 'other':
             # return 'Call chat buddy'   # to tuling Chatbot
-            # print('flag')
-            rep = auto_reply.reply(question) + '[非肿瘤相关问题,回答仅供参考]'
-            return rep, question, intention
+            rep = otherTopic_reply #'此问题请咨询专业人士[非肿瘤相关问题]'
+            return rep
         else:
             # body = {
             #     "question": question,
@@ -172,7 +143,7 @@ class Answer:
 
             if r == {}:
                 # return 'Professionnal answer required (No answer)'  # manual service required
-                return '此问题请咨询专业人士[肿瘤相关问题, No Replay]', question, intention
+                return tumorTopic_noAnswer_reply # '此问题请咨询专业人士[No Replay]'
             else:
                 result = r['result'][0]
             answer = result['answer']
@@ -182,20 +153,20 @@ class Answer:
             # Todo: Compare answers from different sources
 
             if confidence > self.confidence_cutoff:
-                rep = answer + '[肿瘤相关问题,回答仅供参考]'
                 # validationScore, validList = self.validifyAnswer(question,original_question)
                 # validationScore, validList = self.validifyAnswer(question,answer)
                 # if validationScore == 0.5:
-                    # answer = '{answer}【回答仅供参考】'.format(answer = answer)
+                # rep = answer + '[肿瘤相关问题, 回答仅供参考]'
+                rep = answer + tumorTopic_highScore_reply
                 #    answer = answer
-                #elif validationScore == 1:
+                # elif validationScore == 1:
                 #    answer = answer
-                # else:
-                    # return 'Professionnal answer required (validation failed)'
+                #else:
+                #    # return 'Professionnal answer required (validation failed)'
                 #    return '此问题请咨询专业人士(Validation failed)'
-                return rep, original_question, intention
+                return rep
             else:
-                return '此问题请咨询专业人士[肿瘤相关问题, Low confidence score]',original_question, intention
+                return tumorTopic_lowScore_reply # '此问题请咨询专业人士[Low confidence score]'
                 # return 'Professionnal answer required (Low confidence score)'
 
 
@@ -254,14 +225,15 @@ def main():
 
 
 if __name__ == '__main__':
-    Q = '放疗导致的味觉迟钝怎样处理?'
-    # Q = '胃癌吃饭应该注意什么？'
+    # Q = '放疗导致的味觉迟钝怎样处理?'
+    Q = '胃癌吃饭应该注意什么？'
     # Q = '肿瘤克星精准放疗'
     # Q = '在哪里'
     # Q = '2018年世界杯足球赛'
     # Q = '你好 你是谁'
-     # Q = '上海明天天气怎么样？'
+    # Q = '上海明天天气怎么样？'
     # Q = '这是鼻息肉吗有东西刺激到鼻子就打喷嚏'
+    # Q = '放疗'
     # usrinfo = {}
     Answerclass = Answer()
     answer = Answerclass.getanswer(Q)

@@ -4,29 +4,21 @@
 
 监听端口设置，应设置为容器暴露的端口,默认8082
 
-## IR\_SERVICE\_PROTOCOL
+## IR\_SERVICE\_URL
 
-IR Service的协议，默认https
-
-## IR\_SERVICE\_IP
-
-IR Service的ip地址,默认trueview.natappvip.cc
-
-## IR\_SERVICE\_PORT
-
-IR Service的端口,默认443
+IR Service的地址，默认 https://trueview.natappvip.cc/android?q=
 
 ## WECHAT\_TOKEN
 
-微信公众号的Token,默认trueai
+微信公众号的Token,默认 trueai
 
 ## WECHAT\_APP\_ID
 
-微信公众号的App ID,默认wx63efb6f9efadb72b
+微信公众号的App ID,默认 wx63efb6f9efadb72b
 
 ## WECHAT\_APP_SECRET
 
-微信公众号的App Secret,默认45a4a1cdd8bd13e44e9ce26e763d931e
+微信公众号的App Secret,默认 45a4a1cdd8bd13e44e9ce26e763d931e
 
 ## ENVIRONMENT
 
