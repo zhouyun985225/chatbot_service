@@ -16,21 +16,53 @@ import json
 import requests
 import traceback
 
+apiKey = os.getenv('TULING_KEY', '302e70feb15347a9a497dc1d5d405bec')
+apiUrl = os.getenv('TULING_URL', 'http://www.tuling123.com/openapi/api')
+confidence_threshold = 0.699
+otherTopic_reply = '此问题请咨询专业人士[非肿瘤相关问题]'
+tumorTopic_noAnswer_reply = '我在「16病区放化疗宣教手冊」中沒有查到您的问题，请咨询主治医生。'
+tumorTopic_lowScore_reply = '我在「16病区放化疗宣教手冊」中沒有查到您的问题，请咨询主治医生。'
+tumorTopic_highScore_reply = '[肿瘤相关问题, 回答仅供参考]'
 
-confidence_threshold=0.66
-otherTopic_reply='此问题请咨询专业人士[非肿瘤相关问题]'
-tumorTopic_noAnswer_reply='此问题请咨询专业人士[No Replay]'
-tumorTopic_lowScore_reply='此问题请咨询专业人士[Low confidence score]'
-tumorTopic_highScore_reply='[肿瘤相关问题, 回答仅供参考]'
+
+class TulingAutoReply:
+    def __init__(self, tuling_key, tuling_url):
+        self.key = tuling_key
+        self.url = tuling_url
+
+    def reply(self, unicode_str):
+        body = {'key': self.key, 'info': unicode_str.encode('utf-8')}
+        r = requests.post(self.url, data=body)
+        r.encoding = 'utf-8'
+        resp = r.text
+        if resp is None or len(resp) == 0:
+            return None
+        try:
+            js = json.loads(resp)
+            if js['code'] == 100000:
+                # return js['text'].replace('', 'n')
+                return js['text']
+            elif js['code'] == 200000:
+                return js['url']
+            else:
+                return None
+        except Exception:
+            traceback.print_exc()
+            return None
+
+
+auto_reply = TulingAutoReply(apiKey, apiUrl)  # key和url从图灵机器人网站上申请得到
+
 
 class Answer:
     def __init__(self):
         self.confidence_cutoff = confidence_threshold
         # self.IR_url = 'http://161.92.141.209:9000/android?q='
-        self.IR_url = 'http://127.0.0.1:9000/android?q='
+        # self.IR_url = 'http://127.0.0.1:9000/android?q='
         # self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='
         # self.IR_url = 'https://trueview.natappvip.cc/android?q='
-        self.IR_url = os.getenv('IR_SERVICE_URL','https://trueview.natappvip.cc/android?q=')
+        self.IR_url = os.getenv(
+            'IR_SERVICE_URL', 'https://trueview.natappvip.cc/android?q=')
         self.commonInformation = {
             'location': None,
             'hospital': None,
@@ -92,17 +124,22 @@ class Answer:
         return intention, scorevesus
 
     def getOtherAnswer(self, question):
-        rep = otherTopic_reply #'此问题请咨询专业人士[非肿瘤相关问题]'
-        return rep
+        if os.getenv('TULING_ENABLE', 'True') == 'True':
+            rep = auto_reply.reply(question)# + '[非肿瘤相关问题,回答仅供参考]'
+            return rep
+        else:
+            rep = otherTopic_reply  # '此问题请咨询专业人士[非肿瘤相关问题]'
+            return rep
 
     def getIRAnswer(self, question):
         header = {'content-type': 'application/json'}
         url = self.IR_url + question
 
         r = requests.get(url, headers=header).json()
-        print (r)
+        print(r)
         if r == {}:
-            return tumorTopic_noAnswer_reply # '此问题请咨询专业人士[No Replay]'
+            # '此问题请咨询专业人士[No Replay]'
+            return tumorTopic_noAnswer_reply, question, None
         else:
             result = r['result'][0]
         answer = result['answer']
@@ -110,7 +147,7 @@ class Answer:
         confidence = result['score']
 
         if confidence > self.confidence_cutoff:
-            rep = answer + tumorTopic_highScore_reply
+            rep = answer
             return rep, original_question, result
         else:
             return tumorTopic_lowScore_reply, original_question, result
@@ -119,13 +156,13 @@ class Answer:
         # weatherAnswer, commonInformation = weatherJudge.answerWeather(question, self.commonInformation, self.cityList)
         # if weatherAnswer != None:
         #    return weatherAnswer
-    # else:
+        # else:
         intention, scorevesus = NB_classifier.classifier(question)
         # intention = SKL_clf.predict(self.question, self.clf_rlr)
         # print (intention)
         if intention == 'other':
             # return 'Call chat buddy'   # to tuling Chatbot
-            rep = otherTopic_reply #'此问题请咨询专业人士[非肿瘤相关问题]'
+            rep = otherTopic_reply  # '此问题请咨询专业人士[非肿瘤相关问题]'
             return rep
         else:
             # body = {
@@ -139,11 +176,11 @@ class Answer:
             # r = requests.get(url, headers=header).text
 
             r = requests.get(url, headers=header).json()
-            print (r)
+            print(r)
 
             if r == {}:
                 # return 'Professionnal answer required (No answer)'  # manual service required
-                return tumorTopic_noAnswer_reply # '此问题请咨询专业人士[No Replay]'
+                return tumorTopic_noAnswer_reply  # '此问题请咨询专业人士[No Replay]'
             else:
                 result = r['result'][0]
             answer = result['answer']
@@ -157,18 +194,18 @@ class Answer:
                 # validationScore, validList = self.validifyAnswer(question,answer)
                 # if validationScore == 0.5:
                 # rep = answer + '[肿瘤相关问题, 回答仅供参考]'
-                rep = answer + tumorTopic_highScore_reply
+                rep = answer
                 #    answer = answer
                 # elif validationScore == 1:
                 #    answer = answer
-                #else:
+                # else:
                 #    # return 'Professionnal answer required (validation failed)'
                 #    return '此问题请咨询专业人士(Validation failed)'
                 return rep
             else:
-                return tumorTopic_lowScore_reply # '此问题请咨询专业人士[Low confidence score]'
+                # '此问题请咨询专业人士[Low confidence score]'
+                return tumorTopic_lowScore_reply
                 # return 'Professionnal answer required (Low confidence score)'
-
 
     def validifyAnswer(self, question, answer):
         pattern = r'[?？!！，,。、~\-@#￥%……&*\s+\.\\/_$^*\(\+\"\'\)\]+\|\[+【】“”（）]+|[0-9]+'
@@ -182,7 +219,7 @@ class Answer:
             scores.remove(max_score)
             secondMax_score = max(scores)
             for key, val in featureTfidf.items():
-            # for key, val in vector.items():
+                # for key, val in vector.items():
                 if float(val) == max_score:
                     if len(feature_word) == 0:
                         feature_word.append(key)
@@ -206,6 +243,7 @@ class Answer:
                 validList.append(feature)
         return validationScore, validList
 
+
 def main():
     while True:
         usrinfo = {}
@@ -218,7 +256,7 @@ def main():
                 step=0.1)
             if question:
                 answer = Answerclass.getanswer(question)
-                print (answer)
+                print(answer)
         except:
             raise
             pass

@@ -54,12 +54,12 @@ def handle_question_from_user(userID, question):
         return ir_answer
 
 
-@robot.handler
-def answerQuestion(message):
+@robot.text
+def answerQuestion(message):  
     source = message.source
     target = message.target
     question = message.content
-
+    
     answer = handle_question_from_user(source, question)
     return answer
 

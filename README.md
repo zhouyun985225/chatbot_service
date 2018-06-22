@@ -6,7 +6,7 @@
 
 ## IR\_SERVICE\_URL
 
-IR Service的地址，默认 https://trueview.natappvip.cc/android?q=
+IR Service的地址，默认 <https://trueview.natappvip.cc/android?q=>
 
 ## WECHAT\_TOKEN
 
@@ -23,3 +23,15 @@ IR Service的地址，默认 https://trueview.natappvip.cc/android?q=
 ## ENVIRONMENT
 
 运行环境，可选 development 和 production, 默认 development
+
+## TULING\_ENABLE
+
+是否启用图灵api, 默认 True
+
+## TULING\_KEY
+
+图灵api的AppKey, 默认 302e70feb15347a9a497dc1d5d405bec
+
+## TULING\_URL
+
+图灵api的URL, 默认 <http://www.tuling123.com/openapi/api>
