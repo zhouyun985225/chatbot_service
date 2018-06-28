@@ -1,16 +1,6 @@
-# -*- coding: utf-8 -*-
+from tools import *
 import mysql.connector
 import os
-
-def singleton(cls, *args, **kw):
-    instances = {}
-
-    def _singleton():
-        if cls not in instances:
-            instances[cls] = cls(*args, **kw)
-        return instances[cls]
-    return _singleton
-
 
 @singleton
 class mysql_dao:
