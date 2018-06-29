@@ -2,6 +2,7 @@ from flask import Flask
 import os
 import socket
 from chatbot import robot
+from environments import *
 from werobot.contrib.flask import make_view
 
 app = Flask(__name__)
@@ -16,7 +17,4 @@ def hello():
     return html.format(name=os.getenv("NAME", "world"))
 
 if __name__ == "__main__":
-    if os.getenv('ENVIRONMENT','development') == 'development':
-        app.run(host='0.0.0.0', port=os.getenv("CHATBOT_LISTENING_PORT","80"))
-    else:
-        app.run(host='0.0.0.0', port=os.getenv("CHATBOT_LISTENING_PORT","8082"))
+    app.run(host='0.0.0.0', port=CHATBOT_LISTENING_PORT)

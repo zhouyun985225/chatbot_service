@@ -1,5 +1,6 @@
 # coding=utf8
 from tools import *
+from environments import *
 import json
 import redis
 import os
@@ -7,13 +8,12 @@ import os
 session_id_manage_key = 'TRUEVIEW_CHATBOT_SESSION_ID'
 session_id_key_temp = 'TRUEVIEW_CHATBOT_SESSION_ID_{0}_{1}'
 session_key_temp = 'TRUEVIEW_CHATBOT_SESSION_{0}'
-expire_time = int(os.getenv('REDIS_EXPIRE_TIME', '60'))
 
 @singleton
 class redis_dao:
     def get_connection(self):
         r = None
-        if os.getenv('ENVIRONMENT','development') == 'development':
+        if ENVIRONMENT == 'development':
             r = redis.Redis(host='47.106.93.189', port=6379, password='philips123', charset='utf-8')
         else:
             r = redis.Redis(host='r-uf6de3a867308ef4.redis.rds.aliyuncs.com', port=6379, password='Philips123', charset='utf-8')
@@ -37,7 +37,7 @@ class redis_dao:
             else:
                 # simple number get from redis will be treated as bytes
                 session_id = session_id.decode('utf-8')
-            pipe.expire(session_id_key, expire_time)
+            pipe.expire(session_id_key, REDIS_EXPIRE_TIME)
             pipe.execute()
             return session_key_temp.format(session_id)
         
@@ -59,7 +59,7 @@ class redis_dao:
             lastDialogNumber = 0
             if len(dialogs) > 0:
                 lastDialogNumber = dialogs[len(dialogs)-1]['dialog_number']
-            if len(dialogs) >= 5:
+            if len(dialogs) >= TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT:
                 del dialogs[0]
             insertObject = {'dialog_number': lastDialogNumber+1, 'question':question, 'coreference':coreference,'intention':intention,'answer':answer}
             dialogs.append(insertObject)
@@ -67,8 +67,16 @@ class redis_dao:
             string = json.dumps(data, ensure_ascii=False)
             pipe.multi()
             pipe.set(session_id, string)
-            pipe.expire(session_id, expire_time)
+            pipe.expire(session_id, REDIS_EXPIRE_TIME)
             pipe.execute()
+
+    def get_cached_data(session_id=None):
+        r = self.get_connection()
+        dataStr = r.get(session_id)
+        data = {}
+        if dataStr != None:
+            data = json.loads(dataStr,encoding='utf-8')
+        return data
 
 if __name__ == "__main__":
     redisDAO=redis_dao()

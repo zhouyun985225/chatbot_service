@@ -11,13 +11,14 @@ from SKL import feature_selection
 import datetime
 import polling
 from sklearn.externals import joblib
+from environments import *
 
 import json
 import requests
 import traceback
 
-apiKey = os.getenv('TULING_KEY', '302e70feb15347a9a497dc1d5d405bec')
-apiUrl = os.getenv('TULING_URL', 'http://www.tuling123.com/openapi/api')
+apiKey = TULING_KEY
+apiUrl = TULING_URL
 confidence_threshold = 0.699
 otherTopic_reply = '此问题请咨询专业人士[非肿瘤相关问题]'
 tumorTopic_noAnswer_reply = '我在「16病区放化疗宣教手冊」中沒有查到您的问题，请咨询主治医生。'
@@ -61,8 +62,7 @@ class Answer:
         # self.IR_url = 'http://127.0.0.1:9000/android?q='
         # self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='
         # self.IR_url = 'https://trueview.natappvip.cc/android?q='
-        self.IR_url = os.getenv(
-            'IR_SERVICE_URL', 'https://trueview.natappvip.cc/android?q=')
+        self.IR_url = IR_SERVICE_URL
         self.commonInformation = {
             'location': None,
             'hospital': None,
@@ -124,7 +124,7 @@ class Answer:
         return intention, scorevesus
 
     def getOtherAnswer(self, question):
-        if os.getenv('TULING_ENABLE', 'True') == 'True':
+        if TULING_ENABLE == 'True':
             rep = auto_reply.reply(question)# + '[非肿瘤相关问题,回答仅供参考]'
             return rep
         else:
