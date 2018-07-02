@@ -7,16 +7,11 @@ import os
 
 session_id_manage_key = 'TRUEVIEW_CHATBOT_SESSION_ID'
 session_id_key_temp = 'TRUEVIEW_CHATBOT_SESSION_ID_{0}_{1}'
-session_key_temp = 'TRUEVIEW_CHATBOT_SESSION_{0}'
 
 @singleton
 class redis_dao:
     def get_connection(self):
-        r = None
-        if ENVIRONMENT == 'development':
-            r = redis.Redis(host='47.106.93.189', port=6379, password='philips123', charset='utf-8')
-        else:
-            r = redis.Redis(host='r-uf6de3a867308ef4.redis.rds.aliyuncs.com', port=6379, password='Philips123', charset='utf-8')
+        r = redis.Redis(host=REDIS_HOST, port=REDIS_PORT, password=REDIS_PASSWORD, charset='utf-8')
         return r
 
     def generate_new_session_id(self):
@@ -39,7 +34,7 @@ class redis_dao:
                 session_id = session_id.decode('utf-8')
             pipe.expire(session_id_key, REDIS_EXPIRE_TIME)
             pipe.execute()
-            return session_key_temp.format(session_id)
+            return session_id
         
     def cache_data(self, session_id=None, user_id=None, service_id=None, question=None, coreference=None, intention=None, answer=None):
         if coreference == None:
@@ -69,6 +64,7 @@ class redis_dao:
             pipe.set(session_id, string)
             pipe.expire(session_id, REDIS_EXPIRE_TIME)
             pipe.execute()
+            return session_id
 
     def get_cached_data(session_id=None):
         r = self.get_connection()
