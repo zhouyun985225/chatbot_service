@@ -66,7 +66,7 @@ class redis_dao:
             pipe.execute()
             return session_id
 
-    def get_cached_data(session_id=None):
+    def get_cached_data(self, session_id=None):
         r = self.get_connection()
         dataStr = r.get(session_id)
         data = {}

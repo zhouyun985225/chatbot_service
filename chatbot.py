@@ -34,6 +34,7 @@ def log_ai_procedure(session_id, question, intention, ir_answer, comprehen_answe
 
 def handle_question_from_user(userID, serviceID, question):
     session_id = cache_dao.get_session_id(userID, serviceID)
+    print ('session id', session_id)
     intention, scorevesus = Answerclass.getIntention(question)
     if intention == 'other':
         other_answer = Answerclass.getOtherAnswer(question)

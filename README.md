@@ -56,4 +56,3 @@ Redis 服务器缓存数据的过期时间，默认7200
 ## TRUEVIEW\_CHATBOT\_MAX\_DIALOG\_COUNT
 
 Redis 缓存对话的轮数，默认为 5
-

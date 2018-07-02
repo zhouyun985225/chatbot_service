@@ -8,7 +8,8 @@ WORKDIR /app
 ADD . /app
 
 # Install any needed packages specified in requirements.txt
-RUN pip install --trusted-host https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
+RUN apt-get update && apt-get install -y gcc \
+    && pip install --trusted-host https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 
 # Run app.py when the container launches
 
