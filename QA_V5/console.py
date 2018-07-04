@@ -134,6 +134,7 @@ class Answer:
     def getIRAnswer(self, session_id, question):
         header = {'content-type': 'application/json'}
         url = self.IR_url + '?q=' + question + '&sessionid=' + session_id
+        print (url)
 
         r = requests.get(url, headers=header).json()
         print(r)
