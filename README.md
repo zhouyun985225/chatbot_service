@@ -7,7 +7,7 @@
 
 ## IR\_SERVICE\_URL
 
-IR Service的地址，默认 <https://trueview.natappvip.cc/android?q=>
+IR Service的地址，默认 <http://trueview2.s1.natapp.cc/android>
 
 ## WECHAT\_TOKEN
 
