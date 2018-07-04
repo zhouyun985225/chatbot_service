@@ -16,7 +16,7 @@ REDIS_PORT = 6379
 REDIS_PASSWORD = ''
 REDIS_EXPIRE_TIME = 0
 TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT = int(os.getenv('TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT','5'))
-IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android?q=')
+IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android')
     # self.IR_url = 'http://161.92.141.209:9000/android?q='
     # self.IR_url = 'http://127.0.0.1:9000/android?q='
     # self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='

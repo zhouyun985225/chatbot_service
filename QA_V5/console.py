@@ -123,7 +123,7 @@ class Answer:
         intention, scorevesus = NB_classifier.classifier(question)
         return intention, scorevesus
 
-    def getOtherAnswer(self, question):
+    def getOtherAnswer(self, session_id, question):
         if TULING_ENABLE == 'True':
             rep = auto_reply.reply(question)# + '[非肿瘤相关问题,回答仅供参考]'
             return rep
@@ -131,9 +131,9 @@ class Answer:
             rep = otherTopic_reply  # '此问题请咨询专业人士[非肿瘤相关问题]'
             return rep
 
-    def getIRAnswer(self, question):
+    def getIRAnswer(self, session_id, question):
         header = {'content-type': 'application/json'}
-        url = self.IR_url + question
+        url = self.IR_url + '?q=' + question + '&sessionid=' + session_id
 
         r = requests.get(url, headers=header).json()
         print(r)
@@ -152,7 +152,7 @@ class Answer:
         else:
             return tumorTopic_lowScore_reply, original_question, result
 
-    def getanswer(self, question):
+    def getanswer(self, session_id, question):
         # weatherAnswer, commonInformation = weatherJudge.answerWeather(question, self.commonInformation, self.cityList)
         # if weatherAnswer != None:
         #    return weatherAnswer
@@ -170,7 +170,7 @@ class Answer:
             #     "usrinfo": [usrinfo]
             #     }
             header = {'content-type': 'application/json'}
-            url = self.IR_url + question
+            url = self.IR_url + '?q=' + question + '&sessionid=' + session_id
             # url = 'url"Q"'.format(url = IR_url, Q = question)
             # r = requests.post(IR_url, headers=header, data=json.dumps(body))
             # r = requests.get(url, headers=header).text

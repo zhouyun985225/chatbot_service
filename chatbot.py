@@ -37,16 +37,14 @@ def handle_question_from_user(userID, serviceID, question):
     print ('session id', session_id)
     intention, scorevesus = Answerclass.getIntention(question)
     if intention == 'other':
-        other_answer = Answerclass.getOtherAnswer(question)
+        other_answer = Answerclass.getOtherAnswer(session_id, question)
         ai_id = log_ai_procedure(session_id, question, intention, None, other_answer)
         log_dialog(userID, session_id, question, question, other_answer, ai_id)
         cache_dao.cache_data(session_id, userID, serviceID, question, question, intention, other_answer)
         return other_answer
     else:
-        ir_answer, coreference_question, result_json = Answerclass.getIRAnswer(
-            question)
-        ai_id = log_ai_procedure(session_id, question, intention, json.dumps(
-            result_json, ensure_ascii=False), ir_answer)
+        ir_answer, coreference_question, result_json = Answerclass.getIRAnswer(session_id, question)
+        ai_id = log_ai_procedure(session_id, question, intention, json.dumps(result_json, ensure_ascii=False), ir_answer)
         log_dialog(userID, session_id, question, coreference_question, ir_answer, ai_id)
         cache_dao.cache_data(session_id, userID, serviceID, question, coreference_question, intention, ir_answer)
         return ir_answer
