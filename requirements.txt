@@ -5,4 +5,5 @@ jieba
 polling
 scipy
 redis
+hiredis
 sklearn
