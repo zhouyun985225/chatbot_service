@@ -10,7 +10,7 @@ robot = werobot.WeRoBot(enable_session=False,
                         APP_SECRET=WECHAT_APP_SECRET)
 
 
-client = robot.client
+RobotService("") #preload the QA
 
 @robot.text
 def answerQuestion(message):
@@ -21,5 +21,7 @@ def answerQuestion(message):
     user = User(source)
     robot = RobotService(target)
 
-    answer = user.send_message_to_robot(question, robot)
+    answer = robot.handle_question_from_user(user.user_id, question)
     return answer
+
+
