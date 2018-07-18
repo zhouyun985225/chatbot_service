@@ -1,10 +1,13 @@
+# coding=utf8
 from tools import *
 import mysql.connector
 import os
+import json
+import redis
 from environments import *
 
 @singleton
-class mysql_dao:
+class MySqlDAO:
     
     def getConnection(self):
         cnx = None

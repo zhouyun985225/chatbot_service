@@ -7,60 +7,59 @@ import os
 
 from QA_V5 import console
 from console import Answer
-from mysql_dao import *
-from redis_dao import *
+from MySqlDAO import *
+from RedisDAO import *
 from environments import *
 
-sql_dao = mysql_dao()
-cache_dao = redis_dao()
-Answerclass = Answer()
-
-robot = werobot.WeRoBot(enable_session=False,
-                        token=WECHAT_TOKEN,
-                        APP_ID=WECHAT_APP_ID,
-                        APP_SECRET=WECHAT_APP_SECRET)
+from User import *
+answer_class = Answer()
 
 
-client = robot.client
+class RobotService():
+    def __init__(self, service_id):
+        self.service_id = service_id
+        self.sql_dao = MySqlDAO()
+        self.cache_dao = RedisDAO()
+        
+
+    def log_dialog(self, userID, session_id, question, coreferenceQuestion, answer, ai_id):
+        return self.sql_dao.insert_dialog(userID, session_id, question, coreferenceQuestion, answer, ai_id)
 
 
-def log_dialog(userID, session_id, question, coreferenceQuestion, answer, ai_id):
-    return sql_dao.insert_dialog(userID, session_id, question, coreferenceQuestion, answer, ai_id)
+    def log_ai_procedure(self, session_id, question, intention, ir_answer, comprehen_answer):
+        return self.sql_dao.insert_ai_procedure(session_id, question, intention, ir_answer, comprehen_answer)
 
 
-def log_ai_procedure(session_id, question, intention, ir_answer, comprehen_answer):
-    return sql_dao.insert_ai_procedure(session_id, question, intention, ir_answer, comprehen_answer)
+    def handle_question_from_user(self, userID, question):
+        session_id = self.cache_dao.get_session_id(userID, self.service_id)
+        print('session id', session_id)
+        intention, scorevesus = answer_class.getIntention(question)
+        if intention == 'other':
+            other_answer = answer_class.getOtherAnswer(session_id, question)
+            ai_id = self.log_ai_procedure(session_id, question,
+                                    intention, None, other_answer)
+            self.log_dialog(userID, session_id, question, question, other_answer, ai_id)
+            self.cache_dao.cache_data(session_id, userID, self.service_id,
+                                question, question, intention, other_answer)
+            return other_answer
+        else:
+            ir_answer, coreference_question, result_json = answer_class.getIRAnswer(
+                session_id, question)
+            ai_id = self.log_ai_procedure(session_id, question, intention, json.dumps(
+                result_json, ensure_ascii=False), ir_answer)
+            self.log_dialog(userID, session_id, question,
+                    coreference_question, ir_answer, ai_id)
+            self.cache_dao.cache_data(session_id, userID, self.service_id,
+                                question, coreference_question, intention, ir_answer)
+            return ir_answer
 
 
-def handle_question_from_user(userID, serviceID, question):
-    session_id = cache_dao.get_session_id(userID, serviceID)
-    print ('session id', session_id)
-    intention, scorevesus = Answerclass.getIntention(question)
-    if intention == 'other':
-        other_answer = Answerclass.getOtherAnswer(session_id, question)
-        ai_id = log_ai_procedure(session_id, question, intention, None, other_answer)
-        log_dialog(userID, session_id, question, question, other_answer, ai_id)
-        cache_dao.cache_data(session_id, userID, serviceID, question, question, intention, other_answer)
-        return other_answer
-    else:
-        ir_answer, coreference_question, result_json = Answerclass.getIRAnswer(session_id, question)
-        ai_id = log_ai_procedure(session_id, question, intention, json.dumps(result_json, ensure_ascii=False), ir_answer)
-        log_dialog(userID, session_id, question, coreference_question, ir_answer, ai_id)
-        cache_dao.cache_data(session_id, userID, serviceID, question, coreference_question, intention, ir_answer)
-        return ir_answer
-
-
-@robot.text
-def answerQuestion(message):
-    source = message.source
-    target = message.target
-    question = message.content
-
-    answer = handle_question_from_user(source, target, question)
-    return answer
 
 
 if __name__ == "__main__":
-    question = "乳腺癌饮食该注意什么？"
-    answer = handle_question_from_user("source", "target", question)
-    print(answer)
+    # question = "乳腺癌饮食该注意什么？"
+    question = "复旦肿瘤医院的就医流程"
+    user = User("Source")
+    robot = RobotService("target")
+    answer = user.send_message_to_robot(question, robot)
+    print (answer)

@@ -1,7 +1,7 @@
 from flask import Flask
 import os
 import socket
-from chatbot import robot
+from wechat_service import robot
 from environments import *
 from werobot.contrib.flask import make_view
 

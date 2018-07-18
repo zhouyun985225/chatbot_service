@@ -1,15 +1,16 @@
 # coding=utf8
 from tools import *
-from environments import *
+import mysql.connector
+import os
 import json
 import redis
-import os
+from environments import *
 
 session_id_manage_key = 'TRUEVIEW_CHATBOT_SESSION_ID'
 session_id_key_temp = 'TRUEVIEW_CHATBOT_SESSION_ID_{0}_{1}'
 
 @singleton
-class redis_dao:
+class RedisDAO:
     def get_connection(self):
         r = redis.Redis(host=REDIS_HOST, port=REDIS_PORT, password=REDIS_PASSWORD, charset='utf-8')
         return r
@@ -66,7 +67,11 @@ class redis_dao:
             pipe.execute()
             return session_id
 
-    def get_cached_data(self, session_id=None):
+    def get_cached_data(self, user_id=None, service_id=None):
+        session_id = self.get_session_id(user_id, service_id)
+        return self.get_cached_data_for_session_id(session_id)
+
+    def get_cached_data_for_session_id(self, session_id=None):
         r = self.get_connection()
         dataStr = r.get(session_id)
         data = {}
@@ -75,7 +80,7 @@ class redis_dao:
         return data
 
 if __name__ == "__main__":
-    redisDAO=redis_dao()
+    redisDAO=RedisDAO()
     userID='123456'
     serviceID='654321'
     session_id=redisDAO.get_session_id(user_id=userID,service_id=serviceID)
