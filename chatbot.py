@@ -32,7 +32,7 @@ class RobotService():
 
     def handle_question_from_user(self, userID, question):
         session_id = self.cache_dao.get_session_id(userID, self.service_id)
-        print('session id', session_id)
+        # print('session id', session_id)
         intention, scorevesus = answer_class.getIntention(question)
         if intention == 'other':
             other_answer = answer_class.getOtherAnswer(session_id, question)
