@@ -1,0 +1,52 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: oncology-chatbot
+  namespace: dev
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: oncology-chatbot
+        tier: service
+    spec:
+      containers:
+        - name: oncology-chatbot
+          image: "registry.cn-shanghai.aliyuncs.com/cdi/trueview_oncology_chatbot_radiotherapy_ir:dev1.2.14"
+          imagePullPolicy: Always
+          env:
+            - name: CHATBOT_LISTENING_PORT
+              value: "8082"
+            - name: IR_SERVICE_URL
+              value: "http://trueview2.s1.natapp.cc/android"
+            - name: WECHAT_TOKEN
+              value: "yelin1597532"
+            - name: WECHAT_APP_ID
+              value: "wx13fe1f4594768ce8"
+            - name: WECHAT_APP_SECRET
+              value: "3a6b21f513146fda56d5f61d48361e43"
+            - name: ENVIRONMENT
+              value: "production"
+            - name: TULING_ENABLE
+              value: "True"
+            - name: TULING_KEY
+              value: "302e70feb15347a9a497dc1d5d405bec"
+            - name: TULING_URL
+              value: "http://www.tuling123.com/openapi/api"
+            - name: REDIS_HOST
+              value: "47.106.93.189"
+            - name: REDIS_PORT
+              value: "6379"
+            - name: REDIS_PASSWORD
+              value: "philips123"
+            - name: REDIS_EXPIRE_TIME
+              value: "7200"
+            - name: TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT
+              value: "5"
+
+          ports:
+            - name: http1
+              containerPort: 8082
+      imagePullSecrets:
+      - name: regsecret
