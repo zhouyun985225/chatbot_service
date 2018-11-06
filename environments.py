@@ -16,8 +16,10 @@ REDIS_PORT = 6379
 REDIS_PASSWORD = ''
 REDIS_EXPIRE_TIME = 0
 TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT = int(os.getenv('TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT','5'))
-# IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android')
-IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android')
+#IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android')
+#IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://trueview2.s1.natapp.cc/android')
+# IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://trueview.mynatapp.cc/android')
+IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://wuxiulei.natapp1.cc/android')
     # self.IR_url = 'http://161.92.141.209:9000/android?q='
     # self.IR_url = 'http://127.0.0.1:9000/android?q='
     # self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='
@@ -26,10 +28,10 @@ IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android'
 
 
 if ENVIRONMENT == 'development':
-    CHATBOT_LISTENING_PORT = os.getenv("CHATBOT_LISTENING_PORT", "80")
-    WECHAT_TOKEN = os.getenv('WECHAT_TOKEN', 'yelin1597532')
-    WECHAT_APP_ID = os.getenv('WECHAT_APP_ID', 'wx13fe1f4594768ce8')
-    WECHAT_APP_SECRET = os.getenv('WECHAT_APP_SECRET', '3a6b21f513146fda56d5f61d48361e43')
+    CHATBOT_LISTENING_PORT = os.getenv("CHATBOT_LISTENING_PORT", "8000")
+    WECHAT_TOKEN = os.getenv('WECHAT_TOKEN', 'trueai')
+    WECHAT_APP_ID = os.getenv('WECHAT_APP_ID', 'wxccb38c9242246c0d')
+    WECHAT_APP_SECRET = os.getenv('WECHAT_APP_SECRET', '4a55be50bfa9640539c789886f0c442f')
     REDIS_HOST = '47.106.93.189'
     REDIS_PORT = 6379
     REDIS_PASSWORD = 'philips123'

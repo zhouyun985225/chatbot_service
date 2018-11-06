@@ -12,7 +12,7 @@ class MySqlDAO:
     def getConnection(self):
         cnx = None
         if ENVIRONMENT == 'development':
-            cnx = mysql.connector.connect(user='root', password='yelin159753123',
+            cnx = mysql.connector.connect(user='root', password='Philips123',
                                         host='localhost', database='trueview_chatbot')
         else:
             cnx = mysql.connector.connect(user='cdidev', password='Philips@123',
