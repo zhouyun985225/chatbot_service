@@ -9,10 +9,11 @@ from User import *
 from chatbot import *
 
 app = Flask(__name__)
-app.add_url_rule(rule='/robot/', # WeRoBot 挂载地址
-                 endpoint='werobot', # Flask 的 endpoint
+app.add_url_rule(rule='/robot/',  # WeRoBot 挂载地址
+                 endpoint='werobot',  # Flask 的 endpoint
                  view_func=make_view(robot),
                  methods=['GET', 'POST'])
+
 
 @app.route("/qa")
 def qa():
@@ -27,10 +28,12 @@ def qa():
     answer = robot.handle_question_from_user(user.user_id, question)
     return answer
 
+
 @app.route("/")
 def hello():
     html = "<h3>Hello {name}!</h3>"
     return html.format(name=os.getenv("NAME", "world"))
+
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=CHATBOT_LISTENING_PORT)

@@ -9,8 +9,8 @@ robot = werobot.WeRoBot(enable_session=False,
                         APP_ID=WECHAT_APP_ID,
                         APP_SECRET=WECHAT_APP_SECRET)
 
+RobotService("")  # preload the QA
 
-RobotService("") #preload the QA
 
 @robot.text
 def answerQuestion(message):
@@ -23,5 +23,3 @@ def answerQuestion(message):
 
     answer = robot.handle_question_from_user(user.user_id, question)
     return answer
-
-

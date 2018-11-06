@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: oncology-chatbot-yelin
-          image: "registry.cn-shanghai.aliyuncs.com/cdi/trueview_oncology_chatbot_radiotherapy_ir:dev1.2.14"
+          image: "registry.cn-shanghai.aliyuncs.com/cdi/trueview_oncology_chatbot_radiotherapy_ir:dev1.2.15"
           imagePullPolicy: Always
           env:
             - name: CHATBOT_LISTENING_PORT

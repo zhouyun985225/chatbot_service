@@ -6,17 +6,19 @@ import json
 import redis
 from environments import *
 
+
 @singleton
 class MySqlDAO:
-    
+
     def getConnection(self):
         cnx = None
         if ENVIRONMENT == 'development':
             cnx = mysql.connector.connect(user='root', password='Philips123',
-                                        host='localhost', database='trueview_chatbot')
+                                          host='localhost', database='trueview_chatbot')
         else:
             cnx = mysql.connector.connect(user='cdidev', password='Philips@123',
-                                      host='rm-uf6e87o934505d1162o.mysql.rds.aliyuncs.com', database='trueview_chatbot')
+                                          host='rm-uf6e87o934505d1162o.mysql.rds.aliyuncs.com',
+                                          database='trueview_chatbot')
         return cnx
 
     def insert_dialog(self, userid, sessionid, question, coreference_question, answer, ai_id):

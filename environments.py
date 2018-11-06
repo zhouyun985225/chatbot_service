@@ -15,16 +15,16 @@ REDIS_HOST = ''
 REDIS_PORT = 6379
 REDIS_PASSWORD = ''
 REDIS_EXPIRE_TIME = 0
-TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT = int(os.getenv('TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT','5'))
-#IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android')
-#IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://trueview2.s1.natapp.cc/android')
+TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT = int(os.getenv('TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT', '5'))
+# IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android')
+# IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://trueview2.s1.natapp.cc/android')
 # IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://trueview.mynatapp.cc/android')
 IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://wuxiulei.natapp1.cc/android')
-    # self.IR_url = 'http://161.92.141.209:9000/android?q='
-    # self.IR_url = 'http://127.0.0.1:9000/android?q='
-    # self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='
-    # self.IR_url = 'https://trueview.natappvip.cc/android?q='
-    # self.IR_url = 'http://trueview2.s1.natapp.cc/android?q='
+# self.IR_url = 'http://161.92.141.209:9000/android?q='
+# self.IR_url = 'http://127.0.0.1:9000/android?q='
+# self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='
+# self.IR_url = 'https://trueview.natappvip.cc/android?q='
+# self.IR_url = 'http://trueview2.s1.natapp.cc/android?q='
 
 
 if ENVIRONMENT == 'development':
