@@ -1,25 +1,27 @@
 apiVersion: apps/v1beta1
 kind: Deployment
 metadata:
-  name: oncology-chatbot-yelin
-  namespace: dev
+  name: oncology-chatbot-service
+  namespace: test
 spec:
   replicas: 1
   template:
     metadata:
       labels:
-        app: oncology-chatbot-yelin
+        app: oncology-chatbot
         tier: service
     spec:
       containers:
-        - name: oncology-chatbot-yelin
-          image: "registry.cn-shanghai.aliyuncs.com/cdi/trueview_oncology_chatbot_radiotherapy_ir:dev1.2.15"
+        - name: oncology-chatbot
+          image: "registry.cn-shanghai.aliyuncs.com/cdi/trueview_oncology_chatbot_service:1.0.0"
           imagePullPolicy: Always
           env:
             - name: CHATBOT_LISTENING_PORT
               value: "8082"
             - name: IR_SERVICE_URL
-              value: "http://trueview.mynatapp.cc/android"
+              value: "https://www.cdip.philips.com.cn/test/oncology-chatbot-ir/android"
+            - name: CLASSIFY_URL
+              value: "https://www.cdip.philips.com.cn/test/oncology-chatbot-classify/android?q={0}&classify={1}"
             - name: WECHAT_TOKEN
               value: "trueai"
             - name: WECHAT_APP_ID

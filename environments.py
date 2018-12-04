@@ -16,16 +16,6 @@ REDIS_PORT = 6379
 REDIS_PASSWORD = ''
 REDIS_EXPIRE_TIME = 0
 TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT = int(os.getenv('TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT', '5'))
-# IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://139.224.76.93:9001/android')
-# IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://trueview2.s1.natapp.cc/android')
-# IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://trueview.mynatapp.cc/android')
-IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://wuxiulei.natapp1.cc/android')
-# self.IR_url = 'http://161.92.141.209:9000/android?q='
-# self.IR_url = 'http://127.0.0.1:9000/android?q='
-# self.IR_url = 'http://rmcdf8.natappfree.cc/android?q='
-# self.IR_url = 'https://trueview.natappvip.cc/android?q='
-# self.IR_url = 'http://trueview2.s1.natapp.cc/android?q='
-
 
 if ENVIRONMENT == 'development':
     CHATBOT_LISTENING_PORT = os.getenv("CHATBOT_LISTENING_PORT", "8000")
@@ -35,7 +25,9 @@ if ENVIRONMENT == 'development':
     REDIS_HOST = '47.106.93.189'
     REDIS_PORT = 6379
     REDIS_PASSWORD = 'philips123'
-    REDIS_EXPIRE_TIME = 5
+    REDIS_EXPIRE_TIME = 7200
+    IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://localhost:9001/android')
+    CLASSIFY_URL = "http://localhost:9000/android?q={0}&classify={1}"
 else:
     CHATBOT_LISTENING_PORT = os.getenv("CHATBOT_LISTENING_PORT", "8082")
     WECHAT_TOKEN = os.getenv('WECHAT_TOKEN', 'trueai')
@@ -45,3 +37,5 @@ else:
     REDIS_PORT = int(os.getenv('REDIS_PORT', '6379'))
     REDIS_PASSWORD = os.getenv('REDIS_PASSWORD', '')
     REDIS_EXPIRE_TIME = int(os.getenv('REDIS_EXPIRE_TIME', '7200'))
+    IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'https://www.cdip.philips.com.cn/test/oncology-chatbot-ir/android')
+    CLASSIFY_URL = "https://www.cdip.philips.com.cn/test/oncology-chatbot-classify/android?q={0}&classify={1}"

@@ -13,19 +13,21 @@ spec:
     spec:
       containers:
         - name: oncology-chatbot
-          image: "registry.cn-shanghai.aliyuncs.com/cdi/trueview_oncology_chatbot_radiotherapy_ir:dev1.2.15"
+          image: "registry.cn-shanghai.aliyuncs.com/cdi/trueview_oncology_chatbot_service:1.0.0"
           imagePullPolicy: Always
           env:
             - name: CHATBOT_LISTENING_PORT
               value: "8082"
             - name: IR_SERVICE_URL
-              value: "http://trueview2.s1.natapp.cc/android"
+              value: "https://www.cdip.philips.com.cn/test/oncology-chatbot-ir/android"
+            - name: CLASSIFY_URL
+              value: "https://www.cdip.philips.com.cn/test/oncology-chatbot-classify/android?q={0}&classify={1}"
             - name: WECHAT_TOKEN
-              value: "yelin1597532"
+              value: "trueai"
             - name: WECHAT_APP_ID
-              value: "wx13fe1f4594768ce8"
+              value: "wxccb38c9242246c0d"
             - name: WECHAT_APP_SECRET
-              value: "3a6b21f513146fda56d5f61d48361e43"
+              value: "4a55be50bfa9640539c789886f0c442f"
             - name: ENVIRONMENT
               value: "production"
             - name: TULING_ENABLE
