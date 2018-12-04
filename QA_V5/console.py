@@ -20,9 +20,9 @@ import traceback
 apiKey = TULING_KEY
 apiUrl = TULING_URL
 confidence_threshold = 0.699
-otherTopic_reply = '对不起小主，小谱还在成长中，现在暂时只能回答「16病区放化疗宣教手冊」和[就医流程]问题。'
-tumorTopic_noAnswer_reply = '小主，您的问题已经超出「16病区放化疗宣教手冊」和[就医流程]，请咨询主治医生。'
-tumorTopic_lowScore_reply = '小主，您的问题已经超出「16病区放化疗宣教手冊」和[就医流程]，请咨询主治医生。'
+otherTopic_reply = '对不起小主，小谱还在成长中，现在暂时只能回答《16病区放化疗宣教手冊》和就医流程问题。'
+tumorTopic_noAnswer_reply = '小主，您的问题已经超出《16病区放化疗宣教手冊》和就医流程，请咨询主治医生。'
+tumorTopic_lowScore_reply = '小主，您的问题已经超出《16病区放化疗宣教手冊》和就医流程，请咨询主治医生。'
 tumorTopic_highScore_reply = '[肿瘤相关问题, 回答仅供参考]'
 
 

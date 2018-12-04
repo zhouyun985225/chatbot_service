@@ -66,7 +66,7 @@ class RobotService():
             else:
                 dialog_status = question
 
-            answer = "小主，为了更精准的为您解疑答惑，请告诉小谱您正在接受放射治疗（放疗）还是化学药物治疗（化疗）？\n请选择: 1 放疗  2 化疗"
+            answer = "小主，为了更精准的为您解疑答惑，请告诉小谱您想咨询的是放射治疗（放疗）还是化学药物治疗（化疗）？\n请选择: 1 放疗  2 化疗"
             self.dialog_manage(userID, session_id, question, None, None, None, answer, None, None, None, dialog_status)
             return answer
 
