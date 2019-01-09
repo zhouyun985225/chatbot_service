@@ -11,14 +11,7 @@ from environments import *
 class MySqlDAO:
 
     def getConnection(self):
-        cnx = None
-        if ENVIRONMENT == 'development':
-            cnx = mysql.connector.connect(user='root', password='Philips@123',
-                                          host='localhost', database='chatbot_service')
-        else:
-            cnx = mysql.connector.connect(user='cdidev', password='Philips@123',
-                                          host='rm-uf6e87o934505d1162o.mysql.rds.aliyuncs.com',
-                                          database='chatbot_service')
+        cnx = mysql.connector.connect(user=MYSQL_USER, password=MYSQL_PASSWORD,host=MYSQL_HOST,database=MYSQL_DATABASE_NAME)
         return cnx
 
     def insert_dialog(self, userid, sessionid, question, coreference_question, answer, ai_id, disease_type, disease, topic, dialog_status):

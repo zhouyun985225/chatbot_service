@@ -1,8 +1,8 @@
 apiVersion: apps/v1beta1
 kind: Deployment
 metadata:
-  name: oncology-chatbot
-  namespace: dev
+  name: oncology-chatbot-service
+  namespace: test
 spec:
   replicas: 1
   template:
@@ -25,13 +25,13 @@ spec:
             - name: WECHAT_TOKEN
               value: "trueai"
             - name: WECHAT_APP_ID
-              value: "wxccb38c9242246c0d"
+              value: "wxe2c3e7e114a94170"
             - name: WECHAT_APP_SECRET
-              value: "4a55be50bfa9640539c789886f0c442f"
+              value: "22f984c08aafd150c9c879467f85321e"
             - name: ENVIRONMENT
               value: "production"
             - name: TULING_ENABLE
-              value: "True"
+              value: "False"
             - name: TULING_KEY
               value: "302e70feb15347a9a497dc1d5d405bec"
             - name: TULING_URL
@@ -46,7 +46,6 @@ spec:
               value: "7200"
             - name: TRUEVIEW_CHATBOT_MAX_DIALOG_COUNT
               value: "5"
-
           ports:
             - name: http1
               containerPort: 8082
