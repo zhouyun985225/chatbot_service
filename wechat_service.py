@@ -13,7 +13,7 @@ RobotService("")  # preload the QA
 
 
 @robot.text
-def answerQuestion(message):
+def answerQuestion(message): #监听用户的消息 并调用chatbot.py
     source = message.source
     target = message.target
     question = message.content
@@ -29,5 +29,5 @@ def answerQuestion(message):
         return answer
 
 @robot.subscribe
-def subscribe(message):
+def subscribe(message):# 第一次关注消息
     return "小主您好！我是小谱，很高兴能伴您左右，为您答疑解惑，一起战胜疾病！我也在不断学习成长中，目前只擅长《16病区放化疗宣教手冊》和就医流程相关的知识哦。有什么不懂的就随时问我吧。\n为了更精准的为您解疑答惑，请告诉小谱您想咨询的是放射治疗（放疗）还是化学药物治疗（化疗）？\n请选择: 1 放疗  2 化疗"
