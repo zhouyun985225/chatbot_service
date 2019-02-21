@@ -127,6 +127,8 @@ class RobotService():
                 return type_db
             else:
                 return None
+        elif type_classification != type_db:
+            return None
         else:
             return type_classification
 
