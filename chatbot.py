@@ -62,13 +62,23 @@ class RobotService():
         '''1. get disease_type'''
         disease_type = self.disease_type_analysis(item, question)
         type_classification_zy = self.classifier(question, '类型')
-        if disease_type == None or disease_type == 'other':
+        if disease_type is None or disease_type == 'other':
             if intention == 'other':
-                dialog_status =  None
+                dialog_status = None
             else:
                 dialog_status = question
 
             answer = "小主，为了更精准的为您解疑答惑，请告诉小谱您想咨询的是放射治疗（放疗）还是化学药物治疗（化疗）？\n请选择: 1 放疗  2 化疗"
+            self.dialog_manage(userID, session_id, question, None, None, None, answer, None, None, None, dialog_status)
+            return answer
+
+        elif "|" in disease_type:
+            if intention == 'other':
+                dialog_status = None
+            else:
+                dialog_status = question
+
+            answer = "小谱发现你咨询的不是{}，请问你现在是想咨询化疗还是放疗：".format(disease_type.split("|")[-1])
             self.dialog_manage(userID, session_id, question, None, None, None, answer, None, None, None, dialog_status)
             return answer
 
@@ -79,6 +89,10 @@ class RobotService():
             answer = "小主，为了更精准的为您解疑答惑，请告诉小谱想咨询的肿瘤类型是：\n 1. 鼻腔肿瘤\n 2. 骨转移\n 3. 会阴癌\n 4. 面颈部肿瘤\n 5. 脑部恶心肿瘤\n 6. 盆腔癌\n 7. 前列腺癌\n 8. 四肢放疗\n 9. 直肠癌\n 10. 乳腺癌"
             self.dialog_manage(userID, session_id, question, None, None, None, answer, disease_type, None, None, item['dialog_status'])
             return answer
+        elif "|" in disease_name:
+            answer = "小主，小谱发现你选择咨询的{0}，发现您的问题不属于{0}，请告诉小谱想您现在想咨询的疾病类型是：：\n 1. 鼻腔肿瘤\n 2. 骨转移\n 3. 会阴癌\n 4. 面颈部肿瘤\n 5. 脑部恶心肿瘤\n 6. 盆腔癌\n 7. 前列腺癌\n 8. 四肢放疗\n 9. 直肠癌\n 10. 乳腺癌".format(disease_name.split("|")[-1])
+            self.dialog_manage(userID, session_id, question, None, None, None, answer, disease_type, None, None, item['dialog_status'])
+            return answer
         else:
             if item['disease'] == None and item['dialog_status'] == None:
                 answer = "小主，小谱已经了解您的情况了，请小主开始咨询{0}的问题吧".format(disease_name)
@@ -86,6 +100,7 @@ class RobotService():
                 return answer
             elif item['dialog_status']:
                 question = item['dialog_status']
+
 
         '''3. get topic name'''
         topic_name = self.topic_name_analysis(item, question, disease_type)
@@ -127,8 +142,8 @@ class RobotService():
                 return type_db
             else:
                 return None
-        elif type_classification != type_db:
-            return None
+        elif type_classification != type_db and type_db is not None:
+            return "switch" + "|" + type_db
         else:
             return type_classification
 
@@ -145,8 +160,8 @@ class RobotService():
                 return disease_db
             else:
                 return None
-        elif disease_classification != disease_db:
-            return None
+        elif disease_classification != disease_db and disease_db is not None:
+            return "switch" + "|" + disease_classification
         else:
             return disease_classification
 

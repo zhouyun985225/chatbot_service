@@ -44,11 +44,16 @@ elif ENVIRONMENT == 'test':
     MYSQL_DATABASE_NAME = os.getenv('MYSQL_DATABASE_NAME', 'chatbot_service')
     MYSQL_PORT = int(os.getenv('MYSQL_PORT', '3306'))
     MYSQL_PASSWORD = os.getenv('MYSQL_PASSWORD', 'Philips@123')
+    # REDIS_HOST = '47.106.93.189'
+    # REDIS_PORT = 6379
+    # REDIS_PASSWORD = 'philips123'
+    # REDIS_EXPIRE_TIME = 7200
     REDIS_HOST = os.getenv('REDIS_HOST', 'ec2-52-80-28-32.cn-north-1.compute.amazonaws.com.cn')
     REDIS_PORT = int(os.getenv('REDIS_PORT', '6379'))
     REDIS_PASSWORD = os.getenv('REDIS_PASSWORD', '')
     REDIS_EXPIRE_TIME = int(os.getenv('REDIS_EXPIRE_TIME', '7200'))
     IR_SERVICE_URL = os.getenv('IR_SERVICE_URL', 'http://ec2-52-80-28-32.cn-north-1.compute.amazonaws.com.cn:9001/android')
+    # CLASSIFY_URL = os.getenv('CLASSIFY_URL', ' http://vdhe58.natappfree.cc/android?q={0}&classify={1}')
     CLASSIFY_URL = os.getenv('CLASSIFY_URL', 'http://ec2-52-80-28-32.cn-north-1.compute.amazonaws.com.cn:9000/android?q={0}&classify={1}')
 else:
     CHATBOT_LISTENING_PORT = os.getenv("CHATBOT_LISTENING_PORT", "8082")
