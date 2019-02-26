@@ -5,8 +5,8 @@ from wechat_service import robot
 from flask import request
 from environments import *
 from werobot.contrib.flask import make_view
-from chatbot import *
 from User import *
+from chatbot import *
 
 app = Flask(__name__)
 app.add_url_rule(rule='/robot/',  # WeRoBot 挂载地址

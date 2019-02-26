@@ -7,7 +7,6 @@ import jieba
 import csv
 import codecs
 
-
 idx_lbl = 'idx'
 tfreq_lbl = "textfreq"
 classes = ['tumor', 'other']

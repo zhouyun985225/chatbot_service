@@ -10,7 +10,6 @@ from QA_V5 import console
 from QA_V5.console import Answer
 from MySqlDAO import *
 from RedisDAO import *
-from User import *
 from environments import *
 from environments import *
 
@@ -50,10 +49,10 @@ class RobotService():
             item['topic'] = res[9]
             item['dialog_status'] = res[10]
 
-        if item['disease_type'] == None: #处理用户选择数字
+        if item['disease_type'] == None:
             '''handle when question type is number'''
             question = self.disease_type_name(question)
-        elif item['disease'] == None:#处理用户选择数字
+        elif item['disease'] == None:
             question = self.disease_name(question)
 
         '''0. goto tumor calssify'''
@@ -61,7 +60,6 @@ class RobotService():
 
         '''1. get disease_type'''
         disease_type = self.disease_type_analysis(item, question)
-        type_classification_zy = self.classifier(question, '类型')
         if disease_type == None or disease_type == 'other':
             if intention == 'other':
                 dialog_status =  None
@@ -74,7 +72,6 @@ class RobotService():
 
         '''2. get disease name'''
         disease_name = self.disease_name_analysis(item, question)
-
         if disease_name == None or disease_name == 'other':
             answer = "小主，为了更精准的为您解疑答惑，请告诉小谱想咨询的肿瘤类型是：\n 1. 鼻腔肿瘤\n 2. 骨转移\n 3. 会阴癌\n 4. 面颈部肿瘤\n 5. 脑部恶心肿瘤\n 6. 盆腔癌\n 7. 前列腺癌\n 8. 四肢放疗\n 9. 直肠癌\n 10. 乳腺癌"
             self.dialog_manage(userID, session_id, question, None, None, None, answer, disease_type, None, None, item['dialog_status'])
@@ -89,8 +86,6 @@ class RobotService():
 
         '''3. get topic name'''
         topic_name = self.topic_name_analysis(item, question, disease_type)
-        if topic_name == None:
-            topic_name = ''
 
         '''4. goto IR'''
         if intention == 'other':
@@ -101,7 +96,7 @@ class RobotService():
                 lasttopic = ''
             else:
                 lasttopic = item['topic']
-            answer, coreference_question, result_json = answer_class.getIRAnswer(session_id, question,type_classification_zy, disease_name, lasttopic, topic_name)
+            answer, coreference_question, result_json = answer_class.getIRAnswer(session_id, question, disease_type, disease_name, lasttopic, topic_name)
             self.dialog_manage(userID, session_id, question, coreference_question, 'tumor', result_json, answer, disease_type, disease_name, topic_name, None)
 
         return answer
@@ -156,7 +151,10 @@ class RobotService():
         topic_classification = self.classifier(question, disease_type)
 
         if topic_classification == 'other' or topic_classification == None:
-             return None
+            if topic_db:
+                return topic_db
+            else:
+                return None
         else:
             return topic_classification
 
