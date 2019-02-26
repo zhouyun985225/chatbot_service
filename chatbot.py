@@ -140,13 +140,11 @@ class RobotService():
 
         disease_classification = self.classifier(question, '疾病')
 
-        if disease_classification == 'other' or disease_classification is None:
+        if disease_classification == 'other' or disease_classification == None:
             if disease_db:
                 return disease_db
             else:
                 return None
-        elif disease_classification != disease_db:
-            return None
         else:
             return disease_classification
 
@@ -157,7 +155,7 @@ class RobotService():
 
         topic_classification = self.classifier(question, disease_type)
 
-        if topic_classification == 'other' or topic_classification == None or topic_classification != topic_db:
+        if topic_classification == 'other' or topic_classification == None:
              return None
         else:
             return topic_classification
